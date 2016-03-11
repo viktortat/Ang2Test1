@@ -7,4 +7,5 @@ Example of creating
 1. `npm i`
 2. `bower i`
 3. `npm run app`
+4. `node appDb`
 
