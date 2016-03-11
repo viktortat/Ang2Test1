@@ -1,0 +1,3780 @@
+{
+    "state": "success",
+    "data": [
+        {
+            "id": "30239",
+            "name": "Анатольевка",
+            "url": "Anatolivka-Kirovogradska"
+        },
+        {
+            "id": "30356",
+            "name": "Андреевка",
+            "url": "Andriivka-Kirovogradska"
+        },
+        {
+            "id": "30424",
+            "name": "Андросово",
+            "url": "Androsove-Kirovogradska"
+        },
+        {
+            "id": "30659",
+            "name": "Антоновка",
+            "url": "Antonivka-Kirovogradska"
+        },
+        {
+            "id": "30822",
+            "name": "Апрелевка",
+            "url": "Aprelivka-Kirovogradska"
+        },
+        {
+            "id": "31061",
+            "name": "Ареповка",
+            "url": "Arepivka-Kirovogradska"
+        },
+        {
+            "id": "31287",
+            "name": "Арсеневка",
+            "url": "Arsenivka-Kirovogradska"
+        },
+        {
+            "id": "31339",
+            "name": "Артемовка",
+            "url": "Artemivka-Kirovogradska"
+        },
+        {
+            "id": "31749",
+            "name": "Аудиторовка",
+            "url": "Audytorivka-Kirovogradska"
+        },
+        {
+            "id": "28350",
+            "name": "Аврамовка",
+            "url": "Avramivka-Kirovogradska"
+        },
+        {
+            "id": "32069",
+            "name": "Бабичовка",
+            "url": "Babychivka-Kirovogradska"
+        },
+        {
+            "id": "32136",
+            "name": "Байдаково",
+            "url": "Baidakove-Kirovogradska"
+        },
+        {
+            "id": "32217",
+            "name": "Балаховка",
+            "url": "Balakhivka-Kirovogradska"
+        },
+        {
+            "id": "32286",
+            "name": "Бандурово",
+            "url": "Bandurove-Kirovogradska"
+        },
+        {
+            "id": "32364",
+            "name": "Барвиновка",
+            "url": "Barvinivka-Kirovogradska"
+        },
+        {
+            "id": "32497",
+            "name": "Баштино",
+            "url": "Bashtyne-Kirovogradska"
+        },
+        {
+            "id": "32839",
+            "name": "Береговое",
+            "url": "Berehove-Kirovogradska"
+        },
+        {
+            "id": "33013",
+            "name": "Береславка",
+            "url": "Bereslavka-Kirovogradska"
+        },
+        {
+            "id": "33041",
+            "name": "Берестяги",
+            "url": "Berestyahy-Kirovogradska"
+        },
+        {
+            "id": "32862",
+            "name": "Бережинка",
+            "url": "Berezhynka-Kirovogradska"
+        },
+        {
+            "id": "32966",
+            "name": "Березовка",
+            "url": "Berezivka-Kirovogradska"
+        },
+        {
+            "id": "32922",
+            "name": "Березнеговатое",
+            "url": "Bereznehuvate-Kirovogradska"
+        },
+        {
+            "id": "32944",
+            "name": "Березовая Балка",
+            "url": "Berezova Balka-Kirovogradska"
+        },
+        {
+            "id": "32943",
+            "name": "Березоватка",
+            "url": "Berezuvatka-Kirovogradska"
+        },
+        {
+            "id": "32528",
+            "name": "Безводня",
+            "url": "Bezvodnya-Kirovogradska"
+        },
+        {
+            "id": "32777",
+            "name": "Беляевка",
+            "url": "Biliaivka-Kirovogradska"
+        },
+        {
+            "id": "32714",
+            "name": "Белополь",
+            "url": "Bilopil-Kirovogradska"
+        },
+        {
+            "id": "32690",
+            "name": "Белозерное",
+            "url": "Bilozerne-Kirovogradska"
+        },
+        {
+            "id": "33531",
+            "name": "Большевик",
+            "url": "Bilshovyk-Kirovogradska"
+        },
+        {
+            "id": "33644",
+            "name": "Борки",
+            "url": "Birky-Kirovogradska"
+        },
+        {
+            "id": "33188",
+            "name": "Благодатное",
+            "url": "Blahodatne-Kirovogradska"
+        },
+        {
+            "id": "33280",
+            "name": "Бобринка",
+            "url": "Bobrynka-Kirovogradska"
+        },
+        {
+            "id": "33354",
+            "name": "Богдановка",
+            "url": "Bohdanivka-Kirovogradska"
+        },
+        {
+            "id": "33380",
+            "name": "Богданово",
+            "url": "Bohdanove-Kirovogradska"
+        },
+        {
+            "id": "33396",
+            "name": "Богодаровка",
+            "url": "Bohodarivka-Kirovogradska"
+        },
+        {
+            "id": "33730",
+            "name": "Борщевая",
+            "url": "Borshchova-Kirovogradska"
+        },
+        {
+            "id": "33633",
+            "name": "Борисовка",
+            "url": "Borysivka-Kirovogradska"
+        },
+        {
+            "id": "33306",
+            "name": "Бовтышка",
+            "url": "Bovtyshka-Kirovogradska"
+        },
+        {
+            "id": "33818",
+            "name": "Браиловка",
+            "url": "Brailivka-Kirovogradska"
+        },
+        {
+            "id": "33835",
+            "name": "Братерское",
+            "url": "Braterske-Kirovogradska"
+        },
+        {
+            "id": "33843",
+            "name": "Братолюбовка",
+            "url": "Bratolyubivka-Kirovogradska"
+        },
+        {
+            "id": "33848",
+            "name": "Братский Посад",
+            "url": "Bratskyi Posad-Kirovogradska"
+        },
+        {
+            "id": "33872",
+            "name": "Бредихино",
+            "url": "Bredykhyne-Kirovogradska"
+        },
+        {
+            "id": "33915",
+            "name": "Бровково",
+            "url": "Brovkove-Kirovogradska"
+        },
+        {
+            "id": "33975",
+            "name": "Брусовка",
+            "url": "Brusivka-Kirovogradska"
+        },
+        {
+            "id": "34032",
+            "name": "Буговое",
+            "url": "Buhove-Kirovogradska"
+        },
+        {
+            "id": "34038",
+            "name": "Бугроватка",
+            "url": "Buhruvatka-Kirovogradska"
+        },
+        {
+            "id": "34333",
+            "name": "Буховецкое",
+            "url": "Bukhovetske-Kirovogradska"
+        },
+        {
+            "id": "34164",
+            "name": "Букварка",
+            "url": "Bukvarka-Kirovogradska"
+        },
+        {
+            "id": "34258",
+            "name": "Бурты",
+            "url": "Burty-Kirovogradska"
+        },
+        {
+            "id": "34278",
+            "name": "Буряковое",
+            "url": "Buryakove-Kirovogradska"
+        },
+        {
+            "id": "34317",
+            "name": "Бутовское",
+            "url": "Butivske-Kirovogradska"
+        },
+        {
+            "id": "34139",
+            "name": "Бузниковатое",
+            "url": "Buznykuvate-Kirovogradska"
+        },
+        {
+            "id": "34142",
+            "name": "Бузовая",
+            "url": "Buzova-Kirovogradska"
+        },
+        {
+            "id": "33140",
+            "name": "Бирзулово",
+            "url": "Byrzulove-Kirovogradska"
+        },
+        {
+            "id": "62575",
+            "name": "Чаривное",
+            "url": "Charivne-Kirovogradska"
+        },
+        {
+            "id": "63208",
+            "name": "Чечелиевка",
+            "url": "Checheliivka-Kirovogradska"
+        },
+        {
+            "id": "62616",
+            "name": "Чемерполь",
+            "url": "Chemerpil-Kirovogradska"
+        },
+        {
+            "id": "63169",
+            "name": "Черняховка",
+            "url": "Chernyakhivka-Kirovogradska"
+        },
+        {
+            "id": "62635",
+            "name": "Червинка",
+            "url": "Chervinka-Kirovogradska"
+        },
+        {
+            "id": "62660",
+            "name": "Червоная Долина",
+            "url": "Chervona Dolyna-Kirovogradska"
+        },
+        {
+            "id": "62685",
+            "name": "Червоная Каменка",
+            "url": "Chervona Kamyanka-Kirovogradska"
+        },
+        {
+            "id": "62699",
+            "name": "Червоная Поляна",
+            "url": "Chervona Polyana-Kirovogradska"
+        },
+        {
+            "id": "62711",
+            "name": "Червоная Слобода",
+            "url": "Chervona Sloboda-Kirovogradska"
+        },
+        {
+            "id": "62778",
+            "name": "Червоное",
+            "url": "Chervone-Kirovogradska"
+        },
+        {
+            "id": "62815",
+            "name": "Червоное Озеро",
+            "url": "Chervone Ozero-Kirovogradska"
+        },
+        {
+            "id": "62851",
+            "name": "Червоные Маяки",
+            "url": "Chervoni Mayaky-Kirovogradska"
+        },
+        {
+            "id": "62831",
+            "name": "Червоноконстантиновка",
+            "url": "Chervonokostyantynivka-Kirovogradska"
+        },
+        {
+            "id": "62833",
+            "name": "Червонополье",
+            "url": "Chervonopillya-Kirovogradska"
+        },
+        {
+            "id": "62842",
+            "name": "Червоноселье",
+            "url": "Chervonosillya-Kirovogradska"
+        },
+        {
+            "id": "62746",
+            "name": "Червоновершка",
+            "url": "Chervonovershka-Kirovogradska"
+        },
+        {
+            "id": "62827",
+            "name": "Червонозоревка",
+            "url": "Chervonozorivka-Kirovogradska"
+        },
+        {
+            "id": "62874",
+            "name": "Червоный Кут",
+            "url": "Chervonyi Kut-Kirovogradska"
+        },
+        {
+            "id": "62912",
+            "name": "Червоный Раздел",
+            "url": "Chervonyi Rozdil-Kirovogradska"
+        },
+        {
+            "id": "62925",
+            "name": "Червоный Ташлык",
+            "url": "Chervonyi Tashlyk-Kirovogradska"
+        },
+        {
+            "id": "62940",
+            "name": "Червоный Яр",
+            "url": "Chervonyi Yar-Kirovogradska"
+        },
+        {
+            "id": "63221",
+            "name": "Чигиринское",
+            "url": "Chyhyrynske-Kirovogradska"
+        },
+        {
+            "id": "38504",
+            "name": "Дача",
+            "url": "Dacha-Kirovogradska"
+        },
+        {
+            "id": "38406",
+            "name": "Далекое",
+            "url": "Daleke-Kirovogradska"
+        },
+        {
+            "id": "38442",
+            "name": "Данилова Балка",
+            "url": "Danylova Balka-Kirovogradska"
+        },
+        {
+            "id": "38482",
+            "name": "Дарьевка",
+            "url": "Darivka-Kirovogradska"
+        },
+        {
+            "id": "38382",
+            "name": "Давыдовка",
+            "url": "Davydivka-Kirovogradska"
+        },
+        {
+            "id": "38613",
+            "name": "Дельфиново",
+            "url": "Delfinove-Kirovogradska"
+        },
+        {
+            "id": "38622",
+            "name": "Демешково",
+            "url": "Demeshkove-Kirovogradska"
+        },
+        {
+            "id": "38730",
+            "name": "Дериевка",
+            "url": "Deriivka-Kirovogradska"
+        },
+        {
+            "id": "38934",
+            "name": "Дибровка",
+            "url": "Dibrivka-Kirovogradska"
+        },
+        {
+            "id": "38952",
+            "name": "Дибровы",
+            "url": "Dibrovy-Kirovogradska"
+        },
+        {
+            "id": "19640",
+            "name": "Злынка",
+            "url": "Zlynka"
+        },
+        {
+            "id": "19639",
+            "name": "Завалье",
+            "url": "Zavallya"
+        },
+        {
+            "id": "19638",
+            "name": "Елизаветградка",
+            "url": "Yelyzavethradka"
+        },
+        {
+            "id": "19637",
+            "name": "Тишковка",
+            "url": "Tyshkivka"
+        },
+        {
+            "id": "19636",
+            "name": "Субботцы",
+            "url": "Subottsi"
+        },
+        {
+            "id": "19635",
+            "name": "Ровное",
+            "url": "RivneKI"
+        },
+        {
+            "id": "19634",
+            "name": "Приютовка",
+            "url": "Pryyutivka"
+        },
+        {
+            "id": "19633",
+            "name": "Побужье",
+            "url": "Pobugskoye"
+        },
+        {
+            "id": "19632",
+            "name": "Перегоновка",
+            "url": "Perehonivka"
+        },
+        {
+            "id": "19631",
+            "name": "Павлыш",
+            "url": "Pavlysh"
+        },
+        {
+            "id": "19630",
+            "name": "Пантаевка",
+            "url": "Pantayivka"
+        },
+        {
+            "id": "19629",
+            "name": "Новый Стародуб",
+            "url": "NovyyStarodub"
+        },
+        {
+            "id": "19628",
+            "name": "Новогородка",
+            "url": "Novhorodka"
+        },
+        {
+            "id": "19627",
+            "name": "Новая Прага",
+            "url": "NovaPraha"
+        },
+        {
+            "id": "19626",
+            "name": "Молодежное",
+            "url": "Molodizhne"
+        },
+        {
+            "id": "19625",
+            "name": "Липняжка",
+            "url": "Lypnyazhka"
+        },
+        {
+            "id": "19624",
+            "name": "Капитановка",
+            "url": "Kapitanivka"
+        },
+        {
+            "id": "19623",
+            "name": "Димитрово",
+            "url": "Dymytrove"
+        },
+        {
+            "id": "19622",
+            "name": "Дмитровка",
+            "url": "DmytrivkaKI"
+        },
+        {
+            "id": "19621",
+            "name": "Аджамка",
+            "url": "Adzhamka"
+        },
+        {
+            "id": "38557",
+            "name": "Девичье Поле",
+            "url": "Divoche Pole-Kirovogradska"
+        },
+        {
+            "id": "39131",
+            "name": "Доброе",
+            "url": "Dobre-Kirovogradska"
+        },
+        {
+            "id": "39154",
+            "name": "Добротимофеевка",
+            "url": "Dobrotymofiivka-Kirovogradska"
+        },
+        {
+            "id": "39165",
+            "name": "Добрянка",
+            "url": "Dobryanka-Kirovogradska"
+        },
+        {
+            "id": "39199",
+            "name": "Докучаево",
+            "url": "Dokuchajeve-Kirovogradska"
+        },
+        {
+            "id": "39275",
+            "name": "Долина",
+            "url": "Dolyna-Kirovogradska"
+        },
+        {
+            "id": "39297",
+            "name": "Долиновка",
+            "url": "Dolynivka-Kirovogradska"
+        },
+        {
+            "id": "39293",
+            "name": "Долино-Каменка",
+            "url": "Dolyno-Kamyanka-Kirovogradska"
+        },
+        {
+            "id": "39314",
+            "name": "Долинское",
+            "url": "Dolynske-Kirovogradska"
+        },
+        {
+            "id": "39379",
+            "name": "Дончино",
+            "url": "Donchyne-Kirovogradska"
+        },
+        {
+            "id": "39402",
+            "name": "Дорофеевка",
+            "url": "Dorofiivka-Kirovogradska"
+        },
+        {
+            "id": "39394",
+            "name": "Дорожинка",
+            "url": "Dorozhynka-Kirovogradska"
+        },
+        {
+            "id": "39494",
+            "name": "Дружба",
+            "url": "Druzhba-Kirovogradska"
+        },
+        {
+            "id": "39509",
+            "name": "Дружелюбовка",
+            "url": "Druzhelyubivka-Kirovogradska"
+        },
+        {
+            "id": "39601",
+            "name": "Дубовка",
+            "url": "Dubivka-Kirovogradska"
+        },
+        {
+            "id": "39639",
+            "name": "Дубровино",
+            "url": "Dubrovyne-Kirovogradska"
+        },
+        {
+            "id": "38971",
+            "name": "Диковка",
+            "url": "Dykivka-Kirovogradska"
+        },
+        {
+            "id": "38970",
+            "name": "Диковичево",
+            "url": "Dykovycheve-Kirovogradska"
+        },
+        {
+            "id": "39737",
+            "name": "Дымино",
+            "url": "Dymyne-Kirovogradska"
+        },
+        {
+            "id": "61548",
+            "name": "Фальково",
+            "url": "Falkove-Kirovogradska"
+        },
+        {
+            "id": "61579",
+            "name": "Федеевка",
+            "url": "Fediivka-Kirovogradska"
+        },
+        {
+            "id": "61588",
+            "name": "Федорки",
+            "url": "Fedirky-Kirovogradska"
+        },
+        {
+            "id": "61592",
+            "name": "Федоро-Шуличино",
+            "url": "Fedoro-Shulichyne-Kirovogradska"
+        },
+        {
+            "id": "61772",
+            "name": "Фрунзе",
+            "url": "Frunze-Kirovogradska"
+        },
+        {
+            "id": "61800",
+            "name": "Фурмановка",
+            "url": "Furmanivka-Kirovogradska"
+        },
+        {
+            "id": "36760",
+            "name": "Гаек",
+            "url": "Haiok-Kirovogradska"
+        },
+        {
+            "id": "36748",
+            "name": "Гаевое",
+            "url": "Haiove-Kirovogradska"
+        },
+        {
+            "id": "36741",
+            "name": "Гаевка",
+            "url": "Haivka-Kirovogradska"
+        },
+        {
+            "id": "30531",
+            "name": "Анновка",
+            "url": "Hannivka-Kirovogradska"
+        },
+        {
+            "id": "30512",
+            "name": "Анно-Леонтовичево",
+            "url": "Hanno-Leontovycheve-Kirovogradska"
+        },
+        {
+            "id": "30563",
+            "name": "Аннополь",
+            "url": "Hannopil-Kirovogradska"
+        },
+        {
+            "id": "30517",
+            "name": "Анно-Требиновка",
+            "url": "Hanno-Trebynivka-Kirovogradska"
+        },
+        {
+            "id": "30511",
+            "name": "Аннинское",
+            "url": "Hannynske-Kirovogradska"
+        },
+        {
+            "id": "36947",
+            "name": "Гармановка",
+            "url": "Harmanivka-Kirovogradska"
+        },
+        {
+            "id": "37175",
+            "name": "Глодосы",
+            "url": "Hlodosy-Kirovogradska"
+        },
+        {
+            "id": "37181",
+            "name": "Глубокая Балка",
+            "url": "Hlyboka Balka-Kirovogradska"
+        },
+        {
+            "id": "37196",
+            "name": "Глубокое",
+            "url": "Hlyboke-Kirovogradska"
+        },
+        {
+            "id": "37151",
+            "name": "Глинск",
+            "url": "Hlynsk-Kirovogradska"
+        },
+        {
+            "id": "37167",
+            "name": "Глиняное",
+            "url": "Hlynyane-Kirovogradska"
+        },
+        {
+            "id": "37266",
+            "name": "Гнатовка",
+            "url": "Hnativka-Kirovogradska"
+        },
+        {
+            "id": "37363",
+            "name": "Головковка",
+            "url": "Holovkivka-Kirovogradska"
+        },
+        {
+            "id": "37396",
+            "name": "Голубенка",
+            "url": "Holubenka-Kirovogradska"
+        },
+        {
+            "id": "37403",
+            "name": "Голубиевичи",
+            "url": "Holubijevychi-Kirovogradska"
+        },
+        {
+            "id": "37338",
+            "name": "Голиково",
+            "url": "Holykove-Kirovogradska"
+        },
+        {
+            "id": "37544",
+            "name": "Гордиевка",
+            "url": "Hordiivka-Kirovogradska"
+        },
+        {
+            "id": "37696",
+            "name": "Городыновка",
+            "url": "Hordynivka-Kirovogradska"
+        },
+        {
+            "id": "37558",
+            "name": "Гориховка",
+            "url": "Horikhivka-Kirovogradska"
+        },
+        {
+            "id": "37762",
+            "name": "Гостинное",
+            "url": "Hostynne-Kirovogradska"
+        },
+        {
+            "id": "38058",
+            "name": "Грозное",
+            "url": "Hrizne-Kirovogradska"
+        },
+        {
+            "id": "38064",
+            "name": "Громадское",
+            "url": "Hromadske-Kirovogradska"
+        },
+        {
+            "id": "38072",
+            "name": "Громуха",
+            "url": "Hromukha-Kirovogradska"
+        },
+        {
+            "id": "38137",
+            "name": "Грушка",
+            "url": "Hrushka-Kirovogradska"
+        },
+        {
+            "id": "38091",
+            "name": "Грузское",
+            "url": "Hruzke-Kirovogradska"
+        },
+        {
+            "id": "38096",
+            "name": "Грузянка",
+            "url": "Hruzyanka-Kirovogradska"
+        },
+        {
+            "id": "38014",
+            "name": "Грироровка",
+            "url": "Hryhorivka-Kirovogradska"
+        },
+        {
+            "id": "38186",
+            "name": "Губовка",
+            "url": "Hubivka-Kirovogradska"
+        },
+        {
+            "id": "38209",
+            "name": "Гулевичи",
+            "url": "Hulevychi-Kirovogradska"
+        },
+        {
+            "id": "38266",
+            "name": "Гуровка",
+            "url": "Hurivka-Kirovogradska"
+        },
+        {
+            "id": "38344",
+            "name": "Гутницкая",
+            "url": "Hutnytska-Kirovogradska"
+        },
+        {
+            "id": "41865",
+            "name": "Ильичевка",
+            "url": "Illichivka-Kirovogradska"
+        },
+        {
+            "id": "41907",
+            "name": "Ингульское",
+            "url": "Inhulske-Kirovogradska"
+        },
+        {
+            "id": "41914",
+            "name": "Инженеровка",
+            "url": "Inzhenerivka-Kirovogradska"
+        },
+        {
+            "id": "41972",
+            "name": "Искровка",
+            "url": "Iskrivka-Kirovogradska"
+        },
+        {
+            "id": "41537",
+            "name": "Ивангород",
+            "url": "Ivanhorod-Kirovogradska"
+        },
+        {
+            "id": "41635",
+            "name": "Ивановка",
+            "url": "Ivanivka-Kirovogradska"
+        },
+        {
+            "id": "41723",
+            "name": "Ивановцы",
+            "url": "Ivanivtsi-Kirovogradska"
+        },
+        {
+            "id": "41566",
+            "name": "Иванковцы",
+            "url": "Ivankivtsi-Kirovogradska"
+        },
+        {
+            "id": "41581",
+            "name": "Ивано-Благодатное",
+            "url": "Ivano-Blahodatne-Kirovogradska"
+        },
+        {
+            "id": "41812",
+            "name": "Измайловка",
+            "url": "Izmailivka-Kirovogradska"
+        },
+        {
+            "id": "42082",
+            "name": "Кагарлык",
+            "url": "Kaharlyk-Kirovogradska"
+        },
+        {
+            "id": "42187",
+            "name": "Калачовка",
+            "url": "Kalachivka-Kirovogradska"
+        },
+        {
+            "id": "42180",
+            "name": "Калантаев",
+            "url": "Kalantaiv-Kirovogradska"
+        },
+        {
+            "id": "42323",
+            "name": "Калмазово",
+            "url": "Kalmazove-Kirovogradska"
+        },
+        {
+            "id": "42340",
+            "name": "Кальниболота",
+            "url": "Kalnybolota-Kirovogradska"
+        },
+        {
+            "id": "42257",
+            "name": "Калиновка",
+            "url": "Kalynivka-Kirovogradska"
+        },
+        {
+            "id": "42370",
+            "name": "Камбурлиевка",
+            "url": "Kamburliivka-Kirovogradska"
+        },
+        {
+            "id": "42401",
+            "name": "Каменка",
+            "url": "Kamianka-Kirovogradska"
+        },
+        {
+            "id": "42448",
+            "name": "Каменная Криница",
+            "url": "Kamyana Krynytsya-Kirovogradska"
+        },
+        {
+            "id": "42376",
+            "name": "Каменечье",
+            "url": "Kamyaneche-Kirovogradska"
+        },
+        {
+            "id": "42485",
+            "name": "Каменоватка",
+            "url": "Kamyanuvatka-Kirovogradska"
+        },
+        {
+            "id": "42479",
+            "name": "Каменный Брод",
+            "url": "Kamyanyi Brid-Kirovogradska"
+        },
+        {
+            "id": "42482",
+            "name": "Каменный Мост",
+            "url": "Kamyanyi Mist-Kirovogradska"
+        },
+        {
+            "id": "42571",
+            "name": "Кандаурово",
+            "url": "Kandaurove-Kirovogradska"
+        },
+        {
+            "id": "42596",
+            "name": "Каниж",
+            "url": "Kanizh-Kirovogradska"
+        },
+        {
+            "id": "42633",
+            "name": "Капитанка",
+            "url": "Kapitanka-Kirovogradska"
+        },
+        {
+            "id": "42726",
+            "name": "Карбовка",
+            "url": "Karbivka-Kirovogradska"
+        },
+        {
+            "id": "42900",
+            "name": "Катериновка",
+            "url": "Katerynivka-Kirovogradska"
+        },
+        {
+            "id": "42118",
+            "name": "Казарня",
+            "url": "Kazarnya-Kirovogradska"
+        },
+        {
+            "id": "42105",
+            "name": "Казавчин",
+            "url": "Kazavchyn-Kirovogradska"
+        },
+        {
+            "id": "43100",
+            "name": "Кетрисановка",
+            "url": "Ketrysanivka-Kirovogradska"
+        },
+        {
+            "id": "61827",
+            "name": "Хайновка",
+            "url": "Khainivka-Kirovogradska"
+        },
+        {
+            "id": "61920",
+            "name": "Хащеватое",
+            "url": "Khashchuvate-Kirovogradska"
+        },
+        {
+            "id": "62039",
+            "name": "Хмелевое",
+            "url": "Khmelove-Kirovogradska"
+        },
+        {
+            "id": "62261",
+            "name": "Христофорово",
+            "url": "Khrystoforove-Kirovogradska"
+        },
+        {
+            "id": "44020",
+            "name": "Кондратовка",
+            "url": "Kindrativka-Kirovogradska"
+        },
+        {
+            "id": "43239",
+            "name": "Кирово",
+            "url": "Kirove-Kirovogradska"
+        },
+        {
+            "id": "43224",
+            "name": "Кировка",
+            "url": "Kirovka-Kirovogradska"
+        },
+        {
+            "id": "43428",
+            "name": "Клиновое",
+            "url": "Klynove-Kirovogradska"
+        },
+        {
+            "id": "43431",
+            "name": "Клинцы",
+            "url": "Klyntsi-Kirovogradska"
+        },
+        {
+            "id": "43521",
+            "name": "Кобзаревка",
+            "url": "Kobzarivka-Kirovogradska"
+        },
+        {
+            "id": "44592",
+            "name": "Коханое",
+            "url": "Kokhane-Kirovogradska"
+        },
+        {
+            "id": "43737",
+            "name": "Коколово",
+            "url": "Kokolove-Kirovogradska"
+        },
+        {
+            "id": "43944",
+            "name": "Коминтерн",
+            "url": "Komintern-Kirovogradska"
+        },
+        {
+            "id": "43996",
+            "name": "Комсомольское",
+            "url": "Komsomolske-Kirovogradska"
+        },
+        {
+            "id": "42544",
+            "name": "Камышево",
+            "url": "Komysheve-Kirovogradska"
+        },
+        {
+            "id": "42538",
+            "name": "Камышеватое",
+            "url": "Komyshuvate-Kirovogradska"
+        },
+        {
+            "id": "44026",
+            "name": "Конево",
+            "url": "Koneve-Kirovogradska"
+        },
+        {
+            "id": "44142",
+            "name": "Копани",
+            "url": "Kopani-Kirovogradska"
+        },
+        {
+            "id": "44154",
+            "name": "Копанки",
+            "url": "Kopanky-Kirovogradska"
+        },
+        {
+            "id": "44176",
+            "name": "Копенковатое",
+            "url": "Kopenkuvate-Kirovogradska"
+        },
+        {
+            "id": "44208",
+            "name": "Корбониколаевка",
+            "url": "Korbomykolaivka-Kirovogradska"
+        },
+        {
+            "id": "44253",
+            "name": "Корлюговка",
+            "url": "Korlyuhivka-Kirovogradska"
+        },
+        {
+            "id": "44284",
+            "name": "Коробчино",
+            "url": "Korobchyne-Kirovogradska"
+        },
+        {
+            "id": "44306",
+            "name": "Королевка",
+            "url": "Korolivka-Kirovogradska"
+        },
+        {
+            "id": "44352",
+            "name": "Коротяк",
+            "url": "Korotyak-Kirovogradska"
+        },
+        {
+            "id": "44409",
+            "name": "Корытно-Забугское",
+            "url": "Korytno-Zabuzke-Kirovogradska"
+        },
+        {
+            "id": "44633",
+            "name": "Кошаро-Александровка",
+            "url": "Kosharo-Oleksandrivka-Kirovogradska"
+        },
+        {
+            "id": "44449",
+            "name": "Косовка",
+            "url": "Kosivka-Kirovogradska"
+        },
+        {
+            "id": "44474",
+            "name": "Костомаровка",
+            "url": "Kostomarivka-Kirovogradska"
+        },
+        {
+            "id": "44083",
+            "name": "Константиновка",
+            "url": "Kostyantynivka-Kirovogradska"
+        },
+        {
+            "id": "44544",
+            "name": "Котовка",
+            "url": "Kotovka-Kirovogradska"
+        },
+        {
+            "id": "44555",
+            "name": "Котовское",
+            "url": "Kotovske-Kirovogradska"
+        },
+        {
+            "id": "43562",
+            "name": "Ковалевка",
+            "url": "Kovalivka-Kirovogradska"
+        },
+        {
+            "id": "42110",
+            "name": "Казакова Балка",
+            "url": "Kozakova Balka-Kirovogradska"
+        },
+        {
+            "id": "43707",
+            "name": "Козловское",
+            "url": "Kozlivske-Kirovogradska"
+        },
+        {
+            "id": "43724",
+            "name": "Козыревка",
+            "url": "Kozyrivka-Kirovogradska"
+        },
+        {
+            "id": "44921",
+            "name": "Краснофедоровка",
+            "url": "Krasnofedorivka-Kirovogradska"
+        },
+        {
+            "id": "44784",
+            "name": "Красногорка",
+            "url": "Krasnohirka-Kirovogradska"
+        },
+        {
+            "id": "44869",
+            "name": "Краснополка",
+            "url": "Krasnopilka-Kirovogradska"
+        },
+        {
+            "id": "44879",
+            "name": "Краснополье",
+            "url": "Krasnopillya-Kirovogradska"
+        },
+        {
+            "id": "44895",
+            "name": "Красноселка",
+            "url": "Krasnosilka-Kirovogradska"
+        },
+        {
+            "id": "44904",
+            "name": "Красноселье",
+            "url": "Krasnosillya-Kirovogradska"
+        },
+        {
+            "id": "44993",
+            "name": "Кременчеватое",
+            "url": "Kremenchuvate-Kirovogradska"
+        },
+        {
+            "id": "45182",
+            "name": "Кропивницкое",
+            "url": "Kropyvnytske-Kirovogradska"
+        },
+        {
+            "id": "45238",
+            "name": "Крупское",
+            "url": "Krupske-Kirovogradska"
+        },
+        {
+            "id": "45256",
+            "name": "Крутенькое",
+            "url": "Krutenke-Kirovogradska"
+        },
+        {
+            "id": "45269",
+            "name": "Крутоярка",
+            "url": "Krutoyarka-Kirovogradska"
+        },
+        {
+            "id": "45111",
+            "name": "Крикунка",
+            "url": "Krykunka-Kirovogradska"
+        },
+        {
+            "id": "45314",
+            "name": "Крымки",
+            "url": "Krymky-Kirovogradska"
+        },
+        {
+            "id": "45133",
+            "name": "Кринички",
+            "url": "Krynychky-Kirovogradska"
+        },
+        {
+            "id": "45146",
+            "name": "Криничное",
+            "url": "Krynychne-Kirovogradska"
+        },
+        {
+            "id": "45124",
+            "name": "Криничеватое",
+            "url": "Krynychuvate-Kirovogradska"
+        },
+        {
+            "id": "45121",
+            "name": "Криничеватка",
+            "url": "Krynychuvatka-Kirovogradska"
+        },
+        {
+            "id": "45756",
+            "name": "Кучеровка",
+            "url": "Kucherivka-Kirovogradska"
+        },
+        {
+            "id": "45443",
+            "name": "Куйбышево",
+            "url": "Kuibysheve-Kirovogradska"
+        },
+        {
+            "id": "45460",
+            "name": "Куколовка",
+            "url": "Kukolivka-Kirovogradska"
+        },
+        {
+            "id": "45490",
+            "name": "Куликова Балка",
+            "url": "Kulykova Balka-Kirovogradska"
+        },
+        {
+            "id": "45749",
+            "name": "Куцеволовка",
+            "url": "Kutsevolivka-Kirovogradska"
+        },
+        {
+            "id": "45750",
+            "name": "Куцовка",
+            "url": "Kutsivka-Kirovogradska"
+        },
+        {
+            "id": "43020",
+            "name": "Квитка",
+            "url": "Kvitka-Kirovogradska"
+        },
+        {
+            "id": "43031",
+            "name": "Квитневое",
+            "url": "Kvitneve-Kirovogradska"
+        },
+        {
+            "id": "43205",
+            "name": "Кирилловка",
+            "url": "Kyrylivka-Kirovogradska"
+        },
+        {
+            "id": "43321",
+            "name": "Китайгород",
+            "url": "Kytaihorod-Kirovogradska"
+        },
+        {
+            "id": "45949",
+            "name": "Ланы",
+            "url": "Lany-Kirovogradska"
+        },
+        {
+            "id": "45859",
+            "name": "Лавровка",
+            "url": "Lavrivka-Kirovogradska"
+        },
+        {
+            "id": "46020",
+            "name": "Лебединка",
+            "url": "Lebedynka-Kirovogradska"
+        },
+        {
+            "id": "46098",
+            "name": "Лелековка",
+            "url": "Lelekivka-Kirovogradska"
+        },
+        {
+            "id": "46124",
+            "name": "Ленина",
+            "url": "Lenina-Kirovogradska"
+        },
+        {
+            "id": "46130",
+            "name": "Ленинка",
+            "url": "Leninka-Kirovogradska"
+        },
+        {
+            "id": "46144",
+            "name": "Ленино-Второе",
+            "url": "Lenino-Druhe-Kirovogradska"
+        },
+        {
+            "id": "46145",
+            "name": "Ленино-Первое",
+            "url": "Lenino-Pershe-Kirovogradska"
+        },
+        {
+            "id": "46146",
+            "name": "Ленино-Ульяновка",
+            "url": "Lenino-Ulyanovka-Kirovogradska"
+        },
+        {
+            "id": "46162",
+            "name": "Ленинское",
+            "url": "Leninske-Kirovogradska"
+        },
+        {
+            "id": "46203",
+            "name": "Леонтовичево",
+            "url": "Leontovycheve-Kirovogradska"
+        },
+        {
+            "id": "46350",
+            "name": "Лещовка",
+            "url": "Leshchivka-Kirovogradska"
+        },
+        {
+            "id": "46032",
+            "name": "Лев-Балка",
+            "url": "Lev-Balka-Kirovogradska"
+        },
+        {
+            "id": "46056",
+            "name": "Левковка",
+            "url": "Levkivka-Kirovogradska"
+        },
+        {
+            "id": "46092",
+            "name": "Лекарево",
+            "url": "Likareve-Kirovogradska"
+        },
+        {
+            "id": "46091",
+            "name": "Лекаревка",
+            "url": "Likarivka-Kirovogradska"
+        },
+        {
+            "id": "46218",
+            "name": "Лески",
+            "url": "Lisky-Kirovogradska"
+        },
+        {
+            "id": "46253",
+            "name": "Лесное",
+            "url": "Lisne-Kirovogradska"
+        },
+        {
+            "id": "46667",
+            "name": "Лозоватая",
+            "url": "Lozuvata-Kirovogradska"
+        },
+        {
+            "id": "46674",
+            "name": "Лозоватка",
+            "url": "Lozuvatka-Kirovogradska"
+        },
+        {
+            "id": "46879",
+            "name": "Луганка",
+            "url": "Luhanka-Kirovogradska"
+        },
+        {
+            "id": "47020",
+            "name": "Луполово",
+            "url": "Lupolove-Kirovogradska"
+        },
+        {
+            "id": "47029",
+            "name": "Лутковка",
+            "url": "Lutkivka-Kirovogradska"
+        },
+        {
+            "id": "46933",
+            "name": "Лужок",
+            "url": "Luzhok-Kirovogradska"
+        },
+        {
+            "id": "46505",
+            "name": "Липовка",
+            "url": "Lypivka-Kirovogradska"
+        },
+        {
+            "id": "46485",
+            "name": "Липняги",
+            "url": "Lypnyahy-Kirovogradska"
+        },
+        {
+            "id": "46514",
+            "name": "Липовое",
+            "url": "Lypove-Kirovogradska"
+        },
+        {
+            "id": "46491",
+            "name": "Липовенькое",
+            "url": "Lypovenke-Kirovogradska"
+        },
+        {
+            "id": "46566",
+            "name": "Листопадово",
+            "url": "Lystopadove-Kirovogradska"
+        },
+        {
+            "id": "47186",
+            "name": "Любовка",
+            "url": "Lyubivka-Kirovogradska"
+        },
+        {
+            "id": "47193",
+            "name": "Любомирка",
+            "url": "Lyubomyrka-Kirovogradska"
+        },
+        {
+            "id": "47181",
+            "name": "Любо-Надеждовка",
+            "url": "Lyubo-Nadezhdivka-Kirovogradska"
+        },
+        {
+            "id": "47184",
+            "name": "Любовичка",
+            "url": "Lyubovychka-Kirovogradska"
+        },
+        {
+            "id": "47258",
+            "name": "Люшневатое",
+            "url": "Lyushnyuvate-Kirovogradska"
+        },
+        {
+            "id": "47402",
+            "name": "Майское",
+            "url": "Maiske-Kirovogradska"
+        },
+        {
+            "id": "47416",
+            "name": "Макариха",
+            "url": "Makarykha-Kirovogradska"
+        },
+        {
+            "id": "47468",
+            "name": "Маково",
+            "url": "Makove-Kirovogradska"
+        },
+        {
+            "id": "47546",
+            "name": "Малая Березовка",
+            "url": "Mala Berezivka-Kirovogradska"
+        },
+        {
+            "id": "47536",
+            "name": "Малая Анновка",
+            "url": "Mala Hannivka-Kirovogradska"
+        },
+        {
+            "id": "47610",
+            "name": "Малая Мазница",
+            "url": "Mala Maznytsya-Kirovogradska"
+        },
+        {
+            "id": "47636",
+            "name": "Малая Помошная",
+            "url": "Mala Pomichna-Kirovogradska"
+        },
+        {
+            "id": "47653",
+            "name": "Малая Скелевая",
+            "url": "Mala Skelova-Kirovogradska"
+        },
+        {
+            "id": "47668",
+            "name": "Малая Тимошевка",
+            "url": "Mala Tymoshivka-Kirovogradska"
+        },
+        {
+            "id": "47625",
+            "name": "Малая Ольшанка",
+            "url": "Mala Vilshanka-Kirovogradska"
+        },
+        {
+            "id": "47956",
+            "name": "Мальчевское",
+            "url": "Malchevske-Kirovogradska"
+        },
+        {
+            "id": "47792",
+            "name": "Малоконево",
+            "url": "Malokoneve-Kirovogradska"
+        },
+        {
+            "id": "47770",
+            "name": "Маловодяное",
+            "url": "Malovodyane-Kirovogradska"
+        },
+        {
+            "id": "47735",
+            "name": "Малиновка",
+            "url": "Malynivka-Kirovogradska"
+        },
+        {
+            "id": "48043",
+            "name": "Маньковское",
+            "url": "Mankivske-Kirovogradska"
+        },
+        {
+            "id": "48024",
+            "name": "Мануйловка",
+            "url": "Manuilivka-Kirovogradska"
+        },
+        {
+            "id": "48001",
+            "name": "Манжурка",
+            "url": "Manzhurka-Kirovogradska"
+        },
+        {
+            "id": "48188",
+            "name": "Марфовка",
+            "url": "Marfivka-Kirovogradska"
+        },
+        {
+            "id": "48090",
+            "name": "Мариуполь",
+            "url": "Mariupol-Kirovogradska"
+        },
+        {
+            "id": "48215",
+            "name": "Марьевка",
+            "url": "Marivka-Kirovogradska"
+        },
+        {
+            "id": "48120",
+            "name": "Марково",
+            "url": "Markove-Kirovogradska"
+        },
+        {
+            "id": "48154",
+            "name": "Мартоноша",
+            "url": "Martonosha-Kirovogradska"
+        },
+        {
+            "id": "48162",
+            "name": "Мартыновка",
+            "url": "Martynivka-Kirovogradska"
+        },
+        {
+            "id": "48271",
+            "name": "Марьяновка",
+            "url": "Maryanivka-Kirovogradska"
+        },
+        {
+            "id": "48309",
+            "name": "Марьянополь",
+            "url": "Maryanopil-Kirovogradska"
+        },
+        {
+            "id": "48086",
+            "name": "Маринополь",
+            "url": "Marynopil-Kirovogradska"
+        },
+        {
+            "id": "48388",
+            "name": "Матусовка",
+            "url": "Matusivka-Kirovogradska"
+        },
+        {
+            "id": "48351",
+            "name": "Матвеевка",
+            "url": "Matviivka-Kirovogradska"
+        },
+        {
+            "id": "48710",
+            "name": "Мечиславка",
+            "url": "Mechyslavka-Kirovogradska"
+        },
+        {
+            "id": "48522",
+            "name": "Медерово",
+            "url": "Mederove-Kirovogradska"
+        },
+        {
+            "id": "48535",
+            "name": "Медовое",
+            "url": "Medove-Kirovogradska"
+        },
+        {
+            "id": "48515",
+            "name": "Медвежья Балка",
+            "url": "Medvezha Balka-Kirovogradska"
+        },
+        {
+            "id": "48563",
+            "name": "Межевое",
+            "url": "Mezhove-Kirovogradska"
+        },
+        {
+            "id": "48622",
+            "name": "Меловая Балка",
+            "url": "Milova Balka-Kirovogradska"
+        },
+        {
+            "id": "48587",
+            "name": "Межколодежное",
+            "url": "Mizhkolodyazhne-Kirovogradska"
+        },
+        {
+            "id": "49147",
+            "name": "Млынок",
+            "url": "Mlynok-Kirovogradska"
+        },
+        {
+            "id": "49183",
+            "name": "Могутнее",
+            "url": "Mohutnje-Kirovogradska"
+        },
+        {
+            "id": "49168",
+            "name": "Могилев Курень",
+            "url": "Mohyliv Kurin-Kirovogradska"
+        },
+        {
+            "id": "49176",
+            "name": "Могильное",
+            "url": "Mohylne-Kirovogradska"
+        },
+        {
+            "id": "49238",
+            "name": "Молдовка",
+            "url": "Moldovka-Kirovogradska"
+        },
+        {
+            "id": "49257",
+            "name": "Молодецкое",
+            "url": "Molodetske-Kirovogradska"
+        },
+        {
+            "id": "49373",
+            "name": "Моргуновка",
+            "url": "Morhunivka-Kirovogradska"
+        },
+        {
+            "id": "49379",
+            "name": "Морквина",
+            "url": "Morkvyna-Kirovogradska"
+        },
+        {
+            "id": "49396",
+            "name": "Морозовка",
+            "url": "Morozivka-Kirovogradska"
+        },
+        {
+            "id": "49523",
+            "name": "Мощеное",
+            "url": "Moshchene-Kirovogradska"
+        },
+        {
+            "id": "49515",
+            "name": "Мошорино",
+            "url": "Moshoryne-Kirovogradska"
+        },
+        {
+            "id": "49462",
+            "name": "Мостовое",
+            "url": "Mostove-Kirovogradska"
+        },
+        {
+            "id": "49003",
+            "name": "Михайловка",
+            "url": "Mykhailivka-Kirovogradska"
+        },
+        {
+            "id": "50429",
+            "name": "Никольское",
+            "url": "Mykilske-Kirovogradska"
+        },
+        {
+            "id": "50340",
+            "name": "Николаевка",
+            "url": "Mykolaivka-Kirovogradska"
+        },
+        {
+            "id": "50417",
+            "name": "Николо-Бабанка",
+            "url": "Mykolo-Babanka-Kirovogradska"
+        },
+        {
+            "id": "48838",
+            "name": "Мирное",
+            "url": "Myrne-Kirovogradska"
+        },
+        {
+            "id": "48896",
+            "name": "Мироновка",
+            "url": "Myronivka-Kirovogradska"
+        },
+        {
+            "id": "48910",
+            "name": "Мирополь",
+            "url": "Myropil-Kirovogradska"
+        },
+        {
+            "id": "48940",
+            "name": "Митрофановка",
+            "url": "Mytrofanivka-Kirovogradska"
+        },
+        {
+            "id": "49705",
+            "name": "Мюдовка",
+            "url": "Myudivka-Kirovogradska"
+        },
+        {
+            "id": "49786",
+            "name": "Надеждовка",
+            "url": "Nadezhdivka-Kirovogradska"
+        },
+        {
+            "id": "49806",
+            "name": "Надлак",
+            "url": "Nadlak-Kirovogradska"
+        },
+        {
+            "id": "49746",
+            "name": "Нагорное",
+            "url": "Nahirne-Kirovogradska"
+        },
+        {
+            "id": "49741",
+            "name": "Наглядовка",
+            "url": "Nahlyadivka-Kirovogradska"
+        },
+        {
+            "id": "49851",
+            "name": "Наливайка",
+            "url": "Nalyvaika-Kirovogradska"
+        },
+        {
+            "id": "49889",
+            "name": "Наримановка",
+            "url": "Narymanivka-Kirovogradska"
+        },
+        {
+            "id": "49912",
+            "name": "Настино",
+            "url": "Nastyne-Kirovogradska"
+        },
+        {
+            "id": "49831",
+            "name": "Назаровка",
+            "url": "Nazarivka-Kirovogradska"
+        },
+        {
+            "id": "49966",
+            "name": "Небелевка",
+            "url": "Nebelivka-Kirovogradska"
+        },
+        {
+            "id": "50143",
+            "name": "Нечаевка",
+            "url": "Nechaivka-Kirovogradska"
+        },
+        {
+            "id": "50003",
+            "name": "Недогарки",
+            "url": "Nedoharky-Kirovogradska"
+        },
+        {
+            "id": "50071",
+            "name": "Неопалимовка",
+            "url": "Neopalymivka-Kirovogradska"
+        },
+        {
+            "id": "50084",
+            "name": "Нерубайка",
+            "url": "Nerubaika-Kirovogradska"
+        },
+        {
+            "id": "50083",
+            "name": "Нерубаевка",
+            "url": "Nerubaivka-Kirovogradska"
+        },
+        {
+            "id": "50088",
+            "name": "Несватково",
+            "url": "Nesvatkove-Kirovogradska"
+        },
+        {
+            "id": "50566",
+            "name": "Новая Ковалевка",
+            "url": "Nova Kovalivka-Kirovogradska"
+        },
+        {
+            "id": "50596",
+            "name": "Новая Осота",
+            "url": "Nova Osota-Kirovogradska"
+        },
+        {
+            "id": "50597",
+            "name": "Новая Павловка",
+            "url": "Nova Pavlivka-Kirovogradska"
+        },
+        {
+            "id": "50749",
+            "name": "Новоандреевка",
+            "url": "Novoandriivka-Kirovogradska"
+        },
+        {
+            "id": "51653",
+            "name": "Новочигиринка",
+            "url": "Novochyhyrynka-Kirovogradska"
+        },
+        {
+            "id": "50892",
+            "name": "Новоданиловка",
+            "url": "Novodanylivka-Kirovogradska"
+        },
+        {
+            "id": "50916",
+            "name": "Новодобрянка",
+            "url": "Novodobryanka-Kirovogradska"
+        },
+        {
+            "id": "51632",
+            "name": "Новофедоровка",
+            "url": "Novofedorivka-Kirovogradska"
+        },
+        {
+            "id": "50838",
+            "name": "Новоглиняное",
+            "url": "Novohlynyane-Kirovogradska"
+        },
+        {
+            "id": "50841",
+            "name": "Новогомельское",
+            "url": "Novohomelske-Kirovogradska"
+        },
+        {
+            "id": "50849",
+            "name": "Новоградовка",
+            "url": "Novohradivka-Kirovogradska"
+        },
+        {
+            "id": "50862",
+            "name": "Новогригоровка",
+            "url": "Novohryhorivka-Kirovogradska"
+        },
+        {
+            "id": "50877",
+            "name": "Новогригоровка Вторая",
+            "url": "Novohryhorivka Druha-Kirovogradska"
+        },
+        {
+            "id": "50878",
+            "name": "Новогригоровка Первая",
+            "url": "Novohryhorivka Persha-Kirovogradska"
+        },
+        {
+            "id": "50976",
+            "name": "Новоегоровка",
+            "url": "Novojehorivka-Kirovogradska"
+        },
+        {
+            "id": "51075",
+            "name": "Новокрасное",
+            "url": "Novokrasne-Kirovogradska"
+        },
+        {
+            "id": "51057",
+            "name": "Новокиевка",
+            "url": "Novokyivka-Kirovogradska"
+        },
+        {
+            "id": "51095",
+            "name": "Новолутковка",
+            "url": "Novolutkivka-Kirovogradska"
+        },
+        {
+            "id": "51103",
+            "name": "Новомануйловка",
+            "url": "Novomanuilivka-Kirovogradska"
+        },
+        {
+            "id": "51141",
+            "name": "Новомосковское",
+            "url": "Novomoskovske-Kirovogradska"
+        },
+        {
+            "id": "51125",
+            "name": "Новомихайловка",
+            "url": "Novomykhailivka-Kirovogradska"
+        },
+        {
+            "id": "51162",
+            "name": "Новониколаевка",
+            "url": "Novomykolaivka-Kirovogradska"
+        },
+        {
+            "id": "51195",
+            "name": "Новоодесса",
+            "url": "Novoodesa-Kirovogradska"
+        },
+        {
+            "id": "50698",
+            "name": "Новоалександровка",
+            "url": "Novooleksandrivka-Kirovogradska"
+        },
+        {
+            "id": "50735",
+            "name": "Новоалексеевка",
+            "url": "Novooleksiivka-Kirovogradska"
+        },
+        {
+            "id": "51203",
+            "name": "Новооникеево",
+            "url": "Novoonykijeve-Kirovogradska"
+        },
+        {
+            "id": "51218",
+            "name": "Новопавловка",
+            "url": "Novopavlivka-Kirovogradska"
+        },
+        {
+            "id": "51249",
+            "name": "Новопетровка",
+            "url": "Novopetrivka-Kirovogradska"
+        },
+        {
+            "id": "51280",
+            "name": "Новоподымка",
+            "url": "Novopodymka-Kirovogradska"
+        },
+        {
+            "id": "51285",
+            "name": "Новопокровка",
+            "url": "Novopokrovka-Kirovogradska"
+        },
+        {
+            "id": "51303",
+            "name": "Новополяна",
+            "url": "Novopolyana-Kirovogradska"
+        },
+        {
+            "id": "51325",
+            "name": "Новоромановка",
+            "url": "Novoromanivka-Kirovogradska"
+        },
+        {
+            "id": "51332",
+            "name": "Новосавицкое",
+            "url": "Novosavytske-Kirovogradska"
+        },
+        {
+            "id": "51437",
+            "name": "Новоселовка",
+            "url": "Novoselivka-Kirovogradska"
+        },
+        {
+            "id": "51656",
+            "name": "Новошевченково",
+            "url": "Novoshevchenkove-Kirovogradska"
+        },
+        {
+            "id": "51379",
+            "name": "Новоселка",
+            "url": "Novosilka-Kirovogradska"
+        },
+        {
+            "id": "51546",
+            "name": "Новостановка",
+            "url": "Novostanivka-Kirovogradska"
+        },
+        {
+            "id": "51545",
+            "name": "Новостанковатая",
+            "url": "Novostankuvata-Kirovogradska"
+        },
+        {
+            "id": "51568",
+            "name": "Новотреповка",
+            "url": "Novotrepivka-Kirovogradska"
+        },
+        {
+            "id": "51565",
+            "name": "Новотишковка",
+            "url": "Novotyshkivka-Kirovogradska"
+        },
+        {
+            "id": "51627",
+            "name": "Новоустиновка",
+            "url": "Novoustynivka-Kirovogradska"
+        },
+        {
+            "id": "50821",
+            "name": "Нововодяное",
+            "url": "Novovodyane-Kirovogradska"
+        },
+        {
+            "id": "50811",
+            "name": "Нововладимировка",
+            "url": "Novovolodymyrivka-Kirovogradska"
+        },
+        {
+            "id": "50827",
+            "name": "Нововознесенка",
+            "url": "Novovoznesenka-Kirovogradska"
+        },
+        {
+            "id": "51004",
+            "name": "Новозолотаревка",
+            "url": "Novozolotarivka-Kirovogradska"
+        },
+        {
+            "id": "50445",
+            "name": "Никоноровка",
+            "url": "Nykanorivka-Kirovogradska"
+        },
+        {
+            "id": "50304",
+            "name": "Никифоровка",
+            "url": "Nykyforivka-Kirovogradska"
+        },
+        {
+            "id": "50282",
+            "name": "Низшие Верещаки",
+            "url": "Nyzhchi Vereshchaky-Kirovogradska"
+        },
+        {
+            "id": "50280",
+            "name": "Низовое",
+            "url": "Nyzove-Kirovogradska"
+        },
+        {
+            "id": "51894",
+            "name": "Обертасово",
+            "url": "Obertasove-Kirovogradska"
+        },
+        {
+            "id": "51908",
+            "name": "Обланка",
+            "url": "Oblanka-Kirovogradska"
+        },
+        {
+            "id": "51921",
+            "name": "Обозновка",
+            "url": "Oboznivka-Kirovogradska"
+        },
+        {
+            "id": "52818",
+            "name": "Очеретное",
+            "url": "Ocheretyane-Kirovogradska"
+        },
+        {
+            "id": "52015",
+            "name": "Одая",
+            "url": "Odaya-Kirovogradska"
+        },
+        {
+            "id": "29087",
+            "name": "Александро-Акацатово",
+            "url": "Oleksandro-Akatsatove-Kirovogradska"
+        },
+        {
+            "id": "29213",
+            "name": "Александродар",
+            "url": "Oleksandrodar-Kirovogradska"
+        },
+        {
+            "id": "29093",
+            "name": "Александро-Марьевка",
+            "url": "Oleksandro-Marivka-Kirovogradska"
+        },
+        {
+            "id": "29096",
+            "name": "Александро-Пащенково",
+            "url": "Oleksandro-Pashchenkove-Kirovogradska"
+        },
+        {
+            "id": "29091",
+            "name": "Александро-Завадское",
+            "url": "Oleksandro-Zavadske-Kirovogradska"
+        },
+        {
+            "id": "29245",
+            "name": "Алексеевка",
+            "url": "Oleksiivka-Kirovogradska"
+        },
+        {
+            "id": "52214",
+            "name": "Оленовка",
+            "url": "Olenivka-Kirovogradska"
+        },
+        {
+            "id": "52223",
+            "name": "Оленовское",
+            "url": "Olenivske-Kirovogradska"
+        },
+        {
+            "id": "52202",
+            "name": "Олено-Косогоровка",
+            "url": "Oleno-Kosohorivka-Kirovogradska"
+        },
+        {
+            "id": "52275",
+            "name": "Ольговка",
+            "url": "Olhivka-Kirovogradska"
+        },
+        {
+            "id": "52250",
+            "name": "Олиевка",
+            "url": "Oliivka-Kirovogradska"
+        },
+        {
+            "id": "52255",
+            "name": "Олимпиадовка",
+            "url": "Olimpiadivka-Kirovogradska"
+        },
+        {
+            "id": "52370",
+            "name": "Омельгород",
+            "url": "Omelhorod-Kirovogradska"
+        },
+        {
+            "id": "52397",
+            "name": "Оникеево",
+            "url": "Onykijeve-Kirovogradska"
+        },
+        {
+            "id": "52460",
+            "name": "Орджоникидзе",
+            "url": "Ordzhonikidze-Kirovogradska"
+        },
+        {
+            "id": "52522",
+            "name": "Орлова Балка",
+            "url": "Orlova Balka-Kirovogradska"
+        },
+        {
+            "id": "52542",
+            "name": "Орлово",
+            "url": "Orlove-Kirovogradska"
+        },
+        {
+            "id": "52694",
+            "name": "Островка",
+            "url": "Ostrivka-Kirovogradska"
+        },
+        {
+            "id": "52743",
+            "name": "Осычки",
+            "url": "Osychky-Kirovogradska"
+        },
+        {
+            "id": "52737",
+            "name": "Осыково",
+            "url": "Osykove-Kirovogradska"
+        },
+        {
+            "id": "52730",
+            "name": "Осыковатое",
+            "url": "Osykuvate-Kirovogradska"
+        },
+        {
+            "id": "52590",
+            "name": "Оситная",
+            "url": "Osytna-Kirovogradska"
+        },
+        {
+            "id": "52592",
+            "name": "Оситняжка",
+            "url": "Osytnyazhka-Kirovogradska"
+        },
+        {
+            "id": "51968",
+            "name": "Оврагово",
+            "url": "Ovrahove-Kirovogradska"
+        },
+        {
+            "id": "51977",
+            "name": "Овсяниковка",
+            "url": "Ovsyanykivka-Kirovogradska"
+        },
+        {
+            "id": "52048",
+            "name": "Озера",
+            "url": "Ozera-Kirovogradska"
+        },
+        {
+            "id": "53192",
+            "name": "Пахаревка",
+            "url": "Pakharivka-Kirovogradska"
+        },
+        {
+            "id": "52986",
+            "name": "Палиевка",
+            "url": "Paliivka-Kirovogradska"
+        },
+        {
+            "id": "53057",
+            "name": "Панчево",
+            "url": "Pancheve-Kirovogradska"
+        },
+        {
+            "id": "53047",
+            "name": "Пантазиевка",
+            "url": "Pantaziivka-Kirovogradska"
+        },
+        {
+            "id": "53097",
+            "name": "Паращино Поле",
+            "url": "Parashchyne Pole-Kirovogradska"
+        },
+        {
+            "id": "52890",
+            "name": "Павловка",
+            "url": "Pavlivka-Kirovogradska"
+        },
+        {
+            "id": "52938",
+            "name": "Павлогорковка",
+            "url": "Pavlohirkivka-Kirovogradska"
+        },
+        {
+            "id": "52864",
+            "name": "Павло-Николаевка",
+            "url": "Pavlo-Mykolaivka-Kirovogradska"
+        },
+        {
+            "id": "52930",
+            "name": "Павловолуйск",
+            "url": "Pavlovoluisk-Kirovogradska"
+        },
+        {
+            "id": "53268",
+            "name": "Пеньково",
+            "url": "Penkove-Kirovogradska"
+        },
+        {
+            "id": "53263",
+            "name": "Пенькино",
+            "url": "Penkyne-Kirovogradska"
+        },
+        {
+            "id": "53484",
+            "name": "Перчуново",
+            "url": "Perchunove-Kirovogradska"
+        },
+        {
+            "id": "53365",
+            "name": "Перекрестовка",
+            "url": "Perekhrestivka-Kirovogradska"
+        },
+        {
+            "id": "53391",
+            "name": "Перемога",
+            "url": "Peremoha-Kirovogradska"
+        },
+        {
+            "id": "53411",
+            "name": "Переможное",
+            "url": "Peremozhne-Kirovogradska"
+        },
+        {
+            "id": "53467",
+            "name": "Переямполь",
+            "url": "Pereyampil-Kirovogradska"
+        },
+        {
+            "id": "53495",
+            "name": "Перше Травня",
+            "url": "Pershe Travnya-Kirovogradska"
+        },
+        {
+            "id": "53529",
+            "name": "Першотравневое",
+            "url": "Pershotravneve-Kirovogradska"
+        },
+        {
+            "id": "53279",
+            "name": "Первомайск",
+            "url": "Pervomaisk-Kirovogradska"
+        },
+        {
+            "id": "53296",
+            "name": "Первомайское",
+            "url": "Pervomaiske-Kirovogradska"
+        },
+        {
+            "id": "53275",
+            "name": "Первозвановка",
+            "url": "Pervozvanivka-Kirovogradska"
+        },
+        {
+            "id": "53710",
+            "name": "Петровка",
+            "url": "Petrivka-Kirovogradska"
+        },
+        {
+            "id": "53808",
+            "name": "Петровское",
+            "url": "Petrivske-Kirovogradska"
+        },
+        {
+            "id": "53842",
+            "name": "Петрокорбовка",
+            "url": "Petrokorbivka-Kirovogradska"
+        },
+        {
+            "id": "53843",
+            "name": "Петроостров",
+            "url": "Petroostriv-Kirovogradska"
+        },
+        {
+            "id": "53841",
+            "name": "Петрозагорье",
+            "url": "Petrozahirya-Kirovogradska"
+        },
+        {
+            "id": "55547",
+            "name": "Пятихатки",
+            "url": "Piatykhatky-Kirovogradska"
+        },
+        {
+            "id": "54356",
+            "name": "Поддубное",
+            "url": "Piddubne-Kirovogradska"
+        },
+        {
+            "id": "54293",
+            "name": "Подгайцы",
+            "url": "Pidhaitsi-Kirovogradska"
+        },
+        {
+            "id": "54387",
+            "name": "Подлесное",
+            "url": "Pidlisne-Kirovogradska"
+        },
+        {
+            "id": "54279",
+            "name": "Подвысокое",
+            "url": "Pidvysoke-Kirovogradska"
+        },
+        {
+            "id": "53622",
+            "name": "Песчаное",
+            "url": "Pishchane-Kirovogradska"
+        },
+        {
+            "id": "53636",
+            "name": "Песчаный Брод",
+            "url": "Pishchanyi Brid-Kirovogradska"
+        },
+        {
+            "id": "54109",
+            "name": "Плетеный Ташлык",
+            "url": "Pletenyi Tashlyk-Kirovogradska"
+        },
+        {
+            "id": "54149",
+            "name": "Плоское",
+            "url": "Ploske-Kirovogradska"
+        },
+        {
+            "id": "54141",
+            "name": "Плоско-Забугское",
+            "url": "Plosko-Zabuzke-Kirovogradska"
+        },
+        {
+            "id": "54209",
+            "name": "Побугское",
+            "url": "Pobuzke-Kirovogradska"
+        },
+        {
+            "id": "54472",
+            "name": "Подорожное",
+            "url": "Podorozhnje-Kirovogradska"
+        },
+        {
+            "id": "54512",
+            "name": "Подымка",
+            "url": "Podymka-Kirovogradska"
+        },
+        {
+            "id": "54538",
+            "name": "Покотилово",
+            "url": "Pokotylove-Kirovogradska"
+        },
+        {
+            "id": "54545",
+            "name": "Покровка",
+            "url": "Pokrovka-Kirovogradska"
+        },
+        {
+            "id": "54565",
+            "name": "Покровское",
+            "url": "Pokrovske-Kirovogradska"
+        },
+        {
+            "id": "54656",
+            "name": "Полоховка",
+            "url": "Polokhivka-Kirovogradska"
+        },
+        {
+            "id": "54647",
+            "name": "Полонистое",
+            "url": "Polonyste-Kirovogradska"
+        },
+        {
+            "id": "54586",
+            "name": "Полевое",
+            "url": "Polove-Kirovogradska"
+        },
+        {
+            "id": "54665",
+            "name": "Полтавка",
+            "url": "Poltavka-Kirovogradska"
+        },
+        {
+            "id": "54683",
+            "name": "Полумяное",
+            "url": "Polumyane-Kirovogradska"
+        },
+        {
+            "id": "54697",
+            "name": "Поляна",
+            "url": "Polyana-Kirovogradska"
+        },
+        {
+            "id": "54762",
+            "name": "Попельнастое",
+            "url": "Popelnaste-Kirovogradska"
+        },
+        {
+            "id": "54783",
+            "name": "Поповка",
+            "url": "Popivka-Kirovogradska"
+        },
+        {
+            "id": "54889",
+            "name": "Поселяновка",
+            "url": "Poselyanivka-Kirovogradska"
+        },
+        {
+            "id": "55230",
+            "name": "Прогресс",
+            "url": "Prohres-Kirovogradska"
+        },
+        {
+            "id": "55264",
+            "name": "Пролетарское",
+            "url": "Proletarske-Kirovogradska"
+        },
+        {
+            "id": "55287",
+            "name": "Проскуровка",
+            "url": "Proskurivka-Kirovogradska"
+        },
+        {
+            "id": "55308",
+            "name": "Протопоповка",
+            "url": "Protopopivka-Kirovogradska"
+        },
+        {
+            "id": "55205",
+            "name": "Прищеповка",
+            "url": "Pryshchepivka-Kirovogradska"
+        },
+        {
+            "id": "55063",
+            "name": "Приволье",
+            "url": "Pryvillya-Kirovogradska"
+        },
+        {
+            "id": "55210",
+            "name": "Приют",
+            "url": "Pryyut-Kirovogradska"
+        },
+        {
+            "id": "55398",
+            "name": "Пурпуровка",
+            "url": "Purpurivka-Kirovogradska"
+        },
+        {
+            "id": "55459",
+            "name": "Пушково",
+            "url": "Pushkove-Kirovogradska"
+        },
+        {
+            "id": "55403",
+            "name": "Пустельниково",
+            "url": "Pustelnykove-Kirovogradska"
+        },
+        {
+            "id": "55561",
+            "name": "Пятониколаевка",
+            "url": "Pyatomykolaivka-Kirovogradska"
+        },
+        {
+            "id": "54008",
+            "name": "Писанка",
+            "url": "Pysanka-Kirovogradska"
+        },
+        {
+            "id": "54018",
+            "name": "Писаревка",
+            "url": "Pysarivka-Kirovogradska"
+        },
+        {
+            "id": "55518",
+            "name": "Пышное",
+            "url": "Pyshne-Kirovogradska"
+        },
+        {
+            "id": "55639",
+            "name": "Радостное",
+            "url": "Radisne-Kirovogradska"
+        },
+        {
+            "id": "56213",
+            "name": "Родниковка",
+            "url": "Rodnykivka-Kirovogradska"
+        },
+        {
+            "id": "56369",
+            "name": "Ромашки",
+            "url": "Romashky-Kirovogradska"
+        },
+        {
+            "id": "56457",
+            "name": "Рощаховка",
+            "url": "Roshchakhivka-Kirovogradska"
+        },
+        {
+            "id": "56263",
+            "name": "Роздол",
+            "url": "Rozdol-Kirovogradska"
+        },
+        {
+            "id": "55718",
+            "name": "Раздолье",
+            "url": "Rozdollya-Kirovogradska"
+        },
+        {
+            "id": "56230",
+            "name": "Рожевое",
+            "url": "Rozheve-Kirovogradska"
+        },
+        {
+            "id": "56246",
+            "name": "Рожнятовка",
+            "url": "Rozhnyativka-Kirovogradska"
+        },
+        {
+            "id": "56402",
+            "name": "Роскошное",
+            "url": "Rozkishne-Kirovogradska"
+        },
+        {
+            "id": "55744",
+            "name": "Разлива",
+            "url": "Rozlyva-Kirovogradska"
+        },
+        {
+            "id": "55746",
+            "name": "Разношенское",
+            "url": "Roznoshenske-Kirovogradska"
+        },
+        {
+            "id": "55861",
+            "name": "Рассоховатец",
+            "url": "Rozsokhuvatets-Kirovogradska"
+        },
+        {
+            "id": "56427",
+            "name": "Россоховатка",
+            "url": "Rozsokhuvatka-Kirovogradska"
+        },
+        {
+            "id": "56445",
+            "name": "Ростычево",
+            "url": "Roztycheve-Kirovogradska"
+        },
+        {
+            "id": "55750",
+            "name": "Разумовка",
+            "url": "Rozumivka-Kirovogradska"
+        },
+        {
+            "id": "56694",
+            "name": "Ручайки",
+            "url": "Ruchaiky-Kirovogradska"
+        },
+        {
+            "id": "56635",
+            "name": "Ружичево",
+            "url": "Ruzhycheve-Kirovogradska"
+        },
+        {
+            "id": "56779",
+            "name": "Рядовое",
+            "url": "Ryadove-Kirovogradska"
+        },
+        {
+            "id": "56723",
+            "name": "Рыбчино",
+            "url": "Rybchyne-Kirovogradska"
+        },
+        {
+            "id": "58390",
+            "name": "Собадашево",
+            "url": "Sabadasheve-Kirovogradska"
+        },
+        {
+            "id": "56800",
+            "name": "Сабатиновка",
+            "url": "Sabatynivka-Kirovogradska"
+        },
+        {
+            "id": "56802",
+            "name": "Саблино",
+            "url": "Sablyne-Kirovogradska"
+        },
+        {
+            "id": "56805",
+            "name": "Сабово",
+            "url": "Sabove-Kirovogradska"
+        },
+        {
+            "id": "56865",
+            "name": "Садки",
+            "url": "Sadky-Kirovogradska"
+        },
+        {
+            "id": "56897",
+            "name": "Садовое",
+            "url": "Sadove-Kirovogradska"
+        },
+        {
+            "id": "56979",
+            "name": "Сальково",
+            "url": "Salkove-Kirovogradska"
+        },
+        {
+            "id": "2563",
+            "name": "Долинская",
+            "url": "Dolinskaya"
+        },
+        {
+            "id": "2564",
+            "name": "Петрово",
+            "url": "Petrovo"
+        },
+        {
+            "id": "2565",
+            "name": "Александровка",
+            "url": "Aleksandrovkakr"
+        },
+        {
+            "id": "2566",
+            "name": "Новгородка",
+            "url": "Novgorodka"
+        },
+        {
+            "id": "2567",
+            "name": "Ольшанка",
+            "url": "Olshanka"
+        },
+        {
+            "id": "2568",
+            "name": "Кировоград",
+            "url": "Kirovohrad"
+        },
+        {
+            "id": "2569",
+            "name": "Александрия",
+            "url": "Alexandriakr"
+        },
+        {
+            "id": "2570",
+            "name": "Светловодск",
+            "url": "Svitlovodsk"
+        },
+        {
+            "id": "2571",
+            "name": "Новомиргород",
+            "url": "Novomirgorod"
+        },
+        {
+            "id": "2572",
+            "name": "Малая Виска",
+            "url": "MalayaViska"
+        },
+        {
+            "id": "2573",
+            "name": "Знаменка",
+            "url": "Znamenka"
+        },
+        {
+            "id": "2574",
+            "name": "Новоукраинка",
+            "url": "Novoukrainka"
+        },
+        {
+            "id": "2575",
+            "name": "Помошная",
+            "url": "Pomoshnaya"
+        },
+        {
+            "id": "2576",
+            "name": "Гайворон",
+            "url": "Gajvoron"
+        },
+        {
+            "id": "2577",
+            "name": "Новоархангельск",
+            "url": "Novoarhangelsk"
+        },
+        {
+            "id": "2578",
+            "name": "Голованевск",
+            "url": "Golovanevsk"
+        },
+        {
+            "id": "2579",
+            "name": "Добровеличковка",
+            "url": "Dobrovelichkovka"
+        },
+        {
+            "id": "2580",
+            "name": "Онуфриевка",
+            "url": "Onufrievka"
+        },
+        {
+            "id": "2581",
+            "name": "Компанеевка",
+            "url": "Kompaneevka"
+        },
+        {
+            "id": "2582",
+            "name": "Ульяновка",
+            "url": "Ulyanovka"
+        },
+        {
+            "id": "2583",
+            "name": "Бобринец",
+            "url": "Bobrinec"
+        },
+        {
+            "id": "2584",
+            "name": "Устиновка",
+            "url": "Ustinovka"
+        },
+        {
+            "id": "57218",
+            "name": "Сасовка",
+            "url": "Sasivka-Kirovogradska"
+        },
+        {
+            "id": "57486",
+            "name": "Седневка",
+            "url": "Sednivka-Kirovogradska"
+        },
+        {
+            "id": "57520",
+            "name": "Селиваново",
+            "url": "Selivanove-Kirovogradska"
+        },
+        {
+            "id": "57568",
+            "name": "Семенастое",
+            "url": "Semenaste-Kirovogradska"
+        },
+        {
+            "id": "57590",
+            "name": "Семеновка",
+            "url": "Semenivka-Kirovogradska"
+        },
+        {
+            "id": "57622",
+            "name": "Семидубы",
+            "url": "Semyduby-Kirovogradska"
+        },
+        {
+            "id": "57621",
+            "name": "Семигорье",
+            "url": "Semyhirya-Kirovogradska"
+        },
+        {
+            "id": "57774",
+            "name": "Серебряное",
+            "url": "Serebryane-Kirovogradska"
+        },
+        {
+            "id": "57739",
+            "name": "Сергеевка",
+            "url": "Serhiivka-Kirovogradska"
+        },
+        {
+            "id": "57407",
+            "name": "Севериновка",
+            "url": "Severynivka-Kirovogradska"
+        },
+        {
+            "id": "63443",
+            "name": "Шамраево",
+            "url": "Shamrajeve-Kirovogradska"
+        },
+        {
+            "id": "63483",
+            "name": "Шаровка",
+            "url": "Sharivka-Kirovogradska"
+        },
+        {
+            "id": "59822",
+            "name": "Счастливка",
+            "url": "Shchaslyvka-Kirovogradska"
+        },
+        {
+            "id": "64078",
+            "name": "Щербатовка",
+            "url": "Shcherbativka-Kirovogradska"
+        },
+        {
+            "id": "63710",
+            "name": "Шепилово",
+            "url": "Shepylove-Kirovogradska"
+        },
+        {
+            "id": "63566",
+            "name": "Шевченко",
+            "url": "Shevchenka-Kirovogradska"
+        },
+        {
+            "id": "63625",
+            "name": "Шевченково",
+            "url": "Shevchenkove-Kirovogradska"
+        },
+        {
+            "id": "63902",
+            "name": "Шляховое",
+            "url": "Shlyakhove-Kirovogradska"
+        },
+        {
+            "id": "63725",
+            "name": "Шестаковка",
+            "url": "Shostakivka-Kirovogradska"
+        },
+        {
+            "id": "64037",
+            "name": "Шутенькое",
+            "url": "Shutenke-Kirovogradska"
+        },
+        {
+            "id": "63784",
+            "name": "Широкая Балка",
+            "url": "Shyroka Balka-Kirovogradska"
+        },
+        {
+            "id": "63849",
+            "name": "Шишкино",
+            "url": "Shyshkyne-Kirovogradska"
+        },
+        {
+            "id": "58013",
+            "name": "Скалевая",
+            "url": "Skaleva-Kirovogradska"
+        },
+        {
+            "id": "58014",
+            "name": "Скалевские Хутора",
+            "url": "Skalivski Khutory-Kirovogradska"
+        },
+        {
+            "id": "59820",
+            "name": "Схид",
+            "url": "Skhid-Kirovogradska"
+        },
+        {
+            "id": "58077",
+            "name": "Скопиевка",
+            "url": "Skopiivka-Kirovogradska"
+        },
+        {
+            "id": "58142",
+            "name": "Славное",
+            "url": "Slavne-Kirovogradska"
+        },
+        {
+            "id": "58290",
+            "name": "Смеливое",
+            "url": "Smilyve-Kirovogradska"
+        },
+        {
+            "id": "58318",
+            "name": "Смолино",
+            "url": "Smoline-Kirovogradska"
+        },
+        {
+            "id": "58367",
+            "name": "Снежковая Балка",
+            "url": "Snizhkova Balka-Kirovogradska"
+        },
+        {
+            "id": "58369",
+            "name": "Снежково",
+            "url": "Snizhkove-Kirovogradska"
+        },
+        {
+            "id": "58730",
+            "name": "Софиевка",
+            "url": "Sofiivka-Kirovogradska"
+        },
+        {
+            "id": "58496",
+            "name": "Сокольники",
+            "url": "Sokilnyky-Kirovogradska"
+        },
+        {
+            "id": "58491",
+            "name": "Соколовское",
+            "url": "Sokolivske-Kirovogradska"
+        },
+        {
+            "id": "58512",
+            "name": "Солдатское",
+            "url": "Soldatske-Kirovogradska"
+        },
+        {
+            "id": "58509",
+            "name": "Солгутово",
+            "url": "Solhutove-Kirovogradska"
+        },
+        {
+            "id": "58570",
+            "name": "Соломия",
+            "url": "Solomiya-Kirovogradska"
+        },
+        {
+            "id": "58582",
+            "name": "Солонцеватка",
+            "url": "Solontsyuvatka-Kirovogradska"
+        },
+        {
+            "id": "58557",
+            "name": "Соловьевка",
+            "url": "Solovivka-Kirovogradska"
+        },
+        {
+            "id": "58548",
+            "name": "Солнцево",
+            "url": "Sontseve-Kirovogradska"
+        },
+        {
+            "id": "58539",
+            "name": "Солнечное",
+            "url": "Sonyachne-Kirovogradska"
+        },
+        {
+            "id": "58613",
+            "name": "Сонино",
+            "url": "Sonyne-Kirovogradska"
+        },
+        {
+            "id": "58654",
+            "name": "Сорочаново",
+            "url": "Sorochanove-Kirovogradska"
+        },
+        {
+            "id": "58680",
+            "name": "Сосновка",
+            "url": "Sosnivka-Kirovogradska"
+        },
+        {
+            "id": "58715",
+            "name": "Сотницкая Балка",
+            "url": "Sotnytska Balka-Kirovogradska"
+        },
+        {
+            "id": "58718",
+            "name": "Сотницкое",
+            "url": "Sotnytske-Kirovogradska"
+        },
+        {
+            "id": "58420",
+            "name": "Созоновка",
+            "url": "Sozonivka-Kirovogradska"
+        },
+        {
+            "id": "58789",
+            "name": "Спасо-Мажаровка",
+            "url": "Spaso-Mazharivka-Kirovogradska"
+        },
+        {
+            "id": "58795",
+            "name": "Спасово",
+            "url": "Spasove-Kirovogradska"
+        },
+        {
+            "id": "58807",
+            "name": "Спильное",
+            "url": "Spilne-Kirovogradska"
+        },
+        {
+            "id": "58921",
+            "name": "Станиславовка",
+            "url": "Stanislavivka-Kirovogradska"
+        },
+        {
+            "id": "58923",
+            "name": "Станиславово",
+            "url": "Stanislavove-Kirovogradska"
+        },
+        {
+            "id": "58939",
+            "name": "Станковатое",
+            "url": "Stankuvate-Kirovogradska"
+        },
+        {
+            "id": "58996",
+            "name": "Старая Осота",
+            "url": "Stara Osota-Kirovogradska"
+        },
+        {
+            "id": "58849",
+            "name": "Ставидла",
+            "url": "Stavydla-Kirovogradska"
+        },
+        {
+            "id": "59246",
+            "name": "Степановка",
+            "url": "Stepanivka-Kirovogradska"
+        },
+        {
+            "id": "59312",
+            "name": "Степовка",
+            "url": "Stepivka-Kirovogradska"
+        },
+        {
+            "id": "59331",
+            "name": "Степовое",
+            "url": "Stepove-Kirovogradska"
+        },
+        {
+            "id": "59498",
+            "name": "Стримовка",
+            "url": "Strymivka-Kirovogradska"
+        },
+        {
+            "id": "59609",
+            "name": "Сугоклиевка",
+            "url": "Suhokliivka-Kirovogradska"
+        },
+        {
+            "id": "59768",
+            "name": "Суходольское",
+            "url": "Sukhodilske-Kirovogradska"
+        },
+        {
+            "id": "59786",
+            "name": "Сухолетовка",
+            "url": "Sukholitivka-Kirovogradska"
+        },
+        {
+            "id": "59779",
+            "name": "Сухой Ташлык",
+            "url": "Sukhyi Tashlyk-Kirovogradska"
+        },
+        {
+            "id": "59691",
+            "name": "Сурганы",
+            "url": "Surhany-Kirovogradska"
+        },
+        {
+            "id": "57282",
+            "name": "Свердлово",
+            "url": "Sverdlove-Kirovogradska"
+        },
+        {
+            "id": "57279",
+            "name": "Свердловка",
+            "url": "Sverdlovka-Kirovogradska"
+        },
+        {
+            "id": "57277",
+            "name": "Свердликово",
+            "url": "Sverdlykove-Kirovogradska"
+        },
+        {
+            "id": "57326",
+            "name": "Светлополь",
+            "url": "Svitlopil-Kirovogradska"
+        },
+        {
+            "id": "57372",
+            "name": "Свитова Зирка",
+            "url": "Svitova Zirka-Kirovogradska"
+        },
+        {
+            "id": "57947",
+            "name": "Синьки",
+            "url": "Synky-Kirovogradska"
+        },
+        {
+            "id": "57941",
+            "name": "Синицевка",
+            "url": "Synytsivka-Kirovogradska"
+        },
+        {
+            "id": "57955",
+            "name": "Синюха",
+            "url": "Synyukha-Kirovogradska"
+        },
+        {
+            "id": "59886",
+            "name": "Табаново",
+            "url": "Tabanove-Kirovogradska"
+        },
+        {
+            "id": "59951",
+            "name": "Таловая Балка",
+            "url": "Talova Balka-Kirovogradska"
+        },
+        {
+            "id": "60051",
+            "name": "Тарасовка",
+            "url": "Tarasivka-Kirovogradska"
+        },
+        {
+            "id": "60016",
+            "name": "Тарасо-Шевченково",
+            "url": "Tarasovo-Shevchenkove-Kirovogradska"
+        },
+        {
+            "id": "60135",
+            "name": "Таужное",
+            "url": "Tauzhne-Kirovogradska"
+        },
+        {
+            "id": "59918",
+            "name": "Тавровка",
+            "url": "Tavrivka-Kirovogradska"
+        },
+        {
+            "id": "60313",
+            "name": "Терновка",
+            "url": "Ternivka-Kirovogradska"
+        },
+        {
+            "id": "60300",
+            "name": "Терновая Балка",
+            "url": "Ternova Balka-Kirovogradska"
+        },
+        {
+            "id": "60324",
+            "name": "Терновое",
+            "url": "Ternove-Kirovogradska"
+        },
+        {
+            "id": "60595",
+            "name": "Топило",
+            "url": "Topylo-Kirovogradska"
+        },
+        {
+            "id": "60644",
+            "name": "Торговица",
+            "url": "Torhovytsya-Kirovogradska"
+        },
+        {
+            "id": "60700",
+            "name": "Тракт",
+            "url": "Trakt-Kirovogradska"
+        },
+        {
+            "id": "60721",
+            "name": "Треповка",
+            "url": "Trepivka-Kirovogradska"
+        },
+        {
+            "id": "60723",
+            "name": "Третий Интернационал",
+            "url": "Tretii Internatsional-Kirovogradska"
+        },
+        {
+            "id": "60850",
+            "name": "Троянка",
+            "url": "Troyanka-Kirovogradska"
+        },
+        {
+            "id": "60857",
+            "name": "Трояново",
+            "url": "Troyanove-Kirovogradska"
+        },
+        {
+            "id": "60859",
+            "name": "Трояны",
+            "url": "Troyany-Kirovogradska"
+        },
+        {
+            "id": "60880",
+            "name": "Трудовка",
+            "url": "Trudivka-Kirovogradska"
+        },
+        {
+            "id": "60755",
+            "name": "Трилесы",
+            "url": "Trylisy-Kirovogradska"
+        },
+        {
+            "id": "62339",
+            "name": "Цветково",
+            "url": "Tsvitkove-Kirovogradska"
+        },
+        {
+            "id": "62344",
+            "name": "Цветное",
+            "url": "Tsvitne-Kirovogradska"
+        },
+        {
+            "id": "62429",
+            "name": "Цибулево",
+            "url": "Tsybuleve-Kirovogradska"
+        },
+        {
+            "id": "62468",
+            "name": "Цюрупы",
+            "url": "Tsyurupy-Kirovogradska"
+        },
+        {
+            "id": "61013",
+            "name": "Турия",
+            "url": "Turiya-Kirovogradska"
+        },
+        {
+            "id": "60404",
+            "name": "Тимофеевка",
+            "url": "Tymofiivka-Kirovogradska"
+        },
+        {
+            "id": "60438",
+            "name": "Тирлова Балка",
+            "url": "Tyrlova Balka-Kirovogradska"
+        },
+        {
+            "id": "61185",
+            "name": "Ударное",
+            "url": "Udarne-Kirovogradska"
+        },
+        {
+            "id": "61454",
+            "name": "Успеновка",
+            "url": "Uspenivka-Kirovogradska"
+        },
+        {
+            "id": "61445",
+            "name": "Успенка",
+            "url": "Uspenka-Kirovogradska"
+        },
+        {
+            "id": "34544",
+            "name": "Варламовка",
+            "url": "Varlamivka-Kirovogradska"
+        },
+        {
+            "id": "34524",
+            "name": "Варваровка",
+            "url": "Varvarivka-Kirovogradska"
+        },
+        {
+            "id": "34514",
+            "name": "Варваро-Александровка",
+            "url": "Varvaro-Oleksandrivka-Kirovogradska"
+        },
+        {
+            "id": "34582",
+            "name": "Василевка",
+            "url": "Vasylivka-Kirovogradska"
+        },
+        {
+            "id": "34654",
+            "name": "Васино",
+            "url": "Vasyne-Kirovogradska"
+        },
+        {
+            "id": "34725",
+            "name": "Великая Андрусовка",
+            "url": "Velyka Andrusivka-Kirovogradska"
+        },
+        {
+            "id": "34851",
+            "name": "Великая Чечелиевка",
+            "url": "Velyka Checheliivka-Kirovogradska"
+        },
+        {
+            "id": "34833",
+            "name": "Великая Северинка",
+            "url": "Velyka Severynka-Kirovogradska"
+        },
+        {
+            "id": "34834",
+            "name": "Великая Скелевая",
+            "url": "Velyka Skelova-Kirovogradska"
+        },
+        {
+            "id": "34750",
+            "name": "Великая Виска",
+            "url": "Velyka Vyska-Kirovogradska"
+        },
+        {
+            "id": "34926",
+            "name": "Великие Трояны",
+            "url": "Velyki Troyany-Kirovogradska"
+        },
+        {
+            "id": "35010",
+            "name": "Великодрюково",
+            "url": "Velykodryukove-Kirovogradska"
+        },
+        {
+            "id": "35137",
+            "name": "Вербовка",
+            "url": "Verbivka-Kirovogradska"
+        },
+        {
+            "id": "35110",
+            "name": "Верблюжка",
+            "url": "Verblyuzhka-Kirovogradska"
+        },
+        {
+            "id": "35156",
+            "name": "Вербовое",
+            "url": "Verbove-Kirovogradska"
+        },
+        {
+            "id": "35336",
+            "name": "Верховцы",
+            "url": "Verkhivtsi-Kirovogradska"
+        },
+        {
+            "id": "35244",
+            "name": "Верхнеингульское",
+            "url": "Verkhnoinhulske-Kirovogradska"
+        },
+        {
+            "id": "35356",
+            "name": "Вершино-Каменка",
+            "url": "Vershyno-Kamyanka-Kirovogradska"
+        },
+        {
+            "id": "35432",
+            "name": "Веселое",
+            "url": "Vesele-Kirovogradska"
+        },
+        {
+            "id": "35476",
+            "name": "Веселые Боковеньки",
+            "url": "Veseli Bokovenky-Kirovogradska"
+        },
+        {
+            "id": "35392",
+            "name": "Веселовка",
+            "url": "Veselivka-Kirovogradska"
+        },
+        {
+            "id": "35511",
+            "name": "Веснянка",
+            "url": "Vesnyanka-Kirovogradska"
+        },
+        {
+            "id": "52132",
+            "name": "Окнина",
+            "url": "Viknyna-Kirovogradska"
+        },
+        {
+            "id": "52308",
+            "name": "Ольховое",
+            "url": "Vilkhove-Kirovogradska"
+        },
+        {
+            "id": "52299",
+            "name": "Ольховецкое",
+            "url": "Vilkhovetske-Kirovogradska"
+        },
+        {
+            "id": "36306",
+            "name": "Вольные Луки",
+            "url": "Vilni Luky-Kirovogradska"
+        },
+        {
+            "id": "36309",
+            "name": "Вольный Посад",
+            "url": "Vilnyi Posad-Kirovogradska"
+        },
+        {
+            "id": "35211",
+            "name": "Верное",
+            "url": "Virne-Kirovogradska"
+        },
+        {
+            "id": "51975",
+            "name": "Овсяники",
+            "url": "Vivsyanyky-Kirovogradska"
+        },
+        {
+            "id": "35938",
+            "name": "Владиславка",
+            "url": "Vladyslavka-Kirovogradska"
+        },
+        {
+            "id": "36011",
+            "name": "Водяное",
+            "url": "Vodyane-Kirovogradska"
+        },
+        {
+            "id": "35992",
+            "name": "Водяно-Михайловка",
+            "url": "Vodyano-Mykhailivka-Kirovogradska"
+        },
+        {
+            "id": "36068",
+            "name": "Войновка",
+            "url": "Voinivka-Kirovogradska"
+        },
+        {
+            "id": "35892",
+            "name": "Владимировка",
+            "url": "Volodymyrivka-Kirovogradska"
+        },
+        {
+            "id": "35867",
+            "name": "Владимиро-Ульяновка",
+            "url": "Volodymyro-Ulyanovka-Kirovogradska"
+        },
+        {
+            "id": "36196",
+            "name": "Волошки",
+            "url": "Voloshky-Kirovogradska"
+        },
+        {
+            "id": "36363",
+            "name": "Воробьевка",
+            "url": "Vorobivka-Kirovogradska"
+        },
+        {
+            "id": "36403",
+            "name": "Вороновка",
+            "url": "Voronivka-Kirovogradska"
+        },
+        {
+            "id": "36419",
+            "name": "Воронцовка",
+            "url": "Vorontsivka-Kirovogradska"
+        },
+        {
+            "id": "36239",
+            "name": "Волчья Балка",
+            "url": "Vovcha Balka-Kirovogradska"
+        },
+        {
+            "id": "36521",
+            "name": "Вукитичево",
+            "url": "Vukytycheve-Kirovogradska"
+        },
+        {
+            "id": "35566",
+            "name": "Видное",
+            "url": "Vydne-Kirovogradska"
+        },
+        {
+            "id": "35700",
+            "name": "Виноградовка",
+            "url": "Vynohradivka-Kirovogradska"
+        },
+        {
+            "id": "35684",
+            "name": "Виноградное",
+            "url": "Vynohradne-Kirovogradska"
+        },
+        {
+            "id": "36652",
+            "name": "Высь",
+            "url": "Vys-Kirovogradska"
+        },
+        {
+            "id": "36647",
+            "name": "Высшие Верещаки",
+            "url": "Vyshchi Vereshchaky-Kirovogradska"
+        },
+        {
+            "id": "35791",
+            "name": "Вишневка",
+            "url": "Vyshnivka-Kirovogradska"
+        },
+        {
+            "id": "35839",
+            "name": "Вишневцы",
+            "url": "Vyshnivtsi-Kirovogradska"
+        },
+        {
+            "id": "35739",
+            "name": "Височаново",
+            "url": "Vysochanove-Kirovogradska"
+        },
+        {
+            "id": "36597",
+            "name": "Высокие Байраки",
+            "url": "Vysoki Bairaky-Kirovogradska"
+        },
+        {
+            "id": "36632",
+            "name": "Высоцкое",
+            "url": "Vysotske-Kirovogradska"
+        },
+        {
+            "id": "35759",
+            "name": "Витязевка",
+            "url": "Vytyazivka-Kirovogradska"
+        },
+        {
+            "id": "36676",
+            "name": "Вьюнки",
+            "url": "Vyunky-Kirovogradska"
+        },
+        {
+            "id": "64429",
+            "name": "Яблоновка",
+            "url": "Yablunivka-Kirovogradska"
+        },
+        {
+            "id": "64485",
+            "name": "Ягодное",
+            "url": "Yahidne-Kirovogradska"
+        },
+        {
+            "id": "28881",
+            "name": "Акимовка",
+            "url": "Yakymivka-Kirovogradska"
+        },
+        {
+            "id": "64605",
+            "name": "Яремовка",
+            "url": "Yaremivka-Kirovogradska"
+        },
+        {
+            "id": "64744",
+            "name": "Ясное",
+            "url": "Yasne-Kirovogradska"
+        },
+        {
+            "id": "64707",
+            "name": "Ясиновое",
+            "url": "Yasynove-Kirovogradska"
+        },
+        {
+            "id": "64700",
+            "name": "Ясиноватка",
+            "url": "Yasynuvatka-Kirovogradska"
+        },
+        {
+            "id": "64778",
+            "name": "Ятрань",
+            "url": "Yatran-Kirovogradska"
+        },
+        {
+            "id": "39784",
+            "name": "Егоровка",
+            "url": "Yehorivka-Kirovogradska"
+        },
+        {
+            "id": "39845",
+            "name": "Емиловка",
+            "url": "Yemylivka-Kirovogradska"
+        },
+        {
+            "id": "42026",
+            "name": "Йосиповка",
+            "url": "Yosypivka-Kirovogradska"
+        },
+        {
+            "id": "64389",
+            "name": "Юхимово",
+            "url": "Yukhymove-Kirovogradska"
+        },
+        {
+            "id": "64368",
+            "name": "Юрьевка",
+            "url": "Yurivka-Kirovogradska"
+        },
+        {
+            "id": "64288",
+            "name": "Южное",
+            "url": "Yuzhne-Kirovogradska"
+        },
+        {
+            "id": "40991",
+            "name": "Захаровка",
+            "url": "Zakharivka-Kirovogradska"
+        },
+        {
+            "id": "41002",
+            "name": "Захидное",
+            "url": "Zakhidne-Kirovogradska"
+        },
+        {
+            "id": "40585",
+            "name": "Зализничное",
+            "url": "Zaliznychne-Kirovogradska"
+        },
+        {
+            "id": "40685",
+            "name": "Занфировка",
+            "url": "Zanfirivka-Kirovogradska"
+        },
+        {
+            "id": "40789",
+            "name": "Запорожье",
+            "url": "Zaporizhzhia-Kirovogradska"
+        },
+        {
+            "id": "40851",
+            "name": "Заречье",
+            "url": "Zarichchya-Kirovogradska"
+        },
+        {
+            "id": "41017",
+            "name": "Защита",
+            "url": "Zashchyta-Kirovogradska"
+        },
+        {
+            "id": "40317",
+            "name": "Завадовка",
+            "url": "Zavadivka-Kirovogradska"
+        },
+        {
+            "id": "40377",
+            "name": "Завтурово",
+            "url": "Zavturove-Kirovogradska"
+        },
+        {
+            "id": "41110",
+            "name": "Зеленая Балка",
+            "url": "Zelena Balka-Kirovogradska"
+        },
+        {
+            "id": "41174",
+            "name": "Зеленое",
+            "url": "Zelene-Kirovogradska"
+        },
+        {
+            "id": "41211",
+            "name": "Зеленый Барвинок",
+            "url": "Zelenyi Barvinok-Kirovogradska"
+        },
+        {
+            "id": "41233",
+            "name": "Зеленый Гай",
+            "url": "Zelenyi Hai-Kirovogradska"
+        },
+        {
+            "id": "39905",
+            "name": "Жакчик",
+            "url": "Zhakchyk-Kirovogradska"
+        },
+        {
+            "id": "39929",
+            "name": "Жевановка",
+            "url": "Zhevanivka-Kirovogradska"
+        },
+        {
+            "id": "41081",
+            "name": "Згода",
+            "url": "Zhoda-Kirovogradska"
+        },
+        {
+            "id": "40073",
+            "name": "Жовтневое",
+            "url": "Zhovtneve-Kirovogradska"
+        },
+        {
+            "id": "40186",
+            "name": "Журавка",
+            "url": "Zhuravka-Kirovogradska"
+        },
+        {
+            "id": "40205",
+            "name": "Журавлинка",
+            "url": "Zhuravlynka-Kirovogradska"
+        },
+        {
+            "id": "40225",
+            "name": "Журовка",
+            "url": "Zhurivka-Kirovogradska"
+        },
+        {
+            "id": "39989",
+            "name": "Живановка",
+            "url": "Zhyvanivka-Kirovogradska"
+        },
+        {
+            "id": "41356",
+            "name": "Змеево",
+            "url": "Zmiiove-Kirovogradska"
+        },
+        {
+            "id": "41397",
+            "name": "Золотаревка",
+            "url": "Zolotarivka-Kirovogradska"
+        },
+        {
+            "id": "41414",
+            "name": "Золотницкое",
+            "url": "Zolotnytske-Kirovogradska"
+        },
+        {
+            "id": "40916",
+            "name": "Заря",
+            "url": "Zorya-Kirovogradska"
+        },
+        {
+            "id": "41481",
+            "name": "Зразковое",
+            "url": "Zrazkove-Kirovogradska"
+        },
+        {
+            "id": "41487",
+            "name": "Зрубанцы",
+            "url": "Zrubantsi-Kirovogradska"
+        },
+        {
+            "id": "41064",
+            "name": "Зверевка",
+            "url": "Zvirivka-Kirovogradska"
+        },
+        {
+            "id": "41523",
+            "name": "Зыбково",
+            "url": "Zybkove-Kirovogradska"
+        }
+    ]
+}

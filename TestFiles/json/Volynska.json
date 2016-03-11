@@ -1,0 +1,4705 @@
+{
+    "state": "success",
+    "data": [
+        {
+            "id": "28520",
+            "name": "Адамчуки",
+            "url": "Adamchuky-Volynska"
+        },
+        {
+            "id": "28498",
+            "name": "Адамовка",
+            "url": "Adamivka-Volynska"
+        },
+        {
+            "id": "30103",
+            "name": "Амбуков",
+            "url": "Ambukiv-Volynska"
+        },
+        {
+            "id": "30647",
+            "name": "Антоновка",
+            "url": "Antonivka-Volynska"
+        },
+        {
+            "id": "31290",
+            "name": "Арсеновичи",
+            "url": "Arsenovychi-Volynska"
+        },
+        {
+            "id": "32036",
+            "name": "Бабаци",
+            "url": "Babatsi-Volynska"
+        },
+        {
+            "id": "32143",
+            "name": "Байковцы",
+            "url": "Baikivtsi-Volynska"
+        },
+        {
+            "id": "32110",
+            "name": "Баев",
+            "url": "Baiv-Volynska"
+        },
+        {
+            "id": "32466",
+            "name": "Бахов",
+            "url": "Bakhiv-Volynska"
+        },
+        {
+            "id": "32176",
+            "name": "Баковцы",
+            "url": "Bakivtsi-Volynska"
+        },
+        {
+            "id": "32365",
+            "name": "Барвинок",
+            "url": "Barvinok-Volynska"
+        },
+        {
+            "id": "32488",
+            "name": "Башлыки",
+            "url": "Bashlyky-Volynska"
+        },
+        {
+            "id": "32490",
+            "name": "Башова",
+            "url": "Bashova-Volynska"
+        },
+        {
+            "id": "32505",
+            "name": "Бегета",
+            "url": "Beheta-Volynska"
+        },
+        {
+            "id": "32835",
+            "name": "Береговое",
+            "url": "Berehove-Volynska"
+        },
+        {
+            "id": "33012",
+            "name": "Береск",
+            "url": "Beresk-Volynska"
+        },
+        {
+            "id": "33044",
+            "name": "Берестяное",
+            "url": "Berestyane-Volynska"
+        },
+        {
+            "id": "32884",
+            "name": "Береза",
+            "url": "Bereza-Volynska"
+        },
+        {
+            "id": "32851",
+            "name": "Бережанка",
+            "url": "Berezhanka-Volynska"
+        },
+        {
+            "id": "32866",
+            "name": "Бережница",
+            "url": "Berezhnytsya-Volynska"
+        },
+        {
+            "id": "32882",
+            "name": "Бережцы",
+            "url": "Berezhtsi-Volynska"
+        },
+        {
+            "id": "32920",
+            "name": "Березная Воля",
+            "url": "Berezna Volya-Volynska"
+        },
+        {
+            "id": "32925",
+            "name": "Березники",
+            "url": "Bereznyky-Volynska"
+        },
+        {
+            "id": "33004",
+            "name": "Березолуки",
+            "url": "Berezoluky-Volynska"
+        },
+        {
+            "id": "32951",
+            "name": "Берёзовичи",
+            "url": "Berezovychi-Volynska"
+        },
+        {
+            "id": "32909",
+            "name": "Березичи",
+            "url": "Berezychi-Volynska"
+        },
+        {
+            "id": "33057",
+            "name": "Бермешев",
+            "url": "Bermeshiv-Volynska"
+        },
+        {
+            "id": "32568",
+            "name": "Белашов",
+            "url": "Bilashiv-Volynska"
+        },
+        {
+            "id": "32713",
+            "name": "Белополь",
+            "url": "Bilopil-Volynska"
+        },
+        {
+            "id": "32726",
+            "name": "Белосток",
+            "url": "Bilostok-Volynska"
+        },
+        {
+            "id": "32628",
+            "name": "Беличи",
+            "url": "Bilychi-Volynska"
+        },
+        {
+            "id": "32619",
+            "name": "Белин",
+            "url": "Bilyn-Volynska"
+        },
+        {
+            "id": "33642",
+            "name": "Борки",
+            "url": "Birky-Volynska"
+        },
+        {
+            "id": "33216",
+            "name": "Блаженик",
+            "url": "Blazhenyk-Volynska"
+        },
+        {
+            "id": "33260",
+            "name": "Боблы",
+            "url": "Bobly-Volynska"
+        },
+        {
+            "id": "33258",
+            "name": "Бобичи",
+            "url": "Bobychi-Volynska"
+        },
+        {
+            "id": "33440",
+            "name": "Бодячев",
+            "url": "Bodyachiv-Volynska"
+        },
+        {
+            "id": "33406",
+            "name": "Боголюбы",
+            "url": "Boholyuby-Volynska"
+        },
+        {
+            "id": "33418",
+            "name": "Богуновка",
+            "url": "Bohunivka-Volynska"
+        },
+        {
+            "id": "33429",
+            "name": "Богушовка",
+            "url": "Bohushivka-Volynska"
+        },
+        {
+            "id": "33431",
+            "name": "Богушовская Марьяновка",
+            "url": "Bohushivska Maryanivka-Volynska"
+        },
+        {
+            "id": "33601",
+            "name": "Боратин",
+            "url": "Boratyn-Volynska"
+        },
+        {
+            "id": "33708",
+            "name": "Борохов",
+            "url": "Borokhiv-Volynska"
+        },
+        {
+            "id": "33676",
+            "name": "Боровое",
+            "url": "Borove-Volynska"
+        },
+        {
+            "id": "33675",
+            "name": "Боровно",
+            "url": "Borovne-Volynska"
+        },
+        {
+            "id": "33686",
+            "name": "Боровуха",
+            "url": "Borovukha-Volynska"
+        },
+        {
+            "id": "33670",
+            "name": "Боровичи",
+            "url": "Borovychi-Volynska"
+        },
+        {
+            "id": "33741",
+            "name": "Борщовка",
+            "url": "Borshchivka-Volynska"
+        },
+        {
+            "id": "33719",
+            "name": "Бортнов",
+            "url": "Bortniv-Volynska"
+        },
+        {
+            "id": "33721",
+            "name": "Бортяховка",
+            "url": "Bortyakhivka-Volynska"
+        },
+        {
+            "id": "33623",
+            "name": "Борисковичи",
+            "url": "Boryskovychi-Volynska"
+        },
+        {
+            "id": "33620",
+            "name": "Борзовая",
+            "url": "Borzova-Volynska"
+        },
+        {
+            "id": "33770",
+            "name": "Ботин",
+            "url": "Botyn-Volynska"
+        },
+        {
+            "id": "33829",
+            "name": "Браны",
+            "url": "Brany-Volynska"
+        },
+        {
+            "id": "33925",
+            "name": "Бродки",
+            "url": "Bridky-Volynska"
+        },
+        {
+            "id": "33943",
+            "name": "Бродятино",
+            "url": "Brodyatyne-Volynska"
+        },
+        {
+            "id": "33950",
+            "name": "Броница",
+            "url": "Bronytsya-Volynska"
+        },
+        {
+            "id": "33964",
+            "name": "Брунетовка",
+            "url": "Brunetivka-Volynska"
+        },
+        {
+            "id": "33904",
+            "name": "Брище",
+            "url": "Bryshche-Volynska"
+        },
+        {
+            "id": "34004",
+            "name": "Бубнов",
+            "url": "Bubniv-Volynska"
+        },
+        {
+            "id": "34356",
+            "name": "Бучин",
+            "url": "Buchyn-Volynska"
+        },
+        {
+            "id": "34095",
+            "name": "Будки",
+            "url": "Budky-Volynska"
+        },
+        {
+            "id": "34104",
+            "name": "Будники",
+            "url": "Budnyky-Volynska"
+        },
+        {
+            "id": "34123",
+            "name": "Будятичи",
+            "url": "Budyatychi-Volynska"
+        },
+        {
+            "id": "34083",
+            "name": "Будище",
+            "url": "Budyshche-Volynska"
+        },
+        {
+            "id": "34171",
+            "name": "Буков",
+            "url": "Bukiv-Volynska"
+        },
+        {
+            "id": "34235",
+            "name": "Буркачи",
+            "url": "Burkachi-Volynska"
+        },
+        {
+            "id": "34338",
+            "name": "Буцин",
+            "url": "Butsyn-Volynska"
+        },
+        {
+            "id": "34377",
+            "name": "Буяны",
+            "url": "Buyany-Volynska"
+        },
+        {
+            "id": "34135",
+            "name": "Бузаки",
+            "url": "Buzaky-Volynska"
+        },
+        {
+            "id": "34126",
+            "name": "Бужанка",
+            "url": "Buzhanka-Volynska"
+        },
+        {
+            "id": "34129",
+            "name": "Бужаны",
+            "url": "Buzhany-Volynska"
+        },
+        {
+            "id": "34130",
+            "name": "Бужковичи",
+            "url": "Buzhkovychi-Volynska"
+        },
+        {
+            "id": "34412",
+            "name": "Быхов",
+            "url": "Bykhiv-Volynska"
+        },
+        {
+            "id": "34407",
+            "name": "Быстровица",
+            "url": "Bystrovytsya-Volynska"
+        },
+        {
+            "id": "33160",
+            "name": "Битень",
+            "url": "Byten-Volynska"
+        },
+        {
+            "id": "62580",
+            "name": "Чаруков",
+            "url": "Charukiv-Volynska"
+        },
+        {
+            "id": "63182",
+            "name": "Черче",
+            "url": "Cherche-Volynska"
+        },
+        {
+            "id": "63186",
+            "name": "Черчичи",
+            "url": "Cherchychi-Volynska"
+        },
+        {
+            "id": "62961",
+            "name": "Черемошная Воля",
+            "url": "Cheremoshna Volya-Volynska"
+        },
+        {
+            "id": "62962",
+            "name": "Черемошно",
+            "url": "Cheremoshne-Volynska"
+        },
+        {
+            "id": "62975",
+            "name": "Черемшанка",
+            "url": "Cheremshanka-Volynska"
+        },
+        {
+            "id": "62950",
+            "name": "Череваха",
+            "url": "Cherevakha-Volynska"
+        },
+        {
+            "id": "63014",
+            "name": "Черкасы",
+            "url": "Cherkasy-Volynska"
+        },
+        {
+            "id": "63173",
+            "name": "Черск",
+            "url": "Chersk-Volynska"
+        },
+        {
+            "id": "63192",
+            "name": "Честный Крест (Свитанок)",
+            "url": "Chesnyi Khrest (Svitanok)-Volynska"
+        },
+        {
+            "id": "63195",
+            "name": "Четвертня",
+            "url": "Chetvertnya-Volynska"
+        },
+        {
+            "id": "62596",
+            "name": "Чевель",
+            "url": "Chevel-Volynska"
+        },
+        {
+            "id": "63302",
+            "name": "Чмыкос",
+            "url": "Chmykos-Volynska"
+        },
+        {
+            "id": "63071",
+            "name": "Черниев",
+            "url": "Chorniiv-Volynska"
+        },
+        {
+            "id": "63124",
+            "name": "Черноплесы",
+            "url": "Chornoplesy-Volynska"
+        },
+        {
+            "id": "63134",
+            "name": "Черный Лес",
+            "url": "Chornyi Lis-Volynska"
+        },
+        {
+            "id": "63076",
+            "name": "Черников",
+            "url": "Chornykiv-Volynska"
+        },
+        {
+            "id": "63133",
+            "name": "Черныж",
+            "url": "Chornyzh-Volynska"
+        },
+        {
+            "id": "63312",
+            "name": "Чолница",
+            "url": "Chovnytsya-Volynska"
+        },
+        {
+            "id": "38506",
+            "name": "Дачное",
+            "url": "Dachne-Volynska"
+        },
+        {
+            "id": "38478",
+            "name": "Даровка",
+            "url": "Darivka-Volynska"
+        },
+        {
+            "id": "38477",
+            "name": "Дарницкое",
+            "url": "Darnytske-Volynska"
+        },
+        {
+            "id": "38487",
+            "name": "Датынь",
+            "url": "Datyn-Volynska"
+        },
+        {
+            "id": "38705",
+            "name": "Деревок",
+            "url": "Derevok-Volynska"
+        },
+        {
+            "id": "38740",
+            "name": "Дерно",
+            "url": "Derno-Volynska"
+        },
+        {
+            "id": "38756",
+            "name": "Десятина",
+            "url": "Desyatyna-Volynska"
+        },
+        {
+            "id": "38879",
+            "name": "Диброва",
+            "url": "Dibrova-Volynska"
+        },
+        {
+            "id": "38584",
+            "name": "Дедовичи",
+            "url": "Didovychi-Volynska"
+        },
+        {
+            "id": "38593",
+            "name": "Дедычи",
+            "url": "Didychi-Volynska"
+        },
+        {
+            "id": "38567",
+            "name": "Дегтев",
+            "url": "Dihtiv-Volynska"
+        },
+        {
+            "id": "39015",
+            "name": "Дмитровка",
+            "url": "Dmytrivka-Volynska"
+        },
+        {
+            "id": "39335",
+            "name": "Дольск",
+            "url": "Dolsk-Volynska"
+        },
+        {
+            "id": "39268",
+            "name": "Долина",
+            "url": "Dolyna-Volynska"
+        },
+        {
+            "id": "39284",
+            "name": "Долинка",
+            "url": "Dolynka-Volynska"
+        },
+        {
+            "id": "39345",
+            "name": "Доманово",
+            "url": "Domanove-Volynska"
+        },
+        {
+            "id": "39352",
+            "name": "Домашов",
+            "url": "Domashiv-Volynska"
+        },
+        {
+            "id": "39385",
+            "name": "Дорогиничи",
+            "url": "Dorohynychi-Volynska"
+        },
+        {
+            "id": "39400",
+            "name": "Доросини",
+            "url": "Dorosyni-Volynska"
+        },
+        {
+            "id": "39401",
+            "name": "Доротище",
+            "url": "Dorotyshche-Volynska"
+        },
+        {
+            "id": "39213",
+            "name": "Долгов",
+            "url": "Dovhiv-Volynska"
+        },
+        {
+            "id": "39236",
+            "name": "Долгоносы",
+            "url": "Dovhonosy-Volynska"
+        },
+        {
+            "id": "39189",
+            "name": "Довжица",
+            "url": "Dovzhytsya-Volynska"
+        },
+        {
+            "id": "39194",
+            "name": "Дожва",
+            "url": "Dozhva-Volynska"
+        },
+        {
+            "id": "39458",
+            "name": "Древини",
+            "url": "Drevyni-Volynska"
+        },
+        {
+            "id": "19416",
+            "name": "Жовтневое",
+            "url": "Zhovtneve"
+        },
+        {
+            "id": "19415",
+            "name": "Свитязь",
+            "url": "Svityaz"
+        },
+        {
+            "id": "19412",
+            "name": "Олыка",
+            "url": "Olyka"
+        },
+        {
+            "id": "19413",
+            "name": "Раков Лес",
+            "url": "RakovLes"
+        },
+        {
+            "id": "19411",
+            "name": "Нуйно",
+            "url": "Nuyno"
+        },
+        {
+            "id": "19409",
+            "name": "Голобы",
+            "url": "Goloby"
+        },
+        {
+            "id": "19410",
+            "name": "Луков",
+            "url": "Lukov"
+        },
+        {
+            "id": "39472",
+            "name": "Дроздни",
+            "url": "Drozdni-Volynska"
+        },
+        {
+            "id": "39588",
+            "name": "Дубовая Корчма",
+            "url": "Dubova Korchma-Volynska"
+        },
+        {
+            "id": "39611",
+            "name": "Дубовое",
+            "url": "Dubove-Volynska"
+        },
+        {
+            "id": "39640",
+            "name": "Дубровица",
+            "url": "Dubrovytsya-Volynska"
+        },
+        {
+            "id": "39562",
+            "name": "Дубичанское",
+            "url": "Dubychanske-Volynska"
+        },
+        {
+            "id": "39563",
+            "name": "Дубище",
+            "url": "Dubyshche-Volynska"
+        },
+        {
+            "id": "39724",
+            "name": "Духче",
+            "url": "Dukhche-Volynska"
+        },
+        {
+            "id": "39678",
+            "name": "Дулибы",
+            "url": "Duliby-Volynska"
+        },
+        {
+            "id": "38969",
+            "name": "Диковины",
+            "url": "Dykovyny-Volynska"
+        },
+        {
+            "id": "61543",
+            "name": "Фалемичи",
+            "url": "Falemychi-Volynska"
+        },
+        {
+            "id": "61560",
+            "name": "Фаринки",
+            "url": "Farynky-Volynska"
+        },
+        {
+            "id": "61595",
+            "name": "Фёдоровка",
+            "url": "Fedorivka-Volynska"
+        },
+        {
+            "id": "36802",
+            "name": "Гайки",
+            "url": "Haiky-Volynska"
+        },
+        {
+            "id": "36747",
+            "name": "Гаевое",
+            "url": "Haiove-Volynska"
+        },
+        {
+            "id": "36740",
+            "name": "Гаевка",
+            "url": "Haivka-Volynska"
+        },
+        {
+            "id": "36854",
+            "name": "Галузия",
+            "url": "Haluziya-Volynska"
+        },
+        {
+            "id": "36839",
+            "name": "Галичаны",
+            "url": "Halychany-Volynska"
+        },
+        {
+            "id": "36827",
+            "name": "Галина Воля",
+            "url": "Halyna Volya-Volynska"
+        },
+        {
+            "id": "36830",
+            "name": "Галиновка",
+            "url": "Halynivka-Volynska"
+        },
+        {
+            "id": "36920",
+            "name": "Гаразджа",
+            "url": "Harazdzha-Volynska"
+        },
+        {
+            "id": "36964",
+            "name": "Гать",
+            "url": "Hat-Volynska"
+        },
+        {
+            "id": "37017",
+            "name": "Гектары",
+            "url": "Hektary-Volynska"
+        },
+        {
+            "id": "37006",
+            "name": "Гевин",
+            "url": "Hevyn-Volynska"
+        },
+        {
+            "id": "37743",
+            "name": "Горькая Полонка",
+            "url": "Hirka Polonka-Volynska"
+        },
+        {
+            "id": "37572",
+            "name": "Горка",
+            "url": "Hirky-Volynska"
+        },
+        {
+            "id": "37587",
+            "name": "Горники",
+            "url": "Hirnyky-Volynska"
+        },
+        {
+            "id": "37109",
+            "name": "Гишин",
+            "url": "Hishyn-Volynska"
+        },
+        {
+            "id": "37221",
+            "name": "Глухи",
+            "url": "Hlukhy-Volynska"
+        },
+        {
+            "id": "37166",
+            "name": "Глинянка",
+            "url": "Hlynyanka-Volynska"
+        },
+        {
+            "id": "37312",
+            "name": "Годомичи",
+            "url": "Hodomychi-Volynska"
+        },
+        {
+            "id": "37311",
+            "name": "Годовичи",
+            "url": "Hodovychi-Volynska"
+        },
+        {
+            "id": "37319",
+            "name": "Годынь",
+            "url": "Hodyn-Volynska"
+        },
+        {
+            "id": "37369",
+            "name": "Головно",
+            "url": "Holovne-Volynska"
+        },
+        {
+            "id": "37360",
+            "name": "Головище",
+            "url": "Holovyshche-Volynska"
+        },
+        {
+            "id": "37450",
+            "name": "Голядин",
+            "url": "Holyadyn-Volynska"
+        },
+        {
+            "id": "37443",
+            "name": "Голышев",
+            "url": "Holyshiv-Volynska"
+        },
+        {
+            "id": "37492",
+            "name": "Гончий Брод",
+            "url": "Honchyi Brid-Volynska"
+        },
+        {
+            "id": "37504",
+            "name": "Гораймовка",
+            "url": "Horaimivka-Volynska"
+        },
+        {
+            "id": "37563",
+            "name": "Горишнее",
+            "url": "Horishnje-Volynska"
+        },
+        {
+            "id": "37675",
+            "name": "Городно",
+            "url": "Horodnje-Volynska"
+        },
+        {
+            "id": "37682",
+            "name": "Городок",
+            "url": "Horodok-Volynska"
+        },
+        {
+            "id": "37620",
+            "name": "Городилец",
+            "url": "Horodylets-Volynska"
+        },
+        {
+            "id": "37622",
+            "name": "Городини",
+            "url": "Horodyni-Volynska"
+        },
+        {
+            "id": "37628",
+            "name": "Городище",
+            "url": "Horodysche-Volynska"
+        },
+        {
+            "id": "37711",
+            "name": "Гороховище",
+            "url": "Horokhovyshche-Volynska"
+        },
+        {
+            "id": "37751",
+            "name": "Горяновка",
+            "url": "Horyanivka-Volynska"
+        },
+        {
+            "id": "37562",
+            "name": "Горичев",
+            "url": "Horychiv-Volynska"
+        },
+        {
+            "id": "37552",
+            "name": "Горзвин",
+            "url": "Horzvyn-Volynska"
+        },
+        {
+            "id": "37809",
+            "name": "Грабово",
+            "url": "Hrabove-Volynska"
+        },
+        {
+            "id": "37835",
+            "name": "Градье",
+            "url": "Hraddya-Volynska"
+        },
+        {
+            "id": "37829",
+            "name": "Градиск",
+            "url": "Hradysk-Volynska"
+        },
+        {
+            "id": "37849",
+            "name": "Гранатов",
+            "url": "Hranativ-Volynska"
+        },
+        {
+            "id": "37929",
+            "name": "Гречища",
+            "url": "Hrechyshcha-Volynska"
+        },
+        {
+            "id": "37896",
+            "name": "Гредьки",
+            "url": "Hredky-Volynska"
+        },
+        {
+            "id": "37908",
+            "name": "Гремячее",
+            "url": "Hremyache-Volynska"
+        },
+        {
+            "id": "38079",
+            "name": "Грудки",
+            "url": "Hrudky-Volynska"
+        },
+        {
+            "id": "38107",
+            "name": "Грушев",
+            "url": "Hrushiv-Volynska"
+        },
+        {
+            "id": "38114",
+            "name": "Грушевка",
+            "url": "Hrushivka-Volynska"
+        },
+        {
+            "id": "38097",
+            "name": "Грузятин",
+            "url": "Hruzyatyn-Volynska"
+        },
+        {
+            "id": "38150",
+            "name": "Гряды",
+            "url": "Hryady-Volynska"
+        },
+        {
+            "id": "37943",
+            "name": "Григоровичи",
+            "url": "Hryhorovychi-Volynska"
+        },
+        {
+            "id": "37939",
+            "name": "Гривятки",
+            "url": "Hryvyatky-Volynska"
+        },
+        {
+            "id": "38176",
+            "name": "Губин",
+            "url": "Hubyn-Volynska"
+        },
+        {
+            "id": "38180",
+            "name": "Губин Первый",
+            "url": "Hubyn Pershyi-Volynska"
+        },
+        {
+            "id": "38210",
+            "name": "Гулевка",
+            "url": "Hulivka-Volynska"
+        },
+        {
+            "id": "38238",
+            "name": "Гуменцы",
+            "url": "Humentsi-Volynska"
+        },
+        {
+            "id": "38243",
+            "name": "Гумнище",
+            "url": "Humnyshche-Volynska"
+        },
+        {
+            "id": "38253",
+            "name": "Гупалы",
+            "url": "Hupaly-Volynska"
+        },
+        {
+            "id": "38357",
+            "name": "Гуща",
+            "url": "Hushcha-Volynska"
+        },
+        {
+            "id": "38298",
+            "name": "Гута",
+            "url": "Huta-Volynska"
+        },
+        {
+            "id": "38314",
+            "name": "Гута-Боровенская",
+            "url": "Huta-Borovenska-Volynska"
+        },
+        {
+            "id": "38320",
+            "name": "Гута-Каменская",
+            "url": "Huta-Kaminska-Volynska"
+        },
+        {
+            "id": "38323",
+            "name": "Гута-Лесовская",
+            "url": "Huta-Lisivska-Volynska"
+        },
+        {
+            "id": "41738",
+            "name": "Иванчицы",
+            "url": "Ivanchytsi-Volynska"
+        },
+        {
+            "id": "41594",
+            "name": "Иванов",
+            "url": "Ivaniv-Volynska"
+        },
+        {
+            "id": "41601",
+            "name": "Ивановка",
+            "url": "Ivanivka-Volynska"
+        },
+        {
+            "id": "41728",
+            "name": "Иваномысль",
+            "url": "Ivanomysl-Volynska"
+        },
+        {
+            "id": "41816",
+            "name": "Изов",
+            "url": "Izov-Volynska"
+        },
+        {
+            "id": "42963",
+            "name": "Качин",
+            "url": "Kachyn-Volynska"
+        },
+        {
+            "id": "42096",
+            "name": "Кадище",
+            "url": "Kadyshche-Volynska"
+        },
+        {
+            "id": "42298",
+            "name": "Калиновник",
+            "url": "Kalynovnyk-Volynska"
+        },
+        {
+            "id": "42203",
+            "name": "Каливица",
+            "url": "Kalyvytsya-Volynska"
+        },
+        {
+            "id": "42382",
+            "name": "Каменка",
+            "url": "Kamianka-Volynska"
+        },
+        {
+            "id": "42499",
+            "name": "Каменуха",
+            "url": "Kamyanukha-Volynska"
+        },
+        {
+            "id": "42707",
+            "name": "Карасин",
+            "url": "Karasyn-Volynska"
+        },
+        {
+            "id": "42780",
+            "name": "Карпиловка",
+            "url": "Karpylivka-Volynska"
+        },
+        {
+            "id": "42974",
+            "name": "Кашевка",
+            "url": "Kashivka-Volynska"
+        },
+        {
+            "id": "61811",
+            "name": "Хабарище",
+            "url": "Khabaryshche-Volynska"
+        },
+        {
+            "id": "62020",
+            "name": "Хмелев",
+            "url": "Khmeliv-Volynska"
+        },
+        {
+            "id": "62027",
+            "name": "Хмелевка",
+            "url": "Khmelivka-Volynska"
+        },
+        {
+            "id": "62051",
+            "name": "Хмельницкое",
+            "url": "Khmelnytske-Volynska"
+        },
+        {
+            "id": "62057",
+            "name": "Хобултова",
+            "url": "Khobultova-Volynska"
+        },
+        {
+            "id": "62109",
+            "name": "Холоневичи",
+            "url": "Kholonevychi-Volynska"
+        },
+        {
+            "id": "62110",
+            "name": "Холонов",
+            "url": "Kholoniv-Volynska"
+        },
+        {
+            "id": "62111",
+            "name": "Холопичи",
+            "url": "Kholopychi-Volynska"
+        },
+        {
+            "id": "62127",
+            "name": "Хомичи",
+            "url": "Khomychi-Volynska"
+        },
+        {
+            "id": "62149",
+            "name": "Хопнев",
+            "url": "Khopniv-Volynska"
+        },
+        {
+            "id": "62154",
+            "name": "Хорев",
+            "url": "Khoriv-Volynska"
+        },
+        {
+            "id": "62157",
+            "name": "Хорлупы",
+            "url": "Khorlupy-Volynska"
+        },
+        {
+            "id": "62175",
+            "name": "Хорохорин",
+            "url": "Khorokhoryn-Volynska"
+        },
+        {
+            "id": "62200",
+            "name": "Хотешов",
+            "url": "Khoteshiv-Volynska"
+        },
+        {
+            "id": "62226",
+            "name": "Хоцунь",
+            "url": "Khotsun-Volynska"
+        },
+        {
+            "id": "62220",
+            "name": "Хотячов",
+            "url": "Khotyachiv-Volynska"
+        },
+        {
+            "id": "62201",
+            "name": "Хотивель",
+            "url": "Khotyvel-Volynska"
+        },
+        {
+            "id": "62266",
+            "name": "Хромяков",
+            "url": "Khromyakiv-Volynska"
+        },
+        {
+            "id": "62272",
+            "name": "Хряск",
+            "url": "Khryask-Volynska"
+        },
+        {
+            "id": "62246",
+            "name": "Хрипаличи",
+            "url": "Khrypalychi-Volynska"
+        },
+        {
+            "id": "62299",
+            "name": "Хутомир",
+            "url": "Khutomyr-Volynska"
+        },
+        {
+            "id": "61933",
+            "name": "Хворостов",
+            "url": "Khvorostiv-Volynska"
+        },
+        {
+            "id": "43349",
+            "name": "Кладнов",
+            "url": "Kladniv-Volynska"
+        },
+        {
+            "id": "43375",
+            "name": "Клепачев",
+            "url": "Klepachiv-Volynska"
+        },
+        {
+            "id": "43360",
+            "name": "Клевецк",
+            "url": "Klevetsk-Volynska"
+        },
+        {
+            "id": "43382",
+            "name": "Клетицк",
+            "url": "Klitytsk-Volynska"
+        },
+        {
+            "id": "43441",
+            "name": "Клопочин",
+            "url": "Klopochyn-Volynska"
+        },
+        {
+            "id": "43453",
+            "name": "Клубочин",
+            "url": "Klubochyn-Volynska"
+        },
+        {
+            "id": "43463",
+            "name": "Клюск",
+            "url": "Klyusk-Volynska"
+        },
+        {
+            "id": "43541",
+            "name": "Кобче",
+            "url": "Kobche-Volynska"
+        },
+        {
+            "id": "43635",
+            "name": "Когильное",
+            "url": "Kohylne-Volynska"
+        },
+        {
+            "id": "43772",
+            "name": "Колки",
+            "url": "Kolky-Volynska"
+        },
+        {
+            "id": "43780",
+            "name": "Колмов",
+            "url": "Kolmiv-Volynska"
+        },
+        {
+            "id": "43783",
+            "name": "Колодеже",
+            "url": "Kolodezhe-Volynska"
+        },
+        {
+            "id": "43799",
+            "name": "Колодии",
+            "url": "Kolodii-Volynska"
+        },
+        {
+            "id": "43805",
+            "name": "Колодница",
+            "url": "Kolodnytsya-Volynska"
+        },
+        {
+            "id": "43785",
+            "name": "Колодезное",
+            "url": "Kolodyazhne-Volynska"
+        },
+        {
+            "id": "43844",
+            "name": "Колона",
+            "url": "Kolona-Volynska"
+        },
+        {
+            "id": "43874",
+            "name": "Колпытов",
+            "url": "Kolpytiv-Volynska"
+        },
+        {
+            "id": "43903",
+            "name": "Комаров",
+            "url": "Komariv-Volynska"
+        },
+        {
+            "id": "43933",
+            "name": "Комарово",
+            "url": "Komarove-Volynska"
+        },
+        {
+            "id": "44055",
+            "name": "Конопелька",
+            "url": "Konopelka-Volynska"
+        },
+        {
+            "id": "44032",
+            "name": "Конище",
+            "url": "Konyshche-Volynska"
+        },
+        {
+            "id": "44121",
+            "name": "Конюхи",
+            "url": "Konyukhy-Volynska"
+        },
+        {
+            "id": "44167",
+            "name": "Копачовка",
+            "url": "Kopachivka-Volynska"
+        },
+        {
+            "id": "44195",
+            "name": "Копылье",
+            "url": "Kopyllya-Volynska"
+        },
+        {
+            "id": "44394",
+            "name": "Коршев",
+            "url": "Korshiv-Volynska"
+        },
+        {
+            "id": "44399",
+            "name": "Коршовец",
+            "url": "Korshovets-Volynska"
+        },
+        {
+            "id": "44366",
+            "name": "Корсыни",
+            "url": "Korsyni-Volynska"
+        },
+        {
+            "id": "44407",
+            "name": "Корытница",
+            "url": "Korytnytsya-Volynska"
+        },
+        {
+            "id": "44635",
+            "name": "Кошары",
+            "url": "Koshary-Volynska"
+        },
+        {
+            "id": "44641",
+            "name": "Кошев",
+            "url": "Koshiv-Volynska"
+        },
+        {
+            "id": "44442",
+            "name": "Космовка",
+            "url": "Kosmivka-Volynska"
+        },
+        {
+            "id": "44497",
+            "name": "Костюхновка",
+            "url": "Kostyukhnivka-Volynska"
+        },
+        {
+            "id": "44437",
+            "name": "Косицы",
+            "url": "Kosytsi-Volynska"
+        },
+        {
+            "id": "44534",
+            "name": "Котов",
+            "url": "Kotiv-Volynska"
+        },
+        {
+            "id": "44602",
+            "name": "Коцюры",
+            "url": "Kotsyury-Volynska"
+        },
+        {
+            "id": "44567",
+            "name": "Котуш",
+            "url": "Kotush-Volynska"
+        },
+        {
+            "id": "43601",
+            "name": "Ковбань",
+            "url": "Kovban-Volynska"
+        },
+        {
+            "id": "42120",
+            "name": "Казатин",
+            "url": "Koziatyn-Volynska"
+        },
+        {
+            "id": "43697",
+            "name": "Козлов",
+            "url": "Kozliv-Volynska"
+        },
+        {
+            "id": "43694",
+            "name": "Козлиничи",
+            "url": "Kozlynychi-Volynska"
+        },
+        {
+            "id": "43711",
+            "name": "Козовата",
+            "url": "Kozovata-Volynska"
+        },
+        {
+            "id": "43682",
+            "name": "Козин",
+            "url": "Kozyn-Volynska"
+        },
+        {
+            "id": "44959",
+            "name": "Красов",
+            "url": "Krasiv-Volynska"
+        },
+        {
+            "id": "44732",
+            "name": "Краска",
+            "url": "Kraska-Volynska"
+        },
+        {
+            "id": "44802",
+            "name": "Краснодубье",
+            "url": "Krasnodubya-Volynska"
+        },
+        {
+            "id": "44915",
+            "name": "Красностав",
+            "url": "Krasnostav-Volynska"
+        },
+        {
+            "id": "44773",
+            "name": "Красноволя",
+            "url": "Krasnovolya-Volynska"
+        },
+        {
+            "id": "44933",
+            "name": "Красный Бор",
+            "url": "Krasnyi Bir-Volynska"
+        },
+        {
+            "id": "44758",
+            "name": "Красниловка",
+            "url": "Krasnylivka-Volynska"
+        },
+        {
+            "id": "44970",
+            "name": "Крать",
+            "url": "Krat-Volynska"
+        },
+        {
+            "id": "45024",
+            "name": "Кречев",
+            "url": "Krechiv-Volynska"
+        },
+        {
+            "id": "44985",
+            "name": "Кременец",
+            "url": "Kremenets-Volynska"
+        },
+        {
+            "id": "44998",
+            "name": "Кремеш",
+            "url": "Kremesh-Volynska"
+        },
+        {
+            "id": "45180",
+            "name": "Кропивники",
+            "url": "Kropyvnyky-Volynska"
+        },
+        {
+            "id": "44712",
+            "name": "Крапивщина",
+            "url": "Kropyvshchyna-Volynska"
+        },
+        {
+            "id": "45168",
+            "name": "Кроватка",
+            "url": "Krovatka-Volynska"
+        },
+        {
+            "id": "45193",
+            "name": "Кругель",
+            "url": "Kruhel-Volynska"
+        },
+        {
+            "id": "45283",
+            "name": "Крухиничи",
+            "url": "Krukhynychi-Volynska"
+        },
+        {
+            "id": "45227",
+            "name": "Крупа",
+            "url": "Krupa-Volynska"
+        },
+        {
+            "id": "45289",
+            "name": "Крушинец",
+            "url": "Krushynets-Volynska"
+        },
+        {
+            "id": "45161",
+            "name": "Кричевичи",
+            "url": "Krychevychi-Volynska"
+        },
+        {
+            "id": "45316",
+            "name": "Крымно",
+            "url": "Krymne-Volynska"
+        },
+        {
+            "id": "45057",
+            "name": "Кривлин",
+            "url": "Kryvlyn-Volynska"
+        },
+        {
+            "id": "45299",
+            "name": "Крыжовка",
+            "url": "Kryzhivka-Volynska"
+        },
+        {
+            "id": "45298",
+            "name": "Крыжовая",
+            "url": "Kryzhova-Volynska"
+        },
+        {
+            "id": "45744",
+            "name": "Кухари",
+            "url": "Kukhari-Volynska"
+        },
+        {
+            "id": "45456",
+            "name": "Куклы",
+            "url": "Kukly-Volynska"
+        },
+        {
+            "id": "45518",
+            "name": "Кульчин",
+            "url": "Kulchyn-Volynska"
+        },
+        {
+            "id": "45491",
+            "name": "Куликовичи",
+            "url": "Kulykovychi-Volynska"
+        },
+        {
+            "id": "45542",
+            "name": "Кумовище",
+            "url": "Kumovyshche-Volynska"
+        },
+        {
+            "id": "45691",
+            "name": "Куснища",
+            "url": "Kusnyshcha-Volynska"
+        },
+        {
+            "id": "45720",
+            "name": "Кутров",
+            "url": "Kutriv-Volynska"
+        },
+        {
+            "id": "45727",
+            "name": "Куты",
+            "url": "Kuty-Volynska"
+        },
+        {
+            "id": "43008",
+            "name": "Квасов",
+            "url": "Kvasiv-Volynska"
+        },
+        {
+            "id": "43009",
+            "name": "Квасовица",
+            "url": "Kvasovytsya-Volynska"
+        },
+        {
+            "id": "43027",
+            "name": "Квитневое",
+            "url": "Kvitneve-Volynska"
+        },
+        {
+            "id": "43301",
+            "name": "Кисилин",
+            "url": "Kysylyn-Volynska"
+        },
+        {
+            "id": "43341",
+            "name": "Кияж",
+            "url": "Kyyazh-Volynska"
+        },
+        {
+            "id": "45889",
+            "name": "Ладынь",
+            "url": "Ladyn-Volynska"
+        },
+        {
+            "id": "45989",
+            "name": "Лахвичи",
+            "url": "Lakhvychi-Volynska"
+        },
+        {
+            "id": "45958",
+            "name": "Лапни",
+            "url": "Lapni-Volynska"
+        },
+        {
+            "id": "45972",
+            "name": "Ласков",
+            "url": "Laskiv-Volynska"
+        },
+        {
+            "id": "45855",
+            "name": "Лавров",
+            "url": "Lavriv-Volynska"
+        },
+        {
+            "id": "46082",
+            "name": "Лежница",
+            "url": "Lezhnytsya-Volynska"
+        },
+        {
+            "id": "46268",
+            "name": "Лесняки",
+            "url": "Lisnyaky-Volynska"
+        },
+        {
+            "id": "46286",
+            "name": "Лесовое",
+            "url": "Lisove-Volynska"
+        },
+        {
+            "id": "46593",
+            "name": "Литогоща",
+            "url": "Litohoshcha-Volynska"
+        },
+        {
+            "id": "46597",
+            "name": "Литын",
+            "url": "Lityn-Volynska"
+        },
+        {
+            "id": "46630",
+            "name": "Лобачовка",
+            "url": "Lobachivka-Volynska"
+        },
+        {
+            "id": "46633",
+            "name": "Лобна",
+            "url": "Lobna-Volynska"
+        },
+        {
+            "id": "46744",
+            "name": "Локутки",
+            "url": "Lokutky-Volynska"
+        },
+        {
+            "id": "46753",
+            "name": "Ломачанка",
+            "url": "Lomachanka-Volynska"
+        },
+        {
+            "id": "46322",
+            "name": "Летничье",
+            "url": "Lotnyche-Volynska"
+        },
+        {
+            "id": "46640",
+            "name": "Ловища",
+            "url": "Lovyshcha-Volynska"
+        },
+        {
+            "id": "47054",
+            "name": "Лучичи",
+            "url": "Luchychi-Volynska"
+        },
+        {
+            "id": "47052",
+            "name": "Лучицы",
+            "url": "Luchytsi-Volynska"
+        },
+        {
+            "id": "46922",
+            "name": "Лудин",
+            "url": "Ludyn-Volynska"
+        },
+        {
+            "id": "46897",
+            "name": "Луговое",
+            "url": "Luhove-Volynska"
+        },
+        {
+            "id": "46999",
+            "name": "Луковка",
+            "url": "Lukivka-Volynska"
+        },
+        {
+            "id": "46997",
+            "name": "Луковичи",
+            "url": "Lukovychi-Volynska"
+        },
+        {
+            "id": "47107",
+            "name": "Лычаны",
+            "url": "Lychany-Volynska"
+        },
+        {
+            "id": "47108",
+            "name": "Лычки",
+            "url": "Lychky-Volynska"
+        },
+        {
+            "id": "46613",
+            "name": "Личины",
+            "url": "Lychyny-Volynska"
+        },
+        {
+            "id": "46441",
+            "name": "Линев",
+            "url": "Lyniv-Volynska"
+        },
+        {
+            "id": "46442",
+            "name": "Линевка",
+            "url": "Lynivka-Volynska"
+        },
+        {
+            "id": "46453",
+            "name": "Липа",
+            "url": "Lypa-Volynska"
+        },
+        {
+            "id": "46473",
+            "name": "Липляны",
+            "url": "Lyplyany-Volynska"
+        },
+        {
+            "id": "46463",
+            "name": "Липины",
+            "url": "Lypyny-Volynska"
+        },
+        {
+            "id": "47113",
+            "name": "Лыще",
+            "url": "Lyshche-Volynska"
+        },
+        {
+            "id": "46616",
+            "name": "Лишневка",
+            "url": "Lyshnivka-Volynska"
+        },
+        {
+            "id": "47081",
+            "name": "Лысняки",
+            "url": "Lysnyaky-Volynska"
+        },
+        {
+            "id": "46588",
+            "name": "Литовеж",
+            "url": "Lytovezh-Volynska"
+        },
+        {
+            "id": "47212",
+            "name": "Любче",
+            "url": "Lyubche-Volynska"
+        },
+        {
+            "id": "47143",
+            "name": "Любешовская Воля",
+            "url": "Lyubeshivska Volya-Volynska"
+        },
+        {
+            "id": "47177",
+            "name": "Люблинец",
+            "url": "Lyublynets-Volynska"
+        },
+        {
+            "id": "47209",
+            "name": "Любохины",
+            "url": "Lyubokhyny-Volynska"
+        },
+        {
+            "id": "47207",
+            "name": "Люботин",
+            "url": "Lyubotyn-Volynska"
+        },
+        {
+            "id": "47217",
+            "name": "Любязь",
+            "url": "Lyubyaz-Volynska"
+        },
+        {
+            "id": "47171",
+            "name": "Любитов",
+            "url": "Lyubytiv-Volynska"
+        },
+        {
+            "id": "47245",
+            "name": "Лютка",
+            "url": "Lyutka-Volynska"
+        },
+        {
+            "id": "47346",
+            "name": "Майдан",
+            "url": "Maidan-Volynska"
+        },
+        {
+            "id": "47370",
+            "name": "Майдан-Липненский",
+            "url": "Maidan-Lypnenskyi-Volynska"
+        },
+        {
+            "id": "47463",
+            "name": "Маковичи",
+            "url": "Makovychi-Volynska"
+        },
+        {
+            "id": "47568",
+            "name": "Малая Глуша",
+            "url": "Mala Hlusha-Volynska"
+        },
+        {
+            "id": "47627",
+            "name": "Малая Осница",
+            "url": "Mala Osnytsya-Volynska"
+        },
+        {
+            "id": "47557",
+            "name": "Малая Ведмежка",
+            "url": "Mala Vedmezhka-Volynska"
+        },
+        {
+            "id": "47686",
+            "name": "Малая Яблонька",
+            "url": "Mala Yablunka-Volynska"
+        },
+        {
+            "id": "47780",
+            "name": "Малое Орехово",
+            "url": "Male Orikhove-Volynska"
+        },
+        {
+            "id": "47835",
+            "name": "Малые Голобы",
+            "url": "Mali Holoby-Volynska"
+        },
+        {
+            "id": "47924",
+            "name": "Малый Обзыр",
+            "url": "Malyi Obzyr-Volynska"
+        },
+        {
+            "id": "47926",
+            "name": "Малый Окорск",
+            "url": "Malyi Okorsk-Volynska"
+        },
+        {
+            "id": "47931",
+            "name": "Малый Порск",
+            "url": "Malyi Porsk-Volynska"
+        },
+        {
+            "id": "47721",
+            "name": "Малиновка",
+            "url": "Malynivka-Volynska"
+        },
+        {
+            "id": "48036",
+            "name": "Маньков",
+            "url": "Mankiv-Volynska"
+        },
+        {
+            "id": "48091",
+            "name": "Мария-Воля",
+            "url": "Mariya-Volya-Volynska"
+        },
+        {
+            "id": "48097",
+            "name": "Маркеловка",
+            "url": "Markelivka-Volynska"
+        },
+        {
+            "id": "48131",
+            "name": "Маркостав",
+            "url": "Markostav-Volynska"
+        },
+        {
+            "id": "48104",
+            "name": "Марковичи",
+            "url": "Markovychi-Volynska"
+        },
+        {
+            "id": "48159",
+            "name": "Мартыновка",
+            "url": "Martynivka-Volynska"
+        },
+        {
+            "id": "48185",
+            "name": "Маруся",
+            "url": "Marusya-Volynska"
+        },
+        {
+            "id": "48249",
+            "name": "Марьяновка",
+            "url": "Maryanivka-Volynska"
+        },
+        {
+            "id": "48436",
+            "name": "Машев",
+            "url": "Mashiv-Volynska"
+        },
+        {
+            "id": "48331",
+            "name": "Масловец",
+            "url": "Maslovets-Volynska"
+        },
+        {
+            "id": "48365",
+            "name": "Матейки",
+            "url": "Mateiky-Volynska"
+        },
+        {
+            "id": "48461",
+            "name": "Маяки",
+            "url": "Mayaky-Volynska"
+        },
+        {
+            "id": "48628",
+            "name": "Мельники",
+            "url": "Melnyky-Volynska"
+        },
+        {
+            "id": "48637",
+            "name": "Мельники-Мостище",
+            "url": "Melnyky-Mostyshche-Volynska"
+        },
+        {
+            "id": "48638",
+            "name": "Мельники-Речицкие",
+            "url": "Melnyky-Richytski-Volynska"
+        },
+        {
+            "id": "48643",
+            "name": "Мельница",
+            "url": "Melnytsya-Volynska"
+        },
+        {
+            "id": "48662",
+            "name": "Менчичи",
+            "url": "Menchychi-Volynska"
+        },
+        {
+            "id": "48666",
+            "name": "Мерва",
+            "url": "Merva-Volynska"
+        },
+        {
+            "id": "48689",
+            "name": "Метельное",
+            "url": "Metelne-Volynska"
+        },
+        {
+            "id": "48586",
+            "name": "Межисыть",
+            "url": "Mezhysyt-Volynska"
+        },
+        {
+            "id": "48543",
+            "name": "Межгайцы",
+            "url": "Mizhhaitsi-Volynska"
+        },
+        {
+            "id": "48547",
+            "name": "Межгорье",
+            "url": "Mizhhirya-Volynska"
+        },
+        {
+            "id": "48589",
+            "name": "Межлесье",
+            "url": "Mizhlissya-Volynska"
+        },
+        {
+            "id": "49143",
+            "name": "Млыново",
+            "url": "Mlynove-Volynska"
+        },
+        {
+            "id": "49137",
+            "name": "Млынище",
+            "url": "Mlynyshche-Volynska"
+        },
+        {
+            "id": "49227",
+            "name": "Мокрое",
+            "url": "Mokre-Volynska"
+        },
+        {
+            "id": "49223",
+            "name": "Мокрец",
+            "url": "Mokrets-Volynska"
+        },
+        {
+            "id": "49267",
+            "name": "Молодовка",
+            "url": "Molodivka-Volynska"
+        },
+        {
+            "id": "49386",
+            "name": "Морозовичи",
+            "url": "Morozovychi-Volynska"
+        },
+        {
+            "id": "49518",
+            "name": "Мощаница",
+            "url": "Moshchanytsya-Volynska"
+        },
+        {
+            "id": "49521",
+            "name": "Мощеная",
+            "url": "Moshchena-Volynska"
+        },
+        {
+            "id": "49449",
+            "name": "Мостище",
+            "url": "Mostyshche-Volynska"
+        },
+        {
+            "id": "49475",
+            "name": "Мосыр",
+            "url": "Mosyr-Volynska"
+        },
+        {
+            "id": "49478",
+            "name": "Моташовка",
+            "url": "Motashivka-Volynska"
+        },
+        {
+            "id": "49288",
+            "name": "Молчанов",
+            "url": "Movchaniv-Volynska"
+        },
+        {
+            "id": "49653",
+            "name": "Мшанец",
+            "url": "Mshanets-Volynska"
+        },
+        {
+            "id": "49547",
+            "name": "Мстышин",
+            "url": "Mstyshyn-Volynska"
+        },
+        {
+            "id": "49572",
+            "name": "Мукошин",
+            "url": "Mukoshyn-Volynska"
+        },
+        {
+            "id": "49581",
+            "name": "Муравище",
+            "url": "Muravyshche-Volynska"
+        },
+        {
+            "id": "48975",
+            "name": "Михайловка",
+            "url": "Mykhailivka-Volynska"
+        },
+        {
+            "id": "48961",
+            "name": "Михайлин",
+            "url": "Mykhailyn-Volynska"
+        },
+        {
+            "id": "49084",
+            "name": "Михале",
+            "url": "Mykhalje-Volynska"
+        },
+        {
+            "id": "49098",
+            "name": "Михлин",
+            "url": "Mykhlyn-Volynska"
+        },
+        {
+            "id": "49659",
+            "name": "Мыково",
+            "url": "Mykove-Volynska"
+        },
+        {
+            "id": "48748",
+            "name": "Микуличи",
+            "url": "Mykulychi-Volynska"
+        },
+        {
+            "id": "50297",
+            "name": "Никитичи",
+            "url": "Mykytychi-Volynska"
+        },
+        {
+            "id": "48756",
+            "name": "Миловань",
+            "url": "Mylovan-Volynska"
+        },
+        {
+            "id": "48769",
+            "name": "Мильск",
+            "url": "Mylsk-Volynska"
+        },
+        {
+            "id": "48770",
+            "name": "Мильцы",
+            "url": "Myltsi-Volynska"
+        },
+        {
+            "id": "48765",
+            "name": "Милуши",
+            "url": "Mylushi-Volynska"
+        },
+        {
+            "id": "48766",
+            "name": "Милушин",
+            "url": "Mylushyn-Volynska"
+        },
+        {
+            "id": "48774",
+            "name": "Миляновичи",
+            "url": "Mylyanovychi-Volynska"
+        },
+        {
+            "id": "48775",
+            "name": "Милятин",
+            "url": "Mylyatyn-Volynska"
+        },
+        {
+            "id": "48813",
+            "name": "Мирков",
+            "url": "Myrkiv-Volynska"
+        },
+        {
+            "id": "48915",
+            "name": "Мирославка",
+            "url": "Myroslavka-Volynska"
+        },
+        {
+            "id": "48865",
+            "name": "Мировичи",
+            "url": "Myrovychi-Volynska"
+        },
+        {
+            "id": "48812",
+            "name": "Мирин",
+            "url": "Myryn-Volynska"
+        },
+        {
+            "id": "49688",
+            "name": "Мышев",
+            "url": "Myshiv-Volynska"
+        },
+        {
+            "id": "49665",
+            "name": "Мыслина",
+            "url": "Myslyna-Volynska"
+        },
+        {
+            "id": "49666",
+            "name": "Мыслини",
+            "url": "Myslyni-Volynska"
+        },
+        {
+            "id": "49728",
+            "name": "Набруска",
+            "url": "Nabruska-Volynska"
+        },
+        {
+            "id": "49811",
+            "name": "Надречное",
+            "url": "Nadrichne-Volynska"
+        },
+        {
+            "id": "49914",
+            "name": "Наталин",
+            "url": "Natalyn-Volynska"
+        },
+        {
+            "id": "49965",
+            "name": "Небежка",
+            "url": "Nebizhka-Volynska"
+        },
+        {
+            "id": "50138",
+            "name": "Нехвороща",
+            "url": "Nekhvoroshcha-Volynska"
+        },
+        {
+            "id": "50044",
+            "name": "Немир",
+            "url": "Nemyr-Volynska"
+        },
+        {
+            "id": "50090",
+            "name": "Несвич",
+            "url": "Nesvich-Volynska"
+        },
+        {
+            "id": "49977",
+            "name": "Невир",
+            "url": "Nevir-Volynska"
+        },
+        {
+            "id": "50021",
+            "name": "Незвир",
+            "url": "Nezvir-Volynska"
+        },
+        {
+            "id": "50472",
+            "name": "Ничеговка",
+            "url": "Nichohivka-Volynska"
+        },
+        {
+            "id": "51821",
+            "name": "Носовичи",
+            "url": "Nosovychi-Volynska"
+        },
+        {
+            "id": "50575",
+            "name": "Новая Лешня",
+            "url": "Nova Lishnya-Volynska"
+        },
+        {
+            "id": "50615",
+            "name": "Новая Руда",
+            "url": "Nova Ruda-Volynska"
+        },
+        {
+            "id": "50511",
+            "name": "Новая Воля",
+            "url": "Nova Volya-Volynska"
+        },
+        {
+            "id": "50514",
+            "name": "Новая Выжва",
+            "url": "Nova Vyzhva-Volynska"
+        },
+        {
+            "id": "51675",
+            "name": "Новые Березичи",
+            "url": "Novi Berezychi-Volynska"
+        },
+        {
+            "id": "51711",
+            "name": "Новые Червища",
+            "url": "Novi Chervyshcha-Volynska"
+        },
+        {
+            "id": "51688",
+            "name": "Новые Кошары",
+            "url": "Novi Koshary-Volynska"
+        },
+        {
+            "id": "51702",
+            "name": "Новые Подцаревичи",
+            "url": "Novi Pidtsarevychi-Volynska"
+        },
+        {
+            "id": "51072",
+            "name": "Новокотов",
+            "url": "Novokotiv-Volynska"
+        },
+        {
+            "id": "51397",
+            "name": "Новоселки",
+            "url": "Novosilky-Volynska"
+        },
+        {
+            "id": "51585",
+            "name": "Новоугрузское",
+            "url": "Novouhruzke-Volynska"
+        },
+        {
+            "id": "51588",
+            "name": "Новоукраинка",
+            "url": "Novoukrainka-Volynska"
+        },
+        {
+            "id": "51731",
+            "name": "Новый Двор",
+            "url": "Novyi Dvir-Volynska"
+        },
+        {
+            "id": "51765",
+            "name": "Новый Мосыр",
+            "url": "Novyi Mosyr-Volynska"
+        },
+        {
+            "id": "51735",
+            "name": "Новый Загоров",
+            "url": "Novyi Zahoriv-Volynska"
+        },
+        {
+            "id": "50666",
+            "name": "Новий Зборишев",
+            "url": "Novyi Zboryshiv-Volynska"
+        },
+        {
+            "id": "50672",
+            "name": "Новины",
+            "url": "Novyny-Volynska"
+        },
+        {
+            "id": "51837",
+            "name": "Нудыже",
+            "url": "Nudyzhe-Volynska"
+        },
+        {
+            "id": "51838",
+            "name": "Нужель",
+            "url": "Nuzhel-Volynska"
+        },
+        {
+            "id": "51859",
+            "name": "Ныры",
+            "url": "Nyry-Volynska"
+        },
+        {
+            "id": "50471",
+            "name": "Ницы",
+            "url": "Nytsi-Volynska"
+        },
+        {
+            "id": "50172",
+            "name": "Нивы-Губинские",
+            "url": "Nyvy-Hubynski-Volynska"
+        },
+        {
+            "id": "50273",
+            "name": "Низкие Цевеличи",
+            "url": "Nyzki Tsevelychi-Volynska"
+        },
+        {
+            "id": "50274",
+            "name": "Низкиничи",
+            "url": "Nyzkynychi-Volynska"
+        },
+        {
+            "id": "51889",
+            "name": "Обенижи",
+            "url": "Obenyzhi-Volynska"
+        },
+        {
+            "id": "51909",
+            "name": "Облапы",
+            "url": "Oblapy-Volynska"
+        },
+        {
+            "id": "52017",
+            "name": "Одерады",
+            "url": "Oderady-Volynska"
+        },
+        {
+            "id": "52121",
+            "name": "Окачево",
+            "url": "Okacheve-Volynska"
+        },
+        {
+            "id": "52789",
+            "name": "Охлопов",
+            "url": "Okhlopiv-Volynska"
+        },
+        {
+            "id": "52792",
+            "name": "Охновка",
+            "url": "Okhnivka-Volynska"
+        },
+        {
+            "id": "52795",
+            "name": "Охотники",
+            "url": "Okhotnyky-Volynska"
+        },
+        {
+            "id": "52794",
+            "name": "Охотин",
+            "url": "Okhotyn-Volynska"
+        },
+        {
+            "id": "52143",
+            "name": "Оконск",
+            "url": "Okonsk-Volynska"
+        },
+        {
+            "id": "52158",
+            "name": "Октавин",
+            "url": "Oktavyn-Volynska"
+        },
+        {
+            "id": "52179",
+            "name": "Окунин",
+            "url": "Okunyn-Volynska"
+        },
+        {
+            "id": "29077",
+            "name": "Александрия",
+            "url": "Oleksandriia-Volynska"
+        },
+        {
+            "id": "29106",
+            "name": "Александровка",
+            "url": "Oleksandrivka-Volynska"
+        },
+        {
+            "id": "29233",
+            "name": "Алексеевка",
+            "url": "Oleksiivka-Volynska"
+        },
+        {
+            "id": "52205",
+            "name": "Оленовка",
+            "url": "Olenivka-Volynska"
+        },
+        {
+            "id": "52199",
+            "name": "Оленино",
+            "url": "Olenyne-Volynska"
+        },
+        {
+            "id": "52237",
+            "name": "Олешковичи",
+            "url": "Oleshkovychi-Volynska"
+        },
+        {
+            "id": "52226",
+            "name": "Олеск",
+            "url": "Olesk-Volynska"
+        },
+        {
+            "id": "52268",
+            "name": "Ольгановка",
+            "url": "Olhanivka-Volynska"
+        },
+        {
+            "id": "52354",
+            "name": "Ольшаны",
+            "url": "Olshany-Volynska"
+        },
+        {
+            "id": "52377",
+            "name": "Омельно",
+            "url": "Omelne-Volynska"
+        },
+        {
+            "id": "52445",
+            "name": "Орани",
+            "url": "Orani-Volynska"
+        },
+        {
+            "id": "52515",
+            "name": "Орищи",
+            "url": "Oryshchi-Volynska"
+        },
+        {
+            "id": "52569",
+            "name": "Оса",
+            "url": "Osa-Volynska"
+        },
+        {
+            "id": "52576",
+            "name": "Осекров",
+            "url": "Osekriv-Volynska"
+        },
+        {
+            "id": "52633",
+            "name": "Осоребы",
+            "url": "Osereby-Volynska"
+        },
+        {
+            "id": "52845",
+            "name": "Ощев",
+            "url": "Oshchiv-Volynska"
+        },
+        {
+            "id": "52624",
+            "name": "Осовцы",
+            "url": "Osivtsi-Volynska"
+        },
+        {
+            "id": "52748",
+            "name": "Осьмиговичи",
+            "url": "Osmyhovychi-Volynska"
+        },
+        {
+            "id": "52602",
+            "name": "Осмиловичи",
+            "url": "Osmylovychi-Volynska"
+        },
+        {
+            "id": "52667",
+            "name": "Остров",
+            "url": "Ostriv-Volynska"
+        },
+        {
+            "id": "52699",
+            "name": "Островок",
+            "url": "Ostrivok-Volynska"
+        },
+        {
+            "id": "52713",
+            "name": "Островье",
+            "url": "Ostrivya-Volynska"
+        },
+        {
+            "id": "52697",
+            "name": "Островки",
+            "url": "Ostrovky-Volynska"
+        },
+        {
+            "id": "51955",
+            "name": "Овадное",
+            "url": "Ovadne-Volynska"
+        },
+        {
+            "id": "51964",
+            "name": "Овлочин",
+            "url": "Ovlochyn-Volynska"
+        },
+        {
+            "id": "52044",
+            "name": "Оздениж",
+            "url": "Ozdenizh-Volynska"
+        },
+        {
+            "id": "52045",
+            "name": "Оздов",
+            "url": "Ozdiv-Volynska"
+        },
+        {
+            "id": "52060",
+            "name": "Озерное",
+            "url": "Ozerne-Volynska"
+        },
+        {
+            "id": "52075",
+            "name": "Озеро",
+            "url": "Ozero-Volynska"
+        },
+        {
+            "id": "52091",
+            "name": "Озерцо",
+            "url": "Ozertse-Volynska"
+        },
+        {
+            "id": "52093",
+            "name": "Озерцы",
+            "url": "Ozertsi-Volynska"
+        },
+        {
+            "id": "52099",
+            "name": "Озеряны",
+            "url": "Ozeryany-Volynska"
+        },
+        {
+            "id": "52114",
+            "name": "Озютичи",
+            "url": "Ozyutychi-Volynska"
+        },
+        {
+            "id": "52999",
+            "name": "Пальче",
+            "url": "Palche-Volynska"
+        },
+        {
+            "id": "53139",
+            "name": "Пархоменково",
+            "url": "Parkhomenkove-Volynska"
+        },
+        {
+            "id": "53121",
+            "name": "Партизанское",
+            "url": "Partyzanske-Volynska"
+        },
+        {
+            "id": "53100",
+            "name": "Паридубы",
+            "url": "Paryduby-Volynska"
+        },
+        {
+            "id": "52875",
+            "name": "Павловка",
+            "url": "Pavlivka-Volynska"
+        },
+        {
+            "id": "52867",
+            "name": "Павловичи",
+            "url": "Pavlovychi-Volynska"
+        },
+        {
+            "id": "53897",
+            "name": "Печихвосты",
+            "url": "Pechykhvosty-Volynska"
+        },
+        {
+            "id": "53882",
+            "name": "Пехи",
+            "url": "Pekhy-Volynska"
+        },
+        {
+            "id": "53382",
+            "name": "Перемиль",
+            "url": "Peremyl-Volynska"
+        },
+        {
+            "id": "53465",
+            "name": "Перешпа",
+            "url": "Pereshpa-Volynska"
+        },
+        {
+            "id": "53443",
+            "name": "Пересека",
+            "url": "Peresika-Volynska"
+        },
+        {
+            "id": "53447",
+            "name": "Переславичи",
+            "url": "Pereslavychi-Volynska"
+        },
+        {
+            "id": "53319",
+            "name": "Перевалы",
+            "url": "Perevaly-Volynska"
+        },
+        {
+            "id": "53324",
+            "name": "Перевесье",
+            "url": "Perevissya-Volynska"
+        },
+        {
+            "id": "53471",
+            "name": "Перковичи",
+            "url": "Perkovychi-Volynska"
+        },
+        {
+            "id": "53768",
+            "name": "Петрово",
+            "url": "Petrove-Volynska"
+        },
+        {
+            "id": "54261",
+            "name": "Подберезье",
+            "url": "Pidberezzya-Volynska"
+        },
+        {
+            "id": "54262",
+            "name": "Подборочье",
+            "url": "Pidborochchya-Volynska"
+        },
+        {
+            "id": "54359",
+            "name": "Поддубцы",
+            "url": "Piddubtsi-Volynska"
+        },
+        {
+            "id": "54291",
+            "name": "Подгайцы",
+            "url": "Pidhaitsi-Volynska"
+        },
+        {
+            "id": "54305",
+            "name": "Подгатье",
+            "url": "Pidhattya-Volynska"
+        },
+        {
+            "id": "54312",
+            "name": "Подгорное",
+            "url": "Pidhirne-Volynska"
+        },
+        {
+            "id": "54346",
+            "name": "Подгорье",
+            "url": "Pidhirya-Volynska"
+        },
+        {
+            "id": "54333",
+            "name": "Подгородное",
+            "url": "Pidhorodne-Volynska"
+        },
+        {
+            "id": "54372",
+            "name": "Подкормилье",
+            "url": "Pidkormillya-Volynska"
+        },
+        {
+            "id": "54375",
+            "name": "Подлески",
+            "url": "Pidlisky-Volynska"
+        },
+        {
+            "id": "54408",
+            "name": "Подлесье",
+            "url": "Pidlissya-Volynska"
+        },
+        {
+            "id": "54407",
+            "name": "Подлесы",
+            "url": "Pidlisy-Volynska"
+        },
+        {
+            "id": "54430",
+            "name": "Подманово",
+            "url": "Pidmanove-Volynska"
+        },
+        {
+            "id": "54482",
+            "name": "Подречье",
+            "url": "Pidrichchya-Volynska"
+        },
+        {
+            "id": "54483",
+            "name": "Подрожье",
+            "url": "Pidrizhzhya-Volynska"
+        },
+        {
+            "id": "54499",
+            "name": "Подсыновка",
+            "url": "Pidsynivka-Volynska"
+        },
+        {
+            "id": "54503",
+            "name": "Подцирье",
+            "url": "Pidtsyrya-Volynska"
+        },
+        {
+            "id": "53986",
+            "name": "Пирванче",
+            "url": "Pirvanche-Volynska"
+        },
+        {
+            "id": "54049",
+            "name": "Пища",
+            "url": "Pishcha-Volynska"
+        },
+        {
+            "id": "53618",
+            "name": "Песчаное",
+            "url": "Pishchane-Volynska"
+        },
+        {
+            "id": "53559",
+            "name": "Пески",
+            "url": "Pisky-Volynska"
+        },
+        {
+            "id": "53584",
+            "name": "Пески-Речицкие",
+            "url": "Pisky-Richytski-Volynska"
+        },
+        {
+            "id": "53600",
+            "name": "Песочное",
+            "url": "Pisochne-Volynska"
+        },
+        {
+            "id": "54144",
+            "name": "Плоское",
+            "url": "Ploske-Volynska"
+        },
+        {
+            "id": "54185",
+            "name": "Пневно",
+            "url": "Pnivne-Volynska"
+        },
+        {
+            "id": "54962",
+            "name": "Почапы",
+            "url": "Pochapy-Volynska"
+        },
+        {
+            "id": "54228",
+            "name": "Погиньки",
+            "url": "Pohinky-Volynska"
+        },
+        {
+            "id": "54257",
+            "name": "Погулянка",
+            "url": "Pohulyanka-Volynska"
+        },
+        {
+            "id": "54535",
+            "name": "Покащов",
+            "url": "Pokashchiv-Volynska"
+        },
+        {
+            "id": "54578",
+            "name": "Полапы",
+            "url": "Polapy-Volynska"
+        },
+        {
+            "id": "54600",
+            "name": "Полесское",
+            "url": "Poliske-Volynska"
+        },
+        {
+            "id": "54651",
+            "name": "Полонка",
+            "url": "Polonka-Volynska"
+        },
+        {
+            "id": "54646",
+            "name": "Положево",
+            "url": "Polozheve-Volynska"
+        },
+        {
+            "id": "54682",
+            "name": "Полумяное",
+            "url": "Polumyane-Volynska"
+        },
+        {
+            "id": "54693",
+            "name": "Поляна",
+            "url": "Polyana-Volynska"
+        },
+        {
+            "id": "54616",
+            "name": "Полицы",
+            "url": "Polytsi-Volynska"
+        },
+        {
+            "id": "54689",
+            "name": "Полюхно",
+            "url": "Polyukhne-Volynska"
+        },
+        {
+            "id": "54742",
+            "name": "Поничев",
+            "url": "Ponychiv-Volynska"
+        },
+        {
+            "id": "54778",
+            "name": "Поповичи",
+            "url": "Popovychi-Volynska"
+        },
+        {
+            "id": "54841",
+            "name": "Поромов",
+            "url": "Poromiv-Volynska"
+        },
+        {
+            "id": "54902",
+            "name": "Поступель",
+            "url": "Postupel-Volynska"
+        },
+        {
+            "id": "54218",
+            "name": "Поворск",
+            "url": "Povorsk-Volynska"
+        },
+        {
+            "id": "54514",
+            "name": "Пожарки",
+            "url": "Pozharky-Volynska"
+        },
+        {
+            "id": "54520",
+            "name": "Пожог",
+            "url": "Pozhoh-Volynska"
+        },
+        {
+            "id": "55317",
+            "name": "Проход",
+            "url": "Prokhid-Volynska"
+        },
+        {
+            "id": "55318",
+            "name": "Проходы",
+            "url": "Prokhody-Volynska"
+        },
+        {
+            "id": "55276",
+            "name": "Проминь",
+            "url": "Promin-Volynska"
+        },
+        {
+            "id": "55125",
+            "name": "Прилесное",
+            "url": "Prylisne-Volynska"
+        },
+        {
+            "id": "55138",
+            "name": "Прилуцкое",
+            "url": "Prylutske-Volynska"
+        },
+        {
+            "id": "55165",
+            "name": "Припять",
+            "url": "Prypyat-Volynska"
+        },
+        {
+            "id": "55168",
+            "name": "Приречье",
+            "url": "Pryrichchya-Volynska"
+        },
+        {
+            "id": "55042",
+            "name": "Приветное",
+            "url": "Pryvitne-Volynska"
+        },
+        {
+            "id": "55383",
+            "name": "Пулемец",
+            "url": "Pulemets-Volynska"
+        },
+        {
+            "id": "55388",
+            "name": "Пульмо",
+            "url": "Pulmo-Volynska"
+        },
+        {
+            "id": "55413",
+            "name": "Пустомыты",
+            "url": "Pustomyty-Volynska"
+        },
+        {
+            "id": "55418",
+            "name": "Пустынка",
+            "url": "Pustynka-Volynska"
+        },
+        {
+            "id": "55428",
+            "name": "Путиловка",
+            "url": "Putylivka-Volynska"
+        },
+        {
+            "id": "55535",
+            "name": "Пятидни",
+            "url": "Pyatydni-Volynska"
+        },
+        {
+            "id": "55538",
+            "name": "Пятикоры",
+            "url": "Pyatykory-Volynska"
+        },
+        {
+            "id": "53965",
+            "name": "Пильганы",
+            "url": "Pylhany-Volynska"
+        },
+        {
+            "id": "54010",
+            "name": "Писарева Воля",
+            "url": "Pysareva Volya-Volynska"
+        },
+        {
+            "id": "55912",
+            "name": "Рачин",
+            "url": "Rachyn-Volynska"
+        },
+        {
+            "id": "55598",
+            "name": "Радехов",
+            "url": "Radekhiv-Volynska"
+        },
+        {
+            "id": "55634",
+            "name": "Радомышль",
+            "url": "Radomyshl-Volynska"
+        },
+        {
+            "id": "55647",
+            "name": "Радошин",
+            "url": "Radoshyn-Volynska"
+        },
+        {
+            "id": "55648",
+            "name": "Радошинка",
+            "url": "Radoshynka-Volynska"
+        },
+        {
+            "id": "55623",
+            "name": "Радовичи",
+            "url": "Radovychi-Volynska"
+        },
+        {
+            "id": "55772",
+            "name": "Раймисто",
+            "url": "Raimisto-Volynska"
+        },
+        {
+            "id": "55876",
+            "name": "Растов",
+            "url": "Rastiv-Volynska"
+        },
+        {
+            "id": "55884",
+            "name": "Ратнов",
+            "url": "Ratniv-Volynska"
+        },
+        {
+            "id": "55943",
+            "name": "Ревушки",
+            "url": "Revushky-Volynska"
+        },
+        {
+            "id": "56050",
+            "name": "Речица",
+            "url": "Richytsya-Volynska"
+        },
+        {
+            "id": "56130",
+            "name": "Ровное",
+            "url": "Rivne-Volynska"
+        },
+        {
+            "id": "56185",
+            "name": "Роговые Смоляры",
+            "url": "Rohovi Smolyary-Volynska"
+        },
+        {
+            "id": "56177",
+            "name": "Роговичи",
+            "url": "Rohovychi-Volynska"
+        },
+        {
+            "id": "56186",
+            "name": "Рогожаны",
+            "url": "Rohozhany-Volynska"
+        },
+        {
+            "id": "56305",
+            "name": "Рокини",
+            "url": "Rokyni-Volynska"
+        },
+        {
+            "id": "55783",
+            "name": "Ракита",
+            "url": "Rokyta-Volynska"
+        },
+        {
+            "id": "55786",
+            "name": "Ракитница",
+            "url": "Rokytnytsya-Volynska"
+        },
+        {
+            "id": "56321",
+            "name": "Романов",
+            "url": "Romaniv-Volynska"
+        },
+        {
+            "id": "56329",
+            "name": "Романовка",
+            "url": "Romanivka-Volynska"
+        },
+        {
+            "id": "56371",
+            "name": "Ромашковка",
+            "url": "Romashkivka-Volynska"
+        },
+        {
+            "id": "56433",
+            "name": "Ростань",
+            "url": "Rostan-Volynska"
+        },
+        {
+            "id": "56119",
+            "name": "Рованцы",
+            "url": "Rovantsi-Volynska"
+        },
+        {
+            "id": "56270",
+            "name": "Розничи",
+            "url": "Roznychi-Volynska"
+        },
+        {
+            "id": "56498",
+            "name": "Руда",
+            "url": "Ruda-Volynska"
+        },
+        {
+            "id": "56534",
+            "name": "Рудка",
+            "url": "Rudka-Volynska"
+        },
+        {
+            "id": "56553",
+            "name": "Рудка-Червинская",
+            "url": "Rudka-Chervynska-Volynska"
+        },
+        {
+            "id": "56551",
+            "name": "Рудка-Козинская",
+            "url": "Rudka-Kozynska-Volynska"
+        },
+        {
+            "id": "56552",
+            "name": "Рудка-Миринская",
+            "url": "Rudka-Myrynska-Volynska"
+        },
+        {
+            "id": "56572",
+            "name": "Рудня",
+            "url": "Rudnya-Volynska"
+        },
+        {
+            "id": "56564",
+            "name": "Рудники",
+            "url": "Rudnyky-Volynska"
+        },
+        {
+            "id": "56669",
+            "name": "Русов",
+            "url": "Rusiv-Volynska"
+        },
+        {
+            "id": "56668",
+            "name": "Руснов",
+            "url": "Rusniv-Volynska"
+        },
+        {
+            "id": "56671",
+            "name": "Русовичи",
+            "url": "Rusovychi-Volynska"
+        },
+        {
+            "id": "56632",
+            "name": "Ружин",
+            "url": "Ruzhyn-Volynska"
+        },
+        {
+            "id": "56744",
+            "name": "Рыковичи",
+            "url": "Rykovychi-Volynska"
+        },
+        {
+            "id": "56750",
+            "name": "Рымачи",
+            "url": "Rymachi-Volynska"
+        },
+        {
+            "id": "56076",
+            "name": "Ржищев",
+            "url": "Rzhyshchiv-Volynska"
+        },
+        {
+            "id": "56879",
+            "name": "Садов",
+            "url": "Sadiv-Volynska"
+        },
+        {
+            "id": "56923",
+            "name": "Садовские Дубины",
+            "url": "Sadivski Dubyny-Volynska"
+        },
+        {
+            "id": "57002",
+            "name": "Самары",
+            "url": "Samary-Volynska"
+        },
+        {
+            "id": "57004",
+            "name": "Самары-Ореховые",
+            "url": "Samary-Orikhovi-Volynska"
+        },
+        {
+            "id": "57017",
+            "name": "Самойличи",
+            "url": "Samiilychi-Volynska"
+        },
+        {
+            "id": "57016",
+            "name": "Самоволя",
+            "url": "Samovolya-Volynska"
+        },
+        {
+            "id": "2361",
+            "name": "Луцк",
+            "url": "Lutsk"
+        },
+        {
+            "id": "2362",
+            "name": "Камень-Каширский",
+            "url": "KamenKashirskiy"
+        },
+        {
+            "id": "2363",
+            "name": "Ковель",
+            "url": "Kovel"
+        },
+        {
+            "id": "2366",
+            "name": "Горохов",
+            "url": "Gorohov"
+        },
+        {
+            "id": "2367",
+            "name": "Владимир-Волынский",
+            "url": "VladimirVolynskij"
+        },
+        {
+            "id": "2368",
+            "name": "Киверцы",
+            "url": "Kivercy"
+        },
+        {
+            "id": "2369",
+            "name": "Маневичи",
+            "url": "Manevichi"
+        },
+        {
+            "id": "2370",
+            "name": "Локачи",
+            "url": "Lokachi"
+        },
+        {
+            "id": "2371",
+            "name": "Ратно",
+            "url": "Ratno"
+        },
+        {
+            "id": "2372",
+            "name": "Старая Выжевка",
+            "url": "StarayaVyzhevka"
+        },
+        {
+            "id": "2373",
+            "name": "Рожище",
+            "url": "Rozhische"
+        },
+        {
+            "id": "2374",
+            "name": "Иваничи",
+            "url": "Ivanichi"
+        },
+        {
+            "id": "2375",
+            "name": "Любомль",
+            "url": "Lyuboml"
+        },
+        {
+            "id": "2376",
+            "name": "Шацк",
+            "url": "Shack"
+        },
+        {
+            "id": "2377",
+            "name": "Цумань",
+            "url": "Cuman"
+        },
+        {
+            "id": "2378",
+            "name": "Турийск",
+            "url": "Turijsk"
+        },
+        {
+            "id": "2379",
+            "name": "Любешов",
+            "url": "Lyubeshov"
+        },
+        {
+            "id": "2364",
+            "name": "Нововолынск",
+            "url": "Novovolynsk"
+        },
+        {
+            "id": "2365",
+            "name": "Берестечко",
+            "url": "Berestechko"
+        },
+        {
+            "id": "57172",
+            "name": "Сапогово",
+            "url": "Sapohove-Volynska"
+        },
+        {
+            "id": "57201",
+            "name": "Сарновка",
+            "url": "Sarnivka-Volynska"
+        },
+        {
+            "id": "57482",
+            "name": "Седлище",
+            "url": "Sedlyshche-Volynska"
+        },
+        {
+            "id": "57500",
+            "name": "Секунь",
+            "url": "Sekun-Volynska"
+        },
+        {
+            "id": "57509",
+            "name": "Селец",
+            "url": "Selets-Volynska"
+        },
+        {
+            "id": "57523",
+            "name": "Селиски",
+            "url": "Selisky-Volynska"
+        },
+        {
+            "id": "57525",
+            "name": "Селисок",
+            "url": "Selisok-Volynska"
+        },
+        {
+            "id": "57617",
+            "name": "Семеринское",
+            "url": "Semerynske-Volynska"
+        },
+        {
+            "id": "57637",
+            "name": "Семки",
+            "url": "Semky-Volynska"
+        },
+        {
+            "id": "57664",
+            "name": "Сенкевичевка",
+            "url": "Senkevychivka-Volynska"
+        },
+        {
+            "id": "57771",
+            "name": "Серебряница",
+            "url": "Serebryanytsya-Volynska"
+        },
+        {
+            "id": "57792",
+            "name": "Сереховичи",
+            "url": "Serekhovychi-Volynska"
+        },
+        {
+            "id": "57727",
+            "name": "Сергеевка",
+            "url": "Serhiivka-Volynska"
+        },
+        {
+            "id": "57796",
+            "name": "Серкизов",
+            "url": "Serkiziv-Volynska"
+        },
+        {
+            "id": "57403",
+            "name": "Севериновка",
+            "url": "Severynivka-Volynska"
+        },
+        {
+            "id": "63509",
+            "name": "Шахтарское",
+            "url": "Shakhtarske-Volynska"
+        },
+        {
+            "id": "64055",
+            "name": "Щедрогор",
+            "url": "Shchedrohir-Volynska"
+        },
+        {
+            "id": "64106",
+            "name": "Щурин",
+            "url": "Shchuryn-Volynska"
+        },
+        {
+            "id": "64095",
+            "name": "Щитынь",
+            "url": "Shchytyn-Volynska"
+        },
+        {
+            "id": "63706",
+            "name": "Шепель",
+            "url": "Shepel-Volynska"
+        },
+        {
+            "id": "63869",
+            "name": "Шклинь",
+            "url": "Shklyn-Volynska"
+        },
+        {
+            "id": "63870",
+            "name": "Шклинь-Второй",
+            "url": "Shklyn Druhyi-Volynska"
+        },
+        {
+            "id": "63881",
+            "name": "Шкробы",
+            "url": "Shkroby-Volynska"
+        },
+        {
+            "id": "63884",
+            "name": "Шкурат",
+            "url": "Shkurat-Volynska"
+        },
+        {
+            "id": "63892",
+            "name": "Шлапань",
+            "url": "Shlapan-Volynska"
+        },
+        {
+            "id": "63914",
+            "name": "Шменьки",
+            "url": "Shmenky-Volynska"
+        },
+        {
+            "id": "63991",
+            "name": "Штунь",
+            "url": "Shtun-Volynska"
+        },
+        {
+            "id": "63805",
+            "name": "Широкое",
+            "url": "Shyroke-Volynska"
+        },
+        {
+            "id": "63839",
+            "name": "Шистов",
+            "url": "Shystiv-Volynska"
+        },
+        {
+            "id": "57543",
+            "name": "Сельцо",
+            "url": "Siltse-Volynska"
+        },
+        {
+            "id": "57978",
+            "name": "Сирнычки",
+            "url": "Sirnychky-Volynska"
+        },
+        {
+            "id": "58005",
+            "name": "Скабаровщина",
+            "url": "Skabarivshchyna-Volynska"
+        },
+        {
+            "id": "58051",
+            "name": "Скирче",
+            "url": "Skirche-Volynska"
+        },
+        {
+            "id": "58060",
+            "name": "Скобелка",
+            "url": "Skobelka-Volynska"
+        },
+        {
+            "id": "58106",
+            "name": "Скриговое",
+            "url": "Skryhove-Volynska"
+        },
+        {
+            "id": "58109",
+            "name": "Скрипица",
+            "url": "Skrypytsya-Volynska"
+        },
+        {
+            "id": "58119",
+            "name": "Скулин",
+            "url": "Skulyn-Volynska"
+        },
+        {
+            "id": "58046",
+            "name": "Скибы",
+            "url": "Skyby-Volynska"
+        },
+        {
+            "id": "58137",
+            "name": "Славное",
+            "url": "Slavne-Volynska"
+        },
+        {
+            "id": "58274",
+            "name": "Словатичи",
+            "url": "Slovatychi-Volynska"
+        },
+        {
+            "id": "58302",
+            "name": "Смидин",
+            "url": "Smidyn-Volynska"
+        },
+        {
+            "id": "58337",
+            "name": "Смоляры",
+            "url": "Smolyari-Volynska"
+        },
+        {
+            "id": "58338",
+            "name": "Смоляры-Свитязские",
+            "url": "Smolyary-Svityazki-Volynska"
+        },
+        {
+            "id": "58326",
+            "name": "Смолява",
+            "url": "Smolyava-Volynska"
+        },
+        {
+            "id": "58314",
+            "name": "Смолигов",
+            "url": "Smolyhiv-Volynska"
+        },
+        {
+            "id": "58723",
+            "name": "Софиевка",
+            "url": "Sofiivka-Volynska"
+        },
+        {
+            "id": "58765",
+            "name": "Софияновка",
+            "url": "Sofiyanivka-Volynska"
+        },
+        {
+            "id": "58442",
+            "name": "Сокол",
+            "url": "Sokil-Volynska"
+        },
+        {
+            "id": "58455",
+            "name": "Соколище",
+            "url": "Sokolyshche-Volynska"
+        },
+        {
+            "id": "58432",
+            "name": "Сокиричи",
+            "url": "Sokyrychi-Volynska"
+        },
+        {
+            "id": "58589",
+            "name": "Солотвин",
+            "url": "Solotvyn-Volynska"
+        },
+        {
+            "id": "58561",
+            "name": "Соловьи",
+            "url": "Solovi-Volynska"
+        },
+        {
+            "id": "58552",
+            "name": "Соловичи",
+            "url": "Solovychi-Volynska"
+        },
+        {
+            "id": "57555",
+            "name": "Семаки",
+            "url": "Somaky-Volynska"
+        },
+        {
+            "id": "58607",
+            "name": "Сомин",
+            "url": "Somyn-Volynska"
+        },
+        {
+            "id": "58774",
+            "name": "Сошично",
+            "url": "Soshychne-Volynska"
+        },
+        {
+            "id": "58672",
+            "name": "Сосновка",
+            "url": "Sosnivka-Volynska"
+        },
+        {
+            "id": "58665",
+            "name": "Соснина",
+            "url": "Sosnyna-Volynska"
+        },
+        {
+            "id": "58966",
+            "name": "Старая Гута",
+            "url": "Stara Huta-Volynska"
+        },
+        {
+            "id": "58985",
+            "name": "Старая Лешня",
+            "url": "Stara Lishnya-Volynska"
+        },
+        {
+            "id": "59126",
+            "name": "Старые Черевища",
+            "url": "Stari Chervyshcha-Volynska"
+        },
+        {
+            "id": "59078",
+            "name": "Староселье",
+            "url": "Starosillya-Volynska"
+        },
+        {
+            "id": "59088",
+            "name": "Старостав",
+            "url": "Starostav-Volynska"
+        },
+        {
+            "id": "59089",
+            "name": "Старостино",
+            "url": "Starostyne-Volynska"
+        },
+        {
+            "id": "59041",
+            "name": "Старовойтово",
+            "url": "Starovoitove-Volynska"
+        },
+        {
+            "id": "59162",
+            "name": "Старый Мосыр",
+            "url": "Staryi Mosyr-Volynska"
+        },
+        {
+            "id": "59166",
+            "name": "Старый Порицк",
+            "url": "Staryi Porytsk-Volynska"
+        },
+        {
+            "id": "59139",
+            "name": "Старый Загоров",
+            "url": "Staryi Zahoriv-Volynska"
+        },
+        {
+            "id": "59017",
+            "name": "Старики",
+            "url": "Staryky-Volynska"
+        },
+        {
+            "id": "58863",
+            "name": "Ставки",
+            "url": "Stavky-Volynska"
+        },
+        {
+            "id": "58880",
+            "name": "Ставок",
+            "url": "Stavok-Volynska"
+        },
+        {
+            "id": "58853",
+            "name": "Ставище",
+            "url": "Stavyshche-Volynska"
+        },
+        {
+            "id": "59197",
+            "name": "Стебли",
+            "url": "Stebli-Volynska"
+        },
+        {
+            "id": "59209",
+            "name": "Стенжаричи",
+            "url": "Stenzharychi-Volynska"
+        },
+        {
+            "id": "59388",
+            "name": "Стобыховка",
+            "url": "Stobykhivka-Volynska"
+        },
+        {
+            "id": "59387",
+            "name": "Стобыхва",
+            "url": "Stobykhva-Volynska"
+        },
+        {
+            "id": "59407",
+            "name": "Столинские Смоляры",
+            "url": "Stolynski Smolyary-Volynska"
+        },
+        {
+            "id": "59474",
+            "name": "Стрельче",
+            "url": "Strilche-Volynska"
+        },
+        {
+            "id": "59520",
+            "name": "Струмовка",
+            "url": "Strumivka-Volynska"
+        },
+        {
+            "id": "59628",
+            "name": "Судче",
+            "url": "Sudche-Volynska"
+        },
+        {
+            "id": "59636",
+            "name": "Сукачи",
+            "url": "Sukachi-Volynska"
+        },
+        {
+            "id": "59765",
+            "name": "Суходолы",
+            "url": "Sukhodoly-Volynska"
+        },
+        {
+            "id": "59749",
+            "name": "Суховоля",
+            "url": "Sukhovolya-Volynska"
+        },
+        {
+            "id": "59805",
+            "name": "Сушибаба",
+            "url": "Sushybaba-Volynska"
+        },
+        {
+            "id": "59704",
+            "name": "Суск",
+            "url": "Susk-Volynska"
+        },
+        {
+            "id": "57264",
+            "name": "Сваловичи",
+            "url": "Svalovychi-Volynska"
+        },
+        {
+            "id": "57345",
+            "name": "Свийчев",
+            "url": "Sviichiv-Volynska"
+        },
+        {
+            "id": "57313",
+            "name": "Светлое",
+            "url": "Svitle-Volynska"
+        },
+        {
+            "id": "57337",
+            "name": "Свидники",
+            "url": "Svydnyky-Volynska"
+        },
+        {
+            "id": "57900",
+            "name": "Сильное",
+            "url": "Sylne-Volynska"
+        },
+        {
+            "id": "59835",
+            "name": "Сыново",
+            "url": "Synove-Volynska"
+        },
+        {
+            "id": "57961",
+            "name": "Синявка",
+            "url": "Synyavka-Volynska"
+        },
+        {
+            "id": "57995",
+            "name": "Ситница",
+            "url": "Sytnytsya-Volynska"
+        },
+        {
+            "id": "57998",
+            "name": "Ситовичи",
+            "url": "Sytovychi-Volynska"
+        },
+        {
+            "id": "60181",
+            "name": "Текля",
+            "url": "Teklya-Volynska"
+        },
+        {
+            "id": "60173",
+            "name": "Теклино",
+            "url": "Teklyne-Volynska"
+        },
+        {
+            "id": "60204",
+            "name": "Тельчи",
+            "url": "Telchi-Volynska"
+        },
+        {
+            "id": "60246",
+            "name": "Теребовичи",
+            "url": "Terebovychi-Volynska"
+        },
+        {
+            "id": "60257",
+            "name": "Терехи",
+            "url": "Terekhy-Volynska"
+        },
+        {
+            "id": "60271",
+            "name": "Терешковцы",
+            "url": "Tereshkivtsi-Volynska"
+        },
+        {
+            "id": "60500",
+            "name": "Тоболы",
+            "url": "Toboly-Volynska"
+        },
+        {
+            "id": "60512",
+            "name": "Тойкут",
+            "url": "Toikut-Volynska"
+        },
+        {
+            "id": "60620",
+            "name": "Топольно",
+            "url": "Topilne-Volynska"
+        },
+        {
+            "id": "60594",
+            "name": "Топилище",
+            "url": "Topylyshche-Volynska"
+        },
+        {
+            "id": "60663",
+            "name": "Торчин",
+            "url": "Torchyn-Volynska"
+        },
+        {
+            "id": "60647",
+            "name": "Торговище",
+            "url": "Torhovyshche-Volynska"
+        },
+        {
+            "id": "60815",
+            "name": "Тростянец",
+            "url": "Trostyanets-Volynska"
+        },
+        {
+            "id": "60835",
+            "name": "Тростянка",
+            "url": "Trostyanka-Volynska"
+        },
+        {
+            "id": "60854",
+            "name": "Трояновка",
+            "url": "Troyanivka-Volynska"
+        },
+        {
+            "id": "60868",
+            "name": "Трубки",
+            "url": "Trubky-Volynska"
+        },
+        {
+            "id": "60753",
+            "name": "Трилесцы",
+            "url": "Trylistsi-Volynska"
+        },
+        {
+            "id": "60770",
+            "name": "Тристень",
+            "url": "Trysten-Volynska"
+        },
+        {
+            "id": "62364",
+            "name": "Цегов",
+            "url": "Tsehiv-Volynska"
+        },
+        {
+            "id": "62410",
+            "name": "Цеперов",
+            "url": "Tseperiv-Volynska"
+        },
+        {
+            "id": "62361",
+            "name": "Цевеличи",
+            "url": "Tsevelychi-Volynska"
+        },
+        {
+            "id": "62448",
+            "name": "Цмины",
+            "url": "Tsminy-Volynska"
+        },
+        {
+            "id": "62444",
+            "name": "Цир",
+            "url": "Tsyr-Volynska"
+        },
+        {
+            "id": "60969",
+            "name": "Туличев",
+            "url": "Tulychiv-Volynska"
+        },
+        {
+            "id": "60980",
+            "name": "Тумин",
+            "url": "Tumyn-Volynska"
+        },
+        {
+            "id": "60988",
+            "name": "Тупалы",
+            "url": "Tupaly-Volynska"
+        },
+        {
+            "id": "60993",
+            "name": "Тур",
+            "url": "Tur-Volynska"
+        },
+        {
+            "id": "61012",
+            "name": "Турия",
+            "url": "Turiya-Volynska"
+        },
+        {
+            "id": "61035",
+            "name": "Туропин",
+            "url": "Turopyn-Volynska"
+        },
+        {
+            "id": "61025",
+            "name": "Туровичи",
+            "url": "Turovychi-Volynska"
+        },
+        {
+            "id": "61010",
+            "name": "Туричаны",
+            "url": "Turychany-Volynska"
+        },
+        {
+            "id": "60161",
+            "name": "Твердыни",
+            "url": "Tverdyni-Volynska"
+        },
+        {
+            "id": "60164",
+            "name": "Твориничи",
+            "url": "Tvorynychi-Volynska"
+        },
+        {
+            "id": "60482",
+            "name": "Тишковичи",
+            "url": "Tyshkovychi-Volynska"
+        },
+        {
+            "id": "61164",
+            "name": "Углы",
+            "url": "Uhly-Volynska"
+        },
+        {
+            "id": "61174",
+            "name": "Угринов",
+            "url": "Uhryniv-Volynska"
+        },
+        {
+            "id": "61173",
+            "name": "Угриничи",
+            "url": "Uhrynychi-Volynska"
+        },
+        {
+            "id": "61505",
+            "name": "Уховецк",
+            "url": "Ukhovetsk-Volynska"
+        },
+        {
+            "id": "61319",
+            "name": "Ульяники",
+            "url": "Ulyanyky-Volynska"
+        },
+        {
+            "id": "61381",
+            "name": "Уманцы",
+            "url": "Umantsi-Volynska"
+        },
+        {
+            "id": "61462",
+            "name": "Устилуг",
+            "url": "Ustyluh-Volynska"
+        },
+        {
+            "id": "61487",
+            "name": "Усычи",
+            "url": "Usychi-Volynska"
+        },
+        {
+            "id": "61486",
+            "name": "Усычевские Будки",
+            "url": "Usychivski Budky-Volynska"
+        },
+        {
+            "id": "61208",
+            "name": "Ужовая",
+            "url": "Uzhova-Volynska"
+        },
+        {
+            "id": "34463",
+            "name": "Валерьяновка",
+            "url": "Valeryanivka-Volynska"
+        },
+        {
+            "id": "34680",
+            "name": "Ватин",
+            "url": "Vatyn-Volynska"
+        },
+        {
+            "id": "34681",
+            "name": "Ватинец",
+            "url": "Vatynets-Volynska"
+        },
+        {
+            "id": "34757",
+            "name": "Великая Глуша",
+            "url": "Velyka Hlusha-Volynska"
+        },
+        {
+            "id": "34813",
+            "name": "Великая Осница",
+            "url": "Velyka Osnytsya-Volynska"
+        },
+        {
+            "id": "34748",
+            "name": "Великая Ведмежка",
+            "url": "Velyka Vedmezhka-Volynska"
+        },
+        {
+            "id": "34856",
+            "name": "Великая Яблонька",
+            "url": "Velyka Yablunka-Volynska"
+        },
+        {
+            "id": "34960",
+            "name": "Великий Курень",
+            "url": "Velykyi Kurin-Volynska"
+        },
+        {
+            "id": "34975",
+            "name": "Великий Обзыр",
+            "url": "Velykyi Obzyr-Volynska"
+        },
+        {
+            "id": "34976",
+            "name": "Великий Окорск",
+            "url": "Velykyi Okorsk-Volynska"
+        },
+        {
+            "id": "34977",
+            "name": "Великий Омеляник",
+            "url": "Velykyi Omelyanyk-Volynska"
+        },
+        {
+            "id": "34981",
+            "name": "Великий Порск",
+            "url": "Velykyi Porsk-Volynska"
+        },
+        {
+            "id": "35050",
+            "name": "Велимче",
+            "url": "Velymche-Volynska"
+        },
+        {
+            "id": "35054",
+            "name": "Велицк",
+            "url": "Velytsk-Volynska"
+        },
+        {
+            "id": "35091",
+            "name": "Вербаев",
+            "url": "Verbaiv-Volynska"
+        },
+        {
+            "id": "35131",
+            "name": "Вербовка",
+            "url": "Verbivka-Volynska"
+        },
+        {
+            "id": "35103",
+            "name": "Вербка",
+            "url": "Verbka-Volynska"
+        },
+        {
+            "id": "35100",
+            "name": "Вербично",
+            "url": "Verbychne-Volynska"
+        },
+        {
+            "id": "35330",
+            "name": "Верховка",
+            "url": "Verkhivka-Volynska"
+        },
+        {
+            "id": "35284",
+            "name": "Верхнов",
+            "url": "Verkhniv-Volynska"
+        },
+        {
+            "id": "35226",
+            "name": "Верхи",
+            "url": "Verkhy-Volynska"
+        },
+        {
+            "id": "35406",
+            "name": "Веселое",
+            "url": "Vesele-Volynska"
+        },
+        {
+            "id": "35508",
+            "name": "Веснянка",
+            "url": "Vesnyanka-Volynska"
+        },
+        {
+            "id": "35536",
+            "name": "Ветлы",
+            "url": "Vetly-Volynska"
+        },
+        {
+            "id": "35577",
+            "name": "Видуты",
+            "url": "Viduty-Volynska"
+        },
+        {
+            "id": "36065",
+            "name": "Войница",
+            "url": "Viinytsya-Volynska"
+        },
+        {
+            "id": "35625",
+            "name": "Викторяны",
+            "url": "Viktoryany-Volynska"
+        },
+        {
+            "id": "35646",
+            "name": "Вилька-Садовская",
+            "url": "Vilka-Sadivska-Volynska"
+        },
+        {
+            "id": "52301",
+            "name": "Ольховка",
+            "url": "Vilkhivka-Volynska"
+        },
+        {
+            "id": "52333",
+            "name": "Ольшанка",
+            "url": "Vilshanka-Volynska"
+        },
+        {
+            "id": "35757",
+            "name": "Витониж",
+            "url": "Vitonizh-Volynska"
+        },
+        {
+            "id": "35557",
+            "name": "Вивчицк",
+            "url": "Vivchytsk-Volynska"
+        },
+        {
+            "id": "36063",
+            "name": "Войнин",
+            "url": "Voinyn-Volynska"
+        },
+        {
+            "id": "36031",
+            "name": "Воегоща",
+            "url": "Vojehoshcha-Volynska"
+        },
+        {
+            "id": "35871",
+            "name": "Владимировка",
+            "url": "Volodymyrivka-Volynska"
+        },
+        {
+            "id": "36195",
+            "name": "Волошки",
+            "url": "Voloshky-Volynska"
+        },
+        {
+            "id": "36320",
+            "name": "Воля",
+            "url": "Volya-Volynska"
+        },
+        {
+            "id": "36338",
+            "name": "Воля-Ковельская",
+            "url": "Volya-Kovelska-Volynska"
+        },
+        {
+            "id": "36340",
+            "name": "Воля-Любитовская",
+            "url": "Volya-Lyubytivska-Volynska"
+        },
+        {
+            "id": "36343",
+            "name": "Воля-Свийчевская",
+            "url": "Volya-Sviichivska-Volynska"
+        },
+        {
+            "id": "36083",
+            "name": "Волица",
+            "url": "Volytsya-Volynska"
+        },
+        {
+            "id": "36111",
+            "name": "Волица-Дружкопольская",
+            "url": "Volytsya-Druzhkopilska-Volynska"
+        },
+        {
+            "id": "36112",
+            "name": "Волица-Лобачовская",
+            "url": "Volytsya-Lobachivska-Volynska"
+        },
+        {
+            "id": "36113",
+            "name": "Волица-Морозовицкая",
+            "url": "Volytsya-Morozovytska-Volynska"
+        },
+        {
+            "id": "36442",
+            "name": "Ворчин",
+            "url": "Vorchyn-Volynska"
+        },
+        {
+            "id": "36378",
+            "name": "Ворокомле",
+            "url": "Vorokomle-Volynska"
+        },
+        {
+            "id": "36379",
+            "name": "Ворона",
+            "url": "Vorona-Volynska"
+        },
+        {
+            "id": "36424",
+            "name": "Ворончин",
+            "url": "Voronchyn-Volynska"
+        },
+        {
+            "id": "36435",
+            "name": "Воротнев",
+            "url": "Vorotniv-Volynska"
+        },
+        {
+            "id": "36501",
+            "name": "Вощатин",
+            "url": "Voshchatyn-Volynska"
+        },
+        {
+            "id": "36224",
+            "name": "Волчицк",
+            "url": "Vovchytsk-Volynska"
+        },
+        {
+            "id": "36504",
+            "name": "Воютин",
+            "url": "Voyutyn-Volynska"
+        },
+        {
+            "id": "36516",
+            "name": "Всеволодовка",
+            "url": "Vsevolodivka-Volynska"
+        },
+        {
+            "id": "36519",
+            "name": "Вужиск",
+            "url": "Vuzhysk-Volynska"
+        },
+        {
+            "id": "36690",
+            "name": "Вязовно",
+            "url": "Vyazivne-Volynska"
+        },
+        {
+            "id": "36554",
+            "name": "Выдерта",
+            "url": "Vyderta-Volynska"
+        },
+        {
+            "id": "36557",
+            "name": "Выдричи",
+            "url": "Vydrychi-Volynska"
+        },
+        {
+            "id": "36533",
+            "name": "Выгнанка",
+            "url": "Vyhnanka-Volynska"
+        },
+        {
+            "id": "35558",
+            "name": "Вигуричи",
+            "url": "Vyhurychi-Volynska"
+        },
+        {
+            "id": "35662",
+            "name": "Винимок",
+            "url": "Vynimok-Volynska"
+        },
+        {
+            "id": "35769",
+            "name": "Вишенки",
+            "url": "Vyshenky-Volynska"
+        },
+        {
+            "id": "35779",
+            "name": "Вишнев",
+            "url": "Vyshniv-Volynska"
+        },
+        {
+            "id": "35786",
+            "name": "Вишневка",
+            "url": "Vyshnivka-Volynska"
+        },
+        {
+            "id": "36638",
+            "name": "Высочное",
+            "url": "Vysochne-Volynska"
+        },
+        {
+            "id": "36604",
+            "name": "Высокое",
+            "url": "Vysoke-Volynska"
+        },
+        {
+            "id": "35738",
+            "name": "Висоцк",
+            "url": "Vysotsk-Volynska"
+        },
+        {
+            "id": "35750",
+            "name": "Витень",
+            "url": "Vyten-Volynska"
+        },
+        {
+            "id": "35758",
+            "name": "Витуле",
+            "url": "Vytule-Volynska"
+        },
+        {
+            "id": "36563",
+            "name": "Выжгов",
+            "url": "Vyzhhiv-Volynska"
+        },
+        {
+            "id": "36565",
+            "name": "Выжично",
+            "url": "Vyzhychno-Volynska"
+        },
+        {
+            "id": "64415",
+            "name": "Яблоновка",
+            "url": "Yablunivka-Volynska"
+        },
+        {
+            "id": "64482",
+            "name": "Ягодное",
+            "url": "Yahidne-Volynska"
+        },
+        {
+            "id": "64522",
+            "name": "Яковцы",
+            "url": "Yakivtsi-Volynska"
+        },
+        {
+            "id": "64507",
+            "name": "Яковичи",
+            "url": "Yakovychi-Volynska"
+        },
+        {
+            "id": "64530",
+            "name": "Якушев",
+            "url": "Yakushiv-Volynska"
+        },
+        {
+            "id": "64539",
+            "name": "Яловацк",
+            "url": "Yalovatsk-Volynska"
+        },
+        {
+            "id": "64602",
+            "name": "Яревище",
+            "url": "Yarevyshche-Volynska"
+        },
+        {
+            "id": "64630",
+            "name": "Яровка",
+            "url": "Yarivka-Volynska"
+        },
+        {
+            "id": "64639",
+            "name": "Яромель",
+            "url": "Yaromel-Volynska"
+        },
+        {
+            "id": "64682",
+            "name": "Ясеновка",
+            "url": "Yasenivka-Volynska"
+        },
+        {
+            "id": "64741",
+            "name": "Ясное",
+            "url": "Yasne-Volynska"
+        },
+        {
+            "id": "64493",
+            "name": "Язавни",
+            "url": "Yazavni-Volynska"
+        },
+        {
+            "id": "39810",
+            "name": "Елизаветин",
+            "url": "Yelyzavetyn-Volynska"
+        },
+        {
+            "id": "64320",
+            "name": "Юновка",
+            "url": "Yunivka-Volynska"
+        },
+        {
+            "id": "40233",
+            "name": "Забара",
+            "url": "Zabara-Volynska"
+        },
+        {
+            "id": "40263",
+            "name": "Заболотцы",
+            "url": "Zabolottsi-Volynska"
+        },
+        {
+            "id": "40280",
+            "name": "Забороль",
+            "url": "Zaborol-Volynska"
+        },
+        {
+            "id": "40290",
+            "name": "Заброды",
+            "url": "Zabrody-Volynska"
+        },
+        {
+            "id": "40298",
+            "name": "Забужье",
+            "url": "Zabuzhzhya-Volynska"
+        },
+        {
+            "id": "41012",
+            "name": "Зачернечье",
+            "url": "Zachernechchya-Volynska"
+        },
+        {
+            "id": "40458",
+            "name": "Задолина",
+            "url": "Zadolyna-Volynska"
+        },
+        {
+            "id": "40470",
+            "name": "Задыбы",
+            "url": "Zadyby-Volynska"
+        },
+        {
+            "id": "40382",
+            "name": "Загаи",
+            "url": "Zahai-Volynska"
+        },
+        {
+            "id": "40405",
+            "name": "Загоровка",
+            "url": "Zahorivka-Volynska"
+        },
+        {
+            "id": "40477",
+            "name": "Заиваново",
+            "url": "Zaivanove-Volynska"
+        },
+        {
+            "id": "40536",
+            "name": "Залазько",
+            "url": "Zalazko-Volynska"
+        },
+        {
+            "id": "40535",
+            "name": "Залазье",
+            "url": "Zalazzya-Volynska"
+        },
+        {
+            "id": "40546",
+            "name": "Залесочье",
+            "url": "Zalisoche-Volynska"
+        },
+        {
+            "id": "40548",
+            "name": "Залесцы",
+            "url": "Zalistsi-Volynska"
+        },
+        {
+            "id": "40553",
+            "name": "Залесы",
+            "url": "Zalisy-Volynska"
+        },
+        {
+            "id": "40582",
+            "name": "Зализница",
+            "url": "Zaliznytsya-Volynska"
+        },
+        {
+            "id": "40630",
+            "name": "Залухов",
+            "url": "Zalukhiv-Volynska"
+        },
+        {
+            "id": "40614",
+            "name": "Залужное",
+            "url": "Zaluzhne-Volynska"
+        },
+        {
+            "id": "40618",
+            "name": "Залужье",
+            "url": "Zaluzhzhya-Volynska"
+        },
+        {
+            "id": "40637",
+            "name": "Залютье",
+            "url": "Zalyuttya-Volynska"
+        },
+        {
+            "id": "40651",
+            "name": "Замличи",
+            "url": "Zamlychi-Volynska"
+        },
+        {
+            "id": "40653",
+            "name": "Замлынье",
+            "url": "Zamlynnya-Volynska"
+        },
+        {
+            "id": "40666",
+            "name": "Замосты",
+            "url": "Zamosty-Volynska"
+        },
+        {
+            "id": "40667",
+            "name": "Замостье",
+            "url": "Zamostya-Volynska"
+        },
+        {
+            "id": "40676",
+            "name": "Замшаны",
+            "url": "Zamshany-Volynska"
+        },
+        {
+            "id": "40683",
+            "name": "Занивское",
+            "url": "Zanyvske-Volynska"
+        },
+        {
+            "id": "40689",
+            "name": "Заозёрное",
+            "url": "Zaozerne-Volynska"
+        },
+        {
+            "id": "40757",
+            "name": "Заполье",
+            "url": "Zapillya-Volynska"
+        },
+        {
+            "id": "40755",
+            "name": "Запоковное",
+            "url": "Zapokivne-Volynska"
+        },
+        {
+            "id": "40797",
+            "name": "Запрудье",
+            "url": "Zapruddya-Volynska"
+        },
+        {
+            "id": "40794",
+            "name": "Заприпять",
+            "url": "Zaprypyat-Volynska"
+        },
+        {
+            "id": "40805",
+            "name": "Запуст",
+            "url": "Zapust-Volynska"
+        },
+        {
+            "id": "40812",
+            "name": "Зарека",
+            "url": "Zarika-Volynska"
+        },
+        {
+            "id": "40891",
+            "name": "Зарудчи",
+            "url": "Zarudchi-Volynska"
+        },
+        {
+            "id": "41018",
+            "name": "Защитов",
+            "url": "Zashchytiv-Volynska"
+        },
+        {
+            "id": "40946",
+            "name": "Заставье",
+            "url": "Zastavje-Volynska"
+        },
+        {
+            "id": "40940",
+            "name": "Заставное",
+            "url": "Zastavne-Volynska"
+        },
+        {
+            "id": "40982",
+            "name": "Затурцы",
+            "url": "Zaturtsi-Volynska"
+        },
+        {
+            "id": "40970",
+            "name": "Затишье",
+            "url": "Zatyshshya-Volynska"
+        },
+        {
+            "id": "40340",
+            "name": "Заветное",
+            "url": "Zavitne-Volynska"
+        },
+        {
+            "id": "40352",
+            "name": "Завидов",
+            "url": "Zavydiv-Volynska"
+        },
+        {
+            "id": "41021",
+            "name": "Заячевка",
+            "url": "Zayachivka-Volynska"
+        },
+        {
+            "id": "41022",
+            "name": "Заячицы",
+            "url": "Zayachytsi-Volynska"
+        },
+        {
+            "id": "41090",
+            "name": "Здомышель",
+            "url": "Zdomyshel-Volynska"
+        },
+        {
+            "id": "41101",
+            "name": "Зеленая",
+            "url": "Zelena-Volynska"
+        },
+        {
+            "id": "41155",
+            "name": "Зеленое",
+            "url": "Zelene-Volynska"
+        },
+        {
+            "id": "41200",
+            "name": "Зеленолужное",
+            "url": "Zelenoluzhne-Volynska"
+        },
+        {
+            "id": "39888",
+            "name": "Жабче",
+            "url": "Zhabche-Volynska"
+        },
+        {
+            "id": "39880",
+            "name": "Жабка",
+            "url": "Zhabka-Volynska"
+        },
+        {
+            "id": "39916",
+            "name": "Жашковичи",
+            "url": "Zhashkovychi-Volynska"
+        },
+        {
+            "id": "41082",
+            "name": "Згораны",
+            "url": "Zhorany-Volynska"
+        },
+        {
+            "id": "40143",
+            "name": "Жорнище",
+            "url": "Zhornyshche-Volynska"
+        },
+        {
+            "id": "40162",
+            "name": "Жуковец",
+            "url": "Zhukovets-Volynska"
+        },
+        {
+            "id": "40183",
+            "name": "Журавец",
+            "url": "Zhuravets-Volynska"
+        },
+        {
+            "id": "40206",
+            "name": "Журавлиное",
+            "url": "Zhuravlyne-Volynska"
+        },
+        {
+            "id": "40210",
+            "name": "Журавники",
+            "url": "Zhuravnyky-Volynska"
+        },
+        {
+            "id": "40184",
+            "name": "Журавичи",
+            "url": "Zhuravychi-Volynska"
+        },
+        {
+            "id": "39999",
+            "name": "Жидычин",
+            "url": "Zhydychyn-Volynska"
+        },
+        {
+            "id": "40011",
+            "name": "Жиричи",
+            "url": "Zhyrychi-Volynska"
+        },
+        {
+            "id": "40017",
+            "name": "Житани",
+            "url": "Zhytani-Volynska"
+        },
+        {
+            "id": "40026",
+            "name": "Житновка",
+            "url": "Zhytnivka-Volynska"
+        },
+        {
+            "id": "41357",
+            "name": "Змеинец",
+            "url": "Zmiinets-Volynska"
+        },
+        {
+            "id": "41380",
+            "name": "Знамировка",
+            "url": "Znamyrivka-Volynska"
+        },
+        {
+            "id": "41464",
+            "name": "Зоряное",
+            "url": "Zoryane-Volynska"
+        },
+        {
+            "id": "41496",
+            "name": "Зубильное",
+            "url": "Zubylne-Volynska"
+        },
+        {
+            "id": "41063",
+            "name": "Зверев",
+            "url": "Zviriv-Volynska"
+        },
+        {
+            "id": "41072",
+            "name": "Звозы",
+            "url": "Zvozy-Volynska"
+        },
+        {
+            "id": "41069",
+            "name": "Звиняче",
+            "url": "Zvynyache-Volynska"
+        },
+        {
+            "id": "41324",
+            "name": "Зимнее",
+            "url": "Zymne-Volynska"
+        }
+    ]
+}

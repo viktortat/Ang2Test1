@@ -1,0 +1,3965 @@
+{
+    "state": "success",
+    "data": [
+        {
+            "id": "28500",
+            "name": "Адамовка",
+            "url": "Adamivka-Donecka"
+        },
+        {
+            "id": "28439",
+            "name": "Агробаза",
+            "url": "Ahrobaza-Donecka"
+        },
+        {
+            "id": "28443",
+            "name": "Агрономичное",
+            "url": "Ahronomichne-Donecka"
+        },
+        {
+            "id": "30210",
+            "name": "Анадоль",
+            "url": "Anadol-Donecka"
+        },
+        {
+            "id": "30339",
+            "name": "Андреевка",
+            "url": "Andriivka-Donecka"
+        },
+        {
+            "id": "30650",
+            "name": "Антоновка",
+            "url": "Antonivka-Donecka"
+        },
+        {
+            "id": "31396",
+            "name": "Архангельское",
+            "url": "Arkhanhelske-Donecka"
+        },
+        {
+            "id": "31328",
+            "name": "Артема",
+            "url": "Artema-Donecka"
+        },
+        {
+            "id": "31336",
+            "name": "Артемовка",
+            "url": "Artemivka-Donecka"
+        },
+        {
+            "id": "31352",
+            "name": "Артемовское",
+            "url": "Artemivske-Donecka"
+        },
+        {
+            "id": "31347",
+            "name": "Артемово",
+            "url": "Artemove-Donecka"
+        },
+        {
+            "id": "31518",
+            "name": "Аслановое",
+            "url": "Aslanove-Donecka"
+        },
+        {
+            "id": "28626",
+            "name": "Азовское",
+            "url": "Azovske-Donecka"
+        },
+        {
+            "id": "32035",
+            "name": "Бабах-Тарама",
+            "url": "Babakh-Tarama-Donecka"
+        },
+        {
+            "id": "33322",
+            "name": "Богатырь",
+            "url": "Bahatyr-Donecka"
+        },
+        {
+            "id": "32470",
+            "name": "Бахчевик",
+            "url": "Bakhchovyk-Donecka"
+        },
+        {
+            "id": "32465",
+            "name": "Бахмутское",
+            "url": "Bakhmutske-Donecka"
+        },
+        {
+            "id": "32248",
+            "name": "Балочное",
+            "url": "Balochne-Donecka"
+        },
+        {
+            "id": "32329",
+            "name": "Барановка",
+            "url": "Baranivka-Donecka"
+        },
+        {
+            "id": "32823",
+            "name": "Бердянское",
+            "url": "Berdyanske-Donecka"
+        },
+        {
+            "id": "32819",
+            "name": "Бердычи",
+            "url": "Berdychi-Donecka"
+        },
+        {
+            "id": "33017",
+            "name": "Берестки",
+            "url": "Berestky-Donecka"
+        },
+        {
+            "id": "33037",
+            "name": "Бересток",
+            "url": "Berestok-Donecka"
+        },
+        {
+            "id": "33028",
+            "name": "Берестовое",
+            "url": "Berestove-Donecka"
+        },
+        {
+            "id": "32956",
+            "name": "Березовка",
+            "url": "Berezivka-Donecka"
+        },
+        {
+            "id": "32995",
+            "name": "Березовое",
+            "url": "Berezove-Donecka"
+        },
+        {
+            "id": "33068",
+            "name": "Берховка",
+            "url": "Berkhivka-Donecka"
+        },
+        {
+            "id": "33089",
+            "name": "Бессарабка",
+            "url": "Bessarabka-Donecka"
+        },
+        {
+            "id": "32551",
+            "name": "Безымянное",
+            "url": "Bezimyane-Donecka"
+        },
+        {
+            "id": "32532",
+            "name": "Беззаботовка",
+            "url": "Bezzabotivka-Donecka"
+        },
+        {
+            "id": "32577",
+            "name": "Белая Гора",
+            "url": "Bila Hora-Donecka"
+        },
+        {
+            "id": "32579",
+            "name": "Белая Каменка",
+            "url": "Bila Kamyanka-Donecka"
+        },
+        {
+            "id": "32708",
+            "name": "Белокузьминовка",
+            "url": "Bilokuzmynivka-Donecka"
+        },
+        {
+            "id": "32723",
+            "name": "Белосарайская Коса",
+            "url": "Bilosaraiska Kosa-Donecka"
+        },
+        {
+            "id": "32749",
+            "name": "Белояровка",
+            "url": "Biloyarivka-Donecka"
+        },
+        {
+            "id": "32694",
+            "name": "Белозерское",
+            "url": "Bilozerske-Donecka"
+        },
+        {
+            "id": "33209",
+            "name": "Благодать",
+            "url": "Blahodat-Donecka"
+        },
+        {
+            "id": "33175",
+            "name": "Благовещенка",
+            "url": "Blahovishchenka-Donecka"
+        },
+        {
+            "id": "33230",
+            "name": "Ближнее",
+            "url": "Blyzhnje-Donecka"
+        },
+        {
+            "id": "33341",
+            "name": "Богдановка",
+            "url": "Bohdanivka-Donecka"
+        },
+        {
+            "id": "33412",
+            "name": "Богородичное",
+            "url": "Bohorodychne-Donecka"
+        },
+        {
+            "id": "33416",
+            "name": "Богоявленка",
+            "url": "Bohoyavlenka-Donecka"
+        },
+        {
+            "id": "33459",
+            "name": "Бойковка",
+            "url": "Boikivka-Donecka"
+        },
+        {
+            "id": "33442",
+            "name": "Боевое",
+            "url": "Boiove-Donecka"
+        },
+        {
+            "id": "33566",
+            "name": "Бондаревское",
+            "url": "Bondarevske-Donecka"
+        },
+        {
+            "id": "33576",
+            "name": "Бондарное",
+            "url": "Bondarne-Donecka"
+        },
+        {
+            "id": "34027",
+            "name": "Бугас",
+            "url": "Buhas-Donecka"
+        },
+        {
+            "id": "34244",
+            "name": "Бурлацкое",
+            "url": "Burlatske-Donecka"
+        },
+        {
+            "id": "34246",
+            "name": "Бурное",
+            "url": "Burne-Donecka"
+        },
+        {
+            "id": "34274",
+            "name": "Буряковая Балка",
+            "url": "Buryakova Balka-Donecka"
+        },
+        {
+            "id": "34136",
+            "name": "Бузиновка",
+            "url": "Buzynivka-Donecka"
+        },
+        {
+            "id": "34390",
+            "name": "Былбасовка",
+            "url": "Bylbasivka-Donecka"
+        },
+        {
+            "id": "21439",
+            "name": "Травневое",
+            "url": "Travneve"
+        },
+        {
+            "id": "21438",
+            "name": "Курдюмовка",
+            "url": "Kurdumivka"
+        },
+        {
+            "id": "21437",
+            "name": "Русин Яр",
+            "url": "RusinYar"
+        },
+        {
+            "id": "21436",
+            "name": "Новотроицкое",
+            "url": "NovotroitskeDO"
+        },
+        {
+            "id": "62955",
+            "name": "Черевковское",
+            "url": "Cherevkivske-Donecka"
+        },
+        {
+            "id": "63012",
+            "name": "Черкасское",
+            "url": "Cherkaske-Donecka"
+        },
+        {
+            "id": "63020",
+            "name": "Чермалик",
+            "url": "Chermalyk-Donecka"
+        },
+        {
+            "id": "63040",
+            "name": "Черненко",
+            "url": "Chernenko-Donecka"
+        },
+        {
+            "id": "62722",
+            "name": "Червоная Украина",
+            "url": "Chervona Ukraina-Donecka"
+        },
+        {
+            "id": "62673",
+            "name": "Червоная Зирка",
+            "url": "Chervona Zirka-Donecka"
+        },
+        {
+            "id": "62666",
+            "name": "Червоная Заря",
+            "url": "Chervona Zorya-Donecka"
+        },
+        {
+            "id": "62765",
+            "name": "Червоное",
+            "url": "Chervone-Donecka"
+        },
+        {
+            "id": "62843",
+            "name": "Червоносельское",
+            "url": "Chervonosilske-Donecka"
+        },
+        {
+            "id": "63349",
+            "name": "Чугунно-Крепинка",
+            "url": "Chuhuno-Krepynka-Donecka"
+        },
+        {
+            "id": "63370",
+            "name": "Чумак",
+            "url": "Chumak-Donecka"
+        },
+        {
+            "id": "63376",
+            "name": "Чумаки",
+            "url": "Chumaky-Donecka"
+        },
+        {
+            "id": "63382",
+            "name": "Чунишино",
+            "url": "Chunyshyne-Donecka"
+        },
+        {
+            "id": "38503",
+            "name": "Дача",
+            "url": "Dacha-Donecka"
+        },
+        {
+            "id": "38510",
+            "name": "Дачное",
+            "url": "Dachne-Donecka"
+        },
+        {
+            "id": "38413",
+            "name": "Дальнее",
+            "url": "Dalnje-Donecka"
+        },
+        {
+            "id": "38665",
+            "name": "Демьяновка",
+            "url": "Demyanivka-Donecka"
+        },
+        {
+            "id": "38745",
+            "name": "Дерсово",
+            "url": "Dersove-Donecka"
+        },
+        {
+            "id": "38731",
+            "name": "Дерилово",
+            "url": "Derylove-Donecka"
+        },
+        {
+            "id": "38925",
+            "name": "Дибровка",
+            "url": "Dibrivka-Donecka"
+        },
+        {
+            "id": "38886",
+            "name": "Диброва",
+            "url": "Dibrova-Donecka"
+        },
+        {
+            "id": "39011",
+            "name": "Дмитро-Дарьевка",
+            "url": "Dmytro-Darivka-Donecka"
+        },
+        {
+            "id": "39064",
+            "name": "Дмитроколино",
+            "url": "Dmytrokolyne-Donecka"
+        },
+        {
+            "id": "39332",
+            "name": "Доломитное",
+            "url": "Dolomitne-Donecka"
+        },
+        {
+            "id": "39338",
+            "name": "Доля",
+            "url": "Dolya-Donecka"
+        },
+        {
+            "id": "39270",
+            "name": "Долина",
+            "url": "Dolyna-Donecka"
+        },
+        {
+            "id": "39294",
+            "name": "Долиновка",
+            "url": "Dolynivka-Donecka"
+        },
+        {
+            "id": "39371",
+            "name": "Донецкое",
+            "url": "Donetske-Donecka"
+        },
+        {
+            "id": "39374",
+            "name": "Донское",
+            "url": "Donske-Donecka"
+        },
+        {
+            "id": "19462",
+            "name": "Зугрэс",
+            "url": "Zuhres"
+        },
+        {
+            "id": "19461",
+            "name": "Ясиноватая",
+            "url": "Yasinovataya"
+        },
+        {
+            "id": "19460",
+            "name": "Ялта",
+            "url": "YaltaDO"
+        },
+        {
+            "id": "19459",
+            "name": "Урзуф",
+            "url": "Urzuf"
+        },
+        {
+            "id": "19458",
+            "name": "Углегорск",
+            "url": "Uglegorsk"
+        },
+        {
+            "id": "19457",
+            "name": "Седово",
+            "url": "Syedove"
+        },
+        {
+            "id": "19456",
+            "name": "Святогорск",
+            "url": "Svyatogorsk"
+        },
+        {
+            "id": "19455",
+            "name": "Стожковское",
+            "url": "Stozhkovskoye"
+        },
+        {
+            "id": "39396",
+            "name": "Дорожное",
+            "url": "Dorozhnje-Donecka"
+        },
+        {
+            "id": "19454",
+            "name": "Старый Крым",
+            "url": "StaryyKrymDO"
+        },
+        {
+            "id": "19453",
+            "name": "Широкое",
+            "url": "ShyrokeDO"
+        },
+        {
+            "id": "19452",
+            "name": "Щербиновка",
+            "url": "Shcherbinovka"
+        },
+        {
+            "id": "19451",
+            "name": "Родинское",
+            "url": "Rodinskoye"
+        },
+        {
+            "id": "19450",
+            "name": "Рассыпное",
+            "url": "Rassypnoye"
+        },
+        {
+            "id": "19449",
+            "name": "Приморское",
+            "url": "Primorskoye"
+        },
+        {
+            "id": "19448",
+            "name": "Новый Свет",
+            "url": "NovyySvitDO"
+        },
+        {
+            "id": "19447",
+            "name": "Нижняя Крынка",
+            "url": "NizhnyayaKrynka"
+        },
+        {
+            "id": "19446",
+            "name": "Моспино",
+            "url": "Mospyne"
+        },
+        {
+            "id": "19445",
+            "name": "Мелекино",
+            "url": "Melekyne"
+        },
+        {
+            "id": "19444",
+            "name": "Кутейниково",
+            "url": "Kuteynykove"
+        },
+        {
+            "id": "19443",
+            "name": "Курахово",
+            "url": "Kurakhovo"
+        },
+        {
+            "id": "19442",
+            "name": "Криничная",
+            "url": "Krinichnaya"
+        },
+        {
+            "id": "19441",
+            "name": "Красноторка",
+            "url": "Krasnotorka"
+        },
+        {
+            "id": "64802",
+            "name": "Харцизск",
+            "url": "Khartsyzsk"
+        },
+        {
+            "id": "19439",
+            "name": "Иловайск",
+            "url": "Ilovaysk"
+        },
+        {
+            "id": "19438",
+            "name": "Докучаевск",
+            "url": "Dokuchayevsk"
+        },
+        {
+            "id": "19437",
+            "name": "Дмитровка",
+            "url": "DmytrivkaDO"
+        },
+        {
+            "id": "19436",
+            "name": "Благодатное",
+            "url": "Blagodatnoye"
+        },
+        {
+            "id": "19435",
+            "name": "Безыменное",
+            "url": "Bezimenne"
+        },
+        {
+            "id": "19433",
+            "name": "Авдеевка",
+            "url": "Avdeyevka"
+        },
+        {
+            "id": "19434",
+            "name": "Белицкое",
+            "url": "Belitskoye"
+        },
+        {
+            "id": "39467",
+            "name": "Дробышево",
+            "url": "Drobysheve-Donecka"
+        },
+        {
+            "id": "39482",
+            "name": "Дроновка",
+            "url": "Dronivka-Donecka"
+        },
+        {
+            "id": "39518",
+            "name": "Дружное",
+            "url": "Druzhne-Donecka"
+        },
+        {
+            "id": "39597",
+            "name": "Дубовка",
+            "url": "Dubivka-Donecka"
+        },
+        {
+            "id": "39609",
+            "name": "Дубово-Василевка",
+            "url": "Dubovo-Vasylivka-Donecka"
+        },
+        {
+            "id": "39732",
+            "name": "Дылеевка",
+            "url": "Dyliivka-Donecka"
+        },
+        {
+            "id": "38978",
+            "name": "Димитрова",
+            "url": "Dymytrova-Donecka"
+        },
+        {
+            "id": "38979",
+            "name": "Димитрово",
+            "url": "Dymytrove-Donecka"
+        },
+        {
+            "id": "41305",
+            "name": "Зеркальное",
+            "url": "Dzerkalne-Donecka"
+        },
+        {
+            "id": "38860",
+            "name": "Дзержинское",
+            "url": "Dzerzhynske-Donecka"
+        },
+        {
+            "id": "61596",
+            "name": "Федоровка",
+            "url": "Fedorivka-Donecka"
+        },
+        {
+            "id": "61649",
+            "name": "Федоровка Вторая",
+            "url": "Fedorivka Druha-Donecka"
+        },
+        {
+            "id": "36836",
+            "name": "Галицыновка",
+            "url": "Halytsynivka-Donecka"
+        },
+        {
+            "id": "30525",
+            "name": "Анновка",
+            "url": "Hannivka-Donecka"
+        },
+        {
+            "id": "37031",
+            "name": "Георгиевка",
+            "url": "Heorhiivka-Donecka"
+        },
+        {
+            "id": "37078",
+            "name": "Гигант",
+            "url": "Hihant-Donecka"
+        },
+        {
+            "id": "37189",
+            "name": "Глубокая Макатиха",
+            "url": "Hlyboka Makatykha-Donecka"
+        },
+        {
+            "id": "37193",
+            "name": "Глубокое",
+            "url": "Hlyboke-Donecka"
+        },
+        {
+            "id": "37140",
+            "name": "Глинка",
+            "url": "Hlynka-Donecka"
+        },
+        {
+            "id": "37263",
+            "name": "Гнатовка",
+            "url": "Hnativka-Donecka"
+        },
+        {
+            "id": "37420",
+            "name": "Голубовка",
+            "url": "Holubivka-Donecka"
+        },
+        {
+            "id": "37409",
+            "name": "Голубицкое",
+            "url": "Holubytske-Donecka"
+        },
+        {
+            "id": "37516",
+            "name": "Горбатенко",
+            "url": "Horbatenko-Donecka"
+        },
+        {
+            "id": "37811",
+            "name": "Грабово",
+            "url": "Hrabove-Donecka"
+        },
+        {
+            "id": "37860",
+            "name": "Гранитное",
+            "url": "Hranitne-Donecka"
+        },
+        {
+            "id": "37903",
+            "name": "Греково-Александровка",
+            "url": "Hrekovo-Oleksandrivka-Donecka"
+        },
+        {
+            "id": "38051",
+            "name": "Гродовка",
+            "url": "Hrodivka-Donecka"
+        },
+        {
+            "id": "38066",
+            "name": "Громовая Балка",
+            "url": "Hromova Balka-Donecka"
+        },
+        {
+            "id": "38131",
+            "name": "Грушевское",
+            "url": "Hrushivske-Donecka"
+        },
+        {
+            "id": "38088",
+            "name": "Грузское",
+            "url": "Hruzke-Donecka"
+        },
+        {
+            "id": "38032",
+            "name": "Гришино",
+            "url": "Hryshyne-Donecka"
+        },
+        {
+            "id": "38211",
+            "name": "Гулево",
+            "url": "Hulive-Donecka"
+        },
+        {
+            "id": "38286",
+            "name": "Гусельщиково",
+            "url": "Huselshchykove-Donecka"
+        },
+        {
+            "id": "41863",
+            "name": "Ильича",
+            "url": "Illicha-Donecka"
+        },
+        {
+            "id": "41867",
+            "name": "Ильичовка",
+            "url": "Illichivka-Donecka"
+        },
+        {
+            "id": "41875",
+            "name": "Ильичовское",
+            "url": "Illichivske-Donecka"
+        },
+        {
+            "id": "41851",
+            "name": "Ильинка",
+            "url": "Illinka-Donecka"
+        },
+        {
+            "id": "41964",
+            "name": "Искра",
+            "url": "Iskra-Donecka"
+        },
+        {
+            "id": "41540",
+            "name": "Иванград",
+            "url": "Ivanhrad-Donecka"
+        },
+        {
+            "id": "41613",
+            "name": "Ивановка",
+            "url": "Ivanivka-Donecka"
+        },
+        {
+            "id": "41582",
+            "name": "Ивано-Дарьевка",
+            "url": "Ivano-Darivka-Donecka"
+        },
+        {
+            "id": "41732",
+            "name": "Иванополье",
+            "url": "Ivanopillya-Donecka"
+        },
+        {
+            "id": "41773",
+            "name": "Иверское",
+            "url": "Iverske-Donecka"
+        },
+        {
+            "id": "41799",
+            "name": "Ижевка",
+            "url": "Izhevka-Donecka"
+        },
+        {
+            "id": "41811",
+            "name": "Измайловка",
+            "url": "Izmailivka-Donecka"
+        },
+        {
+            "id": "42968",
+            "name": "Качкарское",
+            "url": "Kachkarske-Donecka"
+        },
+        {
+            "id": "42350",
+            "name": "Кальчик",
+            "url": "Kalchyk-Donecka"
+        },
+        {
+            "id": "42351",
+            "name": "Кальчиновка",
+            "url": "Kalchynivka-Donecka"
+        },
+        {
+            "id": "42206",
+            "name": "Калинина",
+            "url": "Kalinina-Donecka"
+        },
+        {
+            "id": "42210",
+            "name": "Калинино",
+            "url": "Kalinine-Donecka"
+        },
+        {
+            "id": "42238",
+            "name": "Калиновка",
+            "url": "Kalynivka-Donecka"
+        },
+        {
+            "id": "42299",
+            "name": "Калиново",
+            "url": "Kalynove-Donecka"
+        },
+        {
+            "id": "42305",
+            "name": "Калиновое",
+            "url": "Kalynove-Donecka"
+        },
+        {
+            "id": "42386",
+            "name": "Каменка",
+            "url": "Kamianka-Donecka"
+        },
+        {
+            "id": "42643",
+            "name": "Капланы",
+            "url": "Kaplany-Donecka"
+        },
+        {
+            "id": "42744",
+            "name": "Карла Маркса",
+            "url": "Karla Marksa-Donecka"
+        },
+        {
+            "id": "42752",
+            "name": "Карловка",
+            "url": "Karlivka-Donecka"
+        },
+        {
+            "id": "42799",
+            "name": "Карповка",
+            "url": "Karpivka-Donecka"
+        },
+        {
+            "id": "42808",
+            "name": "Карпово-Надеждинка",
+            "url": "Karpovo-Nadezhdynka-Donecka"
+        },
+        {
+            "id": "42992",
+            "name": "Каштановое",
+            "url": "Kashtanove-Donecka"
+        },
+        {
+            "id": "42862",
+            "name": "Касьяновка",
+            "url": "Kasyanivka-Donecka"
+        },
+        {
+            "id": "42890",
+            "name": "Катериновка",
+            "url": "Katerynivka-Donecka"
+        },
+        {
+            "id": "43083",
+            "name": "Керамик",
+            "url": "Keramik-Donecka"
+        },
+        {
+            "id": "61889",
+            "name": "Харьковское",
+            "url": "Kharkivske-Donecka"
+        },
+        {
+            "id": "26963",
+            "name": "Харцизск",
+            "url": "Khartsyzsk-Donecka"
+        },
+        {
+            "id": "61952",
+            "name": "Херсонес",
+            "url": "Khersones-Donecka"
+        },
+        {
+            "id": "61996",
+            "name": "Хлебодаровка",
+            "url": "Khlibodarivka-Donecka"
+        },
+        {
+            "id": "62100",
+            "name": "Холодное",
+            "url": "Kholodne-Donecka"
+        },
+        {
+            "id": "62139",
+            "name": "Хомутово",
+            "url": "Khomutove-Donecka"
+        },
+        {
+            "id": "45014",
+            "name": "Крестище",
+            "url": "Khrestyshche-Donecka"
+        },
+        {
+            "id": "62264",
+            "name": "Хромовка",
+            "url": "Khromivka-Donecka"
+        },
+        {
+            "id": "44019",
+            "name": "Кондратовка",
+            "url": "Kindrativka-Donecka"
+        },
+        {
+            "id": "43231",
+            "name": "Кирово",
+            "url": "Kirove-Donecka"
+        },
+        {
+            "id": "43256",
+            "name": "Кировск",
+            "url": "Kirovsk-Donecka"
+        },
+        {
+            "id": "43262",
+            "name": "Кировское",
+            "url": "Kirovske-Donecka"
+        },
+        {
+            "id": "43355",
+            "name": "Клебан-Бык",
+            "url": "Kleban-Byk-Donecka"
+        },
+        {
+            "id": "43368",
+            "name": "Кленовка",
+            "url": "Klenivka-Donecka"
+        },
+        {
+            "id": "43391",
+            "name": "Клещеевка",
+            "url": "Klishchiivka-Donecka"
+        },
+        {
+            "id": "43423",
+            "name": "Клинкино",
+            "url": "Klynkyne-Donecka"
+        },
+        {
+            "id": "43426",
+            "name": "Клиновое",
+            "url": "Klynove-Donecka"
+        },
+        {
+            "id": "43469",
+            "name": "Ключевое",
+            "url": "Klyuchove-Donecka"
+        },
+        {
+            "id": "43524",
+            "name": "Кобзари",
+            "url": "Kobzari-Donecka"
+        },
+        {
+            "id": "43640",
+            "name": "Кодема",
+            "url": "Kodema-Donecka"
+        },
+        {
+            "id": "43784",
+            "name": "Колодези",
+            "url": "Kolodyazi-Donecka"
+        },
+        {
+            "id": "43858",
+            "name": "Колоски",
+            "url": "Kolosky-Donecka"
+        },
+        {
+            "id": "43892",
+            "name": "Комар",
+            "url": "Komar-Donecka"
+        },
+        {
+            "id": "43949",
+            "name": "Коминтерново",
+            "url": "Kominternove-Donecka"
+        },
+        {
+            "id": "43992",
+            "name": "Комсомольское",
+            "url": "Komsomolske-Donecka"
+        },
+        {
+            "id": "43987",
+            "name": "Комсомольский",
+            "url": "Komsomolskyi-Donecka"
+        },
+        {
+            "id": "43959",
+            "name": "Коммуна",
+            "url": "Komuna-Donecka"
+        },
+        {
+            "id": "43971",
+            "name": "Коммунаровка",
+            "url": "Komunarivka-Donecka"
+        },
+        {
+            "id": "42535",
+            "name": "Камышатка",
+            "url": "Komyshatka-Donecka"
+        },
+        {
+            "id": "42539",
+            "name": "Камышеваха",
+            "url": "Komyshuvakha-Donecka"
+        },
+        {
+            "id": "42537",
+            "name": "Камышеватое",
+            "url": "Komyshuvate-Donecka"
+        },
+        {
+            "id": "44119",
+            "name": "Коньково",
+            "url": "Konkove-Donecka"
+        },
+        {
+            "id": "44139",
+            "name": "Копани",
+            "url": "Kopani-Donecka"
+        },
+        {
+            "id": "44189",
+            "name": "Коптево",
+            "url": "Koptjeve-Donecka"
+        },
+        {
+            "id": "44287",
+            "name": "Коровий Яр",
+            "url": "Korovii Yar-Donecka"
+        },
+        {
+            "id": "44632",
+            "name": "Кошарное",
+            "url": "Kosharne-Donecka"
+        },
+        {
+            "id": "44530",
+            "name": "Котляровка",
+            "url": "Kotlyarivka-Donecka"
+        },
+        {
+            "id": "44552",
+            "name": "Котовского",
+            "url": "Kotovskoho-Donecka"
+        },
+        {
+            "id": "43616",
+            "name": "Ковское",
+            "url": "Kovske-Donecka"
+        },
+        {
+            "id": "42122",
+            "name": "Казацкое",
+            "url": "Kozatske-Donecka"
+        },
+        {
+            "id": "43648",
+            "name": "Кожевня",
+            "url": "Kozhevnya-Donecka"
+        },
+        {
+            "id": "44747",
+            "name": "Красная Поляна",
+            "url": "Krasna Polyana-Donecka"
+        },
+        {
+            "id": "44812",
+            "name": "Красное",
+            "url": "Krasne-Donecka"
+        },
+        {
+            "id": "44767",
+            "name": "Красновка",
+            "url": "Krasnivka-Donecka"
+        },
+        {
+            "id": "44762",
+            "name": "Красноармейское",
+            "url": "Krasnoarmiiske-Donecka"
+        },
+        {
+            "id": "44788",
+            "name": "Красногоровка",
+            "url": "Krasnohorivka-Donecka"
+        },
+        {
+            "id": "44867",
+            "name": "Красноподолье",
+            "url": "Krasnopodillya-Donecka"
+        },
+        {
+            "id": "44927",
+            "name": "Красноярское",
+            "url": "Krasnoyarske-Donecka"
+        },
+        {
+            "id": "44940",
+            "name": "Красный Луч",
+            "url": "Krasnyi Luch-Donecka"
+        },
+        {
+            "id": "44945",
+            "name": "Красный Октябрь",
+            "url": "Krasnyi Oktyabr-Donecka"
+        },
+        {
+            "id": "44948",
+            "name": "Красный Пахарь",
+            "url": "Krasnyi Pakhar-Donecka"
+        },
+        {
+            "id": "44946",
+            "name": "Красный Партизан",
+            "url": "Krasnyi Partyzan-Donecka"
+        },
+        {
+            "id": "44953",
+            "name": "Красный Яр",
+            "url": "Krasnyi Yar-Donecka"
+        },
+        {
+            "id": "44983",
+            "name": "Кременевка",
+            "url": "Kremenivka-Donecka"
+        },
+        {
+            "id": "44991",
+            "name": "Кременная Балка",
+            "url": "Kreminna Balka-Donecka"
+        },
+        {
+            "id": "45181",
+            "name": "Кропивницкое",
+            "url": "Kropyvnytske-Donecka"
+        },
+        {
+            "id": "45196",
+            "name": "Круглик",
+            "url": "Kruhlyk-Donecka"
+        },
+        {
+            "id": "45249",
+            "name": "Крутая Балка",
+            "url": "Kruta Balka-Donecka"
+        },
+        {
+            "id": "45265",
+            "name": "Крутой Яр",
+            "url": "Krutyi Yar-Donecka"
+        },
+        {
+            "id": "45313",
+            "name": "Крымки",
+            "url": "Krymky-Donecka"
+        },
+        {
+            "id": "45143",
+            "name": "Криничное",
+            "url": "Krynychne-Donecka"
+        },
+        {
+            "id": "45040",
+            "name": "Кривая Лука",
+            "url": "Kryva Luka-Donecka"
+        },
+        {
+            "id": "45084",
+            "name": "Криворожье",
+            "url": "Kryvorizhzhya-Donecka"
+        },
+        {
+            "id": "45349",
+            "name": "Ксеновка",
+            "url": "Ksenivka-Donecka"
+        },
+        {
+            "id": "45755",
+            "name": "Кучеров Яр",
+            "url": "Kucheriv Yar-Donecka"
+        },
+        {
+            "id": "45517",
+            "name": "Культура",
+            "url": "Kultura-Donecka"
+        },
+        {
+            "id": "45499",
+            "name": "Куликово",
+            "url": "Kulykove-Donecka"
+        },
+        {
+            "id": "45538",
+            "name": "Кумачово",
+            "url": "Kumachove-Donecka"
+        },
+        {
+            "id": "45545",
+            "name": "Кумшацкое",
+            "url": "Kumshatske-Donecka"
+        },
+        {
+            "id": "45655",
+            "name": "Куроедовка",
+            "url": "Kuroidivka-Donecka"
+        },
+        {
+            "id": "45669",
+            "name": "Куртовка",
+            "url": "Kurtivka-Donecka"
+        },
+        {
+            "id": "45644",
+            "name": "Курицыно",
+            "url": "Kurytsyne-Donecka"
+        },
+        {
+            "id": "45721",
+            "name": "Кутузовка",
+            "url": "Kutuzovka-Donecka"
+        },
+        {
+            "id": "45425",
+            "name": "Кузьминовка",
+            "url": "Kuzmynivka-Donecka"
+        },
+        {
+            "id": "45411",
+            "name": "Кузнецы",
+            "url": "Kuznetsi-Donecka"
+        },
+        {
+            "id": "45409",
+            "name": "Кузнецово-Михайловка",
+            "url": "Kuznetsovo-Mykhailivka-Donecka"
+        },
+        {
+            "id": "43012",
+            "name": "Квашино",
+            "url": "Kvashyne-Donecka"
+        },
+        {
+            "id": "43190",
+            "name": "Кипучая Криница",
+            "url": "Kypucha Krynytsya-Donecka"
+        },
+        {
+            "id": "43202",
+            "name": "Кирилловка",
+            "url": "Kyrylivka-Donecka"
+        },
+        {
+            "id": "43285",
+            "name": "Киселевка",
+            "url": "Kyselivka-Donecka"
+        },
+        {
+            "id": "45976",
+            "name": "Ласточкино",
+            "url": "Lastochkyne-Donecka"
+        },
+        {
+            "id": "45984",
+            "name": "Латышево",
+            "url": "Latysheve-Donecka"
+        },
+        {
+            "id": "45892",
+            "name": "Лазаревка",
+            "url": "Lazarivka-Donecka"
+        },
+        {
+            "id": "46023",
+            "name": "Лебединское",
+            "url": "Lebedynske-Donecka"
+        },
+        {
+            "id": "46123",
+            "name": "Ленина",
+            "url": "Lenina-Donecka"
+        },
+        {
+            "id": "46135",
+            "name": "Ленино",
+            "url": "Lenine-Donecka"
+        },
+        {
+            "id": "46154",
+            "name": "Ленинское",
+            "url": "Leninske-Donecka"
+        },
+        {
+            "id": "46036",
+            "name": "Левадное",
+            "url": "Levadne-Donecka"
+        },
+        {
+            "id": "46375",
+            "name": "Лидино",
+            "url": "Lidyne-Donecka"
+        },
+        {
+            "id": "46280",
+            "name": "Лесовка",
+            "url": "Lisivka-Donecka"
+        },
+        {
+            "id": "46248",
+            "name": "Лесное",
+            "url": "Lisne-Donecka"
+        },
+        {
+            "id": "46646",
+            "name": "Логвиново",
+            "url": "Lohvynove-Donecka"
+        },
+        {
+            "id": "46709",
+            "name": "Лозовое",
+            "url": "Lozove-Donecka"
+        },
+        {
+            "id": "46685",
+            "name": "Лозоватское",
+            "url": "Lozuvatske-Donecka"
+        },
+        {
+            "id": "46881",
+            "name": "Луганское",
+            "url": "Luhanske-Donecka"
+        },
+        {
+            "id": "46902",
+            "name": "Луговое",
+            "url": "Luhove-Donecka"
+        },
+        {
+            "id": "47001",
+            "name": "Луково",
+            "url": "Lukove-Donecka"
+        },
+        {
+            "id": "47014",
+            "name": "Луначарское",
+            "url": "Lunacharske-Donecka"
+        },
+        {
+            "id": "46926",
+            "name": "Лужки",
+            "url": "Luzhky-Donecka"
+        },
+        {
+            "id": "47117",
+            "name": "Львовка",
+            "url": "Lvivka-Donecka"
+        },
+        {
+            "id": "46400",
+            "name": "Лиман",
+            "url": "Lyman-Donecka"
+        },
+        {
+            "id": "46500",
+            "name": "Липовка",
+            "url": "Lypivka-Donecka"
+        },
+        {
+            "id": "46512",
+            "name": "Липовое",
+            "url": "Lypove-Donecka"
+        },
+        {
+            "id": "47083",
+            "name": "Лысовка",
+            "url": "Lysivka-Donecka"
+        },
+        {
+            "id": "46547",
+            "name": "Лисичье",
+            "url": "Lysyche-Donecka"
+        },
+        {
+            "id": "46546",
+            "name": "Лисичное",
+            "url": "Lysychne-Donecka"
+        },
+        {
+            "id": "47185",
+            "name": "Любовка",
+            "url": "Lyubivka-Donecka"
+        },
+        {
+            "id": "47348",
+            "name": "Майдан",
+            "url": "Maidan-Donecka"
+        },
+        {
+            "id": "47400",
+            "name": "Майское",
+            "url": "Maiske-Donecka"
+        },
+        {
+            "id": "47420",
+            "name": "Макаровка",
+            "url": "Makarivka-Donecka"
+        },
+        {
+            "id": "47438",
+            "name": "Македоновка",
+            "url": "Makedonivka-Donecka"
+        },
+        {
+            "id": "47481",
+            "name": "Максаки",
+            "url": "Maksymilyanivka-Donecka"
+        },
+        {
+            "id": "47486",
+            "name": "Максимовка",
+            "url": "Maksymivka-Donecka"
+        },
+        {
+            "id": "47682",
+            "name": "Малая Шишовка",
+            "url": "Mala Shyshivka-Donecka"
+        },
+        {
+            "id": "47801",
+            "name": "Малоорловка",
+            "url": "Maloorlivka-Donecka"
+        },
+        {
+            "id": "47768",
+            "name": "Маловодное",
+            "url": "Malovodne-Donecka"
+        },
+        {
+            "id": "47817",
+            "name": "Малоянисоль",
+            "url": "Maloyanysol-Donecka"
+        },
+        {
+            "id": "47725",
+            "name": "Малиновка",
+            "url": "Malynivka-Donecka"
+        },
+        {
+            "id": "48022",
+            "name": "Мануйловка",
+            "url": "Manuilivka-Donecka"
+        },
+        {
+            "id": "48033",
+            "name": "Маныч",
+            "url": "Manych-Donecka"
+        },
+        {
+            "id": "48211",
+            "name": "Марьевка",
+            "url": "Marivka-Donecka"
+        },
+        {
+            "id": "48119",
+            "name": "Марково",
+            "url": "Markove-Donecka"
+        },
+        {
+            "id": "48100",
+            "name": "Маркино",
+            "url": "Markyne-Donecka"
+        },
+        {
+            "id": "48256",
+            "name": "Марьяновка",
+            "url": "Maryanivka-Donecka"
+        },
+        {
+            "id": "48076",
+            "name": "Мариновка",
+            "url": "Marynivka-Donecka"
+        },
+        {
+            "id": "48396",
+            "name": "Матяшево",
+            "url": "Matyasheve-Donecka"
+        },
+        {
+            "id": "48453",
+            "name": "Маяк",
+            "url": "Mayak-Donecka"
+        },
+        {
+            "id": "48462",
+            "name": "Маяки",
+            "url": "Mayaky-Donecka"
+        },
+        {
+            "id": "47318",
+            "name": "Мазановка",
+            "url": "Mazanivka-Donecka"
+        },
+        {
+            "id": "48653",
+            "name": "Мемрик",
+            "url": "Memryk-Donecka"
+        },
+        {
+            "id": "48663",
+            "name": "Менчугово",
+            "url": "Menchuhove-Donecka"
+        },
+        {
+            "id": "48671",
+            "name": "Мережки",
+            "url": "Merezhky-Donecka"
+        },
+        {
+            "id": "48685",
+            "name": "Металлист",
+            "url": "Metalist-Donecka"
+        },
+        {
+            "id": "48561",
+            "name": "Межевое",
+            "url": "Mezhove-Donecka"
+        },
+        {
+            "id": "49111",
+            "name": "Мичурино",
+            "url": "Michurine-Donecka"
+        },
+        {
+            "id": "48530",
+            "name": "Медная Руда",
+            "url": "Midna Ruda-Donecka"
+        },
+        {
+            "id": "48791",
+            "name": "Минеральное",
+            "url": "Mineralne-Donecka"
+        },
+        {
+            "id": "48799",
+            "name": "Миньковка",
+            "url": "Minkivka-Donecka"
+        },
+        {
+            "id": "49159",
+            "name": "Многополье",
+            "url": "Mnohopillya-Donecka"
+        },
+        {
+            "id": "49230",
+            "name": "Мокроеланчик",
+            "url": "Mokrojelanchyk-Donecka"
+        },
+        {
+            "id": "49277",
+            "name": "Молочарка",
+            "url": "Molocharka-Donecka"
+        },
+        {
+            "id": "49256",
+            "name": "Молодецкое",
+            "url": "Molodetske-Donecka"
+        },
+        {
+            "id": "49248",
+            "name": "Молодежное",
+            "url": "Molodizhne-Donecka"
+        },
+        {
+            "id": "49438",
+            "name": "Московское",
+            "url": "Moskovske-Donecka"
+        },
+        {
+            "id": "49582",
+            "name": "Муравка",
+            "url": "Muravka-Donecka"
+        },
+        {
+            "id": "48986",
+            "name": "Михайловка",
+            "url": "Mykhailivka-Donecka"
+        },
+        {
+            "id": "50424",
+            "name": "Никольское",
+            "url": "Mykilske-Donecka"
+        },
+        {
+            "id": "50415",
+            "name": "Николайполье",
+            "url": "Mykolaipillya-Donecka"
+        },
+        {
+            "id": "50328",
+            "name": "Николаевка",
+            "url": "Mykolaivka-Donecka"
+        },
+        {
+            "id": "50398",
+            "name": "Николаевка Вторая",
+            "url": "Mykolaivka Druha-Donecka"
+        },
+        {
+            "id": "48815",
+            "name": "Мирная Долина",
+            "url": "Myrna Dolyna-Donecka"
+        },
+        {
+            "id": "48825",
+            "name": "Мирное",
+            "url": "Myrne-Donecka"
+        },
+        {
+            "id": "48879",
+            "name": "Миролюбовка",
+            "url": "Myrolyubivka-Donecka"
+        },
+        {
+            "id": "48894",
+            "name": "Мироновка",
+            "url": "Myronivka-Donecka"
+        },
+        {
+            "id": "48946",
+            "name": "Митьково-Качкари",
+            "url": "Mytkovo-Kachkari-Donecka"
+        },
+        {
+            "id": "49716",
+            "name": "Набережное",
+            "url": "Naberezhne-Donecka"
+        },
+        {
+            "id": "49785",
+            "name": "Надеждовка",
+            "url": "Nadezhdivka-Donecka"
+        },
+        {
+            "id": "49775",
+            "name": "Надеждинка",
+            "url": "Nadezhdynka-Donecka"
+        },
+        {
+            "id": "49744",
+            "name": "Нагорное",
+            "url": "Nahirne-Donecka"
+        },
+        {
+            "id": "50034",
+            "name": "Некременное",
+            "url": "Nekremenne-Donecka"
+        },
+        {
+            "id": "50036",
+            "name": "Нелеповка",
+            "url": "Nelipivka-Donecka"
+        },
+        {
+            "id": "50095",
+            "name": "Нескучное",
+            "url": "Neskuchne-Donecka"
+        },
+        {
+            "id": "49975",
+            "name": "Невельское",
+            "url": "Nevelske-Donecka"
+        },
+        {
+            "id": "50306",
+            "name": "Никишино",
+            "url": "Nikishyne-Donecka"
+        },
+        {
+            "id": "50562",
+            "name": "Новая Каменка",
+            "url": "Nova Kamyanka-Donecka"
+        },
+        {
+            "id": "50579",
+            "name": "Новая Марьевка",
+            "url": "Nova Marivka-Donecka"
+        },
+        {
+            "id": "50607",
+            "name": "Новая Полтавка",
+            "url": "Nova Poltavka-Donecka"
+        },
+        {
+            "id": "50741",
+            "name": "Новоамвросиевское",
+            "url": "Novoamvrosiivske-Donecka"
+        },
+        {
+            "id": "50744",
+            "name": "Новоандреевка",
+            "url": "Novoandriivka-Donecka"
+        },
+        {
+            "id": "50766",
+            "name": "Новобахметьево",
+            "url": "Novobakhmetjeve-Donecka"
+        },
+        {
+            "id": "50767",
+            "name": "Новобахмутовка",
+            "url": "Novobakhmutivka-Donecka"
+        },
+        {
+            "id": "50773",
+            "name": "Новобешево",
+            "url": "Novobesheve-Donecka"
+        },
+        {
+            "id": "50902",
+            "name": "Новодмитровка",
+            "url": "Novodmytrivka-Donecka"
+        },
+        {
+            "id": "50919",
+            "name": "Новодонецкое",
+            "url": "Novodonetske-Donecka"
+        },
+        {
+            "id": "51661",
+            "name": "Новоэкономическое",
+            "url": "Novoekonomichne-Donecka"
+        },
+        {
+            "id": "51629",
+            "name": "Новофедоровка",
+            "url": "Novofedorivka-Donecka"
+        },
+        {
+            "id": "50839",
+            "name": "Новогнатовка",
+            "url": "Novohnativka-Donecka"
+        },
+        {
+            "id": "50856",
+            "name": "Новогригоровка",
+            "url": "Novohryhorivka-Donecka"
+        },
+        {
+            "id": "50883",
+            "name": "Новогришино",
+            "url": "Novohryshyne-Donecka"
+        },
+        {
+            "id": "51015",
+            "name": "Новоивановка",
+            "url": "Novoivanivka-Donecka"
+        },
+        {
+            "id": "51035",
+            "name": "Новоиверское",
+            "url": "Novoiverske-Donecka"
+        },
+        {
+            "id": "50982",
+            "name": "Новоеланчик",
+            "url": "Novojelanchyk-Donecka"
+        },
+        {
+            "id": "50983",
+            "name": "Новоелизаветовка",
+            "url": "Novojelyzavetivka-Donecka"
+        },
+        {
+            "id": "51044",
+            "name": "Новокалиново",
+            "url": "Novokalynove-Donecka"
+        },
+        {
+            "id": "51053",
+            "name": "Новокатериновка",
+            "url": "Novokaterynivka-Donecka"
+        },
+        {
+            "id": "51644",
+            "name": "Новохатское",
+            "url": "Novokhatske-Donecka"
+        },
+        {
+            "id": "51063",
+            "name": "Новоклиновка",
+            "url": "Novoklynivka-Donecka"
+        },
+        {
+            "id": "51073",
+            "name": "Новокрасновка",
+            "url": "Novokrasnivka-Donecka"
+        },
+        {
+            "id": "51081",
+            "name": "Новокриворожье",
+            "url": "Novokryvorizhzhya-Donecka"
+        },
+        {
+            "id": "51087",
+            "name": "Новоласпа",
+            "url": "Novolaspa-Donecka"
+        },
+        {
+            "id": "51094",
+            "name": "Новолуганское",
+            "url": "Novoluhanske-Donecka"
+        },
+        {
+            "id": "51099",
+            "name": "Новомайорское",
+            "url": "Novomaiorske-Donecka"
+        },
+        {
+            "id": "51106",
+            "name": "Новомарьевка",
+            "url": "Novomarivka-Donecka"
+        },
+        {
+            "id": "51120",
+            "name": "Новомихайловка",
+            "url": "Novomykhailivka-Donecka"
+        },
+        {
+            "id": "51152",
+            "name": "Новониколаевка",
+            "url": "Novomykolaivka-Donecka"
+        },
+        {
+            "id": "51210",
+            "name": "Новоочеретоватое",
+            "url": "Novoocheretuvate-Donecka"
+        },
+        {
+            "id": "50731",
+            "name": "Новоалексеевка",
+            "url": "Novooleksiivka-Donecka"
+        },
+        {
+            "id": "51199",
+            "name": "Новооленовка",
+            "url": "Novoolenivka-Donecka"
+        },
+        {
+            "id": "51206",
+            "name": "Новоорловка",
+            "url": "Novoorlivka-Donecka"
+        },
+        {
+            "id": "51213",
+            "name": "Новопавловка",
+            "url": "Novopavlivka-Donecka"
+        },
+        {
+            "id": "51241",
+            "name": "Новопелагеевка",
+            "url": "Novopelahiivka-Donecka"
+        },
+        {
+            "id": "51245",
+            "name": "Новопетровка",
+            "url": "Novopetrivka-Donecka"
+        },
+        {
+            "id": "51269",
+            "name": "Новопетровское",
+            "url": "Novopetrivske-Donecka"
+        },
+        {
+            "id": "51242",
+            "name": "Новопетриковка",
+            "url": "Novopetrykivka-Donecka"
+        },
+        {
+            "id": "51299",
+            "name": "Новополь",
+            "url": "Novopil-Donecka"
+        },
+        {
+            "id": "51293",
+            "name": "Новопокровское",
+            "url": "Novopokrovske-Donecka"
+        },
+        {
+            "id": "51295",
+            "name": "Новополтавка",
+            "url": "Novopoltavka-Donecka"
+        },
+        {
+            "id": "51306",
+            "name": "Новопригожее",
+            "url": "Novopryhozhe-Donecka"
+        },
+        {
+            "id": "51314",
+            "name": "Новопустынка",
+            "url": "Novopustynka-Donecka"
+        },
+        {
+            "id": "51324",
+            "name": "Новоромановка",
+            "url": "Novoromanivka-Donecka"
+        },
+        {
+            "id": "51334",
+            "name": "Новосадовое",
+            "url": "Novosadove-Donecka"
+        },
+        {
+            "id": "51337",
+            "name": "Новосамарское",
+            "url": "Novosamarske-Donecka"
+        },
+        {
+            "id": "51428",
+            "name": "Новоселовка",
+            "url": "Novoselivka-Donecka"
+        },
+        {
+            "id": "51488",
+            "name": "Новоселовка Вторая",
+            "url": "Novoselivka Druha-Donecka"
+        },
+        {
+            "id": "51490",
+            "name": "Новоселовка Первая",
+            "url": "Novoselivka Persha-Donecka"
+        },
+        {
+            "id": "51343",
+            "name": "Новоселидовка",
+            "url": "Novoselydivka-Donecka"
+        },
+        {
+            "id": "51512",
+            "name": "Новосергеевка",
+            "url": "Novoserhiivka-Donecka"
+        },
+        {
+            "id": "51373",
+            "name": "Новоселка",
+            "url": "Novosilka-Donecka"
+        },
+        {
+            "id": "51548",
+            "name": "Новостепановка",
+            "url": "Novostepanivka-Donecka"
+        },
+        {
+            "id": "51560",
+            "name": "Новотатаровка",
+            "url": "Novotatarivka-Donecka"
+        },
+        {
+            "id": "51618",
+            "name": "Новоукраинское",
+            "url": "Novoukrainske-Donecka"
+        },
+        {
+            "id": "50805",
+            "name": "Нововикторовка",
+            "url": "Novoviktorivka-Donecka"
+        },
+        {
+            "id": "50819",
+            "name": "Нововодяное",
+            "url": "Novovodyane-Donecka"
+        },
+        {
+            "id": "51670",
+            "name": "Новоянисоль",
+            "url": "Novoyanysol-Donecka"
+        },
+        {
+            "id": "51666",
+            "name": "Новоявленка",
+            "url": "Novoyavlenka-Donecka"
+        },
+        {
+            "id": "50994",
+            "name": "Новозарьевка",
+            "url": "Novozarivka-Donecka"
+        },
+        {
+            "id": "50987",
+            "name": "Новожеланное",
+            "url": "Novozhelanne-Donecka"
+        },
+        {
+            "id": "51003",
+            "name": "Новознаменовка",
+            "url": "Novoznamenivka-Donecka"
+        },
+        {
+            "id": "51732",
+            "name": "Новый Донбасс",
+            "url": "Novyi Donbas-Donecka"
+        },
+        {
+            "id": "51737",
+            "name": "Новый Кавказ",
+            "url": "Novyi Kavkaz-Donecka"
+        },
+        {
+            "id": "51742",
+            "name": "Новый Комар",
+            "url": "Novyi Komar-Donecka"
+        },
+        {
+            "id": "51782",
+            "name": "Новый Труд",
+            "url": "Novyi Trud-Donecka"
+        },
+        {
+            "id": "50303",
+            "name": "Никифоровка",
+            "url": "Nykyforivka-Donecka"
+        },
+        {
+            "id": "50194",
+            "name": "Нижнее Лозовое",
+            "url": "Nyzhnje Lozove-Donecka"
+        },
+        {
+            "id": "50200",
+            "name": "Нижнекрынское",
+            "url": "Nyzhnokrynske-Donecka"
+        },
+        {
+            "id": "51935",
+            "name": "Обрезное",
+            "url": "Obrizne-Donecka"
+        },
+        {
+            "id": "51938",
+            "name": "Обрыв",
+            "url": "Obryv-Donecka"
+        },
+        {
+            "id": "52816",
+            "name": "Очеретино",
+            "url": "Ocheretyne-Donecka"
+        },
+        {
+            "id": "52770",
+            "name": "Отрадовка",
+            "url": "Odradivka-Donecka"
+        },
+        {
+            "id": "52758",
+            "name": "Отрадное",
+            "url": "Odradne-Donecka"
+        },
+        {
+            "id": "51996",
+            "name": "Огородное",
+            "url": "Ohorodnje-Donecka"
+        },
+        {
+            "id": "52159",
+            "name": "Октябрь",
+            "url": "Oktyabr-Donecka"
+        },
+        {
+            "id": "52164",
+            "name": "Октябрьское",
+            "url": "Oktyabrske-Donecka"
+        },
+        {
+            "id": "29212",
+            "name": "Александроград",
+            "url": "Oleksandrohrad-Donecka"
+        },
+        {
+            "id": "29092",
+            "name": "Александро-Калиново",
+            "url": "Oleksandro-Kalynove-Donecka"
+        },
+        {
+            "id": "29219",
+            "name": "Александрополь",
+            "url": "Oleksandropil-Donecka"
+        },
+        {
+            "id": "29097",
+            "name": "Александро-Шультино",
+            "url": "Oleksandro-Shultyne-Donecka"
+        },
+        {
+            "id": "29282",
+            "name": "Алексеевское",
+            "url": "Oleksiivske-Donecka"
+        },
+        {
+            "id": "52209",
+            "name": "Оленовка",
+            "url": "Olenivka-Donecka"
+        },
+        {
+            "id": "52269",
+            "name": "Ольгинка",
+            "url": "Olhynka-Donecka"
+        },
+        {
+            "id": "52274",
+            "name": "Ольгинское",
+            "url": "Olhynske-Donecka"
+        },
+        {
+            "id": "52439",
+            "name": "Опытное",
+            "url": "Opytne-Donecka"
+        },
+        {
+            "id": "52499",
+            "name": "Орехово-Василевка",
+            "url": "Orikhovo-Vasylivka-Donecka"
+        },
+        {
+            "id": "52482",
+            "name": "Ореховатка",
+            "url": "Orikhuvatka-Donecka"
+        },
+        {
+            "id": "52527",
+            "name": "Орловка",
+            "url": "Orlivka-Donecka"
+        },
+        {
+            "id": "52545",
+            "name": "Орлово-Ивановка",
+            "url": "Orlovo-Ivanivka-Donecka"
+        },
+        {
+            "id": "52519",
+            "name": "Орлинское",
+            "url": "Orlynske-Donecka"
+        },
+        {
+            "id": "52704",
+            "name": "Островское",
+            "url": "Ostrivske-Donecka"
+        },
+        {
+            "id": "52703",
+            "name": "Островского",
+            "url": "Ostrovskoho-Donecka"
+        },
+        {
+            "id": "52732",
+            "name": "Осыково",
+            "url": "Osykove-Donecka"
+        },
+        {
+            "id": "51966",
+            "name": "Овощное",
+            "url": "Ovocheve-Donecka"
+        },
+        {
+            "id": "53040",
+            "name": "Панковка",
+            "url": "Pankivka-Donecka"
+        },
+        {
+            "id": "53042",
+            "name": "Панновка",
+            "url": "Pannivka-Donecka"
+        },
+        {
+            "id": "53051",
+            "name": "Пантелеймоновка",
+            "url": "Panteleimonivka-Donecka"
+        },
+        {
+            "id": "53090",
+            "name": "Парасковиевка",
+            "url": "Paraskoviivka-Donecka"
+        },
+        {
+            "id": "53163",
+            "name": "Пасечное",
+            "url": "Pasichne-Donecka"
+        },
+        {
+            "id": "53181",
+            "name": "Патриотичное",
+            "url": "Patriotychne-Donecka"
+        },
+        {
+            "id": "52883",
+            "name": "Павловка",
+            "url": "Pavlivka-Donecka"
+        },
+        {
+            "id": "52931",
+            "name": "Павловское",
+            "url": "Pavlivske-Donecka"
+        },
+        {
+            "id": "52943",
+            "name": "Павлополь",
+            "url": "Pavlopil-Donecka"
+        },
+        {
+            "id": "53316",
+            "name": "Перебудова",
+            "url": "Perebudova-Donecka"
+        },
+        {
+            "id": "53345",
+            "name": "Передериево",
+            "url": "Perederijeve-Donecka"
+        },
+        {
+            "id": "53348",
+            "name": "Передовое",
+            "url": "Peredove-Donecka"
+        },
+        {
+            "id": "53490",
+            "name": "Перше Травня",
+            "url": "Pershe Travnya-Donecka"
+        },
+        {
+            "id": "53510",
+            "name": "Першомарьевка",
+            "url": "Pershomarivka-Donecka"
+        },
+        {
+            "id": "53658",
+            "name": "Петренки",
+            "url": "Petrenky-Donecka"
+        },
+        {
+            "id": "53701",
+            "name": "Петровка",
+            "url": "Petrivka-Donecka"
+        },
+        {
+            "id": "53762",
+            "name": "Петровка Вторая",
+            "url": "Petrivka Druha-Donecka"
+        },
+        {
+            "id": "53764",
+            "name": "Петровка Первая",
+            "url": "Petrivka Persha-Donecka"
+        },
+        {
+            "id": "53789",
+            "name": "Петровское",
+            "url": "Petrivske-Donecka"
+        },
+        {
+            "id": "53846",
+            "name": "Петропавловка",
+            "url": "Petropavlivka-Donecka"
+        },
+        {
+            "id": "53780",
+            "name": "Петровского",
+            "url": "Petrovskoho-Donecka"
+        },
+        {
+            "id": "54355",
+            "name": "Поддубное",
+            "url": "Piddubne-Donecka"
+        },
+        {
+            "id": "54315",
+            "name": "Подгорное",
+            "url": "Pidhirne-Donecka"
+        },
+        {
+            "id": "54335",
+            "name": "Подгородное",
+            "url": "Pidhorodne-Donecka"
+        },
+        {
+            "id": "54687",
+            "name": "Польное",
+            "url": "Pilne-Donecka"
+        },
+        {
+            "id": "53978",
+            "name": "Пионерское",
+            "url": "Pionerske-Donecka"
+        },
+        {
+            "id": "53620",
+            "name": "Песчаное",
+            "url": "Pishchane-Donecka"
+        },
+        {
+            "id": "53560",
+            "name": "Пески",
+            "url": "Pisky-Donecka"
+        },
+        {
+            "id": "54084",
+            "name": "Платоновка",
+            "url": "Platonivka-Donecka"
+        },
+        {
+            "id": "54121",
+            "name": "Плещеевка",
+            "url": "Pleshchiivka-Donecka"
+        },
+        {
+            "id": "54460",
+            "name": "Подольское",
+            "url": "Podilske-Donecka"
+        },
+        {
+            "id": "54543",
+            "name": "Покровка",
+            "url": "Pokrovka-Donecka"
+        },
+        {
+            "id": "54564",
+            "name": "Покровское",
+            "url": "Pokrovske-Donecka"
+        },
+        {
+            "id": "54622",
+            "name": "Полковое",
+            "url": "Polkove-Donecka"
+        },
+        {
+            "id": "54585",
+            "name": "Полевое",
+            "url": "Polove-Donecka"
+        },
+        {
+            "id": "54663",
+            "name": "Полтавка",
+            "url": "Poltavka-Donecka"
+        },
+        {
+            "id": "54674",
+            "name": "Полтавское",
+            "url": "Poltavske-Donecka"
+        },
+        {
+            "id": "54754",
+            "name": "Попасное",
+            "url": "Popasne-Donecka"
+        },
+        {
+            "id": "54777",
+            "name": "Попов Яр",
+            "url": "Popiv Yar-Donecka"
+        },
+        {
+            "id": "54844",
+            "name": "Порохня",
+            "url": "Porokhnya-Donecka"
+        },
+        {
+            "id": "54873",
+            "name": "Портовское",
+            "url": "Portivske-Donecka"
+        },
+        {
+            "id": "54980",
+            "name": "Правдовка",
+            "url": "Pravdivka-Donecka"
+        },
+        {
+            "id": "55014",
+            "name": "Пречистовка",
+            "url": "Prechystivka-Donecka"
+        },
+        {
+            "id": "54995",
+            "name": "Предтечино",
+            "url": "Predtechyne-Donecka"
+        },
+        {
+            "id": "54998",
+            "name": "Прелестное",
+            "url": "Prelesne-Donecka"
+        },
+        {
+            "id": "55005",
+            "name": "Преображенка",
+            "url": "Preobrazhenka-Donecka"
+        },
+        {
+            "id": "55229",
+            "name": "Прогресс",
+            "url": "Prohres-Donecka"
+        },
+        {
+            "id": "55321",
+            "name": "Прохоровка",
+            "url": "Prokhorivka-Donecka"
+        },
+        {
+            "id": "55325",
+            "name": "Прохоровское",
+            "url": "Prokhorivske-Donecka"
+        },
+        {
+            "id": "55278",
+            "name": "Проминь",
+            "url": "Promin-Donecka"
+        },
+        {
+            "id": "55017",
+            "name": "Приазовское",
+            "url": "Pryazovske-Donecka"
+        },
+        {
+            "id": "55110",
+            "name": "Придорожное",
+            "url": "Prydorozhnje-Donecka"
+        },
+        {
+            "id": "55155",
+            "name": "Приовражное",
+            "url": "Pryovrazhne-Donecka"
+        },
+        {
+            "id": "55196",
+            "name": "Пришиб",
+            "url": "Pryshyb-Donecka"
+        },
+        {
+            "id": "55061",
+            "name": "Приволье",
+            "url": "Pryvillya-Donecka"
+        },
+        {
+            "id": "55075",
+            "name": "Привольное",
+            "url": "Pryvilne-Donecka"
+        },
+        {
+            "id": "55209",
+            "name": "Приют",
+            "url": "Pryyut-Donecka"
+        },
+        {
+            "id": "55359",
+            "name": "Птичье",
+            "url": "Ptyche-Donecka"
+        },
+        {
+            "id": "55453",
+            "name": "Пушкино",
+            "url": "Pushkine-Donecka"
+        },
+        {
+            "id": "53954",
+            "name": "Пилипчатино",
+            "url": "Pylypchatyne-Donecka"
+        },
+        {
+            "id": "54054",
+            "name": "Пищевик",
+            "url": "Pyshchevyk-Donecka"
+        },
+        {
+            "id": "55672",
+            "name": "Радянская Украина",
+            "url": "Radyanska Ukraina-Donecka"
+        },
+        {
+            "id": "55678",
+            "name": "Радянское",
+            "url": "Radyanske-Donecka"
+        },
+        {
+            "id": "55760",
+            "name": "Райгородок",
+            "url": "Raihorodok-Donecka"
+        },
+        {
+            "id": "55753",
+            "name": "Рай-Александровка",
+            "url": "Rai-Oleksandrivka-Donecka"
+        },
+        {
+            "id": "55780",
+            "name": "Райское",
+            "url": "Raiske-Donecka"
+        },
+        {
+            "id": "55830",
+            "name": "Ракша",
+            "url": "Raksha-Donecka"
+        },
+        {
+            "id": "55739",
+            "name": "Разино",
+            "url": "Razine-Donecka"
+        },
+        {
+            "id": "55927",
+            "name": "Ребриково",
+            "url": "Rebrykove-Donecka"
+        },
+        {
+            "id": "56020",
+            "name": "Республика",
+            "url": "Respublika-Donecka"
+        },
+        {
+            "id": "55955",
+            "name": "Редкодуб",
+            "url": "Ridkodub-Donecka"
+        },
+        {
+            "id": "56159",
+            "name": "Рог",
+            "url": "Rih-Donecka"
+        },
+        {
+            "id": "56133",
+            "name": "Ровное",
+            "url": "Rivne-Donecka"
+        },
+        {
+            "id": "56215",
+            "name": "Родниково",
+            "url": "Rodnykove-Donecka"
+        },
+        {
+            "id": "56207",
+            "name": "Родники",
+            "url": "Rodnyky-Donecka"
+        },
+        {
+            "id": "56162",
+            "name": "Роганское",
+            "url": "Rohanske-Donecka"
+        },
+        {
+            "id": "56448",
+            "name": "Роты",
+            "url": "Roty-Donecka"
+        },
+        {
+            "id": "56249",
+            "name": "Роза",
+            "url": "Roza-Donecka"
+        },
+        {
+            "id": "55713",
+            "name": "Раздоловка",
+            "url": "Rozdolivka-Donecka"
+        },
+        {
+            "id": "55716",
+            "name": "Раздолье",
+            "url": "Rozdollya-Donecka"
+        },
+        {
+            "id": "55726",
+            "name": "Раздольное",
+            "url": "Rozdolne-Donecka"
+        },
+        {
+            "id": "56275",
+            "name": "Розовка",
+            "url": "Rozivka-Donecka"
+        },
+        {
+            "id": "56400",
+            "name": "Роскошное",
+            "url": "Rozkishne-Donecka"
+        },
+        {
+            "id": "55742",
+            "name": "Разлив",
+            "url": "Rozlyv-Donecka"
+        },
+        {
+            "id": "55857",
+            "name": "Рассадки",
+            "url": "Rozsadky-Donecka"
+        },
+        {
+            "id": "56294",
+            "name": "Розы Люксембург",
+            "url": "Rozy Lyuksemburh-Donecka"
+        },
+        {
+            "id": "56481",
+            "name": "Рубежное",
+            "url": "Rubizhne-Donecka"
+        },
+        {
+            "id": "56491",
+            "name": "Рубцы",
+            "url": "Rubtsi-Donecka"
+        },
+        {
+            "id": "56685",
+            "name": "Русско-Орловка",
+            "url": "Rusko-Orlivka-Donecka"
+        },
+        {
+            "id": "56707",
+            "name": "Рыбацкое",
+            "url": "Rybatske-Donecka"
+        },
+        {
+            "id": "56709",
+            "name": "Рыбинское",
+            "url": "Rybynske-Donecka"
+        },
+        {
+            "id": "56858",
+            "name": "Садки",
+            "url": "Sadky-Donecka"
+        },
+        {
+            "id": "56888",
+            "name": "Садовое",
+            "url": "Sadove-Donecka"
+        },
+        {
+            "id": "57242",
+            "name": "Саханка",
+            "url": "Sakhanka-Donecka"
+        },
+        {
+            "id": "56949",
+            "name": "Сакко и Ванцетти",
+            "url": "Sakko i Vantsetti-Donecka"
+        },
+        {
+            "id": "56999",
+            "name": "Самарское",
+            "url": "Samarske-Donecka"
+        },
+        {
+            "id": "57018",
+            "name": "Самойловка",
+            "url": "Samiilivka-Donecka"
+        },
+        {
+            "id": "57026",
+            "name": "Самойлово",
+            "url": "Samiilove-Donecka"
+        },
+        {
+            "id": "57037",
+            "name": "Самсоново",
+            "url": "Samsonove-Donecka"
+        },
+        {
+            "id": "2434",
+            "name": "Мангуш",
+            "url": "Mangush"
+        },
+        {
+            "id": "2435",
+            "name": "Старобешево",
+            "url": "Starobeshevo"
+        },
+        {
+            "id": "2436",
+            "name": "Доброполье",
+            "url": "Dobropole"
+        },
+        {
+            "id": "2437",
+            "name": "Великая Новоселка",
+            "url": "VelikayaNovoselka"
+        },
+        {
+            "id": "2438",
+            "name": "Тельманово",
+            "url": "Telmanovo"
+        },
+        {
+            "id": "2439",
+            "name": "Селидово",
+            "url": "Selidovo"
+        },
+        {
+            "id": "2440",
+            "name": "Амвросиевка",
+            "url": "Amvrosievka"
+        },
+        {
+            "id": "2441",
+            "name": "Красный Лиман",
+            "url": "KrasnyjLiman"
+        },
+        {
+            "id": "2442",
+            "name": "Дзержинск",
+            "url": "Dzerzhinskdn"
+        },
+        {
+            "id": "2443",
+            "name": "Угледар",
+            "url": "Ugledar"
+        },
+        {
+            "id": "2444",
+            "name": "Кировcкое",
+            "url": "Kirovckoe"
+        },
+        {
+            "id": "2445",
+            "name": "Соледар",
+            "url": "Soledar"
+        },
+        {
+            "id": "2446",
+            "name": "Северск",
+            "url": "Seversk"
+        },
+        {
+            "id": "2447",
+            "name": "Славяногорск",
+            "url": "Slavyanogorsk"
+        },
+        {
+            "id": "2432",
+            "name": "Александровка",
+            "url": "Aleksandrovka"
+        },
+        {
+            "id": "2433",
+            "name": "Володарское",
+            "url": "Volodarskoe"
+        },
+        {
+            "id": "2431",
+            "name": "Дебальцево",
+            "url": "Debalcevo"
+        },
+        {
+            "id": "2427",
+            "name": "Шахтерск",
+            "url": "Shahtarsk"
+        },
+        {
+            "id": "2428",
+            "name": "Волноваха",
+            "url": "Volnovaha"
+        },
+        {
+            "id": "2429",
+            "name": "Новоазовск",
+            "url": "Novoazovsk"
+        },
+        {
+            "id": "2430",
+            "name": "Марьинка",
+            "url": "Marinka"
+        },
+        {
+            "id": "2425",
+            "name": "Торез",
+            "url": "Torez"
+        },
+        {
+            "id": "2419",
+            "name": "Краматорск",
+            "url": "Kramatorsk"
+        },
+        {
+            "id": "2420",
+            "name": "Красноармейск",
+            "url": "Krasnoarmijsk"
+        },
+        {
+            "id": "2421",
+            "name": "Макеевка",
+            "url": "Makiivka"
+        },
+        {
+            "id": "2422",
+            "name": "Мариуполь",
+            "url": "Mariupol"
+        },
+        {
+            "id": "2423",
+            "name": "Славянск",
+            "url": "Slovyansk"
+        },
+        {
+            "id": "2424",
+            "name": "Снежное",
+            "url": "Snizhne"
+        },
+        {
+            "id": "2412",
+            "name": "Донецк",
+            "url": "Donetsk"
+        },
+        {
+            "id": "2413",
+            "name": "Артемовск",
+            "url": "Artemivsk"
+        },
+        {
+            "id": "2414",
+            "name": "Горловка",
+            "url": "Gorlovka"
+        },
+        {
+            "id": "2415",
+            "name": "Димитров",
+            "url": "Dymytrov"
+        },
+        {
+            "id": "2416",
+            "name": "Дружковка",
+            "url": "Druzhkovka"
+        },
+        {
+            "id": "2417",
+            "name": "Енакиево",
+            "url": "Yenakievo"
+        },
+        {
+            "id": "2418",
+            "name": "Константиновка",
+            "url": "Konstantinovka"
+        },
+        {
+            "id": "57119",
+            "name": "Санжаровка",
+            "url": "Sanzharivka-Donecka"
+        },
+        {
+            "id": "57233",
+            "name": "Сауровка",
+            "url": "Saurivka-Donecka"
+        },
+        {
+            "id": "57504",
+            "name": "Селезневка",
+            "url": "Seleznivka-Donecka"
+        },
+        {
+            "id": "57581",
+            "name": "Семеновка",
+            "url": "Semenivka-Donecka"
+        },
+        {
+            "id": "57613",
+            "name": "Семеновское",
+            "url": "Semenivske-Donecka"
+        },
+        {
+            "id": "57620",
+            "name": "Семигорье",
+            "url": "Semyhirya-Donecka"
+        },
+        {
+            "id": "57772",
+            "name": "Серебрянка",
+            "url": "Serebryanka-Donecka"
+        },
+        {
+            "id": "58823",
+            "name": "Среднее",
+            "url": "Serednje-Donecka"
+        },
+        {
+            "id": "57733",
+            "name": "Сергеевка",
+            "url": "Serhiivka-Donecka"
+        },
+        {
+            "id": "57757",
+            "name": "Сергеево-Крынка",
+            "url": "Serhijeve-Krynka-Donecka"
+        },
+        {
+            "id": "63513",
+            "name": "Шахтерское",
+            "url": "Shakhtarske-Donecka"
+        },
+        {
+            "id": "63447",
+            "name": "Шандриголово",
+            "url": "Shandryholove-Donecka"
+        },
+        {
+            "id": "63463",
+            "name": "Шапошниково",
+            "url": "Shaposhnykove-Donecka"
+        },
+        {
+            "id": "63421",
+            "name": "Шаврово",
+            "url": "Shavrove-Donecka"
+        },
+        {
+            "id": "64065",
+            "name": "Щербак",
+            "url": "Shcherbak-Donecka"
+        },
+        {
+            "id": "63547",
+            "name": "Шевченко",
+            "url": "Shevchenko-Donecka"
+        },
+        {
+            "id": "63594",
+            "name": "Шевченко Первое",
+            "url": "Shevchenko Pershe-Donecka"
+        },
+        {
+            "id": "63915",
+            "name": "Шмидта",
+            "url": "Shmidta-Donecka"
+        },
+        {
+            "id": "63921",
+            "name": "Шнурки",
+            "url": "Shnurky-Donecka"
+        },
+        {
+            "id": "63724",
+            "name": "Шестаковка",
+            "url": "Shostakivka-Donecka"
+        },
+        {
+            "id": "63754",
+            "name": "Шиловка",
+            "url": "Shylivka-Donecka"
+        },
+        {
+            "id": "63783",
+            "name": "Широкая Балка",
+            "url": "Shyroka Balka-Donecka"
+        },
+        {
+            "id": "63802",
+            "name": "Широкино",
+            "url": "Shyrokyne-Donecka"
+        },
+        {
+            "id": "57488",
+            "name": "Седово-Василевка",
+            "url": "Sjedovo-Vasylivka-Donecka"
+        },
+        {
+            "id": "57439",
+            "name": "Северное",
+            "url": "Sjeverne-Donecka"
+        },
+        {
+            "id": "58122",
+            "name": "Скучное",
+            "url": "Skuchne-Donecka"
+        },
+        {
+            "id": "58118",
+            "name": "Скудное",
+            "url": "Skudne-Donecka"
+        },
+        {
+            "id": "58139",
+            "name": "Славное",
+            "url": "Slavne-Donecka"
+        },
+        {
+            "id": "58152",
+            "name": "Славянка",
+            "url": "Slovyanka-Donecka"
+        },
+        {
+            "id": "58766",
+            "name": "Софьино-Лиман",
+            "url": "Sofiino-Lyman-Donecka"
+        },
+        {
+            "id": "58725",
+            "name": "Софиевка",
+            "url": "Sofiivka-Donecka"
+        },
+        {
+            "id": "58444",
+            "name": "Сокол",
+            "url": "Sokil-Donecka"
+        },
+        {
+            "id": "58164",
+            "name": "Сладкое",
+            "url": "Solodke-Donecka"
+        },
+        {
+            "id": "58524",
+            "name": "Соленое",
+            "url": "Solone-Donecka"
+        },
+        {
+            "id": "58559",
+            "name": "Соловьево",
+            "url": "Soloviove-Donecka"
+        },
+        {
+            "id": "58547",
+            "name": "Солнцево",
+            "url": "Sontseve-Donecka"
+        },
+        {
+            "id": "58620",
+            "name": "Сопино",
+            "url": "Sopyne-Donecka"
+        },
+        {
+            "id": "58705",
+            "name": "Сосновское",
+            "url": "Sosnivske-Donecka"
+        },
+        {
+            "id": "58702",
+            "name": "Сосновое",
+            "url": "Sosnove-Donecka"
+        },
+        {
+            "id": "58797",
+            "name": "Спасско-Михайловка",
+            "url": "Spasko-Mykhailivka-Donecka"
+        },
+        {
+            "id": "58815",
+            "name": "Спорное",
+            "url": "Spirne-Donecka"
+        },
+        {
+            "id": "58844",
+            "name": "Срибное",
+            "url": "Sribne-Donecka"
+        },
+        {
+            "id": "59096",
+            "name": "Старченково",
+            "url": "Starchenkove-Donecka"
+        },
+        {
+            "id": "59124",
+            "name": "Старые Терны",
+            "url": "Stari Terny-Donecka"
+        },
+        {
+            "id": "59046",
+            "name": "Стародубовка",
+            "url": "Starodubivka-Donecka"
+        },
+        {
+            "id": "59042",
+            "name": "Старогнатовка",
+            "url": "Starohnativka-Donecka"
+        },
+        {
+            "id": "59067",
+            "name": "Староласпа",
+            "url": "Starolaspa-Donecka"
+        },
+        {
+            "id": "59070",
+            "name": "Старомайорское",
+            "url": "Staromaiorske-Donecka"
+        },
+        {
+            "id": "59071",
+            "name": "Старомарьевка",
+            "url": "Staromarivka-Donecka"
+        },
+        {
+            "id": "59074",
+            "name": "Старомлыновка",
+            "url": "Staromlynivka-Donecka"
+        },
+        {
+            "id": "59072",
+            "name": "Старомихайловка",
+            "url": "Staromykhailivka-Donecka"
+        },
+        {
+            "id": "59035",
+            "name": "Староварваровка",
+            "url": "Starovarvarivka-Donecka"
+        },
+        {
+            "id": "59229",
+            "name": "Степано-Крынка",
+            "url": "Stepano-Krynka-Donecka"
+        },
+        {
+            "id": "59216",
+            "name": "Стенки",
+            "url": "Stinky-Donecka"
+        },
+        {
+            "id": "59396",
+            "name": "Стожково",
+            "url": "Stizhkove-Donecka"
+        },
+        {
+            "id": "59509",
+            "name": "Строитель",
+            "url": "Stroitel-Donecka"
+        },
+        {
+            "id": "59543",
+            "name": "Стряповка",
+            "url": "Stryapivka-Donecka"
+        },
+        {
+            "id": "59541",
+            "name": "Стрюково",
+            "url": "Stryukove-Donecka"
+        },
+        {
+            "id": "59576",
+            "name": "Ступочки",
+            "url": "Stupochky-Donecka"
+        },
+        {
+            "id": "59579",
+            "name": "Стыла",
+            "url": "Styla-Donecka"
+        },
+        {
+            "id": "59738",
+            "name": "Сухецкое",
+            "url": "Sukhetske-Donecka"
+        },
+        {
+            "id": "59739",
+            "name": "Сухие Ялы",
+            "url": "Sukhi Yaly-Donecka"
+        },
+        {
+            "id": "59781",
+            "name": "Сухой Яр",
+            "url": "Sukhyi Yar-Donecka"
+        },
+        {
+            "id": "59600",
+            "name": "Суворово",
+            "url": "Suvorove-Donecka"
+        },
+        {
+            "id": "59631",
+            "name": "Суженка",
+            "url": "Suzhenka-Donecka"
+        },
+        {
+            "id": "57314",
+            "name": "Светлое",
+            "url": "Svitle-Donecka"
+        },
+        {
+            "id": "57327",
+            "name": "Светлый Луч",
+            "url": "Svitlyi Luch-Donecka"
+        },
+        {
+            "id": "57381",
+            "name": "Свободное",
+            "url": "Svobodne-Donecka"
+        },
+        {
+            "id": "57389",
+            "name": "Святогоровка",
+            "url": "Svyatohorivka-Donecka"
+        },
+        {
+            "id": "57354",
+            "name": "Свиридоновка",
+            "url": "Svyrydonivka-Donecka"
+        },
+        {
+            "id": "57875",
+            "name": "Сидорово",
+            "url": "Sydorove-Donecka"
+        },
+        {
+            "id": "57853",
+            "name": "Сигнальное",
+            "url": "Syhnalne-Donecka"
+        },
+        {
+            "id": "59999",
+            "name": "Тарамчук",
+            "url": "Taramchuk-Donecka"
+        },
+        {
+            "id": "60006",
+            "name": "Тараны",
+            "url": "Tarany-Donecka"
+        },
+        {
+            "id": "60032",
+            "name": "Тарасовка",
+            "url": "Tarasivka-Donecka"
+        },
+        {
+            "id": "59913",
+            "name": "Таврическое",
+            "url": "Tavrycheske-Donecka"
+        },
+        {
+            "id": "60308",
+            "name": "Терновка",
+            "url": "Ternivka-Donecka"
+        },
+        {
+            "id": "60321",
+            "name": "Терновое",
+            "url": "Ternove-Donecka"
+        },
+        {
+            "id": "60335",
+            "name": "Терны",
+            "url": "Terny-Donecka"
+        },
+        {
+            "id": "60132",
+            "name": "Татьяновка",
+            "url": "Tetyanivka-Donecka"
+        },
+        {
+            "id": "60554",
+            "name": "Толстой",
+            "url": "Tolstoi-Donecka"
+        },
+        {
+            "id": "60589",
+            "name": "Тоненькое",
+            "url": "Tonenke-Donecka"
+        },
+        {
+            "id": "60612",
+            "name": "Тополиное",
+            "url": "Topolyne-Donecka"
+        },
+        {
+            "id": "60650",
+            "name": "Торецкое",
+            "url": "Toretske-Donecka"
+        },
+        {
+            "id": "60656",
+            "name": "Торское",
+            "url": "Torske-Donecka"
+        },
+        {
+            "id": "60720",
+            "name": "Трепельное",
+            "url": "Trepelne-Donecka"
+        },
+        {
+            "id": "60789",
+            "name": "Троицкое",
+            "url": "Troitske-Donecka"
+        },
+        {
+            "id": "60848",
+            "name": "Троянда",
+            "url": "Troyanda-Donecka"
+        },
+        {
+            "id": "60902",
+            "name": "Трудовское",
+            "url": "Trudivske-Donecka"
+        },
+        {
+            "id": "60884",
+            "name": "Трудовое",
+            "url": "Trudove-Donecka"
+        },
+        {
+            "id": "60931",
+            "name": "Труженка",
+            "url": "Truzhenka-Donecka"
+        },
+        {
+            "id": "60763",
+            "name": "Триполье",
+            "url": "Trypillya-Donecka"
+        },
+        {
+            "id": "60468",
+            "name": "Тихоновка",
+            "url": "Tykhonivka-Donecka"
+        },
+        {
+            "id": "60401",
+            "name": "Тимофеевка",
+            "url": "Tymofiivka-Donecka"
+        },
+        {
+            "id": "61190",
+            "name": "Удачное",
+            "url": "Udachne-Donecka"
+        },
+        {
+            "id": "61234",
+            "name": "Украинка",
+            "url": "Ukrainka-Donecka"
+        },
+        {
+            "id": "61257",
+            "name": "Украинское",
+            "url": "Ukrainske-Donecka"
+        },
+        {
+            "id": "61275",
+            "name": "Улаклы",
+            "url": "Ulakly-Donecka"
+        },
+        {
+            "id": "61330",
+            "name": "Ульяновка",
+            "url": "Ulyanivka-Donecka"
+        },
+        {
+            "id": "61374",
+            "name": "Ульяновское",
+            "url": "Ulyanivske-Donecka"
+        },
+        {
+            "id": "61379",
+            "name": "Уманское",
+            "url": "Umanske-Donecka"
+        },
+        {
+            "id": "61423",
+            "name": "Урожайное",
+            "url": "Urozhaine-Donecka"
+        },
+        {
+            "id": "61416",
+            "name": "Урицкое",
+            "url": "Urytske-Donecka"
+        },
+        {
+            "id": "61450",
+            "name": "Успеновка",
+            "url": "Uspenivka-Donecka"
+        },
+        {
+            "id": "61444",
+            "name": "Успенка",
+            "url": "Uspenka-Donecka"
+        },
+        {
+            "id": "34464",
+            "name": "Валерьяновка",
+            "url": "Valeryanivka-Donecka"
+        },
+        {
+            "id": "34503",
+            "name": "Ванюшкино",
+            "url": "Vanyushkyne-Donecka"
+        },
+        {
+            "id": "34518",
+            "name": "Варваровка",
+            "url": "Varvarivka-Donecka"
+        },
+        {
+            "id": "34572",
+            "name": "Василевка",
+            "url": "Vasylivka-Donecka"
+        },
+        {
+            "id": "34671",
+            "name": "Васюковка",
+            "url": "Vasyukivka-Donecka"
+        },
+        {
+            "id": "34674",
+            "name": "Васютинское",
+            "url": "Vasyutynske-Donecka"
+        },
+        {
+            "id": "34707",
+            "name": "Веденское",
+            "url": "Vedenske-Donecka"
+        },
+        {
+            "id": "34853",
+            "name": "Великая Шишовка",
+            "url": "Velyka Shyshivka-Donecka"
+        },
+        {
+            "id": "35025",
+            "name": "Великое Мешково",
+            "url": "Velyke Mishkove-Donecka"
+        },
+        {
+            "id": "35132",
+            "name": "Вербовка",
+            "url": "Verbivka-Donecka"
+        },
+        {
+            "id": "35268",
+            "name": "Верхний Кут",
+            "url": "Verkhnii Kut-Donecka"
+        },
+        {
+            "id": "35247",
+            "name": "Верхнекаменское",
+            "url": "Verkhnokamyanske-Donecka"
+        },
+        {
+            "id": "35249",
+            "name": "Верхнеторецкое",
+            "url": "Verkhnotoretske-Donecka"
+        },
+        {
+            "id": "35349",
+            "name": "Вершина",
+            "url": "Vershyna-Donecka"
+        },
+        {
+            "id": "35358",
+            "name": "Вершиновка",
+            "url": "Vershynivka-Donecka"
+        },
+        {
+            "id": "35372",
+            "name": "Веселая Долина",
+            "url": "Vesela Dolyna-Donecka"
+        },
+        {
+            "id": "35367",
+            "name": "Веселая Гора",
+            "url": "Vesela Hora-Donecka"
+        },
+        {
+            "id": "35414",
+            "name": "Веселое",
+            "url": "Vesele-Donecka"
+        },
+        {
+            "id": "35473",
+            "name": "Веселое Поле",
+            "url": "Vesele Pole-Donecka"
+        },
+        {
+            "id": "35480",
+            "name": "Веселый Гай",
+            "url": "Veselyi Hai-Donecka"
+        },
+        {
+            "id": "35572",
+            "name": "Видродження",
+            "url": "Vidrodzhennya-Donecka"
+        },
+        {
+            "id": "35605",
+            "name": "Викторовка",
+            "url": "Viktorivka-Donecka"
+        },
+        {
+            "id": "36270",
+            "name": "Вольное",
+            "url": "Vilne-Donecka"
+        },
+        {
+            "id": "36302",
+            "name": "Вольное Поле",
+            "url": "Vilne Pole-Donecka"
+        },
+        {
+            "id": "35214",
+            "name": "Веровка",
+            "url": "Virivka-Donecka"
+        },
+        {
+            "id": "35218",
+            "name": "Веролюбовка",
+            "url": "Virolyubivka-Donecka"
+        },
+        {
+            "id": "35745",
+            "name": "Витава",
+            "url": "Vitava-Donecka"
+        },
+        {
+            "id": "36005",
+            "name": "Водяное",
+            "url": "Vodyane-Donecka"
+        },
+        {
+            "id": "36024",
+            "name": "Водяное Второе",
+            "url": "Vodyane Druhe-Donecka"
+        },
+        {
+            "id": "36056",
+            "name": "Войково",
+            "url": "Voikove-Donecka"
+        },
+        {
+            "id": "36161",
+            "name": "Володарского",
+            "url": "Volodarskoho-Donecka"
+        },
+        {
+            "id": "35879",
+            "name": "Владимировка",
+            "url": "Volodymyrivka-Donecka"
+        },
+        {
+            "id": "36165",
+            "name": "Володино",
+            "url": "Volodyne-Donecka"
+        },
+        {
+            "id": "36321",
+            "name": "Воля",
+            "url": "Volya-Donecka"
+        },
+        {
+            "id": "36371",
+            "name": "Воровское",
+            "url": "Vorovske-Donecka"
+        },
+        {
+            "id": "36493",
+            "name": "Восход",
+            "url": "Voskhod-Donecka"
+        },
+        {
+            "id": "36449",
+            "name": "Воскресенка",
+            "url": "Voskresenka-Donecka"
+        },
+        {
+            "id": "36236",
+            "name": "Волчье",
+            "url": "Vovche-Donecka"
+        },
+        {
+            "id": "36214",
+            "name": "Волченка",
+            "url": "Vovchenka-Donecka"
+        },
+        {
+            "id": "36217",
+            "name": "Волчий Яр",
+            "url": "Vovchyi Yar-Donecka"
+        },
+        {
+            "id": "36125",
+            "name": "Волково",
+            "url": "Vovkove-Donecka"
+        },
+        {
+            "id": "36034",
+            "name": "Воздвиженка",
+            "url": "Vozdvyzhenka-Donecka"
+        },
+        {
+            "id": "36038",
+            "name": "Вознесенка",
+            "url": "Voznesenka-Donecka"
+        },
+        {
+            "id": "36511",
+            "name": "Времьевка",
+            "url": "Vremivka-Donecka"
+        },
+        {
+            "id": "36562",
+            "name": "Выемка",
+            "url": "Vyimka-Donecka"
+        },
+        {
+            "id": "36587",
+            "name": "Выселки",
+            "url": "Vyselky-Donecka"
+        },
+        {
+            "id": "35803",
+            "name": "Вишневое",
+            "url": "Vyshneve-Donecka"
+        },
+        {
+            "id": "36627",
+            "name": "Высокополье",
+            "url": "Vysokopillya-Donecka"
+        },
+        {
+            "id": "64419",
+            "name": "Яблоновка",
+            "url": "Yablunivka-Donecka"
+        },
+        {
+            "id": "64484",
+            "name": "Ягодное",
+            "url": "Yahidne-Donecka"
+        },
+        {
+            "id": "64510",
+            "name": "Яковлевка",
+            "url": "Yakovlivka-Donecka"
+        },
+        {
+            "id": "64556",
+            "name": "Ялынское",
+            "url": "Yalynske-Donecka"
+        },
+        {
+            "id": "64573",
+            "name": "Ямполь",
+            "url": "Yampil-Donecka"
+        },
+        {
+            "id": "64571",
+            "name": "Ямполовка",
+            "url": "Yampolivka-Donecka"
+        },
+        {
+            "id": "64592",
+            "name": "Янтарное",
+            "url": "Yantarne-Donecka"
+        },
+        {
+            "id": "64627",
+            "name": "Яровая",
+            "url": "Yarova-Donecka"
+        },
+        {
+            "id": "64690",
+            "name": "Ясеновое",
+            "url": "Yasenove-Donecka"
+        },
+        {
+            "id": "64731",
+            "name": "Яснобродовка",
+            "url": "Yasnobrodivka-Donecka"
+        },
+        {
+            "id": "64789",
+            "name": "Яцковка",
+            "url": "Yatskivka-Donecka"
+        },
+        {
+            "id": "39782",
+            "name": "Егоровка",
+            "url": "Yehorivka-Donecka"
+        },
+        {
+            "id": "39814",
+            "name": "Елизаветовка",
+            "url": "Yelyzavetivka-Donecka"
+        },
+        {
+            "id": "39812",
+            "name": "Елизавето-Николаевка",
+            "url": "Yelyzaveto-Mykolaivka-Donecka"
+        },
+        {
+            "id": "39764",
+            "name": "Евгеновка",
+            "url": "Yevhenivka-Donecka"
+        },
+        {
+            "id": "64321",
+            "name": "Юнокоммунаровск",
+            "url": "Yunokomunarivsk-Donecka"
+        },
+        {
+            "id": "64364",
+            "name": "Юрьевка",
+            "url": "Yurivka-Donecka"
+        },
+        {
+            "id": "64330",
+            "name": "Юрковка",
+            "url": "Yurkivka-Donecka"
+        },
+        {
+            "id": "41008",
+            "name": "Зачатовка",
+            "url": "Zachativka-Donecka"
+        },
+        {
+            "id": "40482",
+            "name": "Заиченко",
+            "url": "Zaichenko-Donecka"
+        },
+        {
+            "id": "40493",
+            "name": "Зайцево",
+            "url": "Zaitseve-Donecka"
+        },
+        {
+            "id": "41000",
+            "name": "Захарченко",
+            "url": "Zakharchenko-Donecka"
+        },
+        {
+            "id": "40988",
+            "name": "Захаровка",
+            "url": "Zakharivka-Donecka"
+        },
+        {
+            "id": "40513",
+            "name": "Закотное",
+            "url": "Zakitne-Donecka"
+        },
+        {
+            "id": "40598",
+            "name": "Зализнянское",
+            "url": "Zaliznyanske-Donecka"
+        },
+        {
+            "id": "40745",
+            "name": "Запаро-Марьевка",
+            "url": "Zaparo-Marivka-Donecka"
+        },
+        {
+            "id": "40785",
+            "name": "Запорожье",
+            "url": "Zaporizhzhya-Donecka"
+        },
+        {
+            "id": "40773",
+            "name": "Запорожское",
+            "url": "Zaporizke-Donecka"
+        },
+        {
+            "id": "40762",
+            "name": "Запорожец",
+            "url": "Zaporozhets-Donecka"
+        },
+        {
+            "id": "40878",
+            "name": "Зарощенское",
+            "url": "Zaroshchenske-Donecka"
+        },
+        {
+            "id": "40965",
+            "name": "Затишное",
+            "url": "Zatyshne-Donecka"
+        },
+        {
+            "id": "40341",
+            "name": "Заветное",
+            "url": "Zavitne-Donecka"
+        },
+        {
+            "id": "40350",
+            "name": "Завидо-Борзенка",
+            "url": "Zavydo-Borzenka-Donecka"
+        },
+        {
+            "id": "40351",
+            "name": "Завидо-Кудашево",
+            "url": "Zavydo-Kudasheve-Donecka"
+        },
+        {
+            "id": "41124",
+            "name": "Зеленая Долина",
+            "url": "Zelena Dolyna-Donecka"
+        },
+        {
+            "id": "41162",
+            "name": "Зеленое",
+            "url": "Zelene-Donecka"
+        },
+        {
+            "id": "41198",
+            "name": "Зеленое Поле",
+            "url": "Zelene Pole-Donecka"
+        },
+        {
+            "id": "41144",
+            "name": "Зеленовка",
+            "url": "Zelenivka-Donecka"
+        },
+        {
+            "id": "41202",
+            "name": "Зеленополье",
+            "url": "Zelenopillya-Donecka"
+        },
+        {
+            "id": "41213",
+            "name": "Зеленый Брод",
+            "url": "Zelenyi Brid-Donecka"
+        },
+        {
+            "id": "41222",
+            "name": "Зеленый Гай",
+            "url": "Zelenyi Hai-Donecka"
+        },
+        {
+            "id": "41267",
+            "name": "Зеленый Кут",
+            "url": "Zelenyi Kut-Donecka"
+        },
+        {
+            "id": "41276",
+            "name": "Зеленый Яр",
+            "url": "Zelenyi Yar-Donecka"
+        },
+        {
+            "id": "41306",
+            "name": "Зерновое",
+            "url": "Zernove-Donecka"
+        },
+        {
+            "id": "39923",
+            "name": "Ждановка",
+            "url": "Zhdanivka-Donecka"
+        },
+        {
+            "id": "39932",
+            "name": "Желанное",
+            "url": "Zhelanne-Donecka"
+        },
+        {
+            "id": "39933",
+            "name": "Желанное Второе",
+            "url": "Zhelanne Druhe-Donecka"
+        },
+        {
+            "id": "39934",
+            "name": "Желанное Первое",
+            "url": "Zhelanne Pershe-Donecka"
+        },
+        {
+            "id": "39953",
+            "name": "Желтое",
+            "url": "Zhovte-Donecka"
+        },
+        {
+            "id": "40161",
+            "name": "Жукова Балка",
+            "url": "Zhukova Balka-Donecka"
+        },
+        {
+            "id": "40185",
+            "name": "Журавка",
+            "url": "Zhuravka-Donecka"
+        },
+        {
+            "id": "40018",
+            "name": "Житенко",
+            "url": "Zhytenko-Donecka"
+        },
+        {
+            "id": "41347",
+            "name": "Златоустовка",
+            "url": "Zlatoustivka-Donecka"
+        },
+        {
+            "id": "41374",
+            "name": "Знаменовка",
+            "url": "Znamenivka-Donecka"
+        },
+        {
+            "id": "41406",
+            "name": "Золотая Нива",
+            "url": "Zolota Nyva-Donecka"
+        },
+        {
+            "id": "41396",
+            "name": "Золотаревка",
+            "url": "Zolotarivka-Donecka"
+        },
+        {
+            "id": "41430",
+            "name": "Золотые Пруды",
+            "url": "Zoloti Prudy-Donecka"
+        },
+        {
+            "id": "41420",
+            "name": "Золотой Колодезь",
+            "url": "Zolotyi Kolodyaz-Donecka"
+        },
+        {
+            "id": "41450",
+            "name": "Зори",
+            "url": "Zori-Donecka"
+        },
+        {
+            "id": "40911",
+            "name": "Заря",
+            "url": "Zorya-Donecka"
+        },
+        {
+            "id": "41466",
+            "name": "Зоряное",
+            "url": "Zoryane-Donecka"
+        },
+        {
+            "id": "41488",
+            "name": "Зрубное",
+            "url": "Zrubne-Donecka"
+        },
+        {
+            "id": "41050",
+            "name": "Звановка",
+            "url": "Zvanivka-Donecka"
+        },
+        {
+            "id": "41065",
+            "name": "Зверево",
+            "url": "Zvirove-Donecka"
+        },
+        {
+            "id": "2426",
+            "name": "Харцызск",
+            "url": "Khartsyzk"
+        }
+    ]
+}

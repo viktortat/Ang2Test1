@@ -1,0 +1,39 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Главная страница</title>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+
+
+    <script src="node_modules/angular2/bundles/angular2-polyfills.js"></script>
+    <script src="node_modules/systemjs/dist/system.js"></script>
+    <script>
+        System.config({
+            defaultJSExtensions: true,
+            map: {
+            'angular2': 'node_modules/angular2',
+            'rxjs': 'node_modules/rxjs'
+            }
+        });
+        System.import('built/boot');
+    </script>
+</head>
+
+<body>
+<div class="container" id="content">
+    <main-app><h1>Загрузка!</h1></main-app>
+    <a href="https://medium.com/@menezes.carlos/angular-2-setting-up-your-working-environment-52b985d1d341#.xa4k6warv" class="btn btn-default btn-xs active" role="button">Ссылка на пример</a>
+</div>
+
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+
+
+</body>
+</html>

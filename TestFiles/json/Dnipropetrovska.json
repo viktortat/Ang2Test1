@@ -1,0 +1,4609 @@
+{
+    "state": "success",
+    "data": [
+        {
+            "id": "28488",
+            "name": "Адалимовка",
+            "url": "Adalymivka-Dnipropetrovska"
+        },
+        {
+            "id": "30235",
+            "name": "Анастасовка",
+            "url": "Anastasivka-Dnipropetrovska"
+        },
+        {
+            "id": "30331",
+            "name": "Андреевка",
+            "url": "Andriivka-Dnipropetrovska"
+        },
+        {
+            "id": "30421",
+            "name": "Андроновка",
+            "url": "Andronivka-Dnipropetrovska"
+        },
+        {
+            "id": "30428",
+            "name": "Андрусовка",
+            "url": "Andrusivka-Dnipropetrovska"
+        },
+        {
+            "id": "30649",
+            "name": "Антоновка",
+            "url": "Antonivka-Dnipropetrovska"
+        },
+        {
+            "id": "30693",
+            "name": "Антоновское",
+            "url": "Antonivske-Dnipropetrovska"
+        },
+        {
+            "id": "30797",
+            "name": "Аполлоновка",
+            "url": "Apollonivka-Dnipropetrovska"
+        },
+        {
+            "id": "31335",
+            "name": "Артемовка",
+            "url": "Artemivka-Dnipropetrovska"
+        },
+        {
+            "id": "28279",
+            "name": "Авангард",
+            "url": "Avanhard-Dnipropetrovska"
+        },
+        {
+            "id": "28338",
+            "name": "Авксеновка",
+            "url": "Avksenivka-Dnipropetrovska"
+        },
+        {
+            "id": "28349",
+            "name": "Аврамовка",
+            "url": "Avramivka-Dnipropetrovska"
+        },
+        {
+            "id": "33312",
+            "name": "Богатое",
+            "url": "Bahate-Dnipropetrovska"
+        },
+        {
+            "id": "32244",
+            "name": "Баловка",
+            "url": "Balivka-Dnipropetrovska"
+        },
+        {
+            "id": "32242",
+            "name": "Балковое",
+            "url": "Balkove-Dnipropetrovska"
+        },
+        {
+            "id": "32388",
+            "name": "Барково",
+            "url": "Barkove-Dnipropetrovska"
+        },
+        {
+            "id": "32366",
+            "name": "Барвинок",
+            "url": "Barvinok-Dnipropetrovska"
+        },
+        {
+            "id": "32489",
+            "name": "Башмачка",
+            "url": "Bashmachka-Dnipropetrovska"
+        },
+        {
+            "id": "32122",
+            "name": "Базарово",
+            "url": "Bazarove-Dnipropetrovska"
+        },
+        {
+            "id": "32114",
+            "name": "Базавлучок",
+            "url": "Bazavluchok-Dnipropetrovska"
+        },
+        {
+            "id": "32112",
+            "name": "Бажаны",
+            "url": "Bazhany-Dnipropetrovska"
+        },
+        {
+            "id": "32932",
+            "name": "Березноватовка",
+            "url": "Bereznuvativka-Dnipropetrovska"
+        },
+        {
+            "id": "32931",
+            "name": "Березноватка",
+            "url": "Bereznuvatka-Dnipropetrovska"
+        },
+        {
+            "id": "32994",
+            "name": "Березовое",
+            "url": "Berezove-Dnipropetrovska"
+        },
+        {
+            "id": "32905",
+            "name": "Березино",
+            "url": "Berezyne-Dnipropetrovska"
+        },
+        {
+            "id": "32523",
+            "name": "Безбородьково",
+            "url": "Bezborodkove-Dnipropetrovska"
+        },
+        {
+            "id": "32599",
+            "name": "Беленщина",
+            "url": "Bilenshchyna-Dnipropetrovska"
+        },
+        {
+            "id": "32693",
+            "name": "Белозерское",
+            "url": "Bilozerske-Dnipropetrovska"
+        },
+        {
+            "id": "33182",
+            "name": "Благодатное",
+            "url": "Blahodatne-Dnipropetrovska"
+        },
+        {
+            "id": "33214",
+            "name": "Благословенная",
+            "url": "Blahoslovenna-Dnipropetrovska"
+        },
+        {
+            "id": "33174",
+            "name": "Благовещенка",
+            "url": "Blahovishchenka-Dnipropetrovska"
+        },
+        {
+            "id": "33338",
+            "name": "Богдановка",
+            "url": "Bohdanivka-Dnipropetrovska"
+        },
+        {
+            "id": "33334",
+            "name": "Богдано-Надеждовка",
+            "url": "Bohdano-Nadezhdivka-Dnipropetrovska"
+        },
+        {
+            "id": "33333",
+            "name": "Богдано-Вербки",
+            "url": "Bohdano-Verbky-Dnipropetrovska"
+        },
+        {
+            "id": "33395",
+            "name": "Богодаровка",
+            "url": "Bohodarivka-Dnipropetrovska"
+        },
+        {
+            "id": "33422",
+            "name": "Богуслав",
+            "url": "Bohuslav-Dnipropetrovska"
+        },
+        {
+            "id": "33425",
+            "name": "Богуславка",
+            "url": "Bohuslavka-Dnipropetrovska"
+        },
+        {
+            "id": "33512",
+            "name": "Болтышка",
+            "url": "Boltyshka-Dnipropetrovska"
+        },
+        {
+            "id": "33564",
+            "name": "Бондарево",
+            "url": "Bondareve-Dnipropetrovska"
+        },
+        {
+            "id": "33688",
+            "name": "Бородаевка",
+            "url": "Borodaivka-Dnipropetrovska"
+        },
+        {
+            "id": "33689",
+            "name": "Бородаевские Хутора",
+            "url": "Borodaivski Khutory-Dnipropetrovska"
+        },
+        {
+            "id": "33674",
+            "name": "Боровковка",
+            "url": "Borovkivka-Dnipropetrovska"
+        },
+        {
+            "id": "33629",
+            "name": "Борисовка",
+            "url": "Borysivka-Dnipropetrovska"
+        },
+        {
+            "id": "33445",
+            "name": "Божедаровка",
+            "url": "Bozhedarivka-Dnipropetrovska"
+        },
+        {
+            "id": "33803",
+            "name": "Брагиновка",
+            "url": "Brahynivka-Dnipropetrovska"
+        },
+        {
+            "id": "33850",
+            "name": "Братское",
+            "url": "Bratske-Dnipropetrovska"
+        },
+        {
+            "id": "33849",
+            "name": "Братско-Семеновка",
+            "url": "Bratsko-Semenivka-Dnipropetrovska"
+        },
+        {
+            "id": "33912",
+            "name": "Бровки",
+            "url": "Brovky-Dnipropetrovska"
+        },
+        {
+            "id": "34192",
+            "name": "Булаховка",
+            "url": "Bulakhivka-Dnipropetrovska"
+        },
+        {
+            "id": "34309",
+            "name": "Бутовичевка",
+            "url": "Butovychivka-Dnipropetrovska"
+        },
+        {
+            "id": "34145",
+            "name": "Бузовка",
+            "url": "Buzivka-Dnipropetrovska"
+        },
+        {
+            "id": "34387",
+            "name": "Быково",
+            "url": "Bykove-Dnipropetrovska"
+        },
+        {
+            "id": "21450",
+            "name": "Каменка",
+            "url": "KamiankaDN"
+        },
+        {
+            "id": "21451",
+            "name": "Червоная Зирка",
+            "url": "ChervonaZirka"
+        },
+        {
+            "id": "21449",
+            "name": "Головково",
+            "url": "Holovkove"
+        },
+        {
+            "id": "21447",
+            "name": "Днепрельстан",
+            "url": "Dniprelstan"
+        },
+        {
+            "id": "21448",
+            "name": "Котляровка",
+            "url": "Kotlyarivka"
+        },
+        {
+            "id": "21446",
+            "name": "Калиновка",
+            "url": "KalynivkaDN"
+        },
+        {
+            "id": "21443",
+            "name": "Афанасьевка",
+            "url": "Afanasivka"
+        },
+        {
+            "id": "21441",
+            "name": "Веселое",
+            "url": "VeseleDN"
+        },
+        {
+            "id": "21442",
+            "name": "Октябрьское",
+            "url": "Oktiabrske"
+        },
+        {
+            "id": "21440",
+            "name": "Бразолово",
+            "url": "Brazolove"
+        },
+        {
+            "id": "62474",
+            "name": "Чабаново",
+            "url": "Chabanove-Dnipropetrovska"
+        },
+        {
+            "id": "62494",
+            "name": "Чайки",
+            "url": "Chaiky-Dnipropetrovska"
+        },
+        {
+            "id": "62532",
+            "name": "Чапаевка",
+            "url": "Chapajevka-Dnipropetrovska"
+        },
+        {
+            "id": "62569",
+            "name": "Чаплино",
+            "url": "Chaplyne-Dnipropetrovska"
+        },
+        {
+            "id": "62564",
+            "name": "Чаплинка",
+            "url": "Chaplynka-Dnipropetrovska"
+        },
+        {
+            "id": "62586",
+            "name": "Чаус",
+            "url": "Chaus-Dnipropetrovska"
+        },
+        {
+            "id": "62630",
+            "name": "Чепино",
+            "url": "Chepyne-Dnipropetrovska"
+        },
+        {
+            "id": "63011",
+            "name": "Черкасское",
+            "url": "Cherkaske-Dnipropetrovska"
+        },
+        {
+            "id": "63042",
+            "name": "Чернетчина",
+            "url": "Chernechchyna-Dnipropetrovska"
+        },
+        {
+            "id": "63049",
+            "name": "Чернече",
+            "url": "Cherneche-Dnipropetrovska"
+        },
+        {
+            "id": "63063",
+            "name": "Черниговка",
+            "url": "Chernihivka-Dnipropetrovska"
+        },
+        {
+            "id": "63154",
+            "name": "Чернявщина",
+            "url": "Chernyavshchyna-Dnipropetrovska"
+        },
+        {
+            "id": "62637",
+            "name": "Червоная Балка",
+            "url": "Chervona Balka-Dnipropetrovska"
+        },
+        {
+            "id": "62654",
+            "name": "Червоная Дериевка",
+            "url": "Chervona Deriivka-Dnipropetrovska"
+        },
+        {
+            "id": "62658",
+            "name": "Червоная Долина",
+            "url": "Chervona Dolyna-Dnipropetrovska"
+        },
+        {
+            "id": "62644",
+            "name": "Червоная Горка",
+            "url": "Chervona Hirka-Dnipropetrovska"
+        },
+        {
+            "id": "62686",
+            "name": "Червоная Колона",
+            "url": "Chervona Kolona-Dnipropetrovska"
+        },
+        {
+            "id": "62690",
+            "name": "Червоная Нива",
+            "url": "Chervona Nyva-Dnipropetrovska"
+        },
+        {
+            "id": "62694",
+            "name": "Червоная Орелька",
+            "url": "Chervona Orilka-Dnipropetrovska"
+        },
+        {
+            "id": "62697",
+            "name": "Червоная Поляна",
+            "url": "Chervona Polyana-Dnipropetrovska"
+        },
+        {
+            "id": "62724",
+            "name": "Червоная Украинка",
+            "url": "Chervona Ukrainka-Dnipropetrovska"
+        },
+        {
+            "id": "62761",
+            "name": "Червоное",
+            "url": "Chervone-Dnipropetrovska"
+        },
+        {
+            "id": "62730",
+            "name": "Червоноармейское",
+            "url": "Chervonoarmiiske-Dnipropetrovska"
+        },
+        {
+            "id": "62828",
+            "name": "Червоноивановка",
+            "url": "Chervonoivanivka-Dnipropetrovska"
+        },
+        {
+            "id": "62830",
+            "name": "Червонокаменное",
+            "url": "Chervonokamyane-Dnipropetrovska"
+        },
+        {
+            "id": "62832",
+            "name": "Червонопартизанское",
+            "url": "Chervonopartyzanske-Dnipropetrovska"
+        },
+        {
+            "id": "62844",
+            "name": "Червоноукраинка",
+            "url": "Chervonoukrainka-Dnipropetrovska"
+        },
+        {
+            "id": "62883",
+            "name": "Червоный Лиман",
+            "url": "Chervonyi Lyman-Dnipropetrovska"
+        },
+        {
+            "id": "62887",
+            "name": "Червоный Маяк",
+            "url": "Chervonyi Mayak-Dnipropetrovska"
+        },
+        {
+            "id": "62892",
+            "name": "Червоный Орлик",
+            "url": "Chervonyi Orlyk-Dnipropetrovska"
+        },
+        {
+            "id": "62906",
+            "name": "Червоный Прапор",
+            "url": "Chervonyi Prapor-Dnipropetrovska"
+        },
+        {
+            "id": "62913",
+            "name": "Червоный Ранок",
+            "url": "Chervonyi Ranok-Dnipropetrovska"
+        },
+        {
+            "id": "62918",
+            "name": "Червоный Садок",
+            "url": "Chervonyi Sadok-Dnipropetrovska"
+        },
+        {
+            "id": "62920",
+            "name": "Червоный Став",
+            "url": "Chervonyi Stav-Dnipropetrovska"
+        },
+        {
+            "id": "62926",
+            "name": "Червоный Ток",
+            "url": "Chervonyi Tik-Dnipropetrovska"
+        },
+        {
+            "id": "62933",
+            "name": "Червоный Яр",
+            "url": "Chervonyi Yar-Dnipropetrovska"
+        },
+        {
+            "id": "62870",
+            "name": "Червоный Запорожец",
+            "url": "Chervonyi Zaporozhets-Dnipropetrovska"
+        },
+        {
+            "id": "63292",
+            "name": "Чкалово",
+            "url": "Chkalove-Dnipropetrovska"
+        },
+        {
+            "id": "63289",
+            "name": "Чкаловка",
+            "url": "Chkalovka-Dnipropetrovska"
+        },
+        {
+            "id": "63041",
+            "name": "Черненково",
+            "url": "Chornenkove-Dnipropetrovska"
+        },
+        {
+            "id": "63098",
+            "name": "Черноглазовка",
+            "url": "Chornohlazivka-Dnipropetrovska"
+        },
+        {
+            "id": "63348",
+            "name": "Чугуево",
+            "url": "Chuhujeve-Dnipropetrovska"
+        },
+        {
+            "id": "63372",
+            "name": "Чумаки",
+            "url": "Chumaky-Dnipropetrovska"
+        },
+        {
+            "id": "63344",
+            "name": "Чувилино",
+            "url": "Chuvylyne-Dnipropetrovska"
+        },
+        {
+            "id": "63222",
+            "name": "Чигриновка",
+            "url": "Chyhrynivka-Dnipropetrovska"
+        },
+        {
+            "id": "63269",
+            "name": "Чистополь",
+            "url": "Chystopil-Dnipropetrovska"
+        },
+        {
+            "id": "38507",
+            "name": "Дачное",
+            "url": "Dachne-Dnipropetrovska"
+        },
+        {
+            "id": "38412",
+            "name": "Дальнее",
+            "url": "Dalnje-Dnipropetrovska"
+        },
+        {
+            "id": "38444",
+            "name": "Даниловка",
+            "url": "Danylivka-Dnipropetrovska"
+        },
+        {
+            "id": "38550",
+            "name": "Дебальцево",
+            "url": "Debaltseve-Dnipropetrovska"
+        },
+        {
+            "id": "38599",
+            "name": "Деконка",
+            "url": "Dekonka-Dnipropetrovska"
+        },
+        {
+            "id": "38653",
+            "name": "Демурино",
+            "url": "Demuryne-Dnipropetrovska"
+        },
+        {
+            "id": "38654",
+            "name": "Демурино-Варваровка",
+            "url": "Demuryno-Varvarivka-Dnipropetrovska"
+        },
+        {
+            "id": "38664",
+            "name": "Демьяновка",
+            "url": "Demyanivka-Dnipropetrovska"
+        },
+        {
+            "id": "38714",
+            "name": "Дерезоватое",
+            "url": "Derezuvate-Dnipropetrovska"
+        },
+        {
+            "id": "38558",
+            "name": "Девладово",
+            "url": "Devladove-Dnipropetrovska"
+        },
+        {
+            "id": "38924",
+            "name": "Дибровка",
+            "url": "Dibrivka-Dnipropetrovska"
+        },
+        {
+            "id": "38883",
+            "name": "Диброва",
+            "url": "Dibrova-Dnipropetrovska"
+        },
+        {
+            "id": "38963",
+            "name": "Диденково",
+            "url": "Didenkove-Dnipropetrovska"
+        },
+        {
+            "id": "38588",
+            "name": "Дедово",
+            "url": "Didove-Dnipropetrovska"
+        },
+        {
+            "id": "39066",
+            "name": "Дмухайловка",
+            "url": "Dmukhailivka-Dnipropetrovska"
+        },
+        {
+            "id": "39016",
+            "name": "Дмитровка",
+            "url": "Dmytrivka-Dnipropetrovska"
+        },
+        {
+            "id": "39076",
+            "name": "Днепровое",
+            "url": "Dniprove-Dnipropetrovska"
+        },
+        {
+            "id": "39071",
+            "name": "Днепровка",
+            "url": "Dniprovka-Dnipropetrovska"
+        },
+        {
+            "id": "39078",
+            "name": "Днепровское",
+            "url": "Dniprovske-Dnipropetrovska"
+        },
+        {
+            "id": "39102",
+            "name": "Добрая Надия",
+            "url": "Dobra Nadiya-Dnipropetrovska"
+        },
+        {
+            "id": "39127",
+            "name": "Доброгорское",
+            "url": "Dobrohirske-Dnipropetrovska"
+        },
+        {
+            "id": "39123",
+            "name": "Доброволье",
+            "url": "Dobrovillya-Dnipropetrovska"
+        },
+        {
+            "id": "39109",
+            "name": "Добринька",
+            "url": "Dobrynka-Dnipropetrovska"
+        },
+        {
+            "id": "39269",
+            "name": "Долина",
+            "url": "Dolyna-Dnipropetrovska"
+        },
+        {
+            "id": "39307",
+            "name": "Долинское",
+            "url": "Dolynske-Dnipropetrovska"
+        },
+        {
+            "id": "39348",
+            "name": "Домаха",
+            "url": "Domakha-Dnipropetrovska"
+        },
+        {
+            "id": "39383",
+            "name": "Дорогановка",
+            "url": "Dorohanivka-Dnipropetrovska"
+        },
+        {
+            "id": "39391",
+            "name": "Дорогое",
+            "url": "Dorohe-Dnipropetrovska"
+        },
+        {
+            "id": "39417",
+            "name": "Дослидное",
+            "url": "Doslidne-Dnipropetrovska"
+        },
+        {
+            "id": "39219",
+            "name": "Долгое",
+            "url": "Dovhe-Dnipropetrovska"
+        },
+        {
+            "id": "39214",
+            "name": "Долговка",
+            "url": "Dovhivka-Dnipropetrovska"
+        },
+        {
+            "id": "19432",
+            "name": "Вишневое",
+            "url": "VyshneveDN"
+        },
+        {
+            "id": "19431",
+            "name": "Высшетарасовка",
+            "url": "Vyshchetarasivka"
+        },
+        {
+            "id": "19430",
+            "name": "Вольное",
+            "url": "Volnoye"
+        },
+        {
+            "id": "39445",
+            "name": "Драговка",
+            "url": "Drahivka-Dnipropetrovska"
+        },
+        {
+            "id": "19429",
+            "name": "Сурско-Михайловка",
+            "url": "SurskoMikhaylovka"
+        },
+        {
+            "id": "19428",
+            "name": "Спасское",
+            "url": "Spasskoye"
+        },
+        {
+            "id": "19427",
+            "name": "Шолоховое",
+            "url": "Sholokhove"
+        },
+        {
+            "id": "19426",
+            "name": "Подгородное",
+            "url": "Pidhorodne"
+        },
+        {
+            "id": "19425",
+            "name": "Петриковка",
+            "url": "Petrykivka"
+        },
+        {
+            "id": "19424",
+            "name": "Новопокровка",
+            "url": "NovopokrovkaDN"
+        },
+        {
+            "id": "19422",
+            "name": "Лиховка",
+            "url": "Lykhivka"
+        },
+        {
+            "id": "19423",
+            "name": "Мелиоративное",
+            "url": "Meliorativnoye"
+        },
+        {
+            "id": "19421",
+            "name": "Лозуватка",
+            "url": "Lozuvatka"
+        },
+        {
+            "id": "19420",
+            "name": "Губиниха",
+            "url": "Gubinikha"
+        },
+        {
+            "id": "19419",
+            "name": "Чертомлык",
+            "url": "Chortomlyk"
+        },
+        {
+            "id": "19418",
+            "name": "Червоногригоровка",
+            "url": "Chervonohryhorivka"
+        },
+        {
+            "id": "19417",
+            "name": "Аулы",
+            "url": "Auly"
+        },
+        {
+            "id": "39488",
+            "name": "Дружба",
+            "url": "Druzhba-Dnipropetrovska"
+        },
+        {
+            "id": "39507",
+            "name": "Дружелюбовка",
+            "url": "Druzhelyubivka-Dnipropetrovska"
+        },
+        {
+            "id": "39582",
+            "name": "Дубо-Осокоровка",
+            "url": "Dubo-Osokorivka-Dnipropetrovska"
+        },
+        {
+            "id": "39612",
+            "name": "Дубовое",
+            "url": "Dubove-Dnipropetrovska"
+        },
+        {
+            "id": "39592",
+            "name": "Дубовики",
+            "url": "Dubovyky-Dnipropetrovska"
+        },
+        {
+            "id": "39635",
+            "name": "Дубравка",
+            "url": "Dubravka-Dnipropetrovska"
+        },
+        {
+            "id": "39668",
+            "name": "Дудковка",
+            "url": "Dudkivka-Dnipropetrovska"
+        },
+        {
+            "id": "38855",
+            "name": "Дзержиновка",
+            "url": "Dzerzhynivka-Dnipropetrovska"
+        },
+        {
+            "id": "61650",
+            "name": "Федоровское",
+            "url": "Fedorivske-Dnipropetrovska"
+        },
+        {
+            "id": "61690",
+            "name": "Филия",
+            "url": "Filiya-Dnipropetrovska"
+        },
+        {
+            "id": "61770",
+            "name": "Фрунзе",
+            "url": "Frunze-Dnipropetrovska"
+        },
+        {
+            "id": "36782",
+            "name": "Гай",
+            "url": "Hai-Dnipropetrovska"
+        },
+        {
+            "id": "36828",
+            "name": "Галина Лозоватка",
+            "url": "Halyna Lozuvatka-Dnipropetrovska"
+        },
+        {
+            "id": "30521",
+            "name": "Анновка",
+            "url": "Hannivka-Dnipropetrovska"
+        },
+        {
+            "id": "36918",
+            "name": "Гапоно-Мечетное",
+            "url": "Hapono-Mechetne-Dnipropetrovska"
+        },
+        {
+            "id": "36923",
+            "name": "Гарасимовка",
+            "url": "Harasymivka-Dnipropetrovska"
+        },
+        {
+            "id": "36931",
+            "name": "Гарбузовка",
+            "url": "Harbuzivka-Dnipropetrovska"
+        },
+        {
+            "id": "36943",
+            "name": "Гаркушино",
+            "url": "Harkushyne-Dnipropetrovska"
+        },
+        {
+            "id": "36713",
+            "name": "Гавриловка",
+            "url": "Havrylivka-Dnipropetrovska"
+        },
+        {
+            "id": "36731",
+            "name": "Гавришовка",
+            "url": "Havryshivka-Dnipropetrovska"
+        },
+        {
+            "id": "37013",
+            "name": "Гейковка",
+            "url": "Heikivka-Dnipropetrovska"
+        },
+        {
+            "id": "37030",
+            "name": "Георгиевка",
+            "url": "Heorhiivka-Dnipropetrovska"
+        },
+        {
+            "id": "37575",
+            "name": "Горки",
+            "url": "Hirky-Dnipropetrovska"
+        },
+        {
+            "id": "37131",
+            "name": "Глееватка",
+            "url": "Hleyuvatka-Dnipropetrovska"
+        },
+        {
+            "id": "37231",
+            "name": "Глухое",
+            "url": "Hlukhe-Dnipropetrovska"
+        },
+        {
+            "id": "37261",
+            "name": "Гнатовка",
+            "url": "Hnativka-Dnipropetrovska"
+        },
+        {
+            "id": "37458",
+            "name": "Гомельское",
+            "url": "Homelske-Dnipropetrovska"
+        },
+        {
+            "id": "37488",
+            "name": "Гончарово",
+            "url": "Honcharove-Dnipropetrovska"
+        },
+        {
+            "id": "37745",
+            "name": "Горького",
+            "url": "Horkoho-Dnipropetrovska"
+        },
+        {
+            "id": "37752",
+            "name": "Горяновское",
+            "url": "Horyanivske-Dnipropetrovska"
+        },
+        {
+            "id": "52724",
+            "name": "Острый Камень",
+            "url": "Hostryi Kamin-Dnipropetrovska"
+        },
+        {
+            "id": "37841",
+            "name": "Грамовка",
+            "url": "Hramivka-Dnipropetrovska"
+        },
+        {
+            "id": "37858",
+            "name": "Гранитное",
+            "url": "Hranitne-Dnipropetrovska"
+        },
+        {
+            "id": "37871",
+            "name": "Граново",
+            "url": "Hranove-Dnipropetrovska"
+        },
+        {
+            "id": "37926",
+            "name": "Гречаное",
+            "url": "Hrechane-Dnipropetrovska"
+        },
+        {
+            "id": "38052",
+            "name": "Гроза",
+            "url": "Hroza-Dnipropetrovska"
+        },
+        {
+            "id": "38127",
+            "name": "Грушевое",
+            "url": "Hrusheve-Dnipropetrovska"
+        },
+        {
+            "id": "38115",
+            "name": "Грушевка",
+            "url": "Hrushivka-Dnipropetrovska"
+        },
+        {
+            "id": "38140",
+            "name": "Грушки",
+            "url": "Hrushky-Dnipropetrovska"
+        },
+        {
+            "id": "38111",
+            "name": "Грушеватка",
+            "url": "Hrushuvatka-Dnipropetrovska"
+        },
+        {
+            "id": "38112",
+            "name": "Грушевато-Криничное",
+            "url": "Hrushuvato-Krynychne-Dnipropetrovska"
+        },
+        {
+            "id": "38085",
+            "name": "Грузская Григоровка",
+            "url": "Hruzka Hryhorivka-Dnipropetrovska"
+        },
+        {
+            "id": "38087",
+            "name": "Грузское",
+            "url": "Hruzke-Dnipropetrovska"
+        },
+        {
+            "id": "38082",
+            "name": "Грузиновка",
+            "url": "Hruzynivka-Dnipropetrovska"
+        },
+        {
+            "id": "38151",
+            "name": "Гряковатое",
+            "url": "Hryakuvate-Dnipropetrovska"
+        },
+        {
+            "id": "37946",
+            "name": "Григоровка",
+            "url": "Hryhorivka-Dnipropetrovska"
+        },
+        {
+            "id": "37906",
+            "name": "Гремучее",
+            "url": "Hrymuche-Dnipropetrovska"
+        },
+        {
+            "id": "38225",
+            "name": "Гуляйполе",
+            "url": "Huliaipole-Dnipropetrovska"
+        },
+        {
+            "id": "38252",
+            "name": "Гупаловка",
+            "url": "Hupalivka-Dnipropetrovska"
+        },
+        {
+            "id": "36976",
+            "name": "Гвардейское",
+            "url": "Hvardiiske-Dnipropetrovska"
+        },
+        {
+            "id": "41832",
+            "name": "Илларионово",
+            "url": "Ilarionove-Dnipropetrovska"
+        },
+        {
+            "id": "41849",
+            "name": "Ильинка",
+            "url": "Illinka-Dnipropetrovska"
+        },
+        {
+            "id": "41917",
+            "name": "Интернациональное",
+            "url": "Internatsionalne-Dnipropetrovska"
+        },
+        {
+            "id": "41605",
+            "name": "Ивановка",
+            "url": "Ivanivka-Dnipropetrovska"
+        },
+        {
+            "id": "41716",
+            "name": "Ивановское",
+            "url": "Ivanivske-Dnipropetrovska"
+        },
+        {
+            "id": "41591",
+            "name": "Ивано-Яризовка",
+            "url": "Ivano-Yaryzivka-Dnipropetrovska"
+        },
+        {
+            "id": "41763",
+            "name": "Ивашково",
+            "url": "Ivashkove-Dnipropetrovska"
+        },
+        {
+            "id": "41809",
+            "name": "Излучистое",
+            "url": "Izluchyste-Dnipropetrovska"
+        },
+        {
+            "id": "42191",
+            "name": "Калашники",
+            "url": "Kalashnyky-Dnipropetrovska"
+        },
+        {
+            "id": "42205",
+            "name": "Калинина",
+            "url": "Kalinina-Dnipropetrovska"
+        },
+        {
+            "id": "42327",
+            "name": "Калужино",
+            "url": "Kaluzhyne-Dnipropetrovska"
+        },
+        {
+            "id": "42306",
+            "name": "Калиновское",
+            "url": "Kalynivske-Dnipropetrovska"
+        },
+        {
+            "id": "42500",
+            "name": "Каменчаны",
+            "url": "Kamyanchany-Dnipropetrovska"
+        },
+        {
+            "id": "42460",
+            "name": "Каменное",
+            "url": "Kamyane-Dnipropetrovska"
+        },
+        {
+            "id": "42472",
+            "name": "Каменное Поле",
+            "url": "Kamyane Pole-Dnipropetrovska"
+        },
+        {
+            "id": "42450",
+            "name": "Каменно-Зубиловка",
+            "url": "Kamyano-Zubylivka-Dnipropetrovska"
+        },
+        {
+            "id": "42492",
+            "name": "Каменское",
+            "url": "Kamyanske-Dnipropetrovska"
+        },
+        {
+            "id": "42484",
+            "name": "Каменоватка",
+            "url": "Kamyanuvatka-Dnipropetrovska"
+        },
+        {
+            "id": "42646",
+            "name": "Каплистовка",
+            "url": "Kaplystivka-Dnipropetrovska"
+        },
+        {
+            "id": "42651",
+            "name": "Капуловка",
+            "url": "Kapulivka-Dnipropetrovska"
+        },
+        {
+            "id": "42674",
+            "name": "Карабиновка",
+            "url": "Karabynivka-Dnipropetrovska"
+        },
+        {
+            "id": "42692",
+            "name": "Карайково",
+            "url": "Karaikove-Dnipropetrovska"
+        },
+        {
+            "id": "42730",
+            "name": "Кардаши",
+            "url": "Kardashi-Dnipropetrovska"
+        },
+        {
+            "id": "42743",
+            "name": "Карла Маркса",
+            "url": "Karla Marksa-Dnipropetrovska"
+        },
+        {
+            "id": "42798",
+            "name": "Карповка",
+            "url": "Karpivka-Dnipropetrovska"
+        },
+        {
+            "id": "42979",
+            "name": "Кашкаровка",
+            "url": "Kashkarivka-Dnipropetrovska"
+        },
+        {
+            "id": "42880",
+            "name": "Катериновка",
+            "url": "Katerynivka-Dnipropetrovska"
+        },
+        {
+            "id": "42877",
+            "name": "Катерино-Наталовка",
+            "url": "Kateryno-Natalivka-Dnipropetrovska"
+        },
+        {
+            "id": "42927",
+            "name": "Катещино",
+            "url": "Katoshchyne-Dnipropetrovska"
+        },
+        {
+            "id": "42934",
+            "name": "Катражка",
+            "url": "Katrazhka-Dnipropetrovska"
+        },
+        {
+            "id": "42115",
+            "name": "Казанковка",
+            "url": "Kazankivka-Dnipropetrovska"
+        },
+        {
+            "id": "42147",
+            "name": "Казначеевка",
+            "url": "Kaznacheivka-Dnipropetrovska"
+        },
+        {
+            "id": "43092",
+            "name": "Керносовка",
+            "url": "Kernosivka-Dnipropetrovska"
+        },
+        {
+            "id": "61921",
+            "name": "Хащевое",
+            "url": "Khashcheve-Dnipropetrovska"
+        },
+        {
+            "id": "62052",
+            "name": "Хмельницкое",
+            "url": "Khmelnytske-Dnipropetrovska"
+        },
+        {
+            "id": "62096",
+            "name": "Холодиевка",
+            "url": "Kholodiivka-Dnipropetrovska"
+        },
+        {
+            "id": "62180",
+            "name": "Хорошево",
+            "url": "Khorosheve-Dnipropetrovska"
+        },
+        {
+            "id": "62258",
+            "name": "Христофоровка",
+            "url": "Khrystoforivka-Dnipropetrovska"
+        },
+        {
+            "id": "62309",
+            "name": "Хуторское",
+            "url": "Khutirske-Dnipropetrovska"
+        },
+        {
+            "id": "62307",
+            "name": "Хуторо-Чаплино",
+            "url": "Khutoro-Chaplyne-Dnipropetrovska"
+        },
+        {
+            "id": "62306",
+            "name": "Хуторо-Губиниха",
+            "url": "Khutoro-Hubynykha-Dnipropetrovska"
+        },
+        {
+            "id": "61942",
+            "name": "Хвыли",
+            "url": "Khvyli-Dnipropetrovska"
+        },
+        {
+            "id": "61957",
+            "name": "Хижино",
+            "url": "Khyzhyne-Dnipropetrovska"
+        },
+        {
+            "id": "43159",
+            "name": "Кильчень",
+            "url": "Kilchen-Dnipropetrovska"
+        },
+        {
+            "id": "43168",
+            "name": "Кимовка",
+            "url": "Kimovka-Dnipropetrovska"
+        },
+        {
+            "id": "44018",
+            "name": "Кондратовка",
+            "url": "Kindrativka-Dnipropetrovska"
+        },
+        {
+            "id": "43221",
+            "name": "Кировка",
+            "url": "Kirovka-Dnipropetrovska"
+        },
+        {
+            "id": "43260",
+            "name": "Кировское",
+            "url": "Kirovske-Dnipropetrovska"
+        },
+        {
+            "id": "43390",
+            "name": "Клешневка",
+            "url": "Kleshnivka-Dnipropetrovska"
+        },
+        {
+            "id": "43418",
+            "name": "Клин",
+            "url": "Klyn-Dnipropetrovska"
+        },
+        {
+            "id": "43526",
+            "name": "Кобзарь",
+            "url": "Kobzar-Dnipropetrovska"
+        },
+        {
+            "id": "44609",
+            "name": "Кочережки",
+            "url": "Kocherezhky-Dnipropetrovska"
+        },
+        {
+            "id": "43637",
+            "name": "Кодак",
+            "url": "Kodak-Dnipropetrovska"
+        },
+        {
+            "id": "43639",
+            "name": "Кодакское",
+            "url": "Kodatske-Dnipropetrovska"
+        },
+        {
+            "id": "44581",
+            "name": "Кохановка",
+            "url": "Kokhanivka-Dnipropetrovska"
+        },
+        {
+            "id": "44596",
+            "name": "Коховка",
+            "url": "Kokhivka-Dnipropetrovska"
+        },
+        {
+            "id": "43749",
+            "name": "Колгоспное",
+            "url": "Kolhospne-Dnipropetrovska"
+        },
+        {
+            "id": "43829",
+            "name": "Коломийцево",
+            "url": "Kolomiitseve-Dnipropetrovska"
+        },
+        {
+            "id": "43832",
+            "name": "Коломийцы",
+            "url": "Kolomiitsi-Dnipropetrovska"
+        },
+        {
+            "id": "43845",
+            "name": "Колона-Межевая",
+            "url": "Kolona-Mezhova-Dnipropetrovska"
+        },
+        {
+            "id": "43851",
+            "name": "Колоно-Николаевка",
+            "url": "Kolono-Mykolaivka-Dnipropetrovska"
+        },
+        {
+            "id": "43943",
+            "name": "Коминтерн",
+            "url": "Komintern-Dnipropetrovska"
+        },
+        {
+            "id": "43952",
+            "name": "Комиссаровка",
+            "url": "Komisarivka-Dnipropetrovska"
+        },
+        {
+            "id": "43969",
+            "name": "Коммунаровка",
+            "url": "Komunarivka-Dnipropetrovska"
+        },
+        {
+            "id": "44272",
+            "name": "Корнило-Наталовка",
+            "url": "Kornylo-Natalivka-Dnipropetrovska"
+        },
+        {
+            "id": "44283",
+            "name": "Коробчино",
+            "url": "Korobchyne-Dnipropetrovska"
+        },
+        {
+            "id": "44298",
+            "name": "Королевка",
+            "url": "Korolivka-Dnipropetrovska"
+        },
+        {
+            "id": "44644",
+            "name": "Кошевое",
+            "url": "Koshove-Dnipropetrovska"
+        },
+        {
+            "id": "44076",
+            "name": "Константиновка",
+            "url": "Kostyantynivka-Dnipropetrovska"
+        },
+        {
+            "id": "44540",
+            "name": "Котовец",
+            "url": "Kotovets-Dnipropetrovska"
+        },
+        {
+            "id": "44541",
+            "name": "Котовка",
+            "url": "Kotovka-Dnipropetrovska"
+        },
+        {
+            "id": "44554",
+            "name": "Котовское",
+            "url": "Kotovske-Dnipropetrovska"
+        },
+        {
+            "id": "43579",
+            "name": "Ковалево",
+            "url": "Kovaleve-Dnipropetrovska"
+        },
+        {
+            "id": "43557",
+            "name": "Ковалевка",
+            "url": "Kovalivka-Dnipropetrovska"
+        },
+        {
+            "id": "43871",
+            "name": "Колпаковка",
+            "url": "Kovpakivka-Dnipropetrovska"
+        },
+        {
+            "id": "42132",
+            "name": "Казачий Гай",
+            "url": "Kozachyi Hai-Dnipropetrovska"
+        },
+        {
+            "id": "43715",
+            "name": "Козодуб",
+            "url": "Kozodub-Dnipropetrovska"
+        },
+        {
+            "id": "44690",
+            "name": "Крамарка",
+            "url": "Kramarka-Dnipropetrovska"
+        },
+        {
+            "id": "44729",
+            "name": "Красино",
+            "url": "Krasine-Dnipropetrovska"
+        },
+        {
+            "id": "44737",
+            "name": "Красная Балка",
+            "url": "Krasna Balka-Dnipropetrovska"
+        },
+        {
+            "id": "44738",
+            "name": "Красная Воля",
+            "url": "Krasna Volya-Dnipropetrovska"
+        },
+        {
+            "id": "44787",
+            "name": "Красногоровка",
+            "url": "Krasnogorovka-Dnipropetrovska"
+        },
+        {
+            "id": "44854",
+            "name": "Красноивановка",
+            "url": "Krasnoivanivka-Dnipropetrovska"
+        },
+        {
+            "id": "44871",
+            "name": "Краснополь",
+            "url": "Krasnopil-Dnipropetrovska"
+        },
+        {
+            "id": "44876",
+            "name": "Краснополье",
+            "url": "Krasnopillya-Dnipropetrovska"
+        },
+        {
+            "id": "44923",
+            "name": "Краснощеково",
+            "url": "Krasnoshchokove-Dnipropetrovska"
+        },
+        {
+            "id": "44850",
+            "name": "Краснознаменка",
+            "url": "Krasnoznamyanka-Dnipropetrovska"
+        },
+        {
+            "id": "44939",
+            "name": "Красный Луг",
+            "url": "Krasnyi Luh-Dnipropetrovska"
+        },
+        {
+            "id": "44949",
+            "name": "Красный Под",
+            "url": "Krasnyi Pid-Dnipropetrovska"
+        },
+        {
+            "id": "44670",
+            "name": "Кравцы",
+            "url": "Kravtsi-Dnipropetrovska"
+        },
+        {
+            "id": "44667",
+            "name": "Кравцовка",
+            "url": "Kravtsivka-Dnipropetrovska"
+        },
+        {
+            "id": "44982",
+            "name": "Кременевка",
+            "url": "Kremenivka-Dnipropetrovska"
+        },
+        {
+            "id": "45262",
+            "name": "Крутое",
+            "url": "Krute-Dnipropetrovska"
+        },
+        {
+            "id": "45255",
+            "name": "Крутенькое",
+            "url": "Krutenke-Dnipropetrovska"
+        },
+        {
+            "id": "45273",
+            "name": "Крутояровка",
+            "url": "Krutoyarivka-Dnipropetrovska"
+        },
+        {
+            "id": "45268",
+            "name": "Крутоярка",
+            "url": "Krutoyarka-Dnipropetrovska"
+        },
+        {
+            "id": "45263",
+            "name": "Крутой Берег",
+            "url": "Krutyi Bereh-Dnipropetrovska"
+        },
+        {
+            "id": "45336",
+            "name": "Кряжевое",
+            "url": "Kryazhove-Dnipropetrovska"
+        },
+        {
+            "id": "45122",
+            "name": "Криничеватое",
+            "url": "Krynychuvate-Dnipropetrovska"
+        },
+        {
+            "id": "45045",
+            "name": "Кривбасс",
+            "url": "Kryvbas-Dnipropetrovska"
+        },
+        {
+            "id": "45059",
+            "name": "Кривобоково",
+            "url": "Kryvobokove-Dnipropetrovska"
+        },
+        {
+            "id": "45078",
+            "name": "Кривоносово",
+            "url": "Kryvonosove-Dnipropetrovska"
+        },
+        {
+            "id": "45083",
+            "name": "Криворожское",
+            "url": "Kryvorizke-Dnipropetrovska"
+        },
+        {
+            "id": "45378",
+            "name": "Кудашевка",
+            "url": "Kudashivka-Dnipropetrovska"
+        },
+        {
+            "id": "45476",
+            "name": "Кулеши",
+            "url": "Kulishi-Dnipropetrovska"
+        },
+        {
+            "id": "45516",
+            "name": "Культура",
+            "url": "Kultura-Dnipropetrovska"
+        },
+        {
+            "id": "45524",
+            "name": "Кулябкино",
+            "url": "Kulyabkyne-Dnipropetrovska"
+        },
+        {
+            "id": "45563",
+            "name": "Кунинова",
+            "url": "Kuninova-Dnipropetrovska"
+        },
+        {
+            "id": "45634",
+            "name": "Куриловка",
+            "url": "Kurylivka-Dnipropetrovska"
+        },
+        {
+            "id": "45782",
+            "name": "Кущевка",
+            "url": "Kushchivka-Dnipropetrovska"
+        },
+        {
+            "id": "45774",
+            "name": "Кушнаревка",
+            "url": "Kushnarivka-Dnipropetrovska"
+        },
+        {
+            "id": "43125",
+            "name": "Киевское",
+            "url": "Kyivske-Dnipropetrovska"
+        },
+        {
+            "id": "43268",
+            "name": "Кирпичное",
+            "url": "Kyrpychne-Dnipropetrovska"
+        },
+        {
+            "id": "43306",
+            "name": "Кисличеватая",
+            "url": "Kyslychuvata-Dnipropetrovska"
+        },
+        {
+            "id": "43320",
+            "name": "Китайгород",
+            "url": "Kytaihorod-Dnipropetrovska"
+        },
+        {
+            "id": "43322",
+            "name": "Китайгородка",
+            "url": "Kytaihorodka-Dnipropetrovska"
+        },
+        {
+            "id": "45982",
+            "name": "Латовка",
+            "url": "Lativka-Dnipropetrovska"
+        },
+        {
+            "id": "46022",
+            "name": "Лебединское",
+            "url": "Lebedynske-Dnipropetrovska"
+        },
+        {
+            "id": "46151",
+            "name": "Ленинское",
+            "url": "Leninske-Dnipropetrovska"
+        },
+        {
+            "id": "46034",
+            "name": "Левадки",
+            "url": "Levadky-Dnipropetrovska"
+        },
+        {
+            "id": "46043",
+            "name": "Левенцовка",
+            "url": "Leventsivka-Dnipropetrovska"
+        },
+        {
+            "id": "46310",
+            "name": "Лесопитомник",
+            "url": "Lisopytomnyk-Dnipropetrovska"
+        },
+        {
+            "id": "46636",
+            "name": "Лобойковка",
+            "url": "Loboikivka-Dnipropetrovska"
+        },
+        {
+            "id": "46833",
+            "name": "Лошкаревка",
+            "url": "Loshkarivka-Dnipropetrovska"
+        },
+        {
+            "id": "46708",
+            "name": "Лозовое",
+            "url": "Lozove-Dnipropetrovska"
+        },
+        {
+            "id": "46668",
+            "name": "Лозоватка",
+            "url": "Lozuvatka-Dnipropetrovska"
+        },
+        {
+            "id": "46862",
+            "name": "Лубянка",
+            "url": "Lubyanka-Dnipropetrovska"
+        },
+        {
+            "id": "46868",
+            "name": "Лубянцы",
+            "url": "Lubyantsi-Dnipropetrovska"
+        },
+        {
+            "id": "46898",
+            "name": "Луговое",
+            "url": "Luhove-Dnipropetrovska"
+        },
+        {
+            "id": "46985",
+            "name": "Лукиевка",
+            "url": "Lukiivka-Dnipropetrovska"
+        },
+        {
+            "id": "47114",
+            "name": "Львов",
+            "url": "Lviv-Dnipropetrovska"
+        },
+        {
+            "id": "47109",
+            "name": "Лычково",
+            "url": "Lychkove-Dnipropetrovska"
+        },
+        {
+            "id": "47069",
+            "name": "Лыкошино",
+            "url": "Lykoshyne-Dnipropetrovska"
+        },
+        {
+            "id": "46415",
+            "name": "Лиманское",
+            "url": "Lymanske-Dnipropetrovska"
+        },
+        {
+            "id": "46511",
+            "name": "Липовое",
+            "url": "Lypove-Dnipropetrovska"
+        },
+        {
+            "id": "47071",
+            "name": "Лысая Балка",
+            "url": "Lysa Balka-Dnipropetrovska"
+        },
+        {
+            "id": "47080",
+            "name": "Лысковка",
+            "url": "Lyskivka-Dnipropetrovska"
+        },
+        {
+            "id": "47189",
+            "name": "Любое",
+            "url": "Lyube-Dnipropetrovska"
+        },
+        {
+            "id": "47197",
+            "name": "Любомировка",
+            "url": "Lyubomyrivka-Dnipropetrovska"
+        },
+        {
+            "id": "47188",
+            "name": "Любовь",
+            "url": "Lyubov-Dnipropetrovska"
+        },
+        {
+            "id": "47225",
+            "name": "Людмиловка",
+            "url": "Lyudmylivka-Dnipropetrovska"
+        },
+        {
+            "id": "47387",
+            "name": "Майорка",
+            "url": "Maiorka-Dnipropetrovska"
+        },
+        {
+            "id": "47399",
+            "name": "Майское",
+            "url": "Maiske-Dnipropetrovska"
+        },
+        {
+            "id": "47308",
+            "name": "Маевка",
+            "url": "Maivka-Dnipropetrovska"
+        },
+        {
+            "id": "47419",
+            "name": "Макаровка",
+            "url": "Makarivka-Dnipropetrovska"
+        },
+        {
+            "id": "47485",
+            "name": "Максаки",
+            "url": "Maksymivka-Dnipropetrovska"
+        },
+        {
+            "id": "47587",
+            "name": "Малая Калиновка",
+            "url": "Mala Kalynivka-Dnipropetrovska"
+        },
+        {
+            "id": "47601",
+            "name": "Малая Костромка",
+            "url": "Mala Kostromka-Dnipropetrovska"
+        },
+        {
+            "id": "47705",
+            "name": "Малиевка",
+            "url": "Maliivka-Dnipropetrovska"
+        },
+        {
+            "id": "47710",
+            "name": "Малиевское",
+            "url": "Maliivske-Dnipropetrovska"
+        },
+        {
+            "id": "47709",
+            "name": "Малиево",
+            "url": "Malijeve-Dnipropetrovska"
+        },
+        {
+            "id": "47761",
+            "name": "Малоандреевка",
+            "url": "Maloandriivka-Dnipropetrovska"
+        },
+        {
+            "id": "47791",
+            "name": "Малокозырщина",
+            "url": "Malokozyrshchyna-Dnipropetrovska"
+        },
+        {
+            "id": "47799",
+            "name": "Малониколаевка",
+            "url": "Malomykolaivka-Dnipropetrovska"
+        },
+        {
+            "id": "47757",
+            "name": "Малоалександровка",
+            "url": "Malooleksandrivka-Dnipropetrovska"
+        },
+        {
+            "id": "47812",
+            "name": "Малософиевка",
+            "url": "Malosofiivka-Dnipropetrovska"
+        },
+        {
+            "id": "47786",
+            "name": "Малозахарино",
+            "url": "Malozakharyne-Dnipropetrovska"
+        },
+        {
+            "id": "47722",
+            "name": "Малиновка",
+            "url": "Malynivka-Dnipropetrovska"
+        },
+        {
+            "id": "47748",
+            "name": "Малиновое",
+            "url": "Malynove-Dnipropetrovska"
+        },
+        {
+            "id": "47981",
+            "name": "Манвеловка",
+            "url": "Manvelivka-Dnipropetrovska"
+        },
+        {
+            "id": "48232",
+            "name": "Марьина Роща",
+            "url": "Marina Roshcha-Dnipropetrovska"
+        },
+        {
+            "id": "48233",
+            "name": "Марьинка",
+            "url": "Marinka-Dnipropetrovska"
+        },
+        {
+            "id": "48205",
+            "name": "Марьевка",
+            "url": "Marivka-Dnipropetrovska"
+        },
+        {
+            "id": "48203",
+            "name": "Марье-Дмитровка",
+            "url": "Marje-Dmytrivka-Dnipropetrovska"
+        },
+        {
+            "id": "48204",
+            "name": "Марье-Константиновка",
+            "url": "Marje-Kostyantynivka-Dnipropetrovska"
+        },
+        {
+            "id": "48243",
+            "name": "Марьянка",
+            "url": "Maryanka-Dnipropetrovska"
+        },
+        {
+            "id": "48311",
+            "name": "Марьянское",
+            "url": "Maryanske-Dnipropetrovska"
+        },
+        {
+            "id": "48084",
+            "name": "Маринополь",
+            "url": "Marynopil-Dnipropetrovska"
+        },
+        {
+            "id": "48381",
+            "name": "Матросово",
+            "url": "Matrosove-Dnipropetrovska"
+        },
+        {
+            "id": "48390",
+            "name": "Матюченково",
+            "url": "Matyuchenkove-Dnipropetrovska"
+        },
+        {
+            "id": "48450",
+            "name": "Маяк",
+            "url": "Mayak-Dnipropetrovska"
+        },
+        {
+            "id": "47310",
+            "name": "Мажары",
+            "url": "Mazhary-Dnipropetrovska"
+        },
+        {
+            "id": "48708",
+            "name": "Мечетное",
+            "url": "Mechetne-Dnipropetrovska"
+        },
+        {
+            "id": "48529",
+            "name": "Медичное",
+            "url": "Medychne-Dnipropetrovska"
+        },
+        {
+            "id": "48655",
+            "name": "Менделеевка",
+            "url": "Mendeljejevka-Dnipropetrovska"
+        },
+        {
+            "id": "48659",
+            "name": "Менжинское",
+            "url": "Menzhynske-Dnipropetrovska"
+        },
+        {
+            "id": "48681",
+            "name": "Мерцаловка",
+            "url": "Mertsalivka-Dnipropetrovska"
+        },
+        {
+            "id": "48590",
+            "name": "Межуевка",
+            "url": "Mezhuivka-Dnipropetrovska"
+        },
+        {
+            "id": "48580",
+            "name": "Межирич",
+            "url": "Mezhyrich-Dnipropetrovska"
+        },
+        {
+            "id": "49167",
+            "name": "Могилев",
+            "url": "Mohyliv-Dnipropetrovska"
+        },
+        {
+            "id": "49172",
+            "name": "Могилевка",
+            "url": "Mohylivka-Dnipropetrovska"
+        },
+        {
+            "id": "49247",
+            "name": "Молодежное",
+            "url": "Molodizhne-Dnipropetrovska"
+        },
+        {
+            "id": "49368",
+            "name": "Мопровское",
+            "url": "Moprivske-Dnipropetrovska"
+        },
+        {
+            "id": "49469",
+            "name": "Мосты",
+            "url": "Mosty-Dnipropetrovska"
+        },
+        {
+            "id": "49484",
+            "name": "Мотроновка",
+            "url": "Motronivka-Dnipropetrovska"
+        },
+        {
+            "id": "49480",
+            "name": "Мотина Балка",
+            "url": "Motyna Balka-Dnipropetrovska"
+        },
+        {
+            "id": "49613",
+            "name": "Мусиевка",
+            "url": "Musiivka-Dnipropetrovska"
+        },
+        {
+            "id": "48977",
+            "name": "Михайловка",
+            "url": "Mykhailivka-Dnipropetrovska"
+        },
+        {
+            "id": "48965",
+            "name": "Михайло-Заводское",
+            "url": "Mykhailo-Zavodske-Dnipropetrovska"
+        },
+        {
+            "id": "50423",
+            "name": "Никольское",
+            "url": "Mykilske-Dnipropetrovska"
+        },
+        {
+            "id": "50440",
+            "name": "Никольское-на-днепре",
+            "url": "Mykilske-na-Dnipri-Dnipropetrovska"
+        },
+        {
+            "id": "50318",
+            "name": "Николаевка",
+            "url": "Mykolaivka-Dnipropetrovska"
+        },
+        {
+            "id": "50420",
+            "name": "Николо-Мусиевка",
+            "url": "Mykolo-Musiivka-Dnipropetrovska"
+        },
+        {
+            "id": "48794",
+            "name": "Миновка",
+            "url": "Mynivka-Dnipropetrovska"
+        },
+        {
+            "id": "48821",
+            "name": "Мирное",
+            "url": "Myrne-Dnipropetrovska"
+        },
+        {
+            "id": "48875",
+            "name": "Миролюбовка",
+            "url": "Myrolyubivka-Dnipropetrovska"
+        },
+        {
+            "id": "48892",
+            "name": "Мироновка",
+            "url": "Myronivka-Dnipropetrovska"
+        },
+        {
+            "id": "48908",
+            "name": "Мирополь",
+            "url": "Myropil-Dnipropetrovska"
+        },
+        {
+            "id": "48869",
+            "name": "Мировое",
+            "url": "Myrove-Dnipropetrovska"
+        },
+        {
+            "id": "49118",
+            "name": "Мишурин Рог",
+            "url": "Myshuryn Rih-Dnipropetrovska"
+        },
+        {
+            "id": "49715",
+            "name": "Набережное",
+            "url": "Naberezhne-Dnipropetrovska"
+        },
+        {
+            "id": "49782",
+            "name": "Надеждовка",
+            "url": "Nadezhdivka-Dnipropetrovska"
+        },
+        {
+            "id": "49776",
+            "name": "Надеждино",
+            "url": "Nadezhdyne-Dnipropetrovska"
+        },
+        {
+            "id": "49801",
+            "name": "Надия",
+            "url": "Nadiya-Dnipropetrovska"
+        },
+        {
+            "id": "49906",
+            "name": "Настасовка",
+            "url": "Nastasivka-Dnipropetrovska"
+        },
+        {
+            "id": "49917",
+            "name": "Наталовка",
+            "url": "Natalivka-Dnipropetrovska"
+        },
+        {
+            "id": "49826",
+            "name": "Назаренки",
+            "url": "Nazarenky-Dnipropetrovska"
+        },
+        {
+            "id": "49829",
+            "name": "Назаровка",
+            "url": "Nazarivka-Dnipropetrovska"
+        },
+        {
+            "id": "50142",
+            "name": "Нечаевка",
+            "url": "Nechaivka-Dnipropetrovska"
+        },
+        {
+            "id": "49996",
+            "name": "Недайвода",
+            "url": "Nedaivoda-Dnipropetrovska"
+        },
+        {
+            "id": "50067",
+            "name": "Ненадовка",
+            "url": "Nenadivka-Dnipropetrovska"
+        },
+        {
+            "id": "50068",
+            "name": "Ненасытец",
+            "url": "Nenasytets-Dnipropetrovska"
+        },
+        {
+            "id": "50086",
+            "name": "Нерудсталь",
+            "url": "Nerudstal-Dnipropetrovska"
+        },
+        {
+            "id": "50119",
+            "name": "Нетесовка",
+            "url": "Netesivka-Dnipropetrovska"
+        },
+        {
+            "id": "50016",
+            "name": "Незабудино",
+            "url": "Nezabudyne-Dnipropetrovska"
+        },
+        {
+            "id": "51813",
+            "name": "Носачи",
+            "url": "Nosachi-Dnipropetrovska"
+        },
+        {
+            "id": "50498",
+            "name": "Новая Балта",
+            "url": "Nova Balta-Dnipropetrovska"
+        },
+        {
+            "id": "50540",
+            "name": "Новая Дача",
+            "url": "Nova Dacha-Dnipropetrovska"
+        },
+        {
+            "id": "50609",
+            "name": "Новая Праця",
+            "url": "Nova Pratsya-Dnipropetrovska"
+        },
+        {
+            "id": "50620",
+            "name": "Новая Русь",
+            "url": "Nova Rus-Dnipropetrovska"
+        },
+        {
+            "id": "50624",
+            "name": "Новая Сечь",
+            "url": "Nova Sich-Dnipropetrovska"
+        },
+        {
+            "id": "50552",
+            "name": "Новая Заря",
+            "url": "Nova Zorya-Dnipropetrovska"
+        },
+        {
+            "id": "50923",
+            "name": "Новое",
+            "url": "Nove-Dnipropetrovska"
+        },
+        {
+            "id": "50655",
+            "name": "Нове Життя",
+            "url": "Nove Zhyttya-Dnipropetrovska"
+        },
+        {
+            "id": "51687",
+            "name": "Новые Ковна",
+            "url": "Novi Kovna-Dnipropetrovska"
+        },
+        {
+            "id": "51703",
+            "name": "Новые Садки",
+            "url": "Novi Sadky-Dnipropetrovska"
+        },
+        {
+            "id": "51681",
+            "name": "Новые Вербки",
+            "url": "Novi Verbky-Dnipropetrovska"
+        },
+        {
+            "id": "51650",
+            "name": "Новочерниговское",
+            "url": "Novochernihivske-Dnipropetrovska"
+        },
+        {
+            "id": "51651",
+            "name": "Новочерноглазовское",
+            "url": "Novochornohlazivske-Dnipropetrovska"
+        },
+        {
+            "id": "50901",
+            "name": "Новодмитровка",
+            "url": "Novodmytrivka-Dnipropetrovska"
+        },
+        {
+            "id": "50757",
+            "name": "Новоанновка",
+            "url": "Novohannivka-Dnipropetrovska"
+        },
+        {
+            "id": "50835",
+            "name": "Новогеоргиевка",
+            "url": "Novoheorhiivka-Dnipropetrovska"
+        },
+        {
+            "id": "50840",
+            "name": "Новогнедое",
+            "url": "Novohnide-Dnipropetrovska"
+        },
+        {
+            "id": "50889",
+            "name": "Новогуровка",
+            "url": "Novohurivka-Dnipropetrovska"
+        },
+        {
+            "id": "51037",
+            "name": "Новоилларионовское",
+            "url": "Novoilarionivske-Dnipropetrovska"
+        },
+        {
+            "id": "51009",
+            "name": "Новоивановка",
+            "url": "Novoivanivka-Dnipropetrovska"
+        },
+        {
+            "id": "51033",
+            "name": "Новоивановское",
+            "url": "Novoivanivske-Dnipropetrovska"
+        },
+        {
+            "id": "51042",
+            "name": "Новокалиновка",
+            "url": "Novokalynivka-Dnipropetrovska"
+        },
+        {
+            "id": "51045",
+            "name": "Новокаменка",
+            "url": "Novokamyanka-Dnipropetrovska"
+        },
+        {
+            "id": "51055",
+            "name": "Новокатещино",
+            "url": "Novokatoshchyne-Dnipropetrovska"
+        },
+        {
+            "id": "51646",
+            "name": "Новохорошевское",
+            "url": "Novokhoroshevske-Dnipropetrovska"
+        },
+        {
+            "id": "51647",
+            "name": "Новохортица",
+            "url": "Novokhortytsya-Dnipropetrovska"
+        },
+        {
+            "id": "51079",
+            "name": "Новокраснополь",
+            "url": "Novokrasnopil-Dnipropetrovska"
+        },
+        {
+            "id": "51084",
+            "name": "Новокурское",
+            "url": "Novokurske-Dnipropetrovska"
+        },
+        {
+            "id": "51056",
+            "name": "Новокиевка",
+            "url": "Novokyivka-Dnipropetrovska"
+        },
+        {
+            "id": "51093",
+            "name": "Новолозоватовка",
+            "url": "Novolozuvativka-Dnipropetrovska"
+        },
+        {
+            "id": "51092",
+            "name": "Новолозоватка",
+            "url": "Novolozuvatka-Dnipropetrovska"
+        },
+        {
+            "id": "51100",
+            "name": "Новомайское",
+            "url": "Novomaiske-Dnipropetrovska"
+        },
+        {
+            "id": "51105",
+            "name": "Новомарьевка",
+            "url": "Novomarivka-Dnipropetrovska"
+        },
+        {
+            "id": "51110",
+            "name": "Новомарьяновка",
+            "url": "Novomaryanivka-Dnipropetrovska"
+        },
+        {
+            "id": "51111",
+            "name": "Новомарьяновское",
+            "url": "Novomaryanivske-Dnipropetrovska"
+        },
+        {
+            "id": "51140",
+            "name": "Новомосковское",
+            "url": "Novomoskovske-Dnipropetrovska"
+        },
+        {
+            "id": "51118",
+            "name": "Новомихайловка",
+            "url": "Novomykhailivka-Dnipropetrovska"
+        },
+        {
+            "id": "51148",
+            "name": "Новониколаевка",
+            "url": "Novomykolaivka-Dnipropetrovska"
+        },
+        {
+            "id": "51189",
+            "name": "Новониколаевское",
+            "url": "Novomykolaivske-Dnipropetrovska"
+        },
+        {
+            "id": "51113",
+            "name": "Новомилорадовка",
+            "url": "Novomyloradivka-Dnipropetrovska"
+        },
+        {
+            "id": "50687",
+            "name": "Новоалександровка",
+            "url": "Novooleksandrivka-Dnipropetrovska"
+        },
+        {
+            "id": "51198",
+            "name": "Новоолександровка",
+            "url": "Novooleksandrivka-Dnipropetrovska"
+        },
+        {
+            "id": "50725",
+            "name": "Новоалександровское",
+            "url": "Novooleksandrivske-Dnipropetrovska"
+        },
+        {
+            "id": "50728",
+            "name": "Новоалександрополь",
+            "url": "Novooleksandropil-Dnipropetrovska"
+        },
+        {
+            "id": "50729",
+            "name": "Новоалексеевка",
+            "url": "Novooleksiivka-Dnipropetrovska"
+        },
+        {
+            "id": "51211",
+            "name": "Новопавловка",
+            "url": "Novopavlivka-Dnipropetrovska"
+        },
+        {
+            "id": "51239",
+            "name": "Новопавлоградское",
+            "url": "Novopavlohradske-Dnipropetrovska"
+        },
+        {
+            "id": "51243",
+            "name": "Новопетровка",
+            "url": "Novopetrivka-Dnipropetrovska"
+        },
+        {
+            "id": "51267",
+            "name": "Новопетровское",
+            "url": "Novopetrivske-Dnipropetrovska"
+        },
+        {
+            "id": "51274",
+            "name": "Новоподгорное",
+            "url": "Novopidhirne-Dnipropetrovska"
+        },
+        {
+            "id": "51275",
+            "name": "Новоподгородное",
+            "url": "Novopidhorodne-Dnipropetrovska"
+        },
+        {
+            "id": "51276",
+            "name": "Новоподкряж",
+            "url": "Novopidkryazh-Dnipropetrovska"
+        },
+        {
+            "id": "51301",
+            "name": "Новополье",
+            "url": "Novopillya-Dnipropetrovska"
+        },
+        {
+            "id": "51278",
+            "name": "Новоподольское",
+            "url": "Novopodilske-Dnipropetrovska"
+        },
+        {
+            "id": "51310",
+            "name": "Новопролетарское",
+            "url": "Novoproletarske-Dnipropetrovska"
+        },
+        {
+            "id": "51308",
+            "name": "Новопричепиловка",
+            "url": "Novoprychepylivka-Dnipropetrovska"
+        },
+        {
+            "id": "51315",
+            "name": "Новопушкаревка",
+            "url": "Novopushkarivka-Dnipropetrovska"
+        },
+        {
+            "id": "51418",
+            "name": "Новоселовка",
+            "url": "Novoselivka-Dnipropetrovska"
+        },
+        {
+            "id": "51508",
+            "name": "Новосеменовка",
+            "url": "Novosemenivka-Dnipropetrovska"
+        },
+        {
+            "id": "51655",
+            "name": "Новошандровка",
+            "url": "Novoshandrivka-Dnipropetrovska"
+        },
+        {
+            "id": "51520",
+            "name": "Новоскелеватое",
+            "url": "Novoskelyuvate-Dnipropetrovska"
+        },
+        {
+            "id": "51521",
+            "name": "Новоскотоватое",
+            "url": "Novoskotuvate-Dnipropetrovska"
+        },
+        {
+            "id": "51533",
+            "name": "Новоспасское",
+            "url": "Novospaske-Dnipropetrovska"
+        },
+        {
+            "id": "51547",
+            "name": "Новостепановка",
+            "url": "Novostepanivka-Dnipropetrovska"
+        },
+        {
+            "id": "51554",
+            "name": "Новостроевка",
+            "url": "Novostroivka-Dnipropetrovska"
+        },
+        {
+            "id": "51559",
+            "name": "Новотарасовка",
+            "url": "Novotarasivka-Dnipropetrovska"
+        },
+        {
+            "id": "51561",
+            "name": "Новотерноватка",
+            "url": "Novoternuvatka-Dnipropetrovska"
+        },
+        {
+            "id": "51562",
+            "name": "Новотерсянское",
+            "url": "Novotersyanske-Dnipropetrovska"
+        },
+        {
+            "id": "51564",
+            "name": "Новотимофеевское",
+            "url": "Novotymofiivske-Dnipropetrovska"
+        },
+        {
+            "id": "51589",
+            "name": "Новоукраинка",
+            "url": "Novoukrainka-Dnipropetrovska"
+        },
+        {
+            "id": "50788",
+            "name": "Нововасилевка",
+            "url": "Novovasylivka-Dnipropetrovska"
+        },
+        {
+            "id": "50803",
+            "name": "Нововасильковка",
+            "url": "Novovasylkivka-Dnipropetrovska"
+        },
+        {
+            "id": "50804",
+            "name": "Нововербское",
+            "url": "Novoverbske-Dnipropetrovska"
+        },
+        {
+            "id": "50808",
+            "name": "Нововитебское",
+            "url": "Novovitebske-Dnipropetrovska"
+        },
+        {
+            "id": "50832",
+            "name": "Нововоскресеновка",
+            "url": "Novovoskresenivka-Dnipropetrovska"
+        },
+        {
+            "id": "50825",
+            "name": "Нововознесенка",
+            "url": "Novovoznesenka-Dnipropetrovska"
+        },
+        {
+            "id": "50834",
+            "name": "Нововязовское",
+            "url": "Novovyazivske-Dnipropetrovska"
+        },
+        {
+            "id": "51663",
+            "name": "Новоюльевка",
+            "url": "Novoyulivka-Dnipropetrovska"
+        },
+        {
+            "id": "50992",
+            "name": "Новозалесье",
+            "url": "Novozalissya-Dnipropetrovska"
+        },
+        {
+            "id": "50990",
+            "name": "Новожитловка",
+            "url": "Novozhytlivka-Dnipropetrovska"
+        },
+        {
+            "id": "50991",
+            "name": "Новожитомир",
+            "url": "Novozhytomyr-Dnipropetrovska"
+        },
+        {
+            "id": "51756",
+            "name": "Новый Мир",
+            "url": "Novyi Myr-Dnipropetrovska"
+        },
+        {
+            "id": "51767",
+            "name": "Новый Поселок",
+            "url": "Novyi Posolok-Dnipropetrovska"
+        },
+        {
+            "id": "51784",
+            "name": "Новый Шлях",
+            "url": "Novyi Shlyakh-Dnipropetrovska"
+        },
+        {
+            "id": "50161",
+            "name": "Нива Трудовая",
+            "url": "Nyva Trudova-Dnipropetrovska"
+        },
+        {
+            "id": "50239",
+            "name": "Нижнянка",
+            "url": "Nyzhnyanka-Dnipropetrovska"
+        },
+        {
+            "id": "51932",
+            "name": "Обояновское",
+            "url": "Oboyanivske-Dnipropetrovska"
+        },
+        {
+            "id": "52822",
+            "name": "Очеретоватое",
+            "url": "Ocheretuvate-Dnipropetrovska"
+        },
+        {
+            "id": "52012",
+            "name": "Одаровка",
+            "url": "Odarivka-Dnipropetrovska"
+        },
+        {
+            "id": "52756",
+            "name": "Отрадное",
+            "url": "Odradne-Dnipropetrovska"
+        },
+        {
+            "id": "52797",
+            "name": "Охотничье",
+            "url": "Okhotnyche-Dnipropetrovska"
+        },
+        {
+            "id": "29079",
+            "name": "Александрия",
+            "url": "Oleksandriia-Dnipropetrovska"
+        },
+        {
+            "id": "29108",
+            "name": "Александровка",
+            "url": "Oleksandrivka-Dnipropetrovska"
+        },
+        {
+            "id": "29088",
+            "name": "Александро-Беловка",
+            "url": "Oleksandro-Bilivka-Dnipropetrovska"
+        },
+        {
+            "id": "29090",
+            "name": "Александро-Григоровка",
+            "url": "Oleksandro-Hryhorivka-Dnipropetrovska"
+        },
+        {
+            "id": "29215",
+            "name": "Александрополь",
+            "url": "Oleksandropil-Dnipropetrovska"
+        },
+        {
+            "id": "29234",
+            "name": "Алексеевка",
+            "url": "Oleksiivka-Dnipropetrovska"
+        },
+        {
+            "id": "39805",
+            "name": "Еленовка",
+            "url": "Olenivka-Dnipropetrovska"
+        },
+        {
+            "id": "52206",
+            "name": "Оленовка",
+            "url": "Olenivka-Dnipropetrovska"
+        },
+        {
+            "id": "52362",
+            "name": "Оляновка",
+            "url": "Olyanivka-Dnipropetrovska"
+        },
+        {
+            "id": "52463",
+            "name": "Ордо-Василевка",
+            "url": "Ordo-Vasylivka-Dnipropetrovska"
+        },
+        {
+            "id": "52479",
+            "name": "Орестополь",
+            "url": "Orestopil-Dnipropetrovska"
+        },
+        {
+            "id": "52493",
+            "name": "Орехово",
+            "url": "Orikhove-Dnipropetrovska"
+        },
+        {
+            "id": "52472",
+            "name": "Орелька",
+            "url": "Orilka-Dnipropetrovska"
+        },
+        {
+            "id": "52526",
+            "name": "Орловка",
+            "url": "Orlivka-Dnipropetrovska"
+        },
+        {
+            "id": "52552",
+            "name": "Орловщина",
+            "url": "Orlivshchyna-Dnipropetrovska"
+        },
+        {
+            "id": "52547",
+            "name": "Орловское",
+            "url": "Orlivske-Dnipropetrovska"
+        },
+        {
+            "id": "52553",
+            "name": "Орлы",
+            "url": "Orly-Dnipropetrovska"
+        },
+        {
+            "id": "52571",
+            "name": "Осадчее",
+            "url": "Osadche-Dnipropetrovska"
+        },
+        {
+            "id": "52628",
+            "name": "Осокоровка",
+            "url": "Osokorivka-Dnipropetrovska"
+        },
+        {
+            "id": "52648",
+            "name": "Остаповское",
+            "url": "Ostapivske-Dnipropetrovska"
+        },
+        {
+            "id": "52729",
+            "name": "Осыковатое",
+            "url": "Osykuvate-Dnipropetrovska"
+        },
+        {
+            "id": "52587",
+            "name": "Осипенко",
+            "url": "Osypenko-Dnipropetrovska"
+        },
+        {
+            "id": "52777",
+            "name": "Отришки",
+            "url": "Otrishky-Dnipropetrovska"
+        },
+        {
+            "id": "52781",
+            "name": "Отрубок",
+            "url": "Otrubok-Dnipropetrovska"
+        },
+        {
+            "id": "52061",
+            "name": "Озерное",
+            "url": "Ozerne-Dnipropetrovska"
+        },
+        {
+            "id": "52037",
+            "name": "Оженковка",
+            "url": "Ozhenkivka-Dnipropetrovska"
+        },
+        {
+            "id": "53194",
+            "name": "Пахарь",
+            "url": "Pakhar-Dnipropetrovska"
+        },
+        {
+            "id": "52998",
+            "name": "Пальмировка",
+            "url": "Palmyrivka-Dnipropetrovska"
+        },
+        {
+            "id": "53022",
+            "name": "Панасовка",
+            "url": "Panasivka-Dnipropetrovska"
+        },
+        {
+            "id": "53116",
+            "name": "Парное",
+            "url": "Parne-Dnipropetrovska"
+        },
+        {
+            "id": "53122",
+            "name": "Партизанское",
+            "url": "Partyzanske-Dnipropetrovska"
+        },
+        {
+            "id": "53127",
+            "name": "Партизаны",
+            "url": "Partyzany-Dnipropetrovska"
+        },
+        {
+            "id": "53202",
+            "name": "Пашена Балка",
+            "url": "Pashena Balka-Dnipropetrovska"
+        },
+        {
+            "id": "52876",
+            "name": "Павловка",
+            "url": "Pavlivka-Dnipropetrovska"
+        },
+        {
+            "id": "52861",
+            "name": "Павло-Григоровка",
+            "url": "Pavlo-Hryhorivka-Dnipropetrovska"
+        },
+        {
+            "id": "52944",
+            "name": "Павлополье",
+            "url": "Pavlopillya-Dnipropetrovska"
+        },
+        {
+            "id": "53384",
+            "name": "Перемога",
+            "url": "Peremoha-Dnipropetrovska"
+        },
+        {
+            "id": "53430",
+            "name": "Перепелячье",
+            "url": "Perepelyache-Dnipropetrovska"
+        },
+        {
+            "id": "53466",
+            "name": "Перещепино",
+            "url": "Pereshchepyne-Dnipropetrovska"
+        },
+        {
+            "id": "53322",
+            "name": "Перевальское",
+            "url": "Perevalske-Dnipropetrovska"
+        },
+        {
+            "id": "53513",
+            "name": "Першотравенка",
+            "url": "Pershotravenka-Dnipropetrovska"
+        },
+        {
+            "id": "53505",
+            "name": "Першетравневое",
+            "url": "Pershotravneve-Dnipropetrovska"
+        },
+        {
+            "id": "53518",
+            "name": "Першотравневое",
+            "url": "Pershotravneve-Dnipropetrovska"
+        },
+        {
+            "id": "53506",
+            "name": "Першозвановка",
+            "url": "Pershozvanivka-Dnipropetrovska"
+        },
+        {
+            "id": "53287",
+            "name": "Первомайское",
+            "url": "Pervomaiske-Dnipropetrovska"
+        },
+        {
+            "id": "53274",
+            "name": "Первозвановка",
+            "url": "Pervozvanivka-Dnipropetrovska"
+        },
+        {
+            "id": "53696",
+            "name": "Петровка",
+            "url": "Petrivka-Dnipropetrovska"
+        },
+        {
+            "id": "53785",
+            "name": "Петровское",
+            "url": "Petrivske-Dnipropetrovska"
+        },
+        {
+            "id": "53686",
+            "name": "Петро-Свистуново",
+            "url": "Petro-Svystunove-Dnipropetrovska"
+        },
+        {
+            "id": "53769",
+            "name": "Петрово",
+            "url": "Petrove-Dnipropetrovska"
+        },
+        {
+            "id": "53667",
+            "name": "Петриков",
+            "url": "Petrykiv-Dnipropetrovska"
+        },
+        {
+            "id": "53665",
+            "name": "Петрикивка",
+            "url": "Petrykivka-Dnipropetrovska"
+        },
+        {
+            "id": "53671",
+            "name": "Петриково",
+            "url": "Petrykove-Dnipropetrovska"
+        },
+        {
+            "id": "54285",
+            "name": "Подгавриловка",
+            "url": "Pidhavrylivka-Dnipropetrovska"
+        },
+        {
+            "id": "54385",
+            "name": "Подлесное",
+            "url": "Pidlisne-Dnipropetrovska"
+        },
+        {
+            "id": "54424",
+            "name": "Подлужье",
+            "url": "Pidluzhzhya-Dnipropetrovska"
+        },
+        {
+            "id": "54480",
+            "name": "Подпольное",
+            "url": "Pidpilne-Dnipropetrovska"
+        },
+        {
+            "id": "53619",
+            "name": "Песчаное",
+            "url": "Pishchane-Dnipropetrovska"
+        },
+        {
+            "id": "53907",
+            "name": "Пивденное",
+            "url": "Pivdenne-Dnipropetrovska"
+        },
+        {
+            "id": "54061",
+            "name": "Плавещина",
+            "url": "Plaveshchyna-Dnipropetrovska"
+        },
+        {
+            "id": "54145",
+            "name": "Плоское",
+            "url": "Ploske-Dnipropetrovska"
+        },
+        {
+            "id": "54142",
+            "name": "Плоско-Тарановка",
+            "url": "Plosko-Taranivka-Dnipropetrovska"
+        },
+        {
+            "id": "54969",
+            "name": "Почино-Софиевка",
+            "url": "Pochyno-Sofiivka-Dnipropetrovska"
+        },
+        {
+            "id": "54441",
+            "name": "Подовое",
+            "url": "Podove-Dnipropetrovska"
+        },
+        {
+            "id": "54365",
+            "name": "Подидар",
+            "url": "Podydar-Dnipropetrovska"
+        },
+        {
+            "id": "54542",
+            "name": "Покровка",
+            "url": "Pokrovka-Dnipropetrovska"
+        },
+        {
+            "id": "54595",
+            "name": "Полевское",
+            "url": "Polivske-Dnipropetrovska"
+        },
+        {
+            "id": "54633",
+            "name": "Пологи",
+            "url": "Polohy-Dnipropetrovska"
+        },
+        {
+            "id": "54584",
+            "name": "Полевое",
+            "url": "Polove-Dnipropetrovska"
+        },
+        {
+            "id": "54662",
+            "name": "Полтавка",
+            "url": "Poltavka-Dnipropetrovska"
+        },
+        {
+            "id": "54673",
+            "name": "Полтавское",
+            "url": "Poltavske-Dnipropetrovska"
+        },
+        {
+            "id": "54694",
+            "name": "Поляна",
+            "url": "Polyana-Dnipropetrovska"
+        },
+        {
+            "id": "54726",
+            "name": "Помазановка",
+            "url": "Pomazanivka-Dnipropetrovska"
+        },
+        {
+            "id": "54753",
+            "name": "Попасное",
+            "url": "Popasne-Dnipropetrovska"
+        },
+        {
+            "id": "54770",
+            "name": "Поперечное",
+            "url": "Poperechne-Dnipropetrovska"
+        },
+        {
+            "id": "54782",
+            "name": "Поповка",
+            "url": "Popivka-Dnipropetrovska"
+        },
+        {
+            "id": "54807",
+            "name": "Попово",
+            "url": "Popove-Dnipropetrovska"
+        },
+        {
+            "id": "54825",
+            "name": "Попутное",
+            "url": "Poputne-Dnipropetrovska"
+        },
+        {
+            "id": "54903",
+            "name": "Посуньки",
+            "url": "Posunky-Dnipropetrovska"
+        },
+        {
+            "id": "54934",
+            "name": "Потоки",
+            "url": "Potoky-Dnipropetrovska"
+        },
+        {
+            "id": "54943",
+            "name": "Потоцкое",
+            "url": "Pototske-Dnipropetrovska"
+        },
+        {
+            "id": "54975",
+            "name": "Правда",
+            "url": "Pravda-Dnipropetrovska"
+        },
+        {
+            "id": "54985",
+            "name": "Правобережное",
+            "url": "Pravoberezhne-Dnipropetrovska"
+        },
+        {
+            "id": "55000",
+            "name": "Преображенка",
+            "url": "Preobrazhenka-Dnipropetrovska"
+        },
+        {
+            "id": "55012",
+            "name": "Преображенское",
+            "url": "Preobrazhenske-Dnipropetrovska"
+        },
+        {
+            "id": "55228",
+            "name": "Прогресс",
+            "url": "Prohres-Dnipropetrovska"
+        },
+        {
+            "id": "55261",
+            "name": "Пролетарское",
+            "url": "Proletarske-Dnipropetrovska"
+        },
+        {
+            "id": "55277",
+            "name": "Проминь",
+            "url": "Promin-Dnipropetrovska"
+        },
+        {
+            "id": "55284",
+            "name": "Пропашное",
+            "url": "Propashne-Dnipropetrovska"
+        },
+        {
+            "id": "55301",
+            "name": "Просяная",
+            "url": "Prosyana-Dnipropetrovska"
+        },
+        {
+            "id": "55313",
+            "name": "Проточи",
+            "url": "Protochi-Dnipropetrovska"
+        },
+        {
+            "id": "55352",
+            "name": "Прядовка",
+            "url": "Pryadivka-Dnipropetrovska"
+        },
+        {
+            "id": "55100",
+            "name": "Приднепровское",
+            "url": "Prydniprovske-Dnipropetrovska"
+        },
+        {
+            "id": "55104",
+            "name": "Приднепрянское",
+            "url": "Prydnipryanske-Dnipropetrovska"
+        },
+        {
+            "id": "55182",
+            "name": "Пристень",
+            "url": "Prysten-Dnipropetrovska"
+        },
+        {
+            "id": "55059",
+            "name": "Приволье",
+            "url": "Pryvillya-Dnipropetrovska"
+        },
+        {
+            "id": "55072",
+            "name": "Привольное",
+            "url": "Pryvilne-Dnipropetrovska"
+        },
+        {
+            "id": "55058",
+            "name": "Приволчанское",
+            "url": "Pryvovchanske-Dnipropetrovska"
+        },
+        {
+            "id": "55207",
+            "name": "Приют",
+            "url": "Pryyut-Dnipropetrovska"
+        },
+        {
+            "id": "55116",
+            "name": "Призовое",
+            "url": "Pryzove-Dnipropetrovska"
+        },
+        {
+            "id": "55490",
+            "name": "Пшеничное",
+            "url": "Pshenychne-Dnipropetrovska"
+        },
+        {
+            "id": "55429",
+            "name": "Путиловка",
+            "url": "Putylivka-Dnipropetrovska"
+        },
+        {
+            "id": "54048",
+            "name": "Пичугино",
+            "url": "Pychuhyne-Dnipropetrovska"
+        },
+        {
+            "id": "53944",
+            "name": "Пилиповка",
+            "url": "Pylypivka-Dnipropetrovska"
+        },
+        {
+            "id": "54009",
+            "name": "Писанцы",
+            "url": "Pysantsi-Dnipropetrovska"
+        },
+        {
+            "id": "54015",
+            "name": "Писаревка",
+            "url": "Pysarivka-Dnipropetrovska"
+        },
+        {
+            "id": "54041",
+            "name": "Письмечево",
+            "url": "Pysmecheve-Dnipropetrovska"
+        },
+        {
+            "id": "54040",
+            "name": "Письменное",
+            "url": "Pysmenne-Dnipropetrovska"
+        },
+        {
+            "id": "55594",
+            "name": "Радевичево",
+            "url": "Radevycheve-Dnipropetrovska"
+        },
+        {
+            "id": "55577",
+            "name": "Радгоспное",
+            "url": "Radhospne-Dnipropetrovska"
+        },
+        {
+            "id": "55636",
+            "name": "Радостное",
+            "url": "Radisne-Dnipropetrovska"
+        },
+        {
+            "id": "55651",
+            "name": "Радсело",
+            "url": "Radselo-Dnipropetrovska"
+        },
+        {
+            "id": "55658",
+            "name": "Радушное",
+            "url": "Radushne-Dnipropetrovska"
+        },
+        {
+            "id": "55676",
+            "name": "Радянское",
+            "url": "Radyanske-Dnipropetrovska"
+        },
+        {
+            "id": "55778",
+            "name": "Райполе",
+            "url": "Raipole-Dnipropetrovska"
+        },
+        {
+            "id": "55698",
+            "name": "Раевка",
+            "url": "Raivka-Dnipropetrovska"
+        },
+        {
+            "id": "55703",
+            "name": "Раево-Александровка",
+            "url": "Rajevo-Oleksandrivka-Dnipropetrovska"
+        },
+        {
+            "id": "55818",
+            "name": "Раково",
+            "url": "Rakove-Dnipropetrovska"
+        },
+        {
+            "id": "55831",
+            "name": "Ракшевка",
+            "url": "Rakshivka-Dnipropetrovska"
+        },
+        {
+            "id": "55839",
+            "name": "Ранний Ранок",
+            "url": "Rannii Ranok-Dnipropetrovska"
+        },
+        {
+            "id": "56131",
+            "name": "Ровное",
+            "url": "Rivne-Dnipropetrovska"
+        },
+        {
+            "id": "55612",
+            "name": "Радионовка",
+            "url": "Rodionivka-Dnipropetrovska"
+        },
+        {
+            "id": "56184",
+            "name": "Роговское",
+            "url": "Rohivske-Dnipropetrovska"
+        },
+        {
+            "id": "56331",
+            "name": "Романовка",
+            "url": "Romanivka-Dnipropetrovska"
+        },
+        {
+            "id": "56316",
+            "name": "Романки",
+            "url": "Romanky-Dnipropetrovska"
+        },
+        {
+            "id": "56395",
+            "name": "Росишки",
+            "url": "Rosishky-Dnipropetrovska"
+        },
+        {
+            "id": "55715",
+            "name": "Раздолье",
+            "url": "Rozdollya-Dnipropetrovska"
+        },
+        {
+            "id": "56274",
+            "name": "Розовка",
+            "url": "Rozivka-Dnipropetrovska"
+        },
+        {
+            "id": "55874",
+            "name": "Растанье",
+            "url": "Roztannya-Dnipropetrovska"
+        },
+        {
+            "id": "56293",
+            "name": "Розы Люксембург",
+            "url": "Rozy Lyuksemburh-Dnipropetrovska"
+        },
+        {
+            "id": "56472",
+            "name": "Рубановское",
+            "url": "Rubanivske-Dnipropetrovska"
+        },
+        {
+            "id": "56523",
+            "name": "Рудево-Николаевка",
+            "url": "Rudevo-Mykolaivka-Dnipropetrovska"
+        },
+        {
+            "id": "56537",
+            "name": "Рудка",
+            "url": "Rudka-Dnipropetrovska"
+        },
+        {
+            "id": "56571",
+            "name": "Рудничное",
+            "url": "Rudnychne-Dnipropetrovska"
+        },
+        {
+            "id": "56656",
+            "name": "Русаково",
+            "url": "Rusakove-Dnipropetrovska"
+        },
+        {
+            "id": "56784",
+            "name": "Рясное",
+            "url": "Ryasne-Dnipropetrovska"
+        },
+        {
+            "id": "56699",
+            "name": "Рыбалки",
+            "url": "Rybalky-Dnipropetrovska"
+        },
+        {
+            "id": "56851",
+            "name": "Сад",
+            "url": "Sad-Dnipropetrovska"
+        },
+        {
+            "id": "56884",
+            "name": "Садовое",
+            "url": "Sadove-Dnipropetrovska"
+        },
+        {
+            "id": "56927",
+            "name": "Саевка",
+            "url": "Saivka-Dnipropetrovska"
+        },
+        {
+            "id": "56951",
+            "name": "Саксагань",
+            "url": "Saksahan-Dnipropetrovska"
+        },
+        {
+            "id": "56970",
+            "name": "Саловка",
+            "url": "Salivka-Dnipropetrovska"
+        },
+        {
+            "id": "57031",
+            "name": "Самоткань",
+            "url": "Samotkan-Dnipropetrovska"
+        },
+        {
+            "id": "2380",
+            "name": "Вольногорск",
+            "url": "Volnogorsk"
+        },
+        {
+            "id": "2381",
+            "name": "Верхнеднепровск",
+            "url": "Verhnedneprovsk"
+        },
+        {
+            "id": "2382",
+            "name": "Юрьевка",
+            "url": "Yurevka"
+        },
+        {
+            "id": "2383",
+            "name": "Томаковка",
+            "url": "Tomakovka"
+        },
+        {
+            "id": "2384",
+            "name": "Софиевка",
+            "url": "Sofievka"
+        },
+        {
+            "id": "2385",
+            "name": "Широкое",
+            "url": "Shirokoe"
+        },
+        {
+            "id": "2386",
+            "name": "Царичанка",
+            "url": "Carichanka"
+        },
+        {
+            "id": "2387",
+            "name": "Апостолово",
+            "url": "Apostolovo"
+        },
+        {
+            "id": "2388",
+            "name": "Ингулец",
+            "url": "Ingulec"
+        },
+        {
+            "id": "2389",
+            "name": "Пятихатки",
+            "url": "Pyatihatki"
+        },
+        {
+            "id": "2390",
+            "name": "Зеленодольск",
+            "url": "Zelenodolsk"
+        },
+        {
+            "id": "2391",
+            "name": "Подгорное",
+            "url": "Podgornoe"
+        },
+        {
+            "id": "2392",
+            "name": "Днепропетровск",
+            "url": "Dnipropetrovsk"
+        },
+        {
+            "id": "2393",
+            "name": "Днепродзержинск",
+            "url": "Dniprodzerzhinsk"
+        },
+        {
+            "id": "2394",
+            "name": "Желтые Воды",
+            "url": "ZhovtiVody"
+        },
+        {
+            "id": "2395",
+            "name": "Кривой Рог",
+            "url": "KrivyiRih"
+        },
+        {
+            "id": "2396",
+            "name": "Марганец",
+            "url": "Marganets"
+        },
+        {
+            "id": "2397",
+            "name": "Никополь",
+            "url": "Nikopol"
+        },
+        {
+            "id": "2398",
+            "name": "Новомосковск",
+            "url": "Novomoskovsk"
+        },
+        {
+            "id": "2399",
+            "name": "Павлоград",
+            "url": "Pavlograd"
+        },
+        {
+            "id": "2400",
+            "name": "Орджоникидзе",
+            "url": "Ordzhonikidze"
+        },
+        {
+            "id": "2401",
+            "name": "Терновка",
+            "url": "Ternovka"
+        },
+        {
+            "id": "2402",
+            "name": "Першотравенск",
+            "url": "Pershotravensk"
+        },
+        {
+            "id": "2403",
+            "name": "Синельниково",
+            "url": "Sinelnikovo"
+        },
+        {
+            "id": "2404",
+            "name": "Кринички",
+            "url": "Krinichki"
+        },
+        {
+            "id": "2405",
+            "name": "Межевая",
+            "url": "Mezhevaya"
+        },
+        {
+            "id": "2406",
+            "name": "Покровское",
+            "url": "Pokrovskoe"
+        },
+        {
+            "id": "2407",
+            "name": "Петропавловка",
+            "url": "Petropavlovka"
+        },
+        {
+            "id": "2409",
+            "name": "Магдалиновка",
+            "url": "Magdalinovka"
+        },
+        {
+            "id": "2410",
+            "name": "Соленое",
+            "url": "Solenoe"
+        },
+        {
+            "id": "2411",
+            "name": "Васильковка",
+            "url": "Vasilkovka"
+        },
+        {
+            "id": "56836",
+            "name": "Савро",
+            "url": "Savro-Dnipropetrovska"
+        },
+        {
+            "id": "57549",
+            "name": "Селяновка",
+            "url": "Selyanivka-Dnipropetrovska"
+        },
+        {
+            "id": "57577",
+            "name": "Семеновка",
+            "url": "Semenivka-Dnipropetrovska"
+        },
+        {
+            "id": "57728",
+            "name": "Сергеевка",
+            "url": "Serhiivka-Dnipropetrovska"
+        },
+        {
+            "id": "63510",
+            "name": "Шахтер",
+            "url": "Shakhtar-Dnipropetrovska"
+        },
+        {
+            "id": "63512",
+            "name": "Шахтерское",
+            "url": "Shakhtarske-Dnipropetrovska"
+        },
+        {
+            "id": "63449",
+            "name": "Шандровка",
+            "url": "Shandrivka-Dnipropetrovska"
+        },
+        {
+            "id": "64080",
+            "name": "Щербиновка",
+            "url": "Shcherbynivka-Dnipropetrovska"
+        },
+        {
+            "id": "63730",
+            "name": "Шестерня",
+            "url": "Shestirnya-Dnipropetrovska"
+        },
+        {
+            "id": "63732",
+            "name": "Шестиполье",
+            "url": "Shestypillya-Dnipropetrovska"
+        },
+        {
+            "id": "63543",
+            "name": "Шевченко",
+            "url": "Shevchenka-Dnipropetrovska"
+        },
+        {
+            "id": "63597",
+            "name": "Шевченковка",
+            "url": "Shevchenkivka-Dnipropetrovska"
+        },
+        {
+            "id": "63661",
+            "name": "Шевченковское",
+            "url": "Shevchenkivske-Dnipropetrovska"
+        },
+        {
+            "id": "63605",
+            "name": "Шевченково",
+            "url": "Shevchenkove-Dnipropetrovska"
+        },
+        {
+            "id": "63531",
+            "name": "Шевское",
+            "url": "Shevske-Dnipropetrovska"
+        },
+        {
+            "id": "63667",
+            "name": "Шевякино",
+            "url": "Shevyakyne-Dnipropetrovska"
+        },
+        {
+            "id": "63911",
+            "name": "Шмаково",
+            "url": "Shmakove-Dnipropetrovska"
+        },
+        {
+            "id": "63932",
+            "name": "Шолохово",
+            "url": "Sholokhove-Dnipropetrovska"
+        },
+        {
+            "id": "63521",
+            "name": "Шведово",
+            "url": "Shvedove-Dnipropetrovska"
+        },
+        {
+            "id": "63834",
+            "name": "Широчаны",
+            "url": "Shyrochany-Dnipropetrovska"
+        },
+        {
+            "id": "63782",
+            "name": "Широкая Балка",
+            "url": "Shyroka Balka-Dnipropetrovska"
+        },
+        {
+            "id": "63791",
+            "name": "Широкая Дача",
+            "url": "Shyroka Dacha-Dnipropetrovska"
+        },
+        {
+            "id": "63792",
+            "name": "Широкая Долина",
+            "url": "Shyroka Dolyna-Dnipropetrovska"
+        },
+        {
+            "id": "63832",
+            "name": "Широкополе",
+            "url": "Shyrokopole-Dnipropetrovska"
+        },
+        {
+            "id": "63833",
+            "name": "Широкосмоленка",
+            "url": "Shyrokosmolenka-Dnipropetrovska"
+        },
+        {
+            "id": "63848",
+            "name": "Шишкино",
+            "url": "Shyshkyne-Dnipropetrovska"
+        },
+        {
+            "id": "58003",
+            "name": "Сичкаревка",
+            "url": "Sichkarivka-Dnipropetrovska"
+        },
+        {
+            "id": "58028",
+            "name": "Скелеватка",
+            "url": "Skelyuvatka-Dnipropetrovska"
+        },
+        {
+            "id": "36480",
+            "name": "Восточное",
+            "url": "Skhidne-Dnipropetrovska"
+        },
+        {
+            "id": "58096",
+            "name": "Скотоватое",
+            "url": "Skotuvate-Dnipropetrovska"
+        },
+        {
+            "id": "58127",
+            "name": "Славгород",
+            "url": "Slavhorod-Dnipropetrovska"
+        },
+        {
+            "id": "58138",
+            "name": "Славное",
+            "url": "Slavne-Dnipropetrovska"
+        },
+        {
+            "id": "58150",
+            "name": "Славянка",
+            "url": "Slovyanka-Dnipropetrovska"
+        },
+        {
+            "id": "58312",
+            "name": "Смоленка",
+            "url": "Smolenka-Dnipropetrovska"
+        },
+        {
+            "id": "58500",
+            "name": "Сокольское",
+            "url": "Sokilske-Dnipropetrovska"
+        },
+        {
+            "id": "58468",
+            "name": "Соколовка",
+            "url": "Sokolivka-Dnipropetrovska"
+        },
+        {
+            "id": "58486",
+            "name": "Соколово",
+            "url": "Sokolove-Dnipropetrovska"
+        },
+        {
+            "id": "58489",
+            "name": "Соколовое",
+            "url": "Sokolove-Dnipropetrovska"
+        },
+        {
+            "id": "58511",
+            "name": "Солдатское",
+            "url": "Soldatske-Dnipropetrovska"
+        },
+        {
+            "id": "58584",
+            "name": "Солонцы",
+            "url": "Solontsi-Dnipropetrovska"
+        },
+        {
+            "id": "58555",
+            "name": "Соловьевка",
+            "url": "Solovivka-Dnipropetrovska"
+        },
+        {
+            "id": "58546",
+            "name": "Солнцево",
+            "url": "Sontseve-Dnipropetrovska"
+        },
+        {
+            "id": "58657",
+            "name": "Сорочино",
+            "url": "Sorochyne-Dnipropetrovska"
+        },
+        {
+            "id": "58646",
+            "name": "Сорокопановка",
+            "url": "Sorokopanivka-Dnipropetrovska"
+        },
+        {
+            "id": "58673",
+            "name": "Сосновка",
+            "url": "Sosnivka-Dnipropetrovska"
+        },
+        {
+            "id": "58717",
+            "name": "Сотницкое",
+            "url": "Sotnytske-Dnipropetrovska"
+        },
+        {
+            "id": "58814",
+            "name": "Спокойствие",
+            "url": "Spokoistvije-Dnipropetrovska"
+        },
+        {
+            "id": "59109",
+            "name": "Старые Кодаки",
+            "url": "Stari Kodaky-Dnipropetrovska"
+        },
+        {
+            "id": "59044",
+            "name": "Староднепровское",
+            "url": "Starodniprovske-Dnipropetrovska"
+        },
+        {
+            "id": "59045",
+            "name": "Стародобровольское",
+            "url": "Starodobrovilske-Dnipropetrovska"
+        },
+        {
+            "id": "59063",
+            "name": "Старокасьяновское",
+            "url": "Starokasyanivske-Dnipropetrovska"
+        },
+        {
+            "id": "59068",
+            "name": "Старолозоватка",
+            "url": "Starolozuvatka-Dnipropetrovska"
+        },
+        {
+            "id": "59039",
+            "name": "Старовишневецкое",
+            "url": "Starovyshnevetske-Dnipropetrovska"
+        },
+        {
+            "id": "59145",
+            "name": "Старый Колодец",
+            "url": "Staryi Kolodyaz-Dnipropetrovska"
+        },
+        {
+            "id": "59366",
+            "name": "Степь",
+            "url": "Step-Dnipropetrovska"
+        },
+        {
+            "id": "59232",
+            "name": "Степановка",
+            "url": "Stepanivka-Dnipropetrovska"
+        },
+        {
+            "id": "59318",
+            "name": "Степовое",
+            "url": "Stepove-Dnipropetrovska"
+        },
+        {
+            "id": "59540",
+            "name": "Стрюковка",
+            "url": "Stryukivka-Dnipropetrovska"
+        },
+        {
+            "id": "59615",
+            "name": "Судановка",
+            "url": "Sudanivka-Dnipropetrovska"
+        },
+        {
+            "id": "59624",
+            "name": "Судовка",
+            "url": "Sudivka-Dnipropetrovska"
+        },
+        {
+            "id": "59733",
+            "name": "Сухая Калина",
+            "url": "Sukha Kalyna-Dnipropetrovska"
+        },
+        {
+            "id": "59718",
+            "name": "Сухановка",
+            "url": "Sukhanivka-Dnipropetrovska"
+        },
+        {
+            "id": "59722",
+            "name": "Сухарева Балка",
+            "url": "Sukhareva Balka-Dnipropetrovska"
+        },
+        {
+            "id": "59780",
+            "name": "Сухой Хутор",
+            "url": "Sukhyi Khutir-Dnipropetrovska"
+        },
+        {
+            "id": "59675",
+            "name": "Супина",
+            "url": "Supyna-Dnipropetrovska"
+        },
+        {
+            "id": "59701",
+            "name": "Сурское",
+            "url": "Surske-Dnipropetrovska"
+        },
+        {
+            "id": "59699",
+            "name": "Сурско-Литовское",
+            "url": "Sursko-Lytovske-Dnipropetrovska"
+        },
+        {
+            "id": "59707",
+            "name": "Сусловка",
+            "url": "Suslivka-Dnipropetrovska"
+        },
+        {
+            "id": "59597",
+            "name": "Суворовка",
+            "url": "Suvorovka-Dnipropetrovska"
+        },
+        {
+            "id": "59605",
+            "name": "Суворовское",
+            "url": "Suvorovske-Dnipropetrovska"
+        },
+        {
+            "id": "57287",
+            "name": "Свердловское",
+            "url": "Sverdlovske-Dnipropetrovska"
+        },
+        {
+            "id": "57330",
+            "name": "Свечановка",
+            "url": "Svichanivka-Dnipropetrovska"
+        },
+        {
+            "id": "57307",
+            "name": "Светлогорское",
+            "url": "Svitlohirske-Dnipropetrovska"
+        },
+        {
+            "id": "57353",
+            "name": "Свиридово",
+            "url": "Svyrydove-Dnipropetrovska"
+        },
+        {
+            "id": "57361",
+            "name": "Свистуново",
+            "url": "Svystunove-Dnipropetrovska"
+        },
+        {
+            "id": "60025",
+            "name": "Тарасовка",
+            "url": "Tarasivka-Dnipropetrovska"
+        },
+        {
+            "id": "60015",
+            "name": "Тарасо-Григорьевка",
+            "url": "Taraso-Hryhorivka-Dnipropetrovska"
+        },
+        {
+            "id": "60089",
+            "name": "Тарасово",
+            "url": "Tarasove-Dnipropetrovska"
+        },
+        {
+            "id": "60229",
+            "name": "Тепловка",
+            "url": "Teplivka-Dnipropetrovska"
+        },
+        {
+            "id": "60286",
+            "name": "Терно-Лозоватка",
+            "url": "Terno-Lozuvatka-Dnipropetrovska"
+        },
+        {
+            "id": "60291",
+            "name": "Терноватое",
+            "url": "Ternuvate-Dnipropetrovska"
+        },
+        {
+            "id": "60334",
+            "name": "Терны",
+            "url": "Terny-Dnipropetrovska"
+        },
+        {
+            "id": "60342",
+            "name": "Терса",
+            "url": "Tersa-Dnipropetrovska"
+        },
+        {
+            "id": "60513",
+            "name": "Ток",
+            "url": "Tik-Dnipropetrovska"
+        },
+        {
+            "id": "60534",
+            "name": "Токовское",
+            "url": "Tokivske-Dnipropetrovska"
+        },
+        {
+            "id": "60533",
+            "name": "Токовое",
+            "url": "Tokove-Dnipropetrovska"
+        },
+        {
+            "id": "60565",
+            "name": "Томаковское",
+            "url": "Tomakivske-Dnipropetrovska"
+        },
+        {
+            "id": "60637",
+            "name": "Топчино",
+            "url": "Topchyne-Dnipropetrovska"
+        },
+        {
+            "id": "60593",
+            "name": "Топила",
+            "url": "Topyla-Dnipropetrovska"
+        },
+        {
+            "id": "60501",
+            "name": "Товарищеский Труд",
+            "url": "Tovaryskyi Trud-Dnipropetrovska"
+        },
+        {
+            "id": "60547",
+            "name": "Толстое",
+            "url": "Tovste-Dnipropetrovska"
+        },
+        {
+            "id": "60704",
+            "name": "Тракторное",
+            "url": "Traktorne-Dnipropetrovska"
+        },
+        {
+            "id": "60725",
+            "name": "Третяковка",
+            "url": "Tretyakivka-Dnipropetrovska"
+        },
+        {
+            "id": "60906",
+            "name": "Трудолюбовка",
+            "url": "Trudolyubivka-Dnipropetrovska"
+        },
+        {
+            "id": "60882",
+            "name": "Трудовое",
+            "url": "Trudove-Dnipropetrovska"
+        },
+        {
+            "id": "60772",
+            "name": "Тритузное",
+            "url": "Trytuzne-Dnipropetrovska"
+        },
+        {
+            "id": "62336",
+            "name": "Цвелое",
+            "url": "Tsvile-Dnipropetrovska"
+        },
+        {
+            "id": "62338",
+            "name": "Цветково",
+            "url": "Tsvitkove-Dnipropetrovska"
+        },
+        {
+            "id": "62432",
+            "name": "Цибульковка",
+            "url": "Tsybulkivka-Dnipropetrovska"
+        },
+        {
+            "id": "62461",
+            "name": "Цыгановка",
+            "url": "Tsyhanivka-Dnipropetrovska"
+        },
+        {
+            "id": "62438",
+            "name": "Циково",
+            "url": "Tsykove-Dnipropetrovska"
+        },
+        {
+            "id": "61000",
+            "name": "Тургеневка",
+            "url": "Turhenjevka-Dnipropetrovska"
+        },
+        {
+            "id": "61032",
+            "name": "Турово",
+            "url": "Turove-Dnipropetrovska"
+        },
+        {
+            "id": "60461",
+            "name": "Тихое",
+            "url": "Tykhe-Dnipropetrovska"
+        },
+        {
+            "id": "60458",
+            "name": "Тихий Став",
+            "url": "Tykhyi Stav-Dnipropetrovska"
+        },
+        {
+            "id": "61189",
+            "name": "Удачное",
+            "url": "Udachne-Dnipropetrovska"
+        },
+        {
+            "id": "61230",
+            "name": "Украинка",
+            "url": "Ukrainka-Dnipropetrovska"
+        },
+        {
+            "id": "61255",
+            "name": "Украинское",
+            "url": "Ukrainske-Dnipropetrovska"
+        },
+        {
+            "id": "61325",
+            "name": "Ульяновка",
+            "url": "Ulyanivka-Dnipropetrovska"
+        },
+        {
+            "id": "61422",
+            "name": "Урожайное",
+            "url": "Urozhaine-Dnipropetrovska"
+        },
+        {
+            "id": "61449",
+            "name": "Успеновка",
+            "url": "Uspenivka-Dnipropetrovska"
+        },
+        {
+            "id": "61474",
+            "name": "Усть-Каменка",
+            "url": "Ust-Kamyanka-Dnipropetrovska"
+        },
+        {
+            "id": "34478",
+            "name": "Валовое",
+            "url": "Valove-Dnipropetrovska"
+        },
+        {
+            "id": "34543",
+            "name": "Варламовка",
+            "url": "Varlamivka-Dnipropetrovska"
+        },
+        {
+            "id": "34515",
+            "name": "Варваровка",
+            "url": "Varvarivka-Dnipropetrovska"
+        },
+        {
+            "id": "34627",
+            "name": "Васильевка",
+            "url": "Vasylivka-Dnipropetrovska"
+        },
+        {
+            "id": "34645",
+            "name": "Васильковское",
+            "url": "Vasylkivske-Dnipropetrovska"
+        },
+        {
+            "id": "34670",
+            "name": "Васюковка",
+            "url": "Vasyukivka-Dnipropetrovska"
+        },
+        {
+            "id": "35030",
+            "name": "Великокозырщина",
+            "url": "Velykokozyrshchyna-Dnipropetrovska"
+        },
+        {
+            "id": "35033",
+            "name": "Великомихайловка",
+            "url": "Velykomykhailivka-Dnipropetrovska"
+        },
+        {
+            "id": "35001",
+            "name": "Великоалександровка",
+            "url": "Velykooleksandrivka-Dnipropetrovska"
+        },
+        {
+            "id": "35166",
+            "name": "Вербовское",
+            "url": "Verbivske-Dnipropetrovska"
+        },
+        {
+            "id": "35108",
+            "name": "Вербки",
+            "url": "Verbky-Dnipropetrovska"
+        },
+        {
+            "id": "35149",
+            "name": "Вербовое",
+            "url": "Verbove-Dnipropetrovska"
+        },
+        {
+            "id": "35174",
+            "name": "Вербское",
+            "url": "Verbske-Dnipropetrovska"
+        },
+        {
+            "id": "35116",
+            "name": "Вербоватовка",
+            "url": "Verbuvativka-Dnipropetrovska"
+        },
+        {
+            "id": "35183",
+            "name": "Веремиевка",
+            "url": "Veremiivka-Dnipropetrovska"
+        },
+        {
+            "id": "35335",
+            "name": "Верховцево",
+            "url": "Verkhivtseve-Dnipropetrovska"
+        },
+        {
+            "id": "35245",
+            "name": "Верхнекаменистая",
+            "url": "Verkhnokamyanysta-Dnipropetrovska"
+        },
+        {
+            "id": "35370",
+            "name": "Веселая Дача",
+            "url": "Vesela Dacha-Dnipropetrovska"
+        },
+        {
+            "id": "35371",
+            "name": "Веселая Долина",
+            "url": "Vesela Dolyna-Dnipropetrovska"
+        },
+        {
+            "id": "35369",
+            "name": "Веселая Горка",
+            "url": "Vesela Hirka-Dnipropetrovska"
+        },
+        {
+            "id": "35376",
+            "name": "Веселая Роща",
+            "url": "Vesela Roshcha-Dnipropetrovska"
+        },
+        {
+            "id": "35472",
+            "name": "Веселое Поле",
+            "url": "Vesele Pole-Dnipropetrovska"
+        },
+        {
+            "id": "35478",
+            "name": "Веселые Чумаки",
+            "url": "Veseli Chumaky-Dnipropetrovska"
+        },
+        {
+            "id": "35479",
+            "name": "Веселый Гай",
+            "url": "Veselyi Hai-Dnipropetrovska"
+        },
+        {
+            "id": "35484",
+            "name": "Веселый Кут",
+            "url": "Veselyi Kut-Dnipropetrovska"
+        },
+        {
+            "id": "35502",
+            "name": "Веселый Став",
+            "url": "Veselyi Stav-Dnipropetrovska"
+        },
+        {
+            "id": "35571",
+            "name": "Видродження",
+            "url": "Vidrodzhennya-Dnipropetrovska"
+        },
+        {
+            "id": "36071",
+            "name": "Войсковое",
+            "url": "Viiskove-Dnipropetrovska"
+        },
+        {
+            "id": "35629",
+            "name": "Виленка",
+            "url": "Vilenka-Dnipropetrovska"
+        },
+        {
+            "id": "36307",
+            "name": "Вольные Хутора",
+            "url": "Vilni Khutory-Dnipropetrovska"
+        },
+        {
+            "id": "36308",
+            "name": "Вольный Посад",
+            "url": "Vilnyi Posad-Dnipropetrovska"
+        },
+        {
+            "id": "36310",
+            "name": "Вольный Табор",
+            "url": "Vilnyi Tabir-Dnipropetrovska"
+        },
+        {
+            "id": "35538",
+            "name": "Ветровка",
+            "url": "Vitrivka-Dnipropetrovska"
+        },
+        {
+            "id": "35979",
+            "name": "Водолажское",
+            "url": "Vodolazke-Dnipropetrovska"
+        },
+        {
+            "id": "35993",
+            "name": "Водяное",
+            "url": "Vodyane-Dnipropetrovska"
+        },
+        {
+            "id": "36055",
+            "name": "Войково",
+            "url": "Voikove-Dnipropetrovska"
+        },
+        {
+            "id": "36027",
+            "name": "Воеводовка",
+            "url": "Vojevodivka-Dnipropetrovska"
+        },
+        {
+            "id": "35872",
+            "name": "Владимировка",
+            "url": "Volodymyrivka-Dnipropetrovska"
+        },
+        {
+            "id": "35930",
+            "name": "Владимировское",
+            "url": "Volodymyrivske-Dnipropetrovska"
+        },
+        {
+            "id": "36180",
+            "name": "Волосское",
+            "url": "Voloske-Dnipropetrovska"
+        },
+        {
+            "id": "36417",
+            "name": "Вороное",
+            "url": "Vorone-Dnipropetrovska"
+        },
+        {
+            "id": "36401",
+            "name": "Вороновка",
+            "url": "Voronivka-Dnipropetrovska"
+        },
+        {
+            "id": "36411",
+            "name": "Вороново",
+            "url": "Voronove-Dnipropetrovska"
+        },
+        {
+            "id": "36455",
+            "name": "Воскресеновка",
+            "url": "Voskresenivka-Dnipropetrovska"
+        },
+        {
+            "id": "36211",
+            "name": "Волчанское",
+            "url": "Vovchanske-Dnipropetrovska"
+        },
+        {
+            "id": "36235",
+            "name": "Волчье",
+            "url": "Vovche-Dnipropetrovska"
+        },
+        {
+            "id": "36046",
+            "name": "Вознесенское",
+            "url": "Voznesenske-Dnipropetrovska"
+        },
+        {
+            "id": "36032",
+            "name": "Возвратное",
+            "url": "Vozvratne-Dnipropetrovska"
+        },
+        {
+            "id": "36517",
+            "name": "Всесвятское",
+            "url": "Vsesvyatske-Dnipropetrovska"
+        },
+        {
+            "id": "36694",
+            "name": "Вязовок",
+            "url": "Vyazivok-Dnipropetrovska"
+        },
+        {
+            "id": "36698",
+            "name": "Вязовское-Водяное",
+            "url": "Vyazivske-Vodyane-Dnipropetrovska"
+        },
+        {
+            "id": "36553",
+            "name": "Выдвиженец",
+            "url": "Vydvyzhenets-Dnipropetrovska"
+        },
+        {
+            "id": "35696",
+            "name": "Виноградовка",
+            "url": "Vynohradivka-Dnipropetrovska"
+        },
+        {
+            "id": "35681",
+            "name": "Виноградное",
+            "url": "Vynohradne-Dnipropetrovska"
+        },
+        {
+            "id": "35736",
+            "name": "Високое",
+            "url": "Vysoke-Dnipropetrovska"
+        },
+        {
+            "id": "36625",
+            "name": "Высокое Поле",
+            "url": "Vysoke Pole-Dnipropetrovska"
+        },
+        {
+            "id": "36626",
+            "name": "Высокополь",
+            "url": "Vysokopil-Dnipropetrovska"
+        },
+        {
+            "id": "64400",
+            "name": "Яблоневое",
+            "url": "Yabluneve-Dnipropetrovska"
+        },
+        {
+            "id": "64416",
+            "name": "Яблоновка",
+            "url": "Yablunivka-Dnipropetrovska"
+        },
+        {
+            "id": "64483",
+            "name": "Ягодное",
+            "url": "Yahidne-Dnipropetrovska"
+        },
+        {
+            "id": "64509",
+            "name": "Яковлевка",
+            "url": "Yakovlivka-Dnipropetrovska"
+        },
+        {
+            "id": "28877",
+            "name": "Акимовка",
+            "url": "Yakymivka-Dnipropetrovska"
+        },
+        {
+            "id": "64585",
+            "name": "Январское",
+            "url": "Yanvarske-Dnipropetrovska"
+        },
+        {
+            "id": "64637",
+            "name": "Ярок",
+            "url": "Yarok-Dnipropetrovska"
+        },
+        {
+            "id": "64742",
+            "name": "Ясное",
+            "url": "Yasne-Dnipropetrovska"
+        },
+        {
+            "id": "39780",
+            "name": "Егоровка",
+            "url": "Yehorivka-Dnipropetrovska"
+        },
+        {
+            "id": "39779",
+            "name": "Егорино",
+            "url": "Yehoryne-Dnipropetrovska"
+        },
+        {
+            "id": "39836",
+            "name": "Елизарово",
+            "url": "Yelizarove-Dnipropetrovska"
+        },
+        {
+            "id": "39813",
+            "name": "Елизаветовка",
+            "url": "Yelyzavetivka-Dnipropetrovska"
+        },
+        {
+            "id": "39835",
+            "name": "Елизаветполье",
+            "url": "Yelyzavetpillya-Dnipropetrovska"
+        },
+        {
+            "id": "39769",
+            "name": "Евдокиевка",
+            "url": "Yevdokiivka-Dnipropetrovska"
+        },
+        {
+            "id": "39770",
+            "name": "Евецко-Николаевка",
+            "url": "Yevetsko-Mykolaivka-Dnipropetrovska"
+        },
+        {
+            "id": "42017",
+            "name": "Йосиповка",
+            "url": "Yosypivka-Dnipropetrovska"
+        },
+        {
+            "id": "64380",
+            "name": "Юрьевское",
+            "url": "Yurivske-Dnipropetrovska"
+        },
+        {
+            "id": "64248",
+            "name": "Юбилейное",
+            "url": "Yuvileine-Dnipropetrovska"
+        },
+        {
+            "id": "64287",
+            "name": "Южное",
+            "url": "Yuzhne-Dnipropetrovska"
+        },
+        {
+            "id": "40492",
+            "name": "Зайцево",
+            "url": "Zaitseve-Dnipropetrovska"
+        },
+        {
+            "id": "41001",
+            "name": "Захидное",
+            "url": "Zakhidne-Dnipropetrovska"
+        },
+        {
+            "id": "40540",
+            "name": "Залелия",
+            "url": "Zaleliya-Dnipropetrovska"
+        },
+        {
+            "id": "40693",
+            "name": "Заорилье",
+            "url": "Zaorillya-Dnipropetrovska"
+        },
+        {
+            "id": "40751",
+            "name": "Заплавка",
+            "url": "Zaplavka-Dnipropetrovska"
+        },
+        {
+            "id": "40756",
+            "name": "Заполички",
+            "url": "Zapolychky-Dnipropetrovska"
+        },
+        {
+            "id": "40781",
+            "name": "Запорожье",
+            "url": "Zaporizhzhia-Dnipropetrovska"
+        },
+        {
+            "id": "40765",
+            "name": "Запорожская Балка",
+            "url": "Zaporizka Balka-Dnipropetrovska"
+        },
+        {
+            "id": "40767",
+            "name": "Запорожское",
+            "url": "Zaporizke-Dnipropetrovska"
+        },
+        {
+            "id": "40760",
+            "name": "Запорожец",
+            "url": "Zaporozhets-Dnipropetrovska"
+        },
+        {
+            "id": "40844",
+            "name": "Заречье",
+            "url": "Zarichchya-Dnipropetrovska"
+        },
+        {
+            "id": "40820",
+            "name": "Заречное",
+            "url": "Zarichne-Dnipropetrovska"
+        },
+        {
+            "id": "40963",
+            "name": "Затишное",
+            "url": "Zatyshne-Dnipropetrovska"
+        },
+        {
+            "id": "40380",
+            "name": "Завьяловка",
+            "url": "Zavyalivka-Dnipropetrovska"
+        },
+        {
+            "id": "41025",
+            "name": "Заячье",
+            "url": "Zayache-Dnipropetrovska"
+        },
+        {
+            "id": "41108",
+            "name": "Зеленая Балка",
+            "url": "Zelena Balka-Dnipropetrovska"
+        },
+        {
+            "id": "41122",
+            "name": "Зеленая Долина",
+            "url": "Zelena Dolyna-Dnipropetrovska"
+        },
+        {
+            "id": "41132",
+            "name": "Зеленая Роща",
+            "url": "Zelena Roshcha-Dnipropetrovska"
+        },
+        {
+            "id": "41156",
+            "name": "Зеленое",
+            "url": "Zelene-Dnipropetrovska"
+        },
+        {
+            "id": "41197",
+            "name": "Зеленое Поле",
+            "url": "Zelene Pole-Dnipropetrovska"
+        },
+        {
+            "id": "41214",
+            "name": "Зеленый Гай",
+            "url": "Zelenyi Hai-Dnipropetrovska"
+        },
+        {
+            "id": "41263",
+            "name": "Зеленый Клин",
+            "url": "Zelenyi Klyn-Dnipropetrovska"
+        },
+        {
+            "id": "41269",
+            "name": "Зеленый Луг",
+            "url": "Zelenyi Luh-Dnipropetrovska"
+        },
+        {
+            "id": "41274",
+            "name": "Зеленый Став",
+            "url": "Zelenyi Stav-Dnipropetrovska"
+        },
+        {
+            "id": "41275",
+            "name": "Зеленый Яр",
+            "url": "Zelenyi Yar-Dnipropetrovska"
+        },
+        {
+            "id": "39922",
+            "name": "Ждановка",
+            "url": "Zhdanivka-Dnipropetrovska"
+        },
+        {
+            "id": "39925",
+            "name": "Жданово",
+            "url": "Zhdanove-Dnipropetrovska"
+        },
+        {
+            "id": "39969",
+            "name": "Жемчужное",
+            "url": "Zhemchuzhne-Dnipropetrovska"
+        },
+        {
+            "id": "40031",
+            "name": "Жмерино",
+            "url": "Zhmeryne-Dnipropetrovska"
+        },
+        {
+            "id": "39941",
+            "name": "Желобок",
+            "url": "Zholobok-Dnipropetrovska"
+        },
+        {
+            "id": "39950",
+            "name": "Желтое",
+            "url": "Zhovte-Dnipropetrovska"
+        },
+        {
+            "id": "40053",
+            "name": "Жовтневое",
+            "url": "Zhovtneve-Dnipropetrovska"
+        },
+        {
+            "id": "39949",
+            "name": "Желтоалександровка",
+            "url": "Zhovtooleksandrivka-Dnipropetrovska"
+        },
+        {
+            "id": "40166",
+            "name": "Жуково",
+            "url": "Zhukove-Dnipropetrovska"
+        },
+        {
+            "id": "40202",
+            "name": "Журавлинка",
+            "url": "Zhuravlynka-Dnipropetrovska"
+        },
+        {
+            "id": "41344",
+            "name": "Златополь",
+            "url": "Zlatopil-Dnipropetrovska"
+        },
+        {
+            "id": "41346",
+            "name": "Златоустовка",
+            "url": "Zlatoustivka-Dnipropetrovska"
+        },
+        {
+            "id": "41353",
+            "name": "Змагання",
+            "url": "Zmahannya-Dnipropetrovska"
+        },
+        {
+            "id": "41373",
+            "name": "Знаменовка",
+            "url": "Znamenivka-Dnipropetrovska"
+        },
+        {
+            "id": "41376",
+            "name": "Знаменовское",
+            "url": "Znamenivske-Dnipropetrovska"
+        },
+        {
+            "id": "41407",
+            "name": "Золотая Поляна",
+            "url": "Zolota Polyana-Dnipropetrovska"
+        },
+        {
+            "id": "41413",
+            "name": "Золотницкое",
+            "url": "Zolotnytske-Dnipropetrovska"
+        },
+        {
+            "id": "40906",
+            "name": "Заря",
+            "url": "Zorya-Dnipropetrovska"
+        },
+        {
+            "id": "41508",
+            "name": "Зуботрясовка",
+            "url": "Zubotryasivka-Dnipropetrovska"
+        },
+        {
+            "id": "41053",
+            "name": "Звезда",
+            "url": "Zvizda-Dnipropetrovska"
+        },
+        {
+            "id": "41073",
+            "name": "Звонецкий Хутор",
+            "url": "Zvonetskyi Khutir-Dnipropetrovska"
+        }
+    ]

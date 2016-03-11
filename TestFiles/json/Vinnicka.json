@@ -1,0 +1,5855 @@
+{
+    "state": "success",
+    "data": [
+        {
+            "id": "28240",
+            "name": "Абрамовская Долина",
+            "url": "Abramivska Dolyna-Vinnicka"
+        },
+        {
+            "id": "28494",
+            "name": "Адамовка",
+            "url": "Adamivka-Vinnicka"
+        },
+        {
+            "id": "28442",
+            "name": "Агрономичное",
+            "url": "Ahronomichne-Vinnicka"
+        },
+        {
+            "id": "30330",
+            "name": "Андреевка",
+            "url": "Andriivka-Vinnicka"
+        },
+        {
+            "id": "30415",
+            "name": "Андрияшевка",
+            "url": "Andriyashivka-Vinnicka"
+        },
+        {
+            "id": "30431",
+            "name": "Андрушевка",
+            "url": "Andrushivka-Vinnicka"
+        },
+        {
+            "id": "30643",
+            "name": "Антоновка",
+            "url": "Antonivka-Vinnicka"
+        },
+        {
+            "id": "30696",
+            "name": "Антонополь",
+            "url": "Antonopil-Vinnicka"
+        },
+        {
+            "id": "30699",
+            "name": "Антополь",
+            "url": "Antopil-Vinnicka"
+        },
+        {
+            "id": "30724",
+            "name": "Анциполовка",
+            "url": "Antsypolivka-Vinnicka"
+        },
+        {
+            "id": "30749",
+            "name": "Анютино",
+            "url": "Anyutyne-Vinnicka"
+        },
+        {
+            "id": "31111",
+            "name": "Аристовка",
+            "url": "Arystivka-Vinnicka"
+        },
+        {
+            "id": "32078",
+            "name": "Бабчинцы",
+            "url": "Babchyntsi-Vinnicka"
+        },
+        {
+            "id": "32046",
+            "name": "Бабин",
+            "url": "Babyn-Vinnicka"
+        },
+        {
+            "id": "32053",
+            "name": "Бабина-Долина",
+            "url": "Babyna Dolyna-Vinnicka"
+        },
+        {
+            "id": "32059",
+            "name": "Бабинцы",
+            "url": "Babyntsi-Vinnicka"
+        },
+        {
+            "id": "32099",
+            "name": "Багриновцы",
+            "url": "Bahrynivtsi-Vinnicka"
+        },
+        {
+            "id": "32141",
+            "name": "Байковка",
+            "url": "Baikivka-Vinnicka"
+        },
+        {
+            "id": "32159",
+            "name": "Байраковка",
+            "url": "Bairakivka-Vinnicka"
+        },
+        {
+            "id": "32467",
+            "name": "Бахтин",
+            "url": "Bakhtyn-Vinnicka"
+        },
+        {
+            "id": "32469",
+            "name": "Бахтинок",
+            "url": "Bakhtynok-Vinnicka"
+        },
+        {
+            "id": "32193",
+            "name": "Балабанка",
+            "url": "Balabanivka-Vinnicka"
+        },
+        {
+            "id": "32212",
+            "name": "Балановка",
+            "url": "Balanivka-Vinnicka"
+        },
+        {
+            "id": "32239",
+            "name": "Балковка",
+            "url": "Balkivka-Vinnicka"
+        },
+        {
+            "id": "32233",
+            "name": "Балки",
+            "url": "Balky-Vinnicka"
+        },
+        {
+            "id": "32226",
+            "name": "Балин",
+            "url": "Balyn-Vinnicka"
+        },
+        {
+            "id": "32279",
+            "name": "Бандишовка",
+            "url": "Bandyshivka-Vinnicka"
+        },
+        {
+            "id": "32391",
+            "name": "Барок",
+            "url": "Barok-Vinnicka"
+        },
+        {
+            "id": "32356",
+            "name": "Барвинково",
+            "url": "Barvinkove-Vinnicka"
+        },
+        {
+            "id": "32410",
+            "name": "Басалычевка",
+            "url": "Basalychivka-Vinnicka"
+        },
+        {
+            "id": "32500",
+            "name": "Бджильна",
+            "url": "Bdzhilna-Vinnicka"
+        },
+        {
+            "id": "33024",
+            "name": "Берестовка",
+            "url": "Berestivka-Vinnicka"
+        },
+        {
+            "id": "32850",
+            "name": "Бережанка",
+            "url": "Berezhanka-Vinnicka"
+        },
+        {
+            "id": "32875",
+            "name": "Бережное",
+            "url": "Berezhne-Vinnicka"
+        },
+        {
+            "id": "32917",
+            "name": "Березна",
+            "url": "Berezna-Vinnicka"
+        },
+        {
+            "id": "32897",
+            "name": "Березина",
+            "url": "Berezyna-Vinnicka"
+        },
+        {
+            "id": "32915",
+            "name": "Березки-Бершадские",
+            "url": "Berizky-Bershadski-Vinnicka"
+        },
+        {
+            "id": "32916",
+            "name": "Березки-Чечельницкие",
+            "url": "Berizky-Chechelnytski-Vinnicka"
+        },
+        {
+            "id": "33062",
+            "name": "Бернашовка",
+            "url": "Bernashivka-Vinnicka"
+        },
+        {
+            "id": "32547",
+            "name": "Безыменное",
+            "url": "Bezimenne-Vinnicka"
+        },
+        {
+            "id": "32525",
+            "name": "Безводное",
+            "url": "Bezvodne-Vinnicka"
+        },
+        {
+            "id": "32571",
+            "name": "Белая",
+            "url": "Bila-Vinnicka"
+        },
+        {
+            "id": "32566",
+            "name": "Белашки",
+            "url": "Bilashky-Vinnicka"
+        },
+        {
+            "id": "32641",
+            "name": "Белки",
+            "url": "Bilky-Vinnicka"
+        },
+        {
+            "id": "32716",
+            "name": "Белополье",
+            "url": "Bilopillya-Vinnicka"
+        },
+        {
+            "id": "32728",
+            "name": "Белоусовка",
+            "url": "Bilousivka-Vinnicka"
+        },
+        {
+            "id": "32691",
+            "name": "Белозеровка",
+            "url": "Bilozerivka-Vinnicka"
+        },
+        {
+            "id": "32687",
+            "name": "Белозерка",
+            "url": "Bilozirka-Vinnicka"
+        },
+        {
+            "id": "32783",
+            "name": "Беляны",
+            "url": "Bilyany-Vinnicka"
+        },
+        {
+            "id": "32631",
+            "name": "Беличин",
+            "url": "Bilychyn-Vinnicka"
+        },
+        {
+            "id": "32756",
+            "name": "Белый Камень",
+            "url": "Bilyi Kamin-Vinnicka"
+        },
+        {
+            "id": "32617",
+            "name": "Беликовцы",
+            "url": "Bilykivtsi-Vinnicka"
+        },
+        {
+            "id": "33655",
+            "name": "Борков",
+            "url": "Birkiv-Vinnicka"
+        },
+        {
+            "id": "33181",
+            "name": "Благодатное",
+            "url": "Blahodatne-Vinnicka"
+        },
+        {
+            "id": "33219",
+            "name": "Блакитное",
+            "url": "Blakytne-Vinnicka"
+        },
+        {
+            "id": "33217",
+            "name": "Блажиевка",
+            "url": "Blazhiivka-Vinnicka"
+        },
+        {
+            "id": "33259",
+            "name": "Боблов",
+            "url": "Bobliv-Vinnicka"
+        },
+        {
+            "id": "33321",
+            "name": "Богатырь",
+            "url": "Bohatyr-Vinnicka"
+        },
+        {
+            "id": "33335",
+            "name": "Богдановка",
+            "url": "Bohdanivka-Vinnicka"
+        },
+        {
+            "id": "33778",
+            "name": "Бохоники",
+            "url": "Bokhonyky-Vinnicka"
+        },
+        {
+            "id": "33583",
+            "name": "Бондури",
+            "url": "Bonduri-Vinnicka"
+        },
+        {
+            "id": "33584",
+            "name": "Бондуровка",
+            "url": "Bondurivka-Vinnicka"
+        },
+        {
+            "id": "33672",
+            "name": "Боровка",
+            "url": "Borivka-Vinnicka"
+        },
+        {
+            "id": "33683",
+            "name": "Боровское",
+            "url": "Borivske-Vinnicka"
+        },
+        {
+            "id": "33727",
+            "name": "Борщаговка",
+            "url": "Borshchahivka-Vinnicka"
+        },
+        {
+            "id": "33735",
+            "name": "Борщи",
+            "url": "Borshchi-Vinnicka"
+        },
+        {
+            "id": "33734",
+            "name": "Борщевцы",
+            "url": "Borshchivtsi-Vinnicka"
+        },
+        {
+            "id": "33710",
+            "name": "Борсков",
+            "url": "Borskiv-Vinnicka"
+        },
+        {
+            "id": "32395",
+            "name": "Барсуки",
+            "url": "Borsuky-Vinnicka"
+        },
+        {
+            "id": "33714",
+            "name": "Бортники",
+            "url": "Bortnyky-Vinnicka"
+        },
+        {
+            "id": "33628",
+            "name": "Борисовка",
+            "url": "Borysivka-Vinnicka"
+        },
+        {
+            "id": "33932",
+            "name": "Бродок",
+            "url": "Bridok-Vinnicka"
+        },
+        {
+            "id": "33923",
+            "name": "Бродецкое",
+            "url": "Brodetske-Vinnicka"
+        },
+        {
+            "id": "33960",
+            "name": "Брохвичи",
+            "url": "Brokhvychi-Vinnicka"
+        },
+        {
+            "id": "33956",
+            "name": "Бронница",
+            "url": "Bronnytsya-Vinnicka"
+        },
+        {
+            "id": "33972",
+            "name": "Бруслинов",
+            "url": "Bruslyniv-Vinnicka"
+        },
+        {
+            "id": "33973",
+            "name": "Бруслиновка",
+            "url": "Bruslynivka-Vinnicka"
+        },
+        {
+            "id": "33889",
+            "name": "Бригидовка",
+            "url": "Bryhydivka-Vinnicka"
+        },
+        {
+            "id": "33897",
+            "name": "Бритавка",
+            "url": "Brytavka-Vinnicka"
+        },
+        {
+            "id": "33901",
+            "name": "Брицкое",
+            "url": "Brytske-Vinnicka"
+        },
+        {
+            "id": "34006",
+            "name": "Бубновка",
+            "url": "Bubnivka-Vinnicka"
+        },
+        {
+            "id": "34103",
+            "name": "Будков",
+            "url": "Budkiv-Vinnicka"
+        },
+        {
+            "id": "34094",
+            "name": "Будки",
+            "url": "Budky-Vinnicka"
+        },
+        {
+            "id": "34121",
+            "name": "Будьки",
+            "url": "Budky-Vinnicka"
+        },
+        {
+            "id": "34106",
+            "name": "Будное",
+            "url": "Budne-Vinnicka"
+        },
+        {
+            "id": "34113",
+            "name": "Буды",
+            "url": "Budy-Vinnicka"
+        },
+        {
+            "id": "34015",
+            "name": "Бугаевка",
+            "url": "Buhaivka-Vinnicka"
+        },
+        {
+            "id": "34026",
+            "name": "Бугаков",
+            "url": "Buhakiv-Vinnicka"
+        },
+        {
+            "id": "34160",
+            "name": "Букатинка",
+            "url": "Bukatynka-Vinnicka"
+        },
+        {
+            "id": "34332",
+            "name": "Бухны",
+            "url": "Bukhny-Vinnicka"
+        },
+        {
+            "id": "34187",
+            "name": "Булаи",
+            "url": "Bulai-Vinnicka"
+        },
+        {
+            "id": "34225",
+            "name": "Бурдеи",
+            "url": "Burdii-Vinnicka"
+        },
+        {
+            "id": "34237",
+            "name": "Бурковцы",
+            "url": "Burkivtsi-Vinnicka"
+        },
+        {
+            "id": "34272",
+            "name": "Бурьяны",
+            "url": "Buryany-Vinnicka"
+        },
+        {
+            "id": "34362",
+            "name": "Буша",
+            "url": "Busha-Vinnicka"
+        },
+        {
+            "id": "34364",
+            "name": "Бушинка",
+            "url": "Bushynka-Vinnicka"
+        },
+        {
+            "id": "34343",
+            "name": "Буцни",
+            "url": "Butsni-Vinnicka"
+        },
+        {
+            "id": "34392",
+            "name": "Бырловка",
+            "url": "Byrlivka-Vinnicka"
+        },
+        {
+            "id": "34398",
+            "name": "Быстрик",
+            "url": "Bystryk-Vinnicka"
+        },
+        {
+            "id": "62473",
+            "name": "Чабаново",
+            "url": "Chabanove-Vinnicka"
+        },
+        {
+            "id": "62487",
+            "name": "Чагов",
+            "url": "Chahiv-Vinnicka"
+        },
+        {
+            "id": "62488",
+            "name": "Чаговское",
+            "url": "Chahivske-Vinnicka"
+        },
+        {
+            "id": "62552",
+            "name": "Чапаево",
+            "url": "Chapajeve-Vinnicka"
+        },
+        {
+            "id": "62530",
+            "name": "Чапаевка",
+            "url": "Chapajevka-Vinnicka"
+        },
+        {
+            "id": "62585",
+            "name": "Чаульское",
+            "url": "Chaulske-Vinnicka"
+        },
+        {
+            "id": "63206",
+            "name": "Чечелевка",
+            "url": "Chechelivka-Vinnicka"
+        },
+        {
+            "id": "62611",
+            "name": "Чемерисское",
+            "url": "Chemeryske-Vinnicka"
+        },
+        {
+            "id": "62612",
+            "name": "Чемерисы-Барские",
+            "url": "Chemerysy-Barski-Vinnicka"
+        },
+        {
+            "id": "62623",
+            "name": "Чепели",
+            "url": "Chepeli-Vinnicka"
+        },
+        {
+            "id": "62977",
+            "name": "Черепашинцы",
+            "url": "Cherepashyntsi-Vinnicka"
+        },
+        {
+            "id": "62999",
+            "name": "Черешневое",
+            "url": "Chereshneve-Vinnicka"
+        },
+        {
+            "id": "63035",
+            "name": "Черневцы",
+            "url": "Chernivtsi-Vinnicka"
+        },
+        {
+            "id": "63164",
+            "name": "Чернятка",
+            "url": "Chernyatka-Vinnicka"
+        },
+        {
+            "id": "63163",
+            "name": "Чернятинцы",
+            "url": "Chernyatyntsi-Vinnicka"
+        },
+        {
+            "id": "63150",
+            "name": "Чернявка",
+            "url": "Chernyavka-Vinnicka"
+        },
+        {
+            "id": "63087",
+            "name": "Чернички",
+            "url": "Chernychky-Vinnicka"
+        },
+        {
+            "id": "62650",
+            "name": "Червоная Гребля",
+            "url": "Chervona Hreblya-Vinnicka"
+        },
+        {
+            "id": "62696",
+            "name": "Червоная Поляна",
+            "url": "Chervona Polyana-Vinnicka"
+        },
+        {
+            "id": "62721",
+            "name": "Червоная Трибуновка",
+            "url": "Chervona Trybunivka-Vinnicka"
+        },
+        {
+            "id": "62641",
+            "name": "Червоная Владимировка",
+            "url": "Chervona Volodymyrivka-Vinnicka"
+        },
+        {
+            "id": "62671",
+            "name": "Червоная Зирка",
+            "url": "Chervona Zirka-Vinnicka"
+        },
+        {
+            "id": "62758",
+            "name": "Червоное",
+            "url": "Chervone-Vinnicka"
+        },
+        {
+            "id": "62873",
+            "name": "Червоный Кут",
+            "url": "Chervonyi Kut-Vinnicka"
+        },
+        {
+            "id": "62717",
+            "name": "Червоная Степь",
+            "url": "Chervonyi Step-Vinnicka"
+        },
+        {
+            "id": "63188",
+            "name": "Чесновка",
+            "url": "Chesnivka-Vinnicka"
+        },
+        {
+            "id": "63116",
+            "name": "Черномин",
+            "url": "Chornomyn-Vinnicka"
+        },
+        {
+            "id": "63178",
+            "name": "Чертория",
+            "url": "Chortoryya-Vinnicka"
+        },
+        {
+            "id": "62603",
+            "name": "Челновица",
+            "url": "Chovnovytsya-Vinnicka"
+        },
+        {
+            "id": "63355",
+            "name": "Чудиновцы",
+            "url": "Chudynivtsi-Vinnicka"
+        },
+        {
+            "id": "63365",
+            "name": "Чуков",
+            "url": "Chukiv-Vinnicka"
+        },
+        {
+            "id": "63388",
+            "name": "Чуприновка",
+            "url": "Chuprynivka-Vinnicka"
+        },
+        {
+            "id": "38496",
+            "name": "Дахталия",
+            "url": "Dakhtaliya-Vinnicka"
+        },
+        {
+            "id": "38467",
+            "name": "Даньковка",
+            "url": "Dankivka-Vinnicka"
+        },
+        {
+            "id": "38440",
+            "name": "Данилки",
+            "url": "Danylky-Vinnicka"
+        },
+        {
+            "id": "38522",
+            "name": "Дашковцы",
+            "url": "Dashkivtsi-Vinnicka"
+        },
+        {
+            "id": "38650",
+            "name": "Демовка",
+            "url": "Demivka-Vinnicka"
+        },
+        {
+            "id": "38642",
+            "name": "Демковка",
+            "url": "Demkivka-Vinnicka"
+        },
+        {
+            "id": "38644",
+            "name": "Демковское",
+            "url": "Demkivske-Vinnicka"
+        },
+        {
+            "id": "38626",
+            "name": "Демидовка",
+            "url": "Demydivka-Vinnicka"
+        },
+        {
+            "id": "38696",
+            "name": "Деребчин",
+            "url": "Derebchyn-Vinnicka"
+        },
+        {
+            "id": "38706",
+            "name": "Деревянки",
+            "url": "Derevyanky-Vinnicka"
+        },
+        {
+            "id": "38724",
+            "name": "Держановка",
+            "url": "Derzhanivka-Vinnicka"
+        },
+        {
+            "id": "38723",
+            "name": "Держанка",
+            "url": "Derzhanka-Vinnicka"
+        },
+        {
+            "id": "38753",
+            "name": "Десна",
+            "url": "Desna-Vinnicka"
+        },
+        {
+            "id": "38923",
+            "name": "Дибровка",
+            "url": "Dibrivka-Vinnicka"
+        },
+        {
+            "id": "38878",
+            "name": "Диброва",
+            "url": "Dibrova-Vinnicka"
+        },
+        {
+            "id": "38922",
+            "name": "Дибровинцы",
+            "url": "Dibrovyntsi-Vinnicka"
+        },
+        {
+            "id": "38573",
+            "name": "Дегтярка",
+            "url": "Dihtyarka-Vinnicka"
+        },
+        {
+            "id": "38961",
+            "name": "Дивочина",
+            "url": "Divochyna-Vinnicka"
+        },
+        {
+            "id": "39002",
+            "name": "Дмитрашковка",
+            "url": "Dmytrashkivka-Vinnicka"
+        },
+        {
+            "id": "39004",
+            "name": "Дмитренки",
+            "url": "Dmytrenky-Vinnicka"
+        },
+        {
+            "id": "39164",
+            "name": "Добрянка",
+            "url": "Dobryanka-Vinnicka"
+        },
+        {
+            "id": "39428",
+            "name": "Дохно",
+            "url": "Dokhno-Vinnicka"
+        },
+        {
+            "id": "39283",
+            "name": "Долинка",
+            "url": "Dolynka-Vinnicka"
+        },
+        {
+            "id": "39320",
+            "name": "Долиняны",
+            "url": "Dolynyany-Vinnicka"
+        },
+        {
+            "id": "39407",
+            "name": "Дорошовка",
+            "url": "Doroshivka-Vinnicka"
+        },
+        {
+            "id": "39395",
+            "name": "Дорожное",
+            "url": "Dorozhnje-Vinnicka"
+        },
+        {
+            "id": "39181",
+            "name": "Довгалевка",
+            "url": "Dovhalivka-Vinnicka"
+        },
+        {
+            "id": "39237",
+            "name": "Долгополовка",
+            "url": "Dovhopolivka-Vinnicka"
+        },
+        {
+            "id": "39261",
+            "name": "Должок",
+            "url": "Dovzhok-Vinnicka"
+        },
+        {
+            "id": "39432",
+            "name": "Доярня",
+            "url": "Doyarnya-Vinnicka"
+        },
+        {
+            "id": "39452",
+            "name": "Дранка",
+            "url": "Dranka-Vinnicka"
+        },
+        {
+            "id": "19408",
+            "name": "Вороновица",
+            "url": "Voronovytsya"
+        },
+        {
+            "id": "19407",
+            "name": "Войтовка",
+            "url": "Viytivka"
+        },
+        {
+            "id": "19406",
+            "name": "Вендичаны",
+            "url": "Vendychany"
+        },
+        {
+            "id": "19405",
+            "name": "Вапнярка",
+            "url": "Vapnyarka"
+        },
+        {
+            "id": "19404",
+            "name": "Турбов",
+            "url": "Turbiv"
+        },
+        {
+            "id": "19403",
+            "name": "Цыбулевка",
+            "url": "Tsybulevka"
+        },
+        {
+            "id": "19402",
+            "name": "Сутиски",
+            "url": "Sutysky"
+        },
+        {
+            "id": "19401",
+            "name": "Соболевка",
+            "url": "Sobolivka"
+        },
+        {
+            "id": "19400",
+            "name": "Серебрия",
+            "url": "Serebriya"
+        },
+        {
+            "id": "19399",
+            "name": "Павловка",
+            "url": "Pavlovka"
+        },
+        {
+            "id": "19397",
+            "name": "Литин",
+            "url": "Lityn"
+        },
+        {
+            "id": "19398",
+            "name": "Ободовка",
+            "url": "Obodivka"
+        },
+        {
+            "id": "19396",
+            "name": "Копайгород",
+            "url": "Kopayhorod"
+        },
+        {
+            "id": "19393",
+            "name": "Брацлав",
+            "url": "Bratslav"
+        },
+        {
+            "id": "19394",
+            "name": "Дашев",
+            "url": "Dashev"
+        },
+        {
+            "id": "19395",
+            "name": "Клембовка",
+            "url": "Klembovka"
+        },
+        {
+            "id": "39487",
+            "name": "Дружба",
+            "url": "Druzhba-Vinnicka"
+        },
+        {
+            "id": "19392",
+            "name": "Браилов",
+            "url": "Brailiv"
+        },
+        {
+            "id": "39517",
+            "name": "Дружное",
+            "url": "Druzhne-Vinnicka"
+        },
+        {
+            "id": "39596",
+            "name": "Дубовка",
+            "url": "Dubivka-Vinnicka"
+        },
+        {
+            "id": "39577",
+            "name": "Дубмасловка",
+            "url": "Dubmaslivka-Vinnicka"
+        },
+        {
+            "id": "39583",
+            "name": "Дубовая",
+            "url": "Dubova-Vinnicka"
+        },
+        {
+            "id": "39589",
+            "name": "Дубовец",
+            "url": "Dubovets-Vinnicka"
+        },
+        {
+            "id": "39627",
+            "name": "Дубовые Махаринцы",
+            "url": "Dubovi Makharyntsi-Vinnicka"
+        },
+        {
+            "id": "39540",
+            "name": "Дубина",
+            "url": "Dubyna-Vinnicka"
+        },
+        {
+            "id": "39555",
+            "name": "Дубинки",
+            "url": "Dubynky-Vinnicka"
+        },
+        {
+            "id": "39677",
+            "name": "Дукля",
+            "url": "Duklya-Vinnicka"
+        },
+        {
+            "id": "39689",
+            "name": "Думенки",
+            "url": "Dumenky-Vinnicka"
+        },
+        {
+            "id": "39746",
+            "name": "Дьяковка",
+            "url": "Dyakivka-Vinnicka"
+        },
+        {
+            "id": "39749",
+            "name": "Дьяковцы",
+            "url": "Dyakivtsi-Vinnicka"
+        },
+        {
+            "id": "38832",
+            "name": "Джулинка",
+            "url": "Dzhulynka-Vinnicka"
+        },
+        {
+            "id": "38835",
+            "name": "Джурин",
+            "url": "Dzhuryn-Vinnicka"
+        },
+        {
+            "id": "38838",
+            "name": "Джуринцы",
+            "url": "Dzhuryntsi-Vinnicka"
+        },
+        {
+            "id": "38849",
+            "name": "Дзвониха",
+            "url": "Dzvonykha-Vinnicka"
+        },
+        {
+            "id": "38873",
+            "name": "Дзюброво",
+            "url": "Dzyubrove-Vinnicka"
+        },
+        {
+            "id": "38874",
+            "name": "Дзюньков",
+            "url": "Dzyunkiv-Vinnicka"
+        },
+        {
+            "id": "61538",
+            "name": "Файгород",
+            "url": "Faihorod-Vinnicka"
+        },
+        {
+            "id": "61659",
+            "name": "Федьковка",
+            "url": "Fedkivka-Vinnicka"
+        },
+        {
+            "id": "61593",
+            "name": "Федоровка",
+            "url": "Fedorivka-Vinnicka"
+        },
+        {
+            "id": "61687",
+            "name": "Филиополь",
+            "url": "Filiopil-Vinnicka"
+        },
+        {
+            "id": "61696",
+            "name": "Филютка",
+            "url": "Filyutka-Vinnicka"
+        },
+        {
+            "id": "61745",
+            "name": "Франковка",
+            "url": "Frankivka-Vinnicka"
+        },
+        {
+            "id": "61766",
+            "name": "Фронтовка",
+            "url": "Frontivka-Vinnicka"
+        },
+        {
+            "id": "36746",
+            "name": "Гаевое",
+            "url": "Haiove-Vinnicka"
+        },
+        {
+            "id": "36818",
+            "name": "Галайковцы",
+            "url": "Halaikivtsi-Vinnicka"
+        },
+        {
+            "id": "36859",
+            "name": "Гальжбиевка",
+            "url": "Halzhbiivka-Vinnicka"
+        },
+        {
+            "id": "30519",
+            "name": "Анновка",
+            "url": "Hannivka-Vinnicka"
+        },
+        {
+            "id": "30560",
+            "name": "Аннополь",
+            "url": "Hannopil-Vinnicka"
+        },
+        {
+            "id": "37040",
+            "name": "Герасимовка",
+            "url": "Harasymivka-Vinnicka"
+        },
+        {
+            "id": "36946",
+            "name": "Гармаки",
+            "url": "Harmaky-Vinnicka"
+        },
+        {
+            "id": "37758",
+            "name": "Горячковка",
+            "url": "Haryachkivka-Vinnicka"
+        },
+        {
+            "id": "37230",
+            "name": "Глуховцы",
+            "url": "Hlukhivtsi-Vinnicka"
+        },
+        {
+            "id": "37206",
+            "name": "Глубочанское",
+            "url": "Hlybochanske-Vinnicka"
+        },
+        {
+            "id": "37208",
+            "name": "Глубочок",
+            "url": "Hlybochok-Vinnicka"
+        },
+        {
+            "id": "37183",
+            "name": "Глубокая Долина",
+            "url": "Hlyboka Dolyna-Vinnicka"
+        },
+        {
+            "id": "37155",
+            "name": "Глинское",
+            "url": "Hlynske-Vinnicka"
+        },
+        {
+            "id": "37164",
+            "name": "Глинянец",
+            "url": "Hlynyanets-Vinnicka"
+        },
+        {
+            "id": "37165",
+            "name": "Глинянка",
+            "url": "Hlynyanka-Vinnicka"
+        },
+        {
+            "id": "37259",
+            "name": "Гнатовка",
+            "url": "Hnativka-Vinnicka"
+        },
+        {
+            "id": "37258",
+            "name": "Гнатков",
+            "url": "Hnatkiv-Vinnicka"
+        },
+        {
+            "id": "37277",
+            "name": "Гнивань",
+            "url": "Hnivan-Vinnicka"
+        },
+        {
+            "id": "37325",
+            "name": "Голдашовка",
+            "url": "Holdashivka-Vinnicka"
+        },
+        {
+            "id": "37329",
+            "name": "Голендры",
+            "url": "Holendry-Vinnicka"
+        },
+        {
+            "id": "37354",
+            "name": "Головеньки",
+            "url": "Holovenky-Vinnicka"
+        },
+        {
+            "id": "37397",
+            "name": "Голубече",
+            "url": "Holubeche-Vinnicka"
+        },
+        {
+            "id": "37415",
+            "name": "Голубовка",
+            "url": "Holubivka-Vinnicka"
+        },
+        {
+            "id": "37440",
+            "name": "Голынчинцы",
+            "url": "Holynchyntsi-Vinnicka"
+        },
+        {
+            "id": "37482",
+            "name": "Гончаровка",
+            "url": "Honcharivka-Vinnicka"
+        },
+        {
+            "id": "37465",
+            "name": "Гоноровка",
+            "url": "Honorivka-Vinnicka"
+        },
+        {
+            "id": "37471",
+            "name": "Гонтовка",
+            "url": "Hontivka-Vinnicka"
+        },
+        {
+            "id": "37495",
+            "name": "Гопчица",
+            "url": "Hopchytsya-Vinnicka"
+        },
+        {
+            "id": "37503",
+            "name": "Горай",
+            "url": "Horai-Vinnicka"
+        },
+        {
+            "id": "37512",
+            "name": "Горбановка",
+            "url": "Horbanivka-Vinnicka"
+        },
+        {
+            "id": "37532",
+            "name": "Горбовцы",
+            "url": "Horbivtsi-Vinnicka"
+        },
+        {
+            "id": "37536",
+            "name": "Горбы",
+            "url": "Horby-Vinnicka"
+        },
+        {
+            "id": "37541",
+            "name": "Гордиевка",
+            "url": "Hordiivka-Vinnicka"
+        },
+        {
+            "id": "37661",
+            "name": "Городковка",
+            "url": "Horodkivka-Vinnicka"
+        },
+        {
+            "id": "37669",
+            "name": "Городница",
+            "url": "Horodnytsya-Vinnicka"
+        },
+        {
+            "id": "37680",
+            "name": "Городок",
+            "url": "Horodok-Vinnicka"
+        },
+        {
+            "id": "37626",
+            "name": "Городище",
+            "url": "Horodysche-Vinnicka"
+        },
+        {
+            "id": "37755",
+            "name": "Горяны",
+            "url": "Horyany-Vinnicka"
+        },
+        {
+            "id": "37740",
+            "name": "Горышковка",
+            "url": "Horyshkivka-Vinnicka"
+        },
+        {
+            "id": "37741",
+            "name": "Горышковское",
+            "url": "Horyshkivske-Vinnicka"
+        },
+        {
+            "id": "37761",
+            "name": "Гостинное",
+            "url": "Hostynne-Vinnicka"
+        },
+        {
+            "id": "37778",
+            "name": "Грабаровка",
+            "url": "Hrabarivka-Vinnicka"
+        },
+        {
+            "id": "37796",
+            "name": "Грабовец",
+            "url": "Hrabovets-Vinnicka"
+        },
+        {
+            "id": "37857",
+            "name": "Гранитное",
+            "url": "Hranitne-Vinnicka"
+        },
+        {
+            "id": "37868",
+            "name": "Гранов",
+            "url": "Hraniv-Vinnicka"
+        },
+        {
+            "id": "37905",
+            "name": "Греловка",
+            "url": "Hrelivka-Vinnicka"
+        },
+        {
+            "id": "38063",
+            "name": "Громадское",
+            "url": "Hromadske-Vinnicka"
+        },
+        {
+            "id": "38135",
+            "name": "Грушка",
+            "url": "Hrushka-Vinnicka"
+        },
+        {
+            "id": "38145",
+            "name": "Грушковцы",
+            "url": "Hrushkivtsi-Vinnicka"
+        },
+        {
+            "id": "38086",
+            "name": "Грузское",
+            "url": "Hruzke-Vinnicka"
+        },
+        {
+            "id": "37944",
+            "name": "Григоровка",
+            "url": "Hryhorivka-Vinnicka"
+        },
+        {
+            "id": "37998",
+            "name": "Гриненки",
+            "url": "Hrynenky-Vinnicka"
+        },
+        {
+            "id": "38031",
+            "name": "Гришевцы",
+            "url": "Hryshivtsi-Vinnicka"
+        },
+        {
+            "id": "37989",
+            "name": "Грижинцы",
+            "url": "Hryzhyntsi-Vinnicka"
+        },
+        {
+            "id": "38185",
+            "name": "Губник",
+            "url": "Hubnyk-Vinnicka"
+        },
+        {
+            "id": "38214",
+            "name": "Гули",
+            "url": "Huli-Vinnicka"
+        },
+        {
+            "id": "38237",
+            "name": "Гуменное",
+            "url": "Humenne-Vinnicka"
+        },
+        {
+            "id": "38247",
+            "name": "Гунча",
+            "url": "Huncha-Vinnicka"
+        },
+        {
+            "id": "38248",
+            "name": "Гунька",
+            "url": "Hunka-Vinnicka"
+        },
+        {
+            "id": "38254",
+            "name": "Гуральня",
+            "url": "Huralnya-Vinnicka"
+        },
+        {
+            "id": "38267",
+            "name": "Гуровцы",
+            "url": "Hurivtsi-Vinnicka"
+        },
+        {
+            "id": "38360",
+            "name": "Гущинцы",
+            "url": "Hushchyntsi-Vinnicka"
+        },
+        {
+            "id": "38297",
+            "name": "Гута",
+            "url": "Huta-Vinnicka"
+        },
+        {
+            "id": "38315",
+            "name": "Гута-Бушинская",
+            "url": "Huta-Bushynska-Vinnicka"
+        },
+        {
+            "id": "38326",
+            "name": "Гута-Молчанская",
+            "url": "Huta-Movchanska-Vinnicka"
+        },
+        {
+            "id": "38335",
+            "name": "Гута-Шершневская",
+            "url": "Huta-Shershnivska-Vinnicka"
+        },
+        {
+            "id": "38347",
+            "name": "Гуты",
+            "url": "Huty-Vinnicka"
+        },
+        {
+            "id": "36993",
+            "name": "Гвоздев",
+            "url": "Hvozdiv-Vinnicka"
+        },
+        {
+            "id": "37075",
+            "name": "Гибаловка",
+            "url": "Hybalivka-Vinnicka"
+        },
+        {
+            "id": "41877",
+            "name": "Ильковка",
+            "url": "Ilkivka-Vinnicka"
+        },
+        {
+            "id": "41848",
+            "name": "Ильинецкое",
+            "url": "Illinetske-Vinnicka"
+        },
+        {
+            "id": "41843",
+            "name": "Ильевка",
+            "url": "Illivka-Vinnicka"
+        },
+        {
+            "id": "41890",
+            "name": "Ильяшевка",
+            "url": "Illyashivka-Vinnicka"
+        },
+        {
+            "id": "41930",
+            "name": "Ираклиевка",
+            "url": "Irakliivka-Vinnicka"
+        },
+        {
+            "id": "41971",
+            "name": "Искровка",
+            "url": "Iskrivka-Vinnicka"
+        },
+        {
+            "id": "41969",
+            "name": "Искриня",
+            "url": "Iskrynya-Vinnicka"
+        },
+        {
+            "id": "41592",
+            "name": "Иванов",
+            "url": "Ivaniv-Vinnicka"
+        },
+        {
+            "id": "41599",
+            "name": "Ивановка",
+            "url": "Ivanivka-Vinnicka"
+        },
+        {
+            "id": "41719",
+            "name": "Ивановцы",
+            "url": "Ivanivtsi-Vinnicka"
+        },
+        {
+            "id": "41552",
+            "name": "Иванков",
+            "url": "Ivankiv-Vinnicka"
+        },
+        {
+            "id": "41561",
+            "name": "Иванковцы",
+            "url": "Ivankivtsi-Vinnicka"
+        },
+        {
+            "id": "41741",
+            "name": "Иваньки",
+            "url": "Ivanky-Vinnicka"
+        },
+        {
+            "id": "41729",
+            "name": "Иванополь",
+            "url": "Ivanopil-Vinnicka"
+        },
+        {
+            "id": "41596",
+            "name": "Ивановецкое",
+            "url": "Ivanovetske-Vinnicka"
+        },
+        {
+            "id": "41764",
+            "name": "Ивашковцы",
+            "url": "Ivashkivtsi-Vinnicka"
+        },
+        {
+            "id": "41786",
+            "name": "Ивча",
+            "url": "Ivcha-Vinnicka"
+        },
+        {
+            "id": "41782",
+            "name": "Ивоновка",
+            "url": "Ivonivka-Vinnicka"
+        },
+        {
+            "id": "41783",
+            "name": "Ивоновцы",
+            "url": "Ivonivtsi-Vinnicka"
+        },
+        {
+            "id": "42053",
+            "name": "Кабатня",
+            "url": "Kabatnya-Vinnicka"
+        },
+        {
+            "id": "42958",
+            "name": "Качановка",
+            "url": "Kachanivka-Vinnicka"
+        },
+        {
+            "id": "42969",
+            "name": "Качковка",
+            "url": "Kachkivka-Vinnicka"
+        },
+        {
+            "id": "42200",
+            "name": "Каленовка",
+            "url": "Kalenivka-Vinnicka"
+        },
+        {
+            "id": "42344",
+            "name": "Кальнишовка",
+            "url": "Kalnyshivka-Vinnicka"
+        },
+        {
+            "id": "42297",
+            "name": "Калиновка Вторая",
+            "url": "Kalynivka Druha-Vinnicka"
+        },
+        {
+            "id": "42219",
+            "name": "Калинка",
+            "url": "Kalynka-Vinnicka"
+        },
+        {
+            "id": "42317",
+            "name": "Калитинка",
+            "url": "Kalytynka-Vinnicka"
+        },
+        {
+            "id": "42511",
+            "name": "Каминское",
+            "url": "Kaminske-Vinnicka"
+        },
+        {
+            "id": "42436",
+            "name": "Каменки",
+            "url": "Kamyanky-Vinnicka"
+        },
+        {
+            "id": "42455",
+            "name": "Каменногорка",
+            "url": "Kamyanohirka-Vinnicka"
+        },
+        {
+            "id": "42551",
+            "name": "Канава",
+            "url": "Kanava-Vinnicka"
+        },
+        {
+            "id": "42602",
+            "name": "Каноницкое",
+            "url": "Kanonytske-Vinnicka"
+        },
+        {
+            "id": "42611",
+            "name": "Кантелина",
+            "url": "Kantelyna-Vinnicka"
+        },
+        {
+            "id": "42642",
+            "name": "Капки",
+            "url": "Kapky-Vinnicka"
+        },
+        {
+            "id": "42725",
+            "name": "Карбовка",
+            "url": "Karbivka-Vinnicka"
+        },
+        {
+            "id": "42727",
+            "name": "Карбовское",
+            "url": "Karbivske-Vinnicka"
+        },
+        {
+            "id": "42760",
+            "name": "Кармалюково",
+            "url": "Karmalyukove-Vinnicka"
+        },
+        {
+            "id": "42771",
+            "name": "Каролина",
+            "url": "Karolina-Vinnicka"
+        },
+        {
+            "id": "42797",
+            "name": "Карповка",
+            "url": "Karpivka-Vinnicka"
+        },
+        {
+            "id": "42830",
+            "name": "Карышков",
+            "url": "Karyshkiv-Vinnicka"
+        },
+        {
+            "id": "42861",
+            "name": "Касьяновка",
+            "url": "Kasyanivka-Vinnicka"
+        },
+        {
+            "id": "42873",
+            "name": "Каташин",
+            "url": "Katashyn-Vinnicka"
+        },
+        {
+            "id": "42879",
+            "name": "Катериновка",
+            "url": "Katerynivka-Vinnicka"
+        },
+        {
+            "id": "42955",
+            "name": "Кацмазов",
+            "url": "Katsmaziv-Vinnicka"
+        },
+        {
+            "id": "42071",
+            "name": "Кавков Яр",
+            "url": "Kavkiv Yar-Vinnicka"
+        },
+        {
+            "id": "42072",
+            "name": "Кавкулы",
+            "url": "Kavkuly-Vinnicka"
+        },
+        {
+            "id": "61876",
+            "name": "Харпачка",
+            "url": "Kharpachka-Vinnicka"
+        },
+        {
+            "id": "62000",
+            "name": "Хлеборобное",
+            "url": "Khliborobne-Vinnicka"
+        },
+        {
+            "id": "62040",
+            "name": "Хмелевщина",
+            "url": "Khmelivshchyna-Vinnicka"
+        },
+        {
+            "id": "62050",
+            "name": "Хмельницкое",
+            "url": "Khmelnytske-Vinnicka"
+        },
+        {
+            "id": "62037",
+            "name": "Хмелевое",
+            "url": "Khmelove-Vinnicka"
+        },
+        {
+            "id": "62064",
+            "name": "Ходаки",
+            "url": "Khodaky-Vinnicka"
+        },
+        {
+            "id": "62107",
+            "name": "Холодовка",
+            "url": "Kholodivka-Vinnicka"
+        },
+        {
+            "id": "62114",
+            "name": "Хоменки",
+            "url": "Khomenky-Vinnicka"
+        },
+        {
+            "id": "62138",
+            "name": "Хомутинцы",
+            "url": "Khomutyntsi-Vinnicka"
+        },
+        {
+            "id": "62243",
+            "name": "Хреновка",
+            "url": "Khrinivka-Vinnicka"
+        },
+        {
+            "id": "62305",
+            "name": "Хутора-Кривошеинецкие",
+            "url": "Khutory-Kryvoshyinetski-Vinnicka"
+        },
+        {
+            "id": "61958",
+            "name": "Хижинцы",
+            "url": "Khyzhyntsi-Vinnicka"
+        },
+        {
+            "id": "43108",
+            "name": "Киблич",
+            "url": "Kiblych-Vinnicka"
+        },
+        {
+            "id": "43160",
+            "name": "Кильяновка",
+            "url": "Kilyanivka-Vinnicka"
+        },
+        {
+            "id": "43227",
+            "name": "Кирово",
+            "url": "Kirove-Vinnicka"
+        },
+        {
+            "id": "43220",
+            "name": "Кировка",
+            "url": "Kirovka-Vinnicka"
+        },
+        {
+            "id": "44443",
+            "name": "Косница",
+            "url": "Kisnytsya-Vinnicka"
+        },
+        {
+            "id": "43358",
+            "name": "Клебань",
+            "url": "Kleban-Vinnicka"
+        },
+        {
+            "id": "43370",
+            "name": "Кленовое",
+            "url": "Klenove-Vinnicka"
+        },
+        {
+            "id": "43395",
+            "name": "Клещов",
+            "url": "Klishchiv-Vinnicka"
+        },
+        {
+            "id": "43381",
+            "name": "Клетенка",
+            "url": "Klitenka-Vinnicka"
+        },
+        {
+            "id": "43516",
+            "name": "Кобелецкое",
+            "url": "Kobeletske-Vinnicka"
+        },
+        {
+            "id": "43551",
+            "name": "Кобыльня",
+            "url": "Kobylnya-Vinnicka"
+        },
+        {
+            "id": "44624",
+            "name": "Кочуров",
+            "url": "Kochuriv-Vinnicka"
+        },
+        {
+            "id": "44580",
+            "name": "Кохановка",
+            "url": "Kokhanivka-Vinnicka"
+        },
+        {
+            "id": "43862",
+            "name": "Колосовка",
+            "url": "Kolosivka-Vinnicka"
+        },
+        {
+            "id": "43878",
+            "name": "Колыбабинцы",
+            "url": "Kolybabyntsi-Vinnicka"
+        },
+        {
+            "id": "43896",
+            "name": "Комаргород",
+            "url": "Komarhorod-Vinnicka"
+        },
+        {
+            "id": "43897",
+            "name": "Комаргородское",
+            "url": "Komarhorodske-Vinnicka"
+        },
+        {
+            "id": "43902",
+            "name": "Комаров",
+            "url": "Komariv-Vinnicka"
+        },
+        {
+            "id": "43909",
+            "name": "Комаровка",
+            "url": "Komarivka-Vinnicka"
+        },
+        {
+            "id": "43936",
+            "name": "Комаровцы",
+            "url": "Komarivtsi-Vinnicka"
+        },
+        {
+            "id": "43989",
+            "name": "Комсомольское",
+            "url": "Komsomolske-Vinnicka"
+        },
+        {
+            "id": "43968",
+            "name": "Коммунаровка",
+            "url": "Komunarivka-Vinnicka"
+        },
+        {
+            "id": "44013",
+            "name": "Конатковцы",
+            "url": "Konatkivtsi-Vinnicka"
+        },
+        {
+            "id": "44125",
+            "name": "Конюшевка",
+            "url": "Konyushivka-Vinnicka"
+        },
+        {
+            "id": "44132",
+            "name": "Копай",
+            "url": "Kopai-Vinnicka"
+        },
+        {
+            "id": "44180",
+            "name": "Копиевка",
+            "url": "Kopiivka-Vinnicka"
+        },
+        {
+            "id": "44198",
+            "name": "Копыстырин",
+            "url": "Kopystyryn-Vinnicka"
+        },
+        {
+            "id": "44209",
+            "name": "Корделевка",
+            "url": "Kordelivka-Vinnicka"
+        },
+        {
+            "id": "44218",
+            "name": "Кордышевка",
+            "url": "Kordyshivka-Vinnicka"
+        },
+        {
+            "id": "44296",
+            "name": "Королёвка",
+            "url": "Korolivka-Vinnicka"
+        },
+        {
+            "id": "44345",
+            "name": "Коростовцы",
+            "url": "Korostivtsi-Vinnicka"
+        },
+        {
+            "id": "44286",
+            "name": "Коровайна",
+            "url": "Korovaina-Vinnicka"
+        },
+        {
+            "id": "44416",
+            "name": "Корытовата",
+            "url": "Korytuvata-Vinnicka"
+        },
+        {
+            "id": "44230",
+            "name": "Коржев",
+            "url": "Korzhiv-Vinnicka"
+        },
+        {
+            "id": "44243",
+            "name": "Коржовка",
+            "url": "Korzhivka-Vinnicka"
+        },
+        {
+            "id": "44420",
+            "name": "Косаковка",
+            "url": "Kosakivka-Vinnicka"
+        },
+        {
+            "id": "44422",
+            "name": "Косаново",
+            "url": "Kosanove-Vinnicka"
+        },
+        {
+            "id": "44628",
+            "name": "Кошаринцы",
+            "url": "Kosharyntsi-Vinnicka"
+        },
+        {
+            "id": "44653",
+            "name": "Кошланы",
+            "url": "Koshlany-Vinnicka"
+        },
+        {
+            "id": "44661",
+            "name": "Коштуля",
+            "url": "Koshtulya-Vinnicka"
+        },
+        {
+            "id": "44075",
+            "name": "Константиновка",
+            "url": "Kostyantynivka-Vinnicka"
+        },
+        {
+            "id": "44495",
+            "name": "Костюковка",
+            "url": "Kostyukivka-Vinnicka"
+        },
+        {
+            "id": "44502",
+            "name": "Косы",
+            "url": "Kosy-Vinnicka"
+        },
+        {
+            "id": "44523",
+            "name": "Котлубаевка",
+            "url": "Kotlubaivka-Vinnicka"
+        },
+        {
+            "id": "44538",
+            "name": "Котова",
+            "url": "Kotova-Vinnicka"
+        },
+        {
+            "id": "44572",
+            "name": "Котюжинцы",
+            "url": "Kotyuzhyntsi-Vinnicka"
+        },
+        {
+            "id": "43556",
+            "name": "Ковалевка",
+            "url": "Kovalivka-Vinnicka"
+        },
+        {
+            "id": "43658",
+            "name": "Козаковка",
+            "url": "Kozakivka-Vinnicka"
+        },
+        {
+            "id": "43664",
+            "name": "Козаровка",
+            "url": "Kozarivka-Vinnicka"
+        },
+        {
+            "id": "43668",
+            "name": "Козацкое",
+            "url": "Kozatske-Vinnicka"
+        },
+        {
+            "id": "43646",
+            "name": "Кожанка",
+            "url": "Kozhanka-Vinnicka"
+        },
+        {
+            "id": "43652",
+            "name": "Кожухов",
+            "url": "Kozhukhiv-Vinnicka"
+        },
+        {
+            "id": "43653",
+            "name": "Кожуховка",
+            "url": "Kozhukhivka-Vinnicka"
+        },
+        {
+            "id": "43700",
+            "name": "Козловка",
+            "url": "Kozlivka-Vinnicka"
+        },
+        {
+            "id": "43689",
+            "name": "Козинцы",
+            "url": "Kozyntsi-Vinnicka"
+        },
+        {
+            "id": "44803",
+            "name": "Красное",
+            "url": "Krasne-Vinnicka"
+        },
+        {
+            "id": "44755",
+            "name": "Красненькое",
+            "url": "Krasnenke-Vinnicka"
+        },
+        {
+            "id": "44778",
+            "name": "Красногорка",
+            "url": "Krasnohirka-Vinnicka"
+        },
+        {
+            "id": "44868",
+            "name": "Краснополка",
+            "url": "Krasnopilka-Vinnicka"
+        },
+        {
+            "id": "44887",
+            "name": "Красноселка",
+            "url": "Krasnosilka-Vinnicka"
+        },
+        {
+            "id": "44956",
+            "name": "Краснянка",
+            "url": "Krasnyanka-Vinnicka"
+        },
+        {
+            "id": "44992",
+            "name": "Кременное",
+            "url": "Kreminne-Vinnicka"
+        },
+        {
+            "id": "44698",
+            "name": "Крапивна",
+            "url": "Kropyvna-Vinnicka"
+        },
+        {
+            "id": "44706",
+            "name": "Крапивня",
+            "url": "Kropyvnya-Vinnicka"
+        },
+        {
+            "id": "45194",
+            "name": "Круги",
+            "url": "Kruhy-Vinnicka"
+        },
+        {
+            "id": "45235",
+            "name": "Круподеринцы",
+            "url": "Krupoderyntsi-Vinnicka"
+        },
+        {
+            "id": "45231",
+            "name": "Крупин",
+            "url": "Krupyn-Vinnicka"
+        },
+        {
+            "id": "45291",
+            "name": "Крушиновка",
+            "url": "Krushynivka-Vinnicka"
+        },
+        {
+            "id": "45259",
+            "name": "Крутнев",
+            "url": "Krutniv-Vinnicka"
+        },
+        {
+            "id": "45159",
+            "name": "Кричановка",
+            "url": "Krychanivka-Vinnicka"
+        },
+        {
+            "id": "45110",
+            "name": "Криковцы",
+            "url": "Krykivtsi-Vinnicka"
+        },
+        {
+            "id": "45107",
+            "name": "Крикливец",
+            "url": "Kryklyvets-Vinnicka"
+        },
+        {
+            "id": "45125",
+            "name": "Кринички",
+            "url": "Krynychky-Vinnicka"
+        },
+        {
+            "id": "45167",
+            "name": "Крищинцы",
+            "url": "Kryshchyntsi-Vinnicka"
+        },
+        {
+            "id": "45166",
+            "name": "Криштофовка",
+            "url": "Kryshtofivka-Vinnicka"
+        },
+        {
+            "id": "45328",
+            "name": "Крыштоповка",
+            "url": "Kryshtopivka-Vinnicka"
+        },
+        {
+            "id": "45331",
+            "name": "Крыштоповское",
+            "url": "Kryshtopivske-Vinnicka"
+        },
+        {
+            "id": "45091",
+            "name": "Кривохижинцы",
+            "url": "Kryvokhyzhyntsi-Vinnicka"
+        },
+        {
+            "id": "45093",
+            "name": "Кривошеи",
+            "url": "Kryvoshyi-Vinnicka"
+        },
+        {
+            "id": "45341",
+            "name": "Ксаверовка",
+            "url": "Ksaverivka-Vinnicka"
+        },
+        {
+            "id": "45366",
+            "name": "Кублич",
+            "url": "Kublych-Vinnicka"
+        },
+        {
+            "id": "45382",
+            "name": "Кудиевцы",
+            "url": "Kudiivtsi-Vinnicka"
+        },
+        {
+            "id": "45389",
+            "name": "Кудлаи",
+            "url": "Kudlai-Vinnicka"
+        },
+        {
+            "id": "45450",
+            "name": "Кукавка",
+            "url": "Kukavka-Vinnicka"
+        },
+        {
+            "id": "45462",
+            "name": "Кукулы",
+            "url": "Kukuly-Vinnicka"
+        },
+        {
+            "id": "45464",
+            "name": "Кукуровка",
+            "url": "Kukurivka-Vinnicka"
+        },
+        {
+            "id": "45478",
+            "name": "Кулешов",
+            "url": "Kuleshiv-Vinnicka"
+        },
+        {
+            "id": "45512",
+            "name": "Кулыга",
+            "url": "Kulyha-Vinnicka"
+        },
+        {
+            "id": "45531",
+            "name": "Куманевка",
+            "url": "Kumanivka-Vinnicka"
+        },
+        {
+            "id": "45534",
+            "name": "Кумановцы",
+            "url": "Kumanivtsi-Vinnicka"
+        },
+        {
+            "id": "45548",
+            "name": "Куна",
+            "url": "Kuna-Vinnicka"
+        },
+        {
+            "id": "45567",
+            "name": "Кунка",
+            "url": "Kunka-Vinnicka"
+        },
+        {
+            "id": "45566",
+            "name": "Куничье",
+            "url": "Kunyche-Vinnicka"
+        },
+        {
+            "id": "45595",
+            "name": "Купчинцы",
+            "url": "Kupchyntsi-Vinnicka"
+        },
+        {
+            "id": "45609",
+            "name": "Курашевцы",
+            "url": "Kurashivtsi-Vinnicka"
+        },
+        {
+            "id": "45678",
+            "name": "Курьянцы",
+            "url": "Kuryantsi-Vinnicka"
+        },
+        {
+            "id": "45633",
+            "name": "Куриловка",
+            "url": "Kurylivka-Vinnicka"
+        },
+        {
+            "id": "45784",
+            "name": "Кущинцы",
+            "url": "Kushchyntsi-Vinnicka"
+        },
+        {
+            "id": "45771",
+            "name": "Кушелевка",
+            "url": "Kushelivka-Vinnicka"
+        },
+        {
+            "id": "45697",
+            "name": "Кустовцы",
+            "url": "Kustivtsi-Vinnicka"
+        },
+        {
+            "id": "45696",
+            "name": "Кустовецкое",
+            "url": "Kustovetske-Vinnicka"
+        },
+        {
+            "id": "45688",
+            "name": "Кусиковцы",
+            "url": "Kusykivtsi-Vinnicka"
+        },
+        {
+            "id": "43019",
+            "name": "Квитка",
+            "url": "Kvitka-Vinnicka"
+        },
+        {
+            "id": "43119",
+            "name": "Кидрасовка",
+            "url": "Kydrasivka-Vinnicka"
+        },
+        {
+            "id": "43172",
+            "name": "Кинашев",
+            "url": "Kynashiv-Vinnicka"
+        },
+        {
+            "id": "43216",
+            "name": "Кирнасовка",
+            "url": "Kyrnasivka-Vinnicka"
+        },
+        {
+            "id": "43310",
+            "name": "Кисляк",
+            "url": "Kyslyak-Vinnicka"
+        },
+        {
+            "id": "43305",
+            "name": "Кислицкое",
+            "url": "Kyslytske-Vinnicka"
+        },
+        {
+            "id": "43318",
+            "name": "Китайгород",
+            "url": "Kytaihorod-Vinnicka"
+        },
+        {
+            "id": "43345",
+            "name": "Кияновка",
+            "url": "Kyyanivka-Vinnicka"
+        },
+        {
+            "id": "43133",
+            "name": "Кизимы",
+            "url": "Kyzymy-Vinnicka"
+        },
+        {
+            "id": "45888",
+            "name": "Ладыжинское",
+            "url": "Ladyzhynske-Vinnicka"
+        },
+        {
+            "id": "45887",
+            "name": "Ладыжинские Хутора",
+            "url": "Ladyzhynski Khutory-Vinnicka"
+        },
+        {
+            "id": "45947",
+            "name": "Ланы",
+            "url": "Lany-Vinnicka"
+        },
+        {
+            "id": "45857",
+            "name": "Лавровка",
+            "url": "Lavrivka-Vinnicka"
+        },
+        {
+            "id": "46101",
+            "name": "Лелитка",
+            "url": "Lelitka-Vinnicka"
+        },
+        {
+            "id": "46105",
+            "name": "Леляки",
+            "url": "Lelyaky-Vinnicka"
+        },
+        {
+            "id": "46109",
+            "name": "Лемешевка",
+            "url": "Lemeshivka-Vinnicka"
+        },
+        {
+            "id": "46128",
+            "name": "Ленинка",
+            "url": "Leninka-Vinnicka"
+        },
+        {
+            "id": "46150",
+            "name": "Ленинская Слобода",
+            "url": "Leninska Sloboda-Vinnicka"
+        },
+        {
+            "id": "46195",
+            "name": "Леоновка",
+            "url": "Leonivka-Vinnicka"
+        },
+        {
+            "id": "46328",
+            "name": "Леухи",
+            "url": "Leukhy-Vinnicka"
+        },
+        {
+            "id": "46050",
+            "name": "Левков",
+            "url": "Levkiv-Vinnicka"
+        },
+        {
+            "id": "46055",
+            "name": "Левковка",
+            "url": "Levkivka-Vinnicka"
+        },
+        {
+            "id": "46060",
+            "name": "Левковцы",
+            "url": "Levkivtsi-Vinnicka"
+        },
+        {
+            "id": "46445",
+            "name": "Линетчина",
+            "url": "Linechchyna-Vinnicka"
+        },
+        {
+            "id": "46348",
+            "name": "Лещинцы",
+            "url": "Lishchyntsi-Vinnicka"
+        },
+        {
+            "id": "46232",
+            "name": "Лесная Поляна",
+            "url": "Lisna Polyana-Vinnicka"
+        },
+        {
+            "id": "46246",
+            "name": "Лесное",
+            "url": "Lisne-Vinnicka"
+        },
+        {
+            "id": "46243",
+            "name": "Лесничье",
+            "url": "Lisnyche-Vinnicka"
+        },
+        {
+            "id": "46241",
+            "name": "Лесничёвка",
+            "url": "Lisnychivka-Vinnicka"
+        },
+        {
+            "id": "46306",
+            "name": "Лесогорка",
+            "url": "Lisohirka-Vinnicka"
+        },
+        {
+            "id": "46273",
+            "name": "Лесовая Лысиевка",
+            "url": "Lisova Lysiivka-Vinnicka"
+        },
+        {
+            "id": "46747",
+            "name": "Ломазов",
+            "url": "Lomaziv-Vinnicka"
+        },
+        {
+            "id": "46772",
+            "name": "Лопатин",
+            "url": "Lopatyn-Vinnicka"
+        },
+        {
+            "id": "46775",
+            "name": "Лопатинка",
+            "url": "Lopatynka-Vinnicka"
+        },
+        {
+            "id": "46776",
+            "name": "Лопатинцы",
+            "url": "Lopatyntsi-Vinnicka"
+        },
+        {
+            "id": "46700",
+            "name": "Лозовка",
+            "url": "Lozivka-Vinnicka"
+        },
+        {
+            "id": "46660",
+            "name": "Лозна",
+            "url": "Lozna-Vinnicka"
+        },
+        {
+            "id": "46665",
+            "name": "Лозоватая",
+            "url": "Lozovata-Vinnicka"
+        },
+        {
+            "id": "46686",
+            "name": "Лозовая",
+            "url": "Lozovaya-Vinnicka"
+        },
+        {
+            "id": "46707",
+            "name": "Лозовое",
+            "url": "Lozove-Vinnicka"
+        },
+        {
+            "id": "47050",
+            "name": "Лучинчик",
+            "url": "Luchynchyk-Vinnicka"
+        },
+        {
+            "id": "47047",
+            "name": "Лучинец",
+            "url": "Luchynets-Vinnicka"
+        },
+        {
+            "id": "46890",
+            "name": "Луговая",
+            "url": "Luhova-Vinnicka"
+        },
+        {
+            "id": "46896",
+            "name": "Луговое",
+            "url": "Luhove-Vinnicka"
+        },
+        {
+            "id": "46885",
+            "name": "Луги",
+            "url": "Luhy-Vinnicka"
+        },
+        {
+            "id": "46937",
+            "name": "Лука",
+            "url": "Luka-Vinnicka"
+        },
+        {
+            "id": "46952",
+            "name": "Лука-Барская",
+            "url": "Luka-Barska-Vinnicka"
+        },
+        {
+            "id": "46953",
+            "name": "Лука-Мелешковская",
+            "url": "Luka-Meleshkivska-Vinnicka"
+        },
+        {
+            "id": "46954",
+            "name": "Лука-Молчанская",
+            "url": "Luka-Movchanska-Vinnicka"
+        },
+        {
+            "id": "46965",
+            "name": "Лукашовка",
+            "url": "Lukashivka-Vinnicka"
+        },
+        {
+            "id": "46932",
+            "name": "Лужок",
+            "url": "Luzhok-Vinnicka"
+        },
+        {
+            "id": "47259",
+            "name": "Лядова",
+            "url": "Lyadova-Vinnicka"
+        },
+        {
+            "id": "46526",
+            "name": "Липчаны",
+            "url": "Lypchany-Vinnicka"
+        },
+        {
+            "id": "46499",
+            "name": "Липовка",
+            "url": "Lypivka-Vinnicka"
+        },
+        {
+            "id": "46531",
+            "name": "Липятин",
+            "url": "Lypyatyn-Vinnicka"
+        },
+        {
+            "id": "47072",
+            "name": "Лысая Гора",
+            "url": "Lysa Hora-Vinnicka"
+        },
+        {
+            "id": "47112",
+            "name": "Лышава",
+            "url": "Lyshava-Vinnicka"
+        },
+        {
+            "id": "47089",
+            "name": "Лысогора",
+            "url": "Lysohora-Vinnicka"
+        },
+        {
+            "id": "46565",
+            "name": "Листопадовка",
+            "url": "Lystopadivka-Vinnicka"
+        },
+        {
+            "id": "47103",
+            "name": "Лысянка",
+            "url": "Lysyanka-Vinnicka"
+        },
+        {
+            "id": "47191",
+            "name": "Любомирка",
+            "url": "Lyubomyrka-Vinnicka"
+        },
+        {
+            "id": "47218",
+            "name": "Людавка",
+            "url": "Lyudavka-Vinnicka"
+        },
+        {
+            "id": "47232",
+            "name": "Люлинцы",
+            "url": "Lyulyntsi-Vinnicka"
+        },
+        {
+            "id": "47344",
+            "name": "Майдан",
+            "url": "Maidan-Vinnicka"
+        },
+        {
+            "id": "47362",
+            "name": "Майдан-Бобрик",
+            "url": "Maidan-Bobryk-Vinnicka"
+        },
+        {
+            "id": "47374",
+            "name": "Майдан-Чапельский",
+            "url": "Maidan-Chapelskyi-Vinnicka"
+        },
+        {
+            "id": "47365",
+            "name": "Майдан-Головчинский",
+            "url": "Maidan-Holovchynskyi-Vinnicka"
+        },
+        {
+            "id": "47393",
+            "name": "Майорщина",
+            "url": "Maiorshchyna-Vinnicka"
+        },
+        {
+            "id": "48410",
+            "name": "Махаринцы",
+            "url": "Makharyntsi-Vinnicka"
+        },
+        {
+            "id": "47555",
+            "name": "Малая Бушинка",
+            "url": "Mala Bushynka-Vinnicka"
+        },
+        {
+            "id": "47576",
+            "name": "Малая Деребчинка",
+            "url": "Mala Derebchynka-Vinnicka"
+        },
+        {
+            "id": "47594",
+            "name": "Малая Клетинка",
+            "url": "Mala Klitynka-Vinnicka"
+        },
+        {
+            "id": "47593",
+            "name": "Малая Киреевка",
+            "url": "Mala Kyriivka-Vinnicka"
+        },
+        {
+            "id": "47618",
+            "name": "Малая Мочулка",
+            "url": "Mala Mochulka-Vinnicka"
+        },
+        {
+            "id": "47644",
+            "name": "Малая Ростовка",
+            "url": "Mala Rostivka-Vinnicka"
+        },
+        {
+            "id": "47663",
+            "name": "Малая Стратиевка",
+            "url": "Mala Stratiivka-Vinnicka"
+        },
+        {
+            "id": "47566",
+            "name": "Малая Вулыга",
+            "url": "Mala Vulyha-Vinnicka"
+        },
+        {
+            "id": "47581",
+            "name": "Малая Жмеринка",
+            "url": "Mala Zhmerynka-Vinnicka"
+        },
+        {
+            "id": "47957",
+            "name": "Мальчевцы",
+            "url": "Malchivtsi-Vinnicka"
+        },
+        {
+            "id": "47855",
+            "name": "Малые Крушлинцы",
+            "url": "Mali Krushlyntsi-Vinnicka"
+        },
+        {
+            "id": "47858",
+            "name": "Малые Кутыща",
+            "url": "Mali Kutyshcha-Vinnicka"
+        },
+        {
+            "id": "47695",
+            "name": "Малёвничье",
+            "url": "Malovnyche-Vinnicka"
+        },
+        {
+            "id": "47923",
+            "name": "Малый Мытник",
+            "url": "Malyi Mytnyk-Vinnicka"
+        },
+        {
+            "id": "47925",
+            "name": "Малый Обухов",
+            "url": "Malyi Obukhiv-Vinnicka"
+        },
+        {
+            "id": "47928",
+            "name": "Малый Острожок",
+            "url": "Malyi Ostrozhok-Vinnicka"
+        },
+        {
+            "id": "47720",
+            "name": "Малиновка",
+            "url": "Malynivka-Vinnicka"
+        },
+        {
+            "id": "47718",
+            "name": "Малинки",
+            "url": "Malynky-Vinnicka"
+        },
+        {
+            "id": "47947",
+            "name": "Малышевка",
+            "url": "Malyshivka-Vinnicka"
+        },
+        {
+            "id": "48037",
+            "name": "Маньковка",
+            "url": "Mankivka-Vinnicka"
+        },
+        {
+            "id": "48044",
+            "name": "Маньковцы",
+            "url": "Mankivtsi-Vinnicka"
+        },
+        {
+            "id": "48106",
+            "name": "Марковка",
+            "url": "Markivka-Vinnicka"
+        },
+        {
+            "id": "48124",
+            "name": "Марковцы",
+            "url": "Markivtsi-Vinnicka"
+        },
+        {
+            "id": "48118",
+            "name": "Марково",
+            "url": "Markove-Vinnicka"
+        },
+        {
+            "id": "48132",
+            "name": "Марксово",
+            "url": "Marksove-Vinnicka"
+        },
+        {
+            "id": "48134",
+            "name": "Маркуши",
+            "url": "Markushi-Vinnicka"
+        },
+        {
+            "id": "48157",
+            "name": "Мартыновка",
+            "url": "Martynivka-Vinnicka"
+        },
+        {
+            "id": "48244",
+            "name": "Марьяновка",
+            "url": "Maryanivka-Vinnicka"
+        },
+        {
+            "id": "48308",
+            "name": "Марьяновское",
+            "url": "Maryanivske-Vinnicka"
+        },
+        {
+            "id": "48366",
+            "name": "Матейков",
+            "url": "Mateikiv-Vinnicka"
+        },
+        {
+            "id": "48367",
+            "name": "Матейково",
+            "url": "Mateikove-Vinnicka"
+        },
+        {
+            "id": "48392",
+            "name": "Матяшевка",
+            "url": "Matyashivka-Vinnicka"
+        },
+        {
+            "id": "48460",
+            "name": "Маяки",
+            "url": "Mayaky-Vinnicka"
+        },
+        {
+            "id": "48467",
+            "name": "Маянов",
+            "url": "Mayaniv-Vinnicka"
+        },
+        {
+            "id": "47333",
+            "name": "Мазуровка",
+            "url": "Mazurivka-Vinnicka"
+        },
+        {
+            "id": "48534",
+            "name": "Медовка",
+            "url": "Medivka-Vinnicka"
+        },
+        {
+            "id": "48513",
+            "name": "Медвежья",
+            "url": "Medvezha-Vinnicka"
+        },
+        {
+            "id": "48512",
+            "name": "Медвежье Ушко",
+            "url": "Medvezhe Vushko-Vinnicka"
+        },
+        {
+            "id": "48508",
+            "name": "Медведка",
+            "url": "Medvidka-Vinnicka"
+        },
+        {
+            "id": "48613",
+            "name": "Мелешков",
+            "url": "Meleshkiv-Vinnicka"
+        },
+        {
+            "id": "48642",
+            "name": "Мельниковцы",
+            "url": "Melnykivtsi-Vinnicka"
+        },
+        {
+            "id": "48667",
+            "name": "Мервин",
+            "url": "Mervyn-Vinnicka"
+        },
+        {
+            "id": "48668",
+            "name": "Мервинцы",
+            "url": "Mervyntsi-Vinnicka"
+        },
+        {
+            "id": "48688",
+            "name": "Метановка",
+            "url": "Metanivka-Vinnicka"
+        },
+        {
+            "id": "48567",
+            "name": "Межигорка",
+            "url": "Mezhyhirka-Vinnicka"
+        },
+        {
+            "id": "48585",
+            "name": "Межиров",
+            "url": "Mezhyriv-Vinnicka"
+        },
+        {
+            "id": "48693",
+            "name": "Метлинцы",
+            "url": "Mitlyntsi-Vinnicka"
+        },
+        {
+            "id": "48588",
+            "name": "Межлесье",
+            "url": "Mizhlissya-Vinnicka"
+        },
+        {
+            "id": "48736",
+            "name": "Мизяков",
+            "url": "Mizyakiv-Vinnicka"
+        },
+        {
+            "id": "48737",
+            "name": "Мизяковская Слободка",
+            "url": "Mizyakivska Slobidka-Vinnicka"
+        },
+        {
+            "id": "48738",
+            "name": "Мизяковские Хутора",
+            "url": "Mizyakivski Khutory-Vinnicka"
+        },
+        {
+            "id": "49139",
+            "name": "Млынки",
+            "url": "Mlynky-Vinnicka"
+        },
+        {
+            "id": "49188",
+            "name": "Моевка",
+            "url": "Moivka-Vinnicka"
+        },
+        {
+            "id": "49246",
+            "name": "Молодёжное",
+            "url": "Molodizhne-Vinnicka"
+        },
+        {
+            "id": "49273",
+            "name": "Молотковцы",
+            "url": "Molotkivtsi-Vinnicka"
+        },
+        {
+            "id": "49303",
+            "name": "Монастырёк",
+            "url": "Monastyrok-Vinnicka"
+        },
+        {
+            "id": "49364",
+            "name": "Мончин",
+            "url": "Monchyn-Vinnicka"
+        },
+        {
+            "id": "49365",
+            "name": "Мончинцы",
+            "url": "Monchyntsi-Vinnicka"
+        },
+        {
+            "id": "49388",
+            "name": "Морозовка",
+            "url": "Morozivka-Vinnicka"
+        },
+        {
+            "id": "49652",
+            "name": "Мшанец",
+            "url": "Mshanets-Vinnicka"
+        },
+        {
+            "id": "49639",
+            "name": "Муховцы",
+            "url": "Mukhivtsi-Vinnicka"
+        },
+        {
+            "id": "49637",
+            "name": "Муховата",
+            "url": "Mukhuvata-Vinnicka"
+        },
+        {
+            "id": "49593",
+            "name": "Мурафа",
+            "url": "Murafa-Vinnicka"
+        },
+        {
+            "id": "49596",
+            "name": "Мурашка",
+            "url": "Murashka-Vinnicka"
+        },
+        {
+            "id": "49706",
+            "name": "Мягкоход",
+            "url": "Myakokhid-Vinnicka"
+        },
+        {
+            "id": "48720",
+            "name": "Мигалевцы",
+            "url": "Myhalivtsi-Vinnicka"
+        },
+        {
+            "id": "48969",
+            "name": "Михайловка",
+            "url": "Mykhailivka-Vinnicka"
+        },
+        {
+            "id": "49079",
+            "name": "Михайловцы",
+            "url": "Mykhailivtsi-Vinnicka"
+        },
+        {
+            "id": "48960",
+            "name": "Михайлин",
+            "url": "Mykhailyn-Vinnicka"
+        },
+        {
+            "id": "50315",
+            "name": "Николаевка",
+            "url": "Mykolaivka-Vinnicka"
+        },
+        {
+            "id": "48746",
+            "name": "Микулинцы",
+            "url": "Mykulyntsi-Vinnicka"
+        },
+        {
+            "id": "48819",
+            "name": "Мирное",
+            "url": "Myrne-Vinnicka"
+        },
+        {
+            "id": "48874",
+            "name": "Миролюбовка",
+            "url": "Myrolyubivka-Vinnicka"
+        },
+        {
+            "id": "48891",
+            "name": "Мироновка",
+            "url": "Myronivka-Vinnicka"
+        },
+        {
+            "id": "49687",
+            "name": "Мышаровка",
+            "url": "Mysharivka-Vinnicka"
+        },
+        {
+            "id": "49689",
+            "name": "Мышевское",
+            "url": "Myshivske-Vinnicka"
+        },
+        {
+            "id": "49679",
+            "name": "Мытков",
+            "url": "Mytkiv-Vinnicka"
+        },
+        {
+            "id": "49681",
+            "name": "Мытковка",
+            "url": "Mytkivka-Vinnicka"
+        },
+        {
+            "id": "49678",
+            "name": "Мытки",
+            "url": "Mytky-Vinnicka"
+        },
+        {
+            "id": "49676",
+            "name": "Мытинцы",
+            "url": "Mytyntsi-Vinnicka"
+        },
+        {
+            "id": "49771",
+            "name": "Надднестрянское",
+            "url": "Naddnistryanske-Vinnicka"
+        },
+        {
+            "id": "49762",
+            "name": "Нагоряны",
+            "url": "Nahoryany-Vinnicka"
+        },
+        {
+            "id": "49882",
+            "name": "Нараевка",
+            "url": "Naraivka-Vinnicka"
+        },
+        {
+            "id": "49896",
+            "name": "Нарцизовка",
+            "url": "Nartsyzivka-Vinnicka"
+        },
+        {
+            "id": "49903",
+            "name": "Настасиевка",
+            "url": "Nastasiivka-Vinnicka"
+        },
+        {
+            "id": "50029",
+            "name": "Некрасово",
+            "url": "Nekrasove-Vinnicka"
+        },
+        {
+            "id": "50040",
+            "name": "Неменка",
+            "url": "Nemenka-Vinnicka"
+        },
+        {
+            "id": "50041",
+            "name": "Немерче",
+            "url": "Nemerche-Vinnicka"
+        },
+        {
+            "id": "50057",
+            "name": "Немия",
+            "url": "Nemiya-Vinnicka"
+        },
+        {
+            "id": "50045",
+            "name": "Немиринцы",
+            "url": "Nemyryntsi-Vinnicka"
+        },
+        {
+            "id": "50073",
+            "name": "Непедовка",
+            "url": "Nepedivka-Vinnicka"
+        },
+        {
+            "id": "50102",
+            "name": "Нестерварка",
+            "url": "Nestervarka-Vinnicka"
+        },
+        {
+            "id": "50125",
+            "name": "Нетребовка",
+            "url": "Netrebivka-Vinnicka"
+        },
+        {
+            "id": "51825",
+            "name": "Носовцы",
+            "url": "Nosivtsi-Vinnicka"
+        },
+        {
+            "id": "51819",
+            "name": "Носковцы",
+            "url": "Noskivtsi-Vinnicka"
+        },
+        {
+            "id": "51818",
+            "name": "Носиковка",
+            "url": "Nosykivka-Vinnicka"
+        },
+        {
+            "id": "50519",
+            "name": "Новая Гребля",
+            "url": "Nova Hreblya-Vinnicka"
+        },
+        {
+            "id": "50528",
+            "name": "Новая Григоровка",
+            "url": "Nova Hryhorivka-Vinnicka"
+        },
+        {
+            "id": "50589",
+            "name": "Новая Николаевка",
+            "url": "Nova Mykolaivka-Vinnicka"
+        },
+        {
+            "id": "50593",
+            "name": "Новая Ободовка",
+            "url": "Nova Obodivka-Vinnicka"
+        },
+        {
+            "id": "50611",
+            "name": "Новая Прилука",
+            "url": "Nova Pryluka-Vinnicka"
+        },
+        {
+            "id": "50632",
+            "name": "Новая Сулковка",
+            "url": "Nova Sulkivka-Vinnicka"
+        },
+        {
+            "id": "50922",
+            "name": "Новое",
+            "url": "Nove-Vinnicka"
+        },
+        {
+            "id": "50958",
+            "name": "Новое Мисто",
+            "url": "Nove Misto-Vinnicka"
+        },
+        {
+            "id": "51696",
+            "name": "Новые Обиходы",
+            "url": "Novi Obikhody-Vinnicka"
+        },
+        {
+            "id": "51628",
+            "name": "Новофастов",
+            "url": "Novofastiv-Vinnicka"
+        },
+        {
+            "id": "51191",
+            "name": "Новоникольск",
+            "url": "Novomykilsk-Vinnicka"
+        },
+        {
+            "id": "51416",
+            "name": "Новоселовка",
+            "url": "Novoselivka-Vinnicka"
+        },
+        {
+            "id": "51372",
+            "name": "Новосёлка",
+            "url": "Novosilka-Vinnicka"
+        },
+        {
+            "id": "51587",
+            "name": "Новоукраинка",
+            "url": "Novoukrainka-Vinnicka"
+        },
+        {
+            "id": "50988",
+            "name": "Новоживотов",
+            "url": "Novozhyvotiv-Vinnicka"
+        },
+        {
+            "id": "50305",
+            "name": "Никифоровцы",
+            "url": "Nykyforivtsi-Vinnicka"
+        },
+        {
+            "id": "50475",
+            "name": "Нишивцы",
+            "url": "Nyshivtsi-Vinnicka"
+        },
+        {
+            "id": "50253",
+            "name": "Нижняя Крапивна",
+            "url": "Nyzhcha Kropyvna-Vinnicka"
+        },
+        {
+            "id": "50285",
+            "name": "Низший Ольчедаев",
+            "url": "Nyzhchyi Olchedaiv-Vinnicka"
+        },
+        {
+            "id": "51916",
+            "name": "Ободное",
+            "url": "Obidne-Vinnicka"
+        },
+        {
+            "id": "51924",
+            "name": "Обозовка",
+            "url": "Obozivka-Vinnicka"
+        },
+        {
+            "id": "52820",
+            "name": "Очеретня",
+            "url": "Ocheretnya-Vinnicka"
+        },
+        {
+            "id": "52833",
+            "name": "Очитков",
+            "url": "Ochytkiv-Vinnicka"
+        },
+        {
+            "id": "52005",
+            "name": "Одаи",
+            "url": "Odai-Vinnicka"
+        },
+        {
+            "id": "51984",
+            "name": "Огиевка",
+            "url": "Ohiivka-Vinnicka"
+        },
+        {
+            "id": "52127",
+            "name": "Окладное",
+            "url": "Okladne-Vinnicka"
+        },
+        {
+            "id": "29100",
+            "name": "Александровка",
+            "url": "Oleksandrivka-Vinnicka"
+        },
+        {
+            "id": "29230",
+            "name": "Алексеевка",
+            "url": "Oleksiivka-Vinnicka"
+        },
+        {
+            "id": "52203",
+            "name": "Оленовка",
+            "url": "Olenivka-Vinnicka"
+        },
+        {
+            "id": "52281",
+            "name": "Ольгополь",
+            "url": "Olhopil-Vinnicka"
+        },
+        {
+            "id": "52270",
+            "name": "Ольгино",
+            "url": "Olhyne-Vinnicka"
+        },
+        {
+            "id": "52258",
+            "name": "Олихи",
+            "url": "Olikhy-Vinnicka"
+        },
+        {
+            "id": "52361",
+            "name": "Оляница",
+            "url": "Olyanytsya-Vinnicka"
+        },
+        {
+            "id": "52402",
+            "name": "Онитковцы",
+            "url": "Onytkivtsi-Vinnicka"
+        },
+        {
+            "id": "52451",
+            "name": "Оратовка",
+            "url": "Orativka-Vinnicka"
+        },
+        {
+            "id": "52467",
+            "name": "Ордынцы",
+            "url": "Ordyntsi-Vinnicka"
+        },
+        {
+            "id": "52525",
+            "name": "Орловка",
+            "url": "Orlivka-Vinnicka"
+        },
+        {
+            "id": "52597",
+            "name": "Осичок",
+            "url": "Osichok-Vinnicka"
+        },
+        {
+            "id": "52581",
+            "name": "Осиевка",
+            "url": "Osiivka-Vinnicka"
+        },
+        {
+            "id": "52632",
+            "name": "Осолинка",
+            "url": "Osolynka-Vinnicka"
+        },
+        {
+            "id": "52639",
+            "name": "Остапковцы",
+            "url": "Ostapkivtsi-Vinnicka"
+        },
+        {
+            "id": "52596",
+            "name": "Осичная",
+            "url": "Osychna-Vinnicka"
+        },
+        {
+            "id": "52744",
+            "name": "Осычная",
+            "url": "Osychna-Vinnicka"
+        },
+        {
+            "id": "52042",
+            "name": "Озаринцы",
+            "url": "Ozaryntsi-Vinnicka"
+        },
+        {
+            "id": "52056",
+            "name": "Озерная",
+            "url": "Ozerna-Vinnicka"
+        },
+        {
+            "id": "52074",
+            "name": "Озеро",
+            "url": "Ozero-Vinnicka"
+        },
+        {
+            "id": "52977",
+            "name": "Паланка",
+            "url": "Palanka-Vinnicka"
+        },
+        {
+            "id": "52990",
+            "name": "Палиево",
+            "url": "Paliiove-Vinnicka"
+        },
+        {
+            "id": "53020",
+            "name": "Панасовка",
+            "url": "Panasivka-Vinnicka"
+        },
+        {
+            "id": "53060",
+            "name": "Панчишино",
+            "url": "Panchyshyne-Vinnicka"
+        },
+        {
+            "id": "53101",
+            "name": "Париевка",
+            "url": "Pariivka-Vinnicka"
+        },
+        {
+            "id": "53140",
+            "name": "Пархомовка",
+            "url": "Parkhomivka-Vinnicka"
+        },
+        {
+            "id": "53118",
+            "name": "Парпуровцы",
+            "url": "Parpurivtsi-Vinnicka"
+        },
+        {
+            "id": "53120",
+            "name": "Партизанское",
+            "url": "Partyzanske-Vinnicka"
+        },
+        {
+            "id": "53175",
+            "name": "Пасынки",
+            "url": "Pasynky-Vinnicka"
+        },
+        {
+            "id": "52850",
+            "name": "Павленки",
+            "url": "Pavlenky-Vinnicka"
+        },
+        {
+            "id": "53890",
+            "name": "Печера",
+            "url": "Pechera-Vinnicka"
+        },
+        {
+            "id": "53233",
+            "name": "Педосы",
+            "url": "Pedosy-Vinnicka"
+        },
+        {
+            "id": "53265",
+            "name": "Пеньковка",
+            "url": "Penkivka-Vinnicka"
+        },
+        {
+            "id": "53361",
+            "name": "Перекоринцы",
+            "url": "Perekoryntsi-Vinnicka"
+        },
+        {
+            "id": "53370",
+            "name": "Перелески",
+            "url": "Perelisky-Vinnicka"
+        },
+        {
+            "id": "53383",
+            "name": "Перемога",
+            "url": "Peremoha-Vinnicka"
+        },
+        {
+            "id": "53425",
+            "name": "Переорки",
+            "url": "Pereorky-Vinnicka"
+        },
+        {
+            "id": "53427",
+            "name": "Перепеличье",
+            "url": "Perepelychchya-Vinnicka"
+        },
+        {
+            "id": "53431",
+            "name": "Перепильчинцы",
+            "url": "Perepilchyntsi-Vinnicka"
+        },
+        {
+            "id": "53285",
+            "name": "Первомайское",
+            "url": "Pervomaiske-Vinnicka"
+        },
+        {
+            "id": "53603",
+            "name": "Пестеля",
+            "url": "Pestelya-Vinnicka"
+        },
+        {
+            "id": "53647",
+            "name": "Петрани",
+            "url": "Petrani-Vinnicka"
+        },
+        {
+            "id": "53651",
+            "name": "Петрашовка",
+            "url": "Petrashivka-Vinnicka"
+        },
+        {
+            "id": "53692",
+            "name": "Петровка",
+            "url": "Petrivka-Vinnicka"
+        },
+        {
+            "id": "53683",
+            "name": "Петро-Марковка",
+            "url": "Petro-Markivka-Vinnicka"
+        },
+        {
+            "id": "53784",
+            "name": "Петровское",
+            "url": "Petrovske-Vinnicka"
+        },
+        {
+            "id": "53871",
+            "name": "Петруновка",
+            "url": "Petrunivka-Vinnicka"
+        },
+        {
+            "id": "53662",
+            "name": "Петрик",
+            "url": "Petryk-Vinnicka"
+        },
+        {
+            "id": "53672",
+            "name": "Петриковцы",
+            "url": "Petrykivtsi-Vinnicka"
+        },
+        {
+            "id": "53675",
+            "name": "Петриманы",
+            "url": "Petrymany-Vinnicka"
+        },
+        {
+            "id": "54402",
+            "name": "Подлесовка",
+            "url": "Pidlisivka-Vinnicka"
+        },
+        {
+            "id": "54381",
+            "name": "Подлесное",
+            "url": "Pidlisne-Vinnicka"
+        },
+        {
+            "id": "54401",
+            "name": "Подлесный Ялтушков",
+            "url": "Pidlisnyi Yaltushkiv-Vinnicka"
+        },
+        {
+            "id": "54277",
+            "name": "Подвысокое",
+            "url": "Pidvysoke-Vinnicka"
+        },
+        {
+            "id": "53610",
+            "name": "Песчанка",
+            "url": "Pishchanka-Vinnicka"
+        },
+        {
+            "id": "53595",
+            "name": "Песочин",
+            "url": "Pisochyn-Vinnicka"
+        },
+        {
+            "id": "54094",
+            "name": "Плебановка",
+            "url": "Plebanivka-Vinnicka"
+        },
+        {
+            "id": "54143",
+            "name": "Плоское",
+            "url": "Ploske-Vinnicka"
+        },
+        {
+            "id": "54180",
+            "name": "Пляховая",
+            "url": "Plyakhova-Vinnicka"
+        },
+        {
+            "id": "54181",
+            "name": "Пляцына",
+            "url": "Plyatsyna-Vinnicka"
+        },
+        {
+            "id": "54125",
+            "name": "Плисков",
+            "url": "Plyskiv-Vinnicka"
+        },
+        {
+            "id": "54201",
+            "name": "Побережное",
+            "url": "Poberezhne-Vinnicka"
+        },
+        {
+            "id": "54206",
+            "name": "Поборка",
+            "url": "Pobirka-Vinnicka"
+        },
+        {
+            "id": "54957",
+            "name": "Почапинцы",
+            "url": "Pochapyntsi-Vinnicka"
+        },
+        {
+            "id": "54459",
+            "name": "Подольское",
+            "url": "Podilske-Vinnicka"
+        },
+        {
+            "id": "54475",
+            "name": "Подорожня",
+            "url": "Podorozhnya-Vinnicka"
+        },
+        {
+            "id": "54232",
+            "name": "Погорелая",
+            "url": "Pohorila-Vinnicka"
+        },
+        {
+            "id": "54245",
+            "name": "Погребище Второе",
+            "url": "Pohrebyshche Druhe-Vinnicka"
+        },
+        {
+            "id": "54246",
+            "name": "Погребище Первое",
+            "url": "Pohrebyshche Pershe-Vinnicka"
+        },
+        {
+            "id": "54576",
+            "name": "Покутино",
+            "url": "Pokutyne-Vinnicka"
+        },
+        {
+            "id": "54613",
+            "name": "Политанки",
+            "url": "Politanky-Vinnicka"
+        },
+        {
+            "id": "54632",
+            "name": "Пологи",
+            "url": "Polohy-Vinnicka"
+        },
+        {
+            "id": "54580",
+            "name": "Полевая Лысиевка",
+            "url": "Polova Lysiivka-Vinnicka"
+        },
+        {
+            "id": "54581",
+            "name": "Полевая Слободка",
+            "url": "Polova Slobidka-Vinnicka"
+        },
+        {
+            "id": "54583",
+            "name": "Полевое",
+            "url": "Polove-Vinnicka"
+        },
+        {
+            "id": "54692",
+            "name": "Поляна",
+            "url": "Polyana-Vinnicka"
+        },
+        {
+            "id": "54618",
+            "name": "Поличинцы",
+            "url": "Polychyntsi-Vinnicka"
+        },
+        {
+            "id": "54767",
+            "name": "Попелюхи",
+            "url": "Popelyukhy-Vinnicka"
+        },
+        {
+            "id": "54812",
+            "name": "Поповцы",
+            "url": "Popivtsi-Vinnicka"
+        },
+        {
+            "id": "54837",
+            "name": "Пороги",
+            "url": "Porohy-Vinnicka"
+        },
+        {
+            "id": "54835",
+            "name": "Порик",
+            "url": "Poryk-Vinnicka"
+        },
+        {
+            "id": "54904",
+            "name": "Посухов",
+            "url": "Posukhiv-Vinnicka"
+        },
+        {
+            "id": "54915",
+            "name": "Поташня",
+            "url": "Potashnya-Vinnicka"
+        },
+        {
+            "id": "54932",
+            "name": "Потоки",
+            "url": "Potoky-Vinnicka"
+        },
+        {
+            "id": "54212",
+            "name": "Повал",
+            "url": "Poval-Vinnicka"
+        },
+        {
+            "id": "55252",
+            "name": "Пролетар",
+            "url": "Proletar-Vinnicka"
+        },
+        {
+            "id": "55349",
+            "name": "Прушинка",
+            "url": "Prushynka-Vinnicka"
+        },
+        {
+            "id": "55020",
+            "name": "Прибережное",
+            "url": "Pryberezhne-Vinnicka"
+        },
+        {
+            "id": "55022",
+            "name": "Приборовка",
+            "url": "Pryborivka-Vinnicka"
+        },
+        {
+            "id": "55028",
+            "name": "Прибугское",
+            "url": "Prybuzke-Vinnicka"
+        },
+        {
+            "id": "55107",
+            "name": "Приднестрянское",
+            "url": "Prydnistryanske-Vinnicka"
+        },
+        {
+            "id": "55137",
+            "name": "Прилуцкое",
+            "url": "Prylutske-Vinnicka"
+        },
+        {
+            "id": "55130",
+            "name": "Прилужное",
+            "url": "Pryluzhne-Vinnicka"
+        },
+        {
+            "id": "55152",
+            "name": "Примощаница",
+            "url": "Prymoshchanytsya-Vinnicka"
+        },
+        {
+            "id": "55071",
+            "name": "Привольное",
+            "url": "Pryvilne-Vinnicka"
+        },
+        {
+            "id": "55387",
+            "name": "Пултовцы",
+            "url": "Pultivtsi-Vinnicka"
+        },
+        {
+            "id": "55417",
+            "name": "Пустоха",
+            "url": "Pustokha-Vinnicka"
+        },
+        {
+            "id": "55409",
+            "name": "Пустовойты",
+            "url": "Pustoviity-Vinnicka"
+        },
+        {
+            "id": "55376",
+            "name": "Пузырьки",
+            "url": "Puzyrky-Vinnicka"
+        },
+        {
+            "id": "55555",
+            "name": "Пятковка",
+            "url": "Pyatkivka-Vinnicka"
+        },
+        {
+            "id": "55541",
+            "name": "Пятихатка",
+            "url": "Pyatykhatka-Vinnicka"
+        },
+        {
+            "id": "53926",
+            "name": "Пиков",
+            "url": "Pykiv-Vinnicka"
+        },
+        {
+            "id": "53929",
+            "name": "Пиковская Слободка",
+            "url": "Pykivska Slobidka-Vinnicka"
+        },
+        {
+            "id": "53927",
+            "name": "Пиковец",
+            "url": "Pykovets-Vinnicka"
+        },
+        {
+            "id": "55507",
+            "name": "Пылява",
+            "url": "Pylyava-Vinnicka"
+        },
+        {
+            "id": "53936",
+            "name": "Пилипенково",
+            "url": "Pylypenkove-Vinnicka"
+        },
+        {
+            "id": "53956",
+            "name": "Пилипы",
+            "url": "Pylypy-Vinnicka"
+        },
+        {
+            "id": "53962",
+            "name": "Пилипы-Боровские",
+            "url": "Pylypy-Borivski-Vinnicka"
+        },
+        {
+            "id": "53992",
+            "name": "Пирогов",
+            "url": "Pyrohiv-Vinnicka"
+        },
+        {
+            "id": "54011",
+            "name": "Писаревка",
+            "url": "Pysarivka-Vinnicka"
+        },
+        {
+            "id": "55626",
+            "name": "Радовка",
+            "url": "Radivka-Vinnicka"
+        },
+        {
+            "id": "55673",
+            "name": "Радянское",
+            "url": "Radyanske-Vinnicka"
+        },
+        {
+            "id": "55756",
+            "name": "Райгород",
+            "url": "Raihorod-Vinnicka"
+        },
+        {
+            "id": "55764",
+            "name": "Райки",
+            "url": "Raiky-Vinnicka"
+        },
+        {
+            "id": "55900",
+            "name": "Рахновка",
+            "url": "Rakhnivka-Vinnicka"
+        },
+        {
+            "id": "55902",
+            "name": "Рахны",
+            "url": "Rakhny-Vinnicka"
+        },
+        {
+            "id": "55903",
+            "name": "Рахны-Лесовые",
+            "url": "Rakhny-Lisovi-Vinnicka"
+        },
+        {
+            "id": "55904",
+            "name": "Рахны-Полевые",
+            "url": "Rakhny-Polovi-Vinnicka"
+        },
+        {
+            "id": "55887",
+            "name": "Ратуш",
+            "url": "Ratush-Vinnicka"
+        },
+        {
+            "id": "55947",
+            "name": "Регентовка",
+            "url": "Rehentivka-Vinnicka"
+        },
+        {
+            "id": "55949",
+            "name": "Регляшинцы",
+            "url": "Rehlyashyntsi-Vinnicka"
+        },
+        {
+            "id": "56118",
+            "name": "Ров",
+            "url": "Riv-Vinnicka"
+        },
+        {
+            "id": "56125",
+            "name": "Ровец",
+            "url": "Rivets-Vinnicka"
+        },
+        {
+            "id": "56129",
+            "name": "Ровное",
+            "url": "Rivne-Vinnicka"
+        },
+        {
+            "id": "55568",
+            "name": "Равнинное",
+            "url": "Rivnynne-Vinnicka"
+        },
+        {
+            "id": "56248",
+            "name": "Рожок",
+            "url": "Rizhok-Vinnicka"
+        },
+        {
+            "id": "56187",
+            "name": "Рогозка",
+            "url": "Rohizka-Vinnicka"
+        },
+        {
+            "id": "56189",
+            "name": "Рогозна",
+            "url": "Rohizna-Vinnicka"
+        },
+        {
+            "id": "56173",
+            "name": "Рогинцы",
+            "url": "Rohyntsi-Vinnicka"
+        },
+        {
+            "id": "56313",
+            "name": "Роля",
+            "url": "Rolya-Vinnicka"
+        },
+        {
+            "id": "56328",
+            "name": "Романовка",
+            "url": "Romanivka-Vinnicka"
+        },
+        {
+            "id": "56359",
+            "name": "Романово-Хутор",
+            "url": "Romanovo-Khutir-Vinnicka"
+        },
+        {
+            "id": "56419",
+            "name": "Росоша",
+            "url": "Rososha-Vinnicka"
+        },
+        {
+            "id": "55712",
+            "name": "Раздоловка",
+            "url": "Rozdolivka-Vinnicka"
+        },
+        {
+            "id": "56232",
+            "name": "Рожепы",
+            "url": "Rozhepy-Vinnicka"
+        },
+        {
+            "id": "56245",
+            "name": "Рожнятовка",
+            "url": "Rozhnyativka-Vinnicka"
+        },
+        {
+            "id": "56235",
+            "name": "Рожичная",
+            "url": "Rozhychna-Vinnicka"
+        },
+        {
+            "id": "56273",
+            "name": "Розовка",
+            "url": "Rozivka-Vinnicka"
+        },
+        {
+            "id": "55850",
+            "name": "Раскопаное",
+            "url": "Rozkopane-Vinnicka"
+        },
+        {
+            "id": "56398",
+            "name": "Роскошевка",
+            "url": "Rozkoshivka-Vinnicka"
+        },
+        {
+            "id": "56477",
+            "name": "Рубань",
+            "url": "Ruban-Vinnicka"
+        },
+        {
+            "id": "56463",
+            "name": "Рубанка",
+            "url": "Rubanka-Vinnicka"
+        },
+        {
+            "id": "56480",
+            "name": "Рубежное",
+            "url": "Rubizhne-Vinnicka"
+        },
+        {
+            "id": "56521",
+            "name": "Руданское",
+            "url": "Rudanske-Vinnicka"
+        },
+        {
+            "id": "56563",
+            "name": "Рудник",
+            "url": "Rudnyk-Vinnicka"
+        },
+        {
+            "id": "56569",
+            "name": "Рудницкое",
+            "url": "Rudnytske-Vinnicka"
+        },
+        {
+            "id": "56568",
+            "name": "Рудница",
+            "url": "Rudnytsya-Vinnicka"
+        },
+        {
+            "id": "56652",
+            "name": "Русава",
+            "url": "Rusava-Vinnicka"
+        },
+        {
+            "id": "56653",
+            "name": "Русава-Радянка",
+            "url": "Rusava-Radyanka-Vinnicka"
+        },
+        {
+            "id": "56783",
+            "name": "Рясное",
+            "url": "Ryasne-Vinnicka"
+        },
+        {
+            "id": "56724",
+            "name": "Рыбчинцы",
+            "url": "Rybchyntsi-Vinnicka"
+        },
+        {
+            "id": "56710",
+            "name": "Рыбки",
+            "url": "Rybky-Vinnicka"
+        },
+        {
+            "id": "56730",
+            "name": "Рыжавка",
+            "url": "Ryzhavka-Vinnicka"
+        },
+        {
+            "id": "56799",
+            "name": "Сабаровка",
+            "url": "Sabarivka-Vinnicka"
+        },
+        {
+            "id": "56877",
+            "name": "Садковцы",
+            "url": "Sadkivtsi-Vinnicka"
+        },
+        {
+            "id": "56857",
+            "name": "Садки",
+            "url": "Sadky-Vinnicka"
+        },
+        {
+            "id": "56880",
+            "name": "Садовая",
+            "url": "Sadova-Vinnicka"
+        },
+        {
+            "id": "56882",
+            "name": "Садовое",
+            "url": "Sadove-Vinnicka"
+        },
+        {
+            "id": "56938",
+            "name": "Саинка",
+            "url": "Sainka-Vinnicka"
+        },
+        {
+            "id": "56981",
+            "name": "Сальник",
+            "url": "Salnyk-Vinnicka"
+        },
+        {
+            "id": "56982",
+            "name": "Сальница",
+            "url": "Salnytsya-Vinnicka"
+        },
+        {
+            "id": "56968",
+            "name": "Салинцы",
+            "url": "Salyntsi-Vinnicka"
+        },
+        {
+            "id": "57048",
+            "name": "Самчинцы",
+            "url": "Samchyntsi-Vinnicka"
+        },
+        {
+            "id": "57009",
+            "name": "Самгородок",
+            "url": "Samhorodok-Vinnicka"
+        },
+        {
+            "id": "2355",
+            "name": "Теплик",
+            "url": "Teplik"
+        },
+        {
+            "id": "2356",
+            "name": "Черновцы",
+            "url": "ChernivtsiVinnicka"
+        },
+        {
+            "id": "2357",
+            "name": "Пещанка",
+            "url": "Peschanka"
+        },
+        {
+            "id": "2358",
+            "name": "Оратов",
+            "url": "Oratov"
+        },
+        {
+            "id": "2359",
+            "name": "Бар",
+            "url": "BarVinnicka"
+        },
+        {
+            "id": "2360",
+            "name": "Мурованые Куриловцы",
+            "url": "MurovanyeKurilovcy"
+        },
+        {
+            "id": "2353",
+            "name": "Тростянец",
+            "url": "Trostyanec"
+        },
+        {
+            "id": "2354",
+            "name": "Чечельник",
+            "url": "Chechelnik"
+        },
+        {
+            "id": "57166",
+            "name": "Сапежанка",
+            "url": "Sapizhanka-Vinnicka"
+        },
+        {
+            "id": "2350",
+            "name": "Гайсин",
+            "url": "Gajsin"
+        },
+        {
+            "id": "2351",
+            "name": "Тивров",
+            "url": "Tivrov"
+        },
+        {
+            "id": "2352",
+            "name": "Томашполь",
+            "url": "Tomashpol"
+        },
+        {
+            "id": "2347",
+            "name": "Крижополь",
+            "url": "Krizhopol"
+        },
+        {
+            "id": "2348",
+            "name": "Калиновка",
+            "url": "Kalinovka"
+        },
+        {
+            "id": "2349",
+            "name": "Липовец",
+            "url": "Lipovec"
+        },
+        {
+            "id": "2346",
+            "name": "Немиров",
+            "url": "Nemirov"
+        },
+        {
+            "id": "2345",
+            "name": "Бершадь",
+            "url": "Bershad"
+        },
+        {
+            "id": "2343",
+            "name": "Хмельник",
+            "url": "Khmilnyk"
+        },
+        {
+            "id": "2344",
+            "name": "Могилев-Подольский",
+            "url": "MohylivPodilsky"
+        },
+        {
+            "id": "2339",
+            "name": "Ильинцы",
+            "url": "Ilincy"
+        },
+        {
+            "id": "2340",
+            "name": "Винница",
+            "url": "Vinnitsa"
+        },
+        {
+            "id": "2341",
+            "name": "Жмеринка",
+            "url": "Zhmerynka"
+        },
+        {
+            "id": "2342",
+            "name": "Казатин",
+            "url": "Kozyatyn"
+        },
+        {
+            "id": "57182",
+            "name": "Саражинцы",
+            "url": "Sarazhyntsi-Vinnicka"
+        },
+        {
+            "id": "2335",
+            "name": "Ямполь",
+            "url": "Yampol"
+        },
+        {
+            "id": "2336",
+            "name": "Шаргород",
+            "url": "Shargorod"
+        },
+        {
+            "id": "2337",
+            "name": "Ладыжин",
+            "url": "Ladyzhin"
+        },
+        {
+            "id": "2338",
+            "name": "Погребище",
+            "url": "Pogrebische"
+        },
+        {
+            "id": "2334",
+            "name": "Тульчин",
+            "url": "Tulchin"
+        },
+        {
+            "id": "57260",
+            "name": "Саша",
+            "url": "Sasha-Vinnicka"
+        },
+        {
+            "id": "56839",
+            "name": "Савчино",
+            "url": "Savchyne-Vinnicka"
+        },
+        {
+            "id": "56933",
+            "name": "Сажки",
+            "url": "Sazhky-Vinnicka"
+        },
+        {
+            "id": "57815",
+            "name": "Сеферовка",
+            "url": "Seferivka-Vinnicka"
+        },
+        {
+            "id": "57502",
+            "name": "Селевинцы",
+            "url": "Selevyntsi-Vinnicka"
+        },
+        {
+            "id": "57576",
+            "name": "Семеновка",
+            "url": "Semenivka-Vinnicka"
+        },
+        {
+            "id": "57569",
+            "name": "Семенки",
+            "url": "Semenky-Vinnicka"
+        },
+        {
+            "id": "57636",
+            "name": "Семки",
+            "url": "Semky-Vinnicka"
+        },
+        {
+            "id": "57630",
+            "name": "Семиречка",
+            "url": "Semyrichka-Vinnicka"
+        },
+        {
+            "id": "57716",
+            "name": "Сербановка",
+            "url": "Serbanivka-Vinnicka"
+        },
+        {
+            "id": "57720",
+            "name": "Сербиновцы",
+            "url": "Serbynivtsi-Vinnicka"
+        },
+        {
+            "id": "57768",
+            "name": "Серебринцы",
+            "url": "Serebryntsi-Vinnicka"
+        },
+        {
+            "id": "57777",
+            "name": "Серединка",
+            "url": "Seredynka-Vinnicka"
+        },
+        {
+            "id": "57809",
+            "name": "Сестриновка",
+            "url": "Sestrynivka-Vinnicka"
+        },
+        {
+            "id": "57400",
+            "name": "Севериновка",
+            "url": "Severynivka-Vinnicka"
+        },
+        {
+            "id": "63415",
+            "name": "Шабельня",
+            "url": "Shabelnya-Vinnicka"
+        },
+        {
+            "id": "63467",
+            "name": "Шарапановка",
+            "url": "Sharapanivka-Vinnicka"
+        },
+        {
+            "id": "59821",
+            "name": "Счастливая",
+            "url": "Shchaslyva-Vinnicka"
+        },
+        {
+            "id": "64092",
+            "name": "Щитки",
+            "url": "Shchitky-Vinnicka"
+        },
+        {
+            "id": "64114",
+            "name": "Щучинцы",
+            "url": "Shchuchyntsi-Vinnicka"
+        },
+        {
+            "id": "64105",
+            "name": "Щури",
+            "url": "Shchuri-Vinnicka"
+        },
+        {
+            "id": "64110",
+            "name": "Щуровцы",
+            "url": "Shchurivtsi-Vinnicka"
+        },
+        {
+            "id": "63698",
+            "name": "Шендеров",
+            "url": "Shenderiv-Vinnicka"
+        },
+        {
+            "id": "63699",
+            "name": "Шендеровка",
+            "url": "Shenderivka-Vinnicka"
+        },
+        {
+            "id": "63709",
+            "name": "Шепиевка",
+            "url": "Shepiivka-Vinnicka"
+        },
+        {
+            "id": "63720",
+            "name": "Шершни",
+            "url": "Shershni-Vinnicka"
+        },
+        {
+            "id": "63539",
+            "name": "Шевченко",
+            "url": "Shevchenka-Vinnicka"
+        },
+        {
+            "id": "63596",
+            "name": "Шевченковка",
+            "url": "Shevchenkivka-Vinnicka"
+        },
+        {
+            "id": "63602",
+            "name": "Шевченково",
+            "url": "Shevchenkove-Vinnicka"
+        },
+        {
+            "id": "63901",
+            "name": "Шляховая",
+            "url": "Shlyakhova-Vinnicka"
+        },
+        {
+            "id": "63686",
+            "name": "Шелудьки",
+            "url": "Sholudky-Vinnicka"
+        },
+        {
+            "id": "63954",
+            "name": "Шпиков",
+            "url": "Shpykiv-Vinnicka"
+        },
+        {
+            "id": "63955",
+            "name": "Шпиковка",
+            "url": "Shpykivka-Vinnicka"
+        },
+        {
+            "id": "64024",
+            "name": "Шумы",
+            "url": "Shumy-Vinnicka"
+        },
+        {
+            "id": "64016",
+            "name": "Шумилов",
+            "url": "Shumyliv-Vinnicka"
+        },
+        {
+            "id": "64029",
+            "name": "Шура",
+            "url": "Shura-Vinnicka"
+        },
+        {
+            "id": "64030",
+            "name": "Шура-Бондуровская",
+            "url": "Shura-Bondurivska-Vinnicka"
+        },
+        {
+            "id": "64031",
+            "name": "Шура-Копиевская",
+            "url": "Shura-Kopiivska-Vinnicka"
+        },
+        {
+            "id": "64032",
+            "name": "Шура-Метлинецкая",
+            "url": "Shura-Mitlynetska-Vinnicka"
+        },
+        {
+            "id": "63762",
+            "name": "Шимановка",
+            "url": "Shymanivka-Vinnicka"
+        },
+        {
+            "id": "63773",
+            "name": "Шипинки",
+            "url": "Shypynky-Vinnicka"
+        },
+        {
+            "id": "63779",
+            "name": "Ширмовка",
+            "url": "Shyrmivka-Vinnicka"
+        },
+        {
+            "id": "63788",
+            "name": "Широкая Гребля",
+            "url": "Shyroka Hreblya-Vinnicka"
+        },
+        {
+            "id": "63804",
+            "name": "Широкое",
+            "url": "Shyroke-Vinnicka"
+        },
+        {
+            "id": "57899",
+            "name": "Сильница",
+            "url": "Silnytsya-Vinnicka"
+        },
+        {
+            "id": "58010",
+            "name": "Скала",
+            "url": "Skala-Vinnicka"
+        },
+        {
+            "id": "58017",
+            "name": "Скалополь",
+            "url": "Skalopil-Vinnicka"
+        },
+        {
+            "id": "58021",
+            "name": "Скаржинцы",
+            "url": "Skarzhyntsi-Vinnicka"
+        },
+        {
+            "id": "58008",
+            "name": "Сказинцы",
+            "url": "Skazyntsi-Vinnicka"
+        },
+        {
+            "id": "58074",
+            "name": "Скоморошки",
+            "url": "Skomoroshky-Vinnicka"
+        },
+        {
+            "id": "58090",
+            "name": "Скорячий Яр",
+            "url": "Skoryachyi Yar-Vinnicka"
+        },
+        {
+            "id": "58113",
+            "name": "Скрицкое",
+            "url": "Skrytske-Vinnicka"
+        },
+        {
+            "id": "58036",
+            "name": "Скибин",
+            "url": "Skybyn-Vinnicka"
+        },
+        {
+            "id": "58039",
+            "name": "Скибинцы",
+            "url": "Skybyntsi-Vinnicka"
+        },
+        {
+            "id": "58052",
+            "name": "Скитка",
+            "url": "Skytka-Vinnicka"
+        },
+        {
+            "id": "58133",
+            "name": "Славная",
+            "url": "Slavna-Vinnicka"
+        },
+        {
+            "id": "58136",
+            "name": "Славное",
+            "url": "Slavne-Vinnicka"
+        },
+        {
+            "id": "58224",
+            "name": "Слободка",
+            "url": "Slobidka-Vinnicka"
+        },
+        {
+            "id": "58186",
+            "name": "Слобода",
+            "url": "Sloboda-Vinnicka"
+        },
+        {
+            "id": "58199",
+            "name": "Слобода-Бушанская",
+            "url": "Sloboda-Bushanska-Vinnicka"
+        },
+        {
+            "id": "58216",
+            "name": "Слобода-Чернятинская",
+            "url": "Sloboda-Chernyatynska-Vinnicka"
+        },
+        {
+            "id": "58202",
+            "name": "Слобода-Дашковецкая",
+            "url": "Sloboda-Dashkovetska-Vinnicka"
+        },
+        {
+            "id": "58201",
+            "name": "Слобода-Гулевская",
+            "url": "Sloboda-Hulivska-Vinnicka"
+        },
+        {
+            "id": "58215",
+            "name": "Слобода-Ходакская",
+            "url": "Sloboda-Khodatska-Vinnicka"
+        },
+        {
+            "id": "58205",
+            "name": "Слобода-Кустовецкая",
+            "url": "Sloboda-Kustovetska-Vinnicka"
+        },
+        {
+            "id": "58207",
+            "name": "Слобода-Межировская",
+            "url": "Sloboda-Mezhyrivska-Vinnicka"
+        },
+        {
+            "id": "58211",
+            "name": "Слобода-Подлесовская",
+            "url": "Sloboda-Pidlisivska-Vinnicka"
+        },
+        {
+            "id": "58217",
+            "name": "Слобода-Шаргородская",
+            "url": "Sloboda-Sharhorodska-Vinnicka"
+        },
+        {
+            "id": "58218",
+            "name": "Слобода-Шлышковецкая",
+            "url": "Sloboda-Shlyshkovetska-Vinnicka"
+        },
+        {
+            "id": "58196",
+            "name": "Слобода Ялтушковская",
+            "url": "Sloboda-Yaltushkivska-Vinnicka"
+        },
+        {
+            "id": "58220",
+            "name": "Слобода-Ярышевская",
+            "url": "Sloboda-Yaryshivska-Vinnicka"
+        },
+        {
+            "id": "58222",
+            "name": "Слободище",
+            "url": "Slobodyshche-Vinnicka"
+        },
+        {
+            "id": "58286",
+            "name": "Смаржинцы",
+            "url": "Smarzhyntsi-Vinnicka"
+        },
+        {
+            "id": "58288",
+            "name": "Смела",
+            "url": "Smila-Vinnicka"
+        },
+        {
+            "id": "58378",
+            "name": "Снитков",
+            "url": "Snitkiv-Vinnicka"
+        },
+        {
+            "id": "58721",
+            "name": "Софиевка",
+            "url": "Sofiivka-Vinnicka"
+        },
+        {
+            "id": "58441",
+            "name": "Сокол",
+            "url": "Sokil-Vinnicka"
+        },
+        {
+            "id": "58447",
+            "name": "Соколец",
+            "url": "Sokilets-Vinnicka"
+        },
+        {
+            "id": "58501",
+            "name": "Сокольцы",
+            "url": "Sokiltsi-Vinnicka"
+        },
+        {
+            "id": "58465",
+            "name": "Соколовка",
+            "url": "Sokolivka-Vinnicka"
+        },
+        {
+            "id": "58462",
+            "name": "Соколова",
+            "url": "Sokolova-Vinnicka"
+        },
+        {
+            "id": "58454",
+            "name": "Соколинцы",
+            "url": "Sokolyntsi-Vinnicka"
+        },
+        {
+            "id": "58438",
+            "name": "Сокиряны",
+            "url": "Sokyryany-Vinnicka"
+        },
+        {
+            "id": "58427",
+            "name": "Сокиринцы",
+            "url": "Sokyryntsi-Vinnicka"
+        },
+        {
+            "id": "58563",
+            "name": "Сологубовка",
+            "url": "Solohubivka-Vinnicka"
+        },
+        {
+            "id": "57553",
+            "name": "Семаки",
+            "url": "Somaky-Vinnicka"
+        },
+        {
+            "id": "58536",
+            "name": "Солнечное",
+            "url": "Sonyachne-Vinnicka"
+        },
+        {
+            "id": "58619",
+            "name": "Сопин",
+            "url": "Sopyn-Vinnicka"
+        },
+        {
+            "id": "58631",
+            "name": "Сорока",
+            "url": "Soroka-Vinnicka"
+        },
+        {
+            "id": "58644",
+            "name": "Сорокодубы",
+            "url": "Sorokoduby-Vinnicka"
+        },
+        {
+            "id": "58650",
+            "name": "Сорокотяжинцы",
+            "url": "Sorokotyazhyntsi-Vinnicka"
+        },
+        {
+            "id": "58772",
+            "name": "Сошанское",
+            "url": "Soshanske-Vinnicka"
+        },
+        {
+            "id": "58670",
+            "name": "Сосновка",
+            "url": "Sosnivka-Vinnicka"
+        },
+        {
+            "id": "58708",
+            "name": "Сосны",
+            "url": "Sosny-Vinnicka"
+        },
+        {
+            "id": "58709",
+            "name": "Сосонка",
+            "url": "Sosonka-Vinnicka"
+        },
+        {
+            "id": "58811",
+            "name": "Сподахи",
+            "url": "Spodakhy-Vinnicka"
+        },
+        {
+            "id": "58809",
+            "name": "Спичинцы",
+            "url": "Spychyntsi-Vinnicka"
+        },
+        {
+            "id": "58924",
+            "name": "Станиславчик",
+            "url": "Stanislavchyk-Vinnicka"
+        },
+        {
+            "id": "58916",
+            "name": "Станиславка",
+            "url": "Stanislavka-Vinnicka"
+        },
+        {
+            "id": "58912",
+            "name": "Станиловка",
+            "url": "Stanylivka-Vinnicka"
+        },
+        {
+            "id": "58965",
+            "name": "Старая Гута",
+            "url": "Stara Huta-Vinnicka"
+        },
+        {
+            "id": "58999",
+            "name": "Старая Прилука",
+            "url": "Stara Pryluka-Vinnicka"
+        },
+        {
+            "id": "59091",
+            "name": "Старостинцы",
+            "url": "Starostyntsi-Vinnicka"
+        },
+        {
+            "id": "59187",
+            "name": "Стасюки",
+            "url": "Stasyuky-Vinnicka"
+        },
+        {
+            "id": "58861",
+            "name": "Ставки",
+            "url": "Stavky-Vinnicka"
+        },
+        {
+            "id": "59230",
+            "name": "Степановка",
+            "url": "Stepanivka-Vinnicka"
+        },
+        {
+            "id": "59224",
+            "name": "Степанки",
+            "url": "Stepanky-Vinnicka"
+        },
+        {
+            "id": "59285",
+            "name": "Степашки",
+            "url": "Stepashky-Vinnicka"
+        },
+        {
+            "id": "59289",
+            "name": "Степное",
+            "url": "Stepne-Vinnicka"
+        },
+        {
+            "id": "59352",
+            "name": "Степок",
+            "url": "Stepok-Vinnicka"
+        },
+        {
+            "id": "59316",
+            "name": "Степовое",
+            "url": "Stepove-Vinnicka"
+        },
+        {
+            "id": "59395",
+            "name": "Стодульцы",
+            "url": "Stodultsi-Vinnicka"
+        },
+        {
+            "id": "59447",
+            "name": "Стратиевка",
+            "url": "Stratiivka-Vinnicka"
+        },
+        {
+            "id": "59444",
+            "name": "Стражгород",
+            "url": "Strazhhorod-Vinnicka"
+        },
+        {
+            "id": "59476",
+            "name": "Стрельчинцы",
+            "url": "Strilchyntsi-Vinnicka"
+        },
+        {
+            "id": "59467",
+            "name": "Стрельники",
+            "url": "Strilnyky-Vinnicka"
+        },
+        {
+            "id": "59507",
+            "name": "Строинцы",
+            "url": "Strointsi-Vinnicka"
+        },
+        {
+            "id": "59526",
+            "name": "Струсово",
+            "url": "Strusove-Vinnicka"
+        },
+        {
+            "id": "59528",
+            "name": "Струтинка",
+            "url": "Strutynka-Vinnicka"
+        },
+        {
+            "id": "59492",
+            "name": "Стрижавка",
+            "url": "Stryzhavka-Vinnicka"
+        },
+        {
+            "id": "59545",
+            "name": "Студеная",
+            "url": "Studena-Vinnicka"
+        },
+        {
+            "id": "59548",
+            "name": "Студеница",
+            "url": "Studenytsya-Vinnicka"
+        },
+        {
+            "id": "59568",
+            "name": "Ступки",
+            "url": "Stupky-Vinnicka"
+        },
+        {
+            "id": "59573",
+            "name": "Ступник",
+            "url": "Stupnyk-Vinnicka"
+        },
+        {
+            "id": "59588",
+            "name": "Субботовка",
+            "url": "Subotivka-Vinnicka"
+        },
+        {
+            "id": "59608",
+            "name": "Сугаки",
+            "url": "Suhaky-Vinnicka"
+        },
+        {
+            "id": "59729",
+            "name": "Сухая Долина",
+            "url": "Sukha Dolyna-Vinnicka"
+        },
+        {
+            "id": "59655",
+            "name": "Сулковка",
+            "url": "Sulkivka-Vinnicka"
+        },
+        {
+            "id": "59665",
+            "name": "Сумовка",
+            "url": "Sumivka-Vinnicka"
+        },
+        {
+            "id": "59676",
+            "name": "Суповка",
+            "url": "Supivka-Vinnicka"
+        },
+        {
+            "id": "59680",
+            "name": "Супрунов",
+            "url": "Supruniv-Vinnicka"
+        },
+        {
+            "id": "59681",
+            "name": "Супруновка",
+            "url": "Suprunivka-Vinnicka"
+        },
+        {
+            "id": "59697",
+            "name": "Сурогатка",
+            "url": "Surohatka-Vinnicka"
+        },
+        {
+            "id": "59604",
+            "name": "Суворовское",
+            "url": "Suvorovske-Vinnicka"
+        },
+        {
+            "id": "57278",
+            "name": "Свердловка",
+            "url": "Sverdlivka-Vinnicka"
+        },
+        {
+            "id": "57312",
+            "name": "Светлое",
+            "url": "Svitle-Vinnicka"
+        },
+        {
+            "id": "57340",
+            "name": "Свидова",
+            "url": "Svydova-Vinnicka"
+        },
+        {
+            "id": "57371",
+            "name": "Свитинцы",
+            "url": "Svytyntsi-Vinnicka"
+        },
+        {
+            "id": "57852",
+            "name": "Сигнал",
+            "url": "Syhnal-Vinnicka"
+        },
+        {
+            "id": "57914",
+            "name": "Синарна",
+            "url": "Synarna-Vinnicka"
+        },
+        {
+            "id": "57994",
+            "name": "Ситковцы",
+            "url": "Sytkivtsi-Vinnicka"
+        },
+        {
+            "id": "57832",
+            "name": "Сиваковцы",
+            "url": "Syvakivtsi-Vinnicka"
+        },
+        {
+            "id": "60018",
+            "name": "Тарасовка",
+            "url": "Tarasivka-Vinnicka"
+        },
+        {
+            "id": "60013",
+            "name": "Тараски",
+            "url": "Tarasky-Vinnicka"
+        },
+        {
+            "id": "60109",
+            "name": "Тартак",
+            "url": "Tartak-Vinnicka"
+        },
+        {
+            "id": "60176",
+            "name": "Текловка",
+            "url": "Teklivka-Vinnicka"
+        },
+        {
+            "id": "60175",
+            "name": "Теклиновка",
+            "url": "Teklynivka-Vinnicka"
+        },
+        {
+            "id": "60189",
+            "name": "Телелинцы",
+            "url": "Telelyntsi-Vinnicka"
+        },
+        {
+            "id": "60198",
+            "name": "Тельмана",
+            "url": "Telmana-Vinnicka"
+        },
+        {
+            "id": "60263",
+            "name": "Терешки",
+            "url": "Tereshky-Vinnicka"
+        },
+        {
+            "id": "60273",
+            "name": "Терешполь",
+            "url": "Tereshpil-Vinnicka"
+        },
+        {
+            "id": "60303",
+            "name": "Терновка",
+            "url": "Ternivka-Vinnicka"
+        },
+        {
+            "id": "60599",
+            "name": "Тополевка",
+            "url": "Topolivka-Vinnicka"
+        },
+        {
+            "id": "60662",
+            "name": "Торчин",
+            "url": "Torchyn-Vinnicka"
+        },
+        {
+            "id": "60652",
+            "name": "Торкановка",
+            "url": "Torkanivka-Vinnicka"
+        },
+        {
+            "id": "60654",
+            "name": "Торков",
+            "url": "Torkiv-Vinnicka"
+        },
+        {
+            "id": "60701",
+            "name": "Трактовое",
+            "url": "Traktove-Vinnicka"
+        },
+        {
+            "id": "60684",
+            "name": "Травневое",
+            "url": "Travneve-Vinnicka"
+        },
+        {
+            "id": "60807",
+            "name": "Троповое",
+            "url": "Tropove-Vinnicka"
+        },
+        {
+            "id": "60845",
+            "name": "Троща",
+            "url": "Troshcha-Vinnicka"
+        },
+        {
+            "id": "60840",
+            "name": "Тростянчик",
+            "url": "Trostyanchyk-Vinnicka"
+        },
+        {
+            "id": "60870",
+            "name": "Трубочка",
+            "url": "Trubochka-Vinnicka"
+        },
+        {
+            "id": "60905",
+            "name": "Трудолюбовка",
+            "url": "Trudolyubivka-Vinnicka"
+        },
+        {
+            "id": "60881",
+            "name": "Трудовое",
+            "url": "Trudove-Vinnicka"
+        },
+        {
+            "id": "60734",
+            "name": "Трибухи",
+            "url": "Trybukhy-Vinnicka"
+        },
+        {
+            "id": "60733",
+            "name": "Трибусовка",
+            "url": "Trybusivka-Vinnicka"
+        },
+        {
+            "id": "62365",
+            "name": "Цекиновка",
+            "url": "Tsekynivka-Vinnicka"
+        },
+        {
+            "id": "62354",
+            "name": "Цвилиховка",
+            "url": "Tsvilikhivka-Vinnicka"
+        },
+        {
+            "id": "62353",
+            "name": "Цвижин",
+            "url": "Tsvizhyn-Vinnicka"
+        },
+        {
+            "id": "62427",
+            "name": "Цибулевка",
+            "url": "Tsybulivka-Vinnicka"
+        },
+        {
+            "id": "61064",
+            "name": "Туча",
+            "url": "Tucha-Vinnicka"
+        },
+        {
+            "id": "61123",
+            "name": "Тягун",
+            "url": "Tyahun-Vinnicka"
+        },
+        {
+            "id": "60388",
+            "name": "Тимановка",
+            "url": "Tymanivka-Vinnicka"
+        },
+        {
+            "id": "61086",
+            "name": "Тымар",
+            "url": "Tymar-Vinnicka"
+        },
+        {
+            "id": "61092",
+            "name": "Тырловка",
+            "url": "Tyrlivka-Vinnicka"
+        },
+        {
+            "id": "60484",
+            "name": "Тишковка",
+            "url": "Tyshkivka-Vinnicka"
+        },
+        {
+            "id": "60489",
+            "name": "Тишковская Слобода",
+            "url": "Tyshkivska Sloboda-Vinnicka"
+        },
+        {
+            "id": "60454",
+            "name": "Титусовка",
+            "url": "Tytusivka-Vinnicka"
+        },
+        {
+            "id": "61112",
+            "name": "Тютьки",
+            "url": "Tyutky-Vinnicka"
+        },
+        {
+            "id": "61114",
+            "name": "Тютюнники",
+            "url": "Tyutyunnyky-Vinnicka"
+        },
+        {
+            "id": "61082",
+            "name": "Тывров",
+            "url": "Tyvriv-Vinnicka"
+        },
+        {
+            "id": "61196",
+            "name": "Удич",
+            "url": "Udych-Vinnicka"
+        },
+        {
+            "id": "61229",
+            "name": "Украинка",
+            "url": "Ukrainka-Vinnicka"
+        },
+        {
+            "id": "61253",
+            "name": "Украинское",
+            "url": "Ukrainske-Vinnicka"
+        },
+        {
+            "id": "61273",
+            "name": "Уладовка",
+            "url": "Uladivka-Vinnicka"
+        },
+        {
+            "id": "61274",
+            "name": "Уладовское",
+            "url": "Uladivske-Vinnicka"
+        },
+        {
+            "id": "61278",
+            "name": "Уланов",
+            "url": "Ulaniv-Vinnicka"
+        },
+        {
+            "id": "61279",
+            "name": "Улановка",
+            "url": "Ulanivka-Vinnicka"
+        },
+        {
+            "id": "61321",
+            "name": "Ульяновка",
+            "url": "Ulyanivka-Vinnicka"
+        },
+        {
+            "id": "61421",
+            "name": "Урожайное",
+            "url": "Urozhaine-Vinnicka"
+        },
+        {
+            "id": "61478",
+            "name": "Устье",
+            "url": "Ustya-Vinnicka"
+        },
+        {
+            "id": "61531",
+            "name": "Уяринцы",
+            "url": "Uyaryntsi-Vinnicka"
+        },
+        {
+            "id": "34686",
+            "name": "Вахновка",
+            "url": "Vakhnivka-Vinnicka"
+        },
+        {
+            "id": "34507",
+            "name": "Вапнярки",
+            "url": "Vapnyarky-Vinnicka"
+        },
+        {
+            "id": "34561",
+            "name": "Василевка",
+            "url": "Vasylivka-Vinnicka"
+        },
+        {
+            "id": "34626",
+            "name": "Васильевка",
+            "url": "Vasylivka-Vinnicka"
+        },
+        {
+            "id": "34647",
+            "name": "Васильковцы",
+            "url": "Vasylkivtsi-Vinnicka"
+        },
+        {
+            "id": "34675",
+            "name": "Васютинцы",
+            "url": "Vasyutyntsi-Vinnicka"
+        },
+        {
+            "id": "34439",
+            "name": "Важное",
+            "url": "Vazhne-Vinnicka"
+        },
+        {
+            "id": "34744",
+            "name": "Великая Бушинка",
+            "url": "Velyka Bushynka-Vinnicka"
+        },
+        {
+            "id": "34789",
+            "name": "Великая Косница",
+            "url": "Velyka Kisnytsya-Vinnicka"
+        },
+        {
+            "id": "34783",
+            "name": "Великая Киреевка",
+            "url": "Velyka Kyriivka-Vinnicka"
+        },
+        {
+            "id": "34807",
+            "name": "Великая Мочулка",
+            "url": "Velyka Mochulka-Vinnicka"
+        },
+        {
+            "id": "34825",
+            "name": "Великая Ростовка",
+            "url": "Velyka Rostivka-Vinnicka"
+        },
+        {
+            "id": "34829",
+            "name": "Великая Русава",
+            "url": "Velyka Rusava-Vinnicka"
+        },
+        {
+            "id": "33529",
+            "name": "Большая Стратиевка",
+            "url": "Velyka Stratiivka-Vinnicka"
+        },
+        {
+            "id": "34755",
+            "name": "Великая Вулыга",
+            "url": "Velyka Vulyha-Vinnicka"
+        },
+        {
+            "id": "35012",
+            "name": "Великое",
+            "url": "Velyke-Vinnicka"
+        },
+        {
+            "id": "34892",
+            "name": "Великие Крушлинцы",
+            "url": "Velyki Krushlyntsi-Vinnicka"
+        },
+        {
+            "id": "34895",
+            "name": "Великие Кутыща",
+            "url": "Velyki Kutyshcha-Vinnicka"
+        },
+        {
+            "id": "34974",
+            "name": "Великий Мытник",
+            "url": "Velykyi Mytnyk-Vinnicka"
+        },
+        {
+            "id": "34978",
+            "name": "Великий Острожок",
+            "url": "Velykyi Ostrozhok-Vinnicka"
+        },
+        {
+            "id": "34838",
+            "name": "Великая Степь",
+            "url": "Velykyi Step-Vinnicka"
+        },
+        {
+            "id": "35093",
+            "name": "Вербецкое",
+            "url": "Verbetske-Vinnicka"
+        },
+        {
+            "id": "35125",
+            "name": "Вербовка",
+            "url": "Verbivka-Vinnicka"
+        },
+        {
+            "id": "35101",
+            "name": "Вербка",
+            "url": "Verbka-Vinnicka"
+        },
+        {
+            "id": "35172",
+            "name": "Верболозы",
+            "url": "Verbolozy-Vinnicka"
+        },
+        {
+            "id": "35117",
+            "name": "Вербовая",
+            "url": "Verbova-Vinnicka"
+        },
+        {
+            "id": "35120",
+            "name": "Вербовец",
+            "url": "Verbovets-Vinnicka"
+        },
+        {
+            "id": "35201",
+            "name": "Верешки",
+            "url": "Vereshky-Vinnicka"
+        },
+        {
+            "id": "35328",
+            "name": "Верховка",
+            "url": "Verkhivka-Vinnicka"
+        },
+        {
+            "id": "35334",
+            "name": "Верховское",
+            "url": "Verkhivske-Vinnicka"
+        },
+        {
+            "id": "35317",
+            "name": "Верхняя Слободка",
+            "url": "Verkhnya Slobidka-Vinnicka"
+        },
+        {
+            "id": "35213",
+            "name": "Вернянка",
+            "url": "Vernyanka-Vinnicka"
+        },
+        {
+            "id": "35210",
+            "name": "Вернигородок",
+            "url": "Vernyhorodok-Vinnicka"
+        },
+        {
+            "id": "35514",
+            "name": "Весняное",
+            "url": "Vesnyane-Vinnicka"
+        },
+        {
+            "id": "35588",
+            "name": "Вийтовка",
+            "url": "Viitivka-Vinnicka"
+        },
+        {
+            "id": "36075",
+            "name": "Войтовцы",
+            "url": "Viitivtsi-Vinnicka"
+        },
+        {
+            "id": "35590",
+            "name": "Викентиевка",
+            "url": "Vikentiivka-Vinnicka"
+        },
+        {
+            "id": "35604",
+            "name": "Викторовка",
+            "url": "Viktorivka-Vinnicka"
+        },
+        {
+            "id": "36261",
+            "name": "Вольное",
+            "url": "Vilne-Vinnicka"
+        },
+        {
+            "id": "52331",
+            "name": "Ольшанка",
+            "url": "Vilshanka-Vinnicka"
+        },
+        {
+            "id": "35672",
+            "name": "Винницкие Хутора",
+            "url": "Vinnytski Khutory-Vinnicka"
+        },
+        {
+            "id": "35711",
+            "name": "Винож",
+            "url": "Vinozh-Vinnicka"
+        },
+        {
+            "id": "35537",
+            "name": "Ветровка",
+            "url": "Vitrivka-Vinnicka"
+        },
+        {
+            "id": "51981",
+            "name": "Овчарня",
+            "url": "Vivcharnya-Vinnicka"
+        },
+        {
+            "id": "51974",
+            "name": "Овсяники",
+            "url": "Vivsyanyky-Vinnicka"
+        },
+        {
+            "id": "36061",
+            "name": "Войнашовка",
+            "url": "Voinashivka-Vinnicka"
+        },
+        {
+            "id": "36030",
+            "name": "Воеводчинцы",
+            "url": "Vojevodchyntsi-Vinnicka"
+        },
+        {
+            "id": "36163",
+            "name": "Володиевцы",
+            "url": "Volodiivtsi-Vinnicka"
+        },
+        {
+            "id": "35868",
+            "name": "Владимировка",
+            "url": "Volodymyrivka-Vinnicka"
+        },
+        {
+            "id": "35863",
+            "name": "Владимирка",
+            "url": "Volodymyrka-Vinnicka"
+        },
+        {
+            "id": "36199",
+            "name": "Волошковое",
+            "url": "Voloshkove-Vinnicka"
+        },
+        {
+            "id": "36153",
+            "name": "Воловодовка",
+            "url": "Volovodivka-Vinnicka"
+        },
+        {
+            "id": "36354",
+            "name": "Воробиевка",
+            "url": "Vorobiivka-Vinnicka"
+        },
+        {
+            "id": "36412",
+            "name": "Вороновцы",
+            "url": "Voronivtsi-Vinnicka"
+        },
+        {
+            "id": "36446",
+            "name": "Воскодавинцы",
+            "url": "Voskodavyntsi-Vinnicka"
+        },
+        {
+            "id": "36231",
+            "name": "Волчок",
+            "url": "Vovchok-Vinnicka"
+        },
+        {
+            "id": "36221",
+            "name": "Волчинец",
+            "url": "Vovchynets-Vinnicka"
+        },
+        {
+            "id": "36051",
+            "name": "Вознивцы",
+            "url": "Voznivtsi-Vinnicka"
+        },
+        {
+            "id": "36687",
+            "name": "Вязовица",
+            "url": "Vyazovytsya-Vinnicka"
+        },
+        {
+            "id": "36532",
+            "name": "Выгнанка",
+            "url": "Vyhnanka-Vinnicka"
+        },
+        {
+            "id": "36538",
+            "name": "Выгода",
+            "url": "Vyhoda-Vinnicka"
+        },
+        {
+            "id": "35640",
+            "name": "Вилы",
+            "url": "Vyla-Vinnicka"
+        },
+        {
+            "id": "35680",
+            "name": "Виноградное",
+            "url": "Vynohradne-Vinnicka"
+        },
+        {
+            "id": "35712",
+            "name": "Винокурня",
+            "url": "Vynokurnya-Vinnicka"
+        },
+        {
+            "id": "36642",
+            "name": "Высшая Крапивна",
+            "url": "Vyshcha Kropyvna-Vinnicka"
+        },
+        {
+            "id": "36645",
+            "name": "Высшеольчедаев",
+            "url": "Vyshcheolchedaiv-Vinnicka"
+        },
+        {
+            "id": "35767",
+            "name": "Вишенка",
+            "url": "Vyshenka-Vinnicka"
+        },
+        {
+            "id": "36668",
+            "name": "Вышковцы",
+            "url": "Vyshkivtsi-Vinnicka"
+        },
+        {
+            "id": "35796",
+            "name": "Вишневое",
+            "url": "Vyshneve-Vinnicka"
+        },
+        {
+            "id": "35785",
+            "name": "Вишневка",
+            "url": "Vyshnivka-Vinnicka"
+        },
+        {
+            "id": "36595",
+            "name": "Высокая Гребля",
+            "url": "Vysoka Hreblya-Vinnicka"
+        },
+        {
+            "id": "64399",
+            "name": "Яблоневое",
+            "url": "Yabluneve-Vinnicka"
+        },
+        {
+            "id": "64414",
+            "name": "Яблоновка",
+            "url": "Yablunivka-Vinnicka"
+        },
+        {
+            "id": "64413",
+            "name": "Яблоновица",
+            "url": "Yablunovytsya-Vinnicka"
+        },
+        {
+            "id": "64531",
+            "name": "Якушинцы",
+            "url": "Yakushyntsi-Vinnicka"
+        },
+        {
+            "id": "28876",
+            "name": "Акимовка",
+            "url": "Yakymivka-Vinnicka"
+        },
+        {
+            "id": "64533",
+            "name": "Яланец",
+            "url": "Yalanets-Vinnicka"
+        },
+        {
+            "id": "64550",
+            "name": "Ялтушков",
+            "url": "Yaltushkiv-Vinnicka"
+        },
+        {
+            "id": "64597",
+            "name": "Яр",
+            "url": "Yar-Vinnicka"
+        },
+        {
+            "id": "64623",
+            "name": "Ярмолинцы",
+            "url": "Yarmolyntsi-Vinnicka"
+        },
+        {
+            "id": "64652",
+            "name": "Ярошенка",
+            "url": "Yaroshenka-Vinnicka"
+        },
+        {
+            "id": "64632",
+            "name": "Яровое",
+            "url": "Yarove-Vinnicka"
+        },
+        {
+            "id": "64661",
+            "name": "Яруга",
+            "url": "Yaruha-Vinnicka"
+        },
+        {
+            "id": "64666",
+            "name": "Ярышев",
+            "url": "Yaryshiv-Vinnicka"
+        },
+        {
+            "id": "64667",
+            "name": "Ярышевка",
+            "url": "Yaryshivka-Vinnicka"
+        },
+        {
+            "id": "64673",
+            "name": "Ясенецкое",
+            "url": "Yasenetske-Vinnicka"
+        },
+        {
+            "id": "64678",
+            "name": "Ясенки",
+            "url": "Yasenky-Vinnicka"
+        },
+        {
+            "id": "64740",
+            "name": "Ясное",
+            "url": "Yasne-Vinnicka"
+        },
+        {
+            "id": "64763",
+            "name": "Ястребиха",
+            "url": "Yastrubykha-Vinnicka"
+        },
+        {
+            "id": "64772",
+            "name": "Яструбинцы",
+            "url": "Yastrubyntsi-Vinnicka"
+        },
+        {
+            "id": "64463",
+            "name": "Яворовка",
+            "url": "Yavorivka-Vinnicka"
+        },
+        {
+            "id": "64495",
+            "name": "Язвинки",
+            "url": "Yazvynky-Vinnicka"
+        },
+        {
+            "id": "42014",
+            "name": "Йосипенки",
+            "url": "Yosypenky-Vinnicka"
+        },
+        {
+            "id": "41924",
+            "name": "Иосиповка",
+            "url": "Yosypivka-Vinnicka"
+        },
+        {
+            "id": "42016",
+            "name": "Йосиповка",
+            "url": "Yosypivka-Vinnicka"
+        },
+        {
+            "id": "41926",
+            "name": "Иосиповцы",
+            "url": "Yosypivtsi-Vinnicka"
+        },
+        {
+            "id": "64388",
+            "name": "Юхимовка",
+            "url": "Yukhymivka-Vinnicka"
+        },
+        {
+            "id": "64312",
+            "name": "Юлиямполь",
+            "url": "Yuliyampil-Vinnicka"
+        },
+        {
+            "id": "64313",
+            "name": "Юлиямпольское",
+            "url": "Yuliyampilske-Vinnicka"
+        },
+        {
+            "id": "64318",
+            "name": "Юнашки",
+            "url": "Yunashky-Vinnicka"
+        },
+        {
+            "id": "64345",
+            "name": "Юровка",
+            "url": "Yurivka-Vinnicka"
+        },
+        {
+            "id": "64329",
+            "name": "Юрковка",
+            "url": "Yurkivka-Vinnicka"
+        },
+        {
+            "id": "64337",
+            "name": "Юрковцы",
+            "url": "Yurkivtsi-Vinnicka"
+        },
+        {
+            "id": "64395",
+            "name": "Юшковцы",
+            "url": "Yushkivtsi-Vinnicka"
+        },
+        {
+            "id": "40248",
+            "name": "Забеляны",
+            "url": "Zabilyany-Vinnicka"
+        },
+        {
+            "id": "40254",
+            "name": "Заболотное",
+            "url": "Zabolotne-Vinnicka"
+        },
+        {
+            "id": "40297",
+            "name": "Забужье",
+            "url": "Zabuzhzhya-Vinnicka"
+        },
+        {
+            "id": "40461",
+            "name": "Задорожное",
+            "url": "Zadorozhnje-Vinnicka"
+        },
+        {
+            "id": "40435",
+            "name": "Загребельня",
+            "url": "Zahrebelnya-Vinnicka"
+        },
+        {
+            "id": "40519",
+            "name": "Закриничье",
+            "url": "Zakrynychchya-Vinnicka"
+        },
+        {
+            "id": "40554",
+            "name": "Залесье",
+            "url": "Zalissya-Vinnicka"
+        },
+        {
+            "id": "40613",
+            "name": "Залужное",
+            "url": "Zaluzhne-Vinnicka"
+        },
+        {
+            "id": "40617",
+            "name": "Залужье",
+            "url": "Zaluzhzhya-Vinnicka"
+        },
+        {
+            "id": "40578",
+            "name": "Заливанщина",
+            "url": "Zalyvanshchyna-Vinnicka"
+        },
+        {
+            "id": "40655",
+            "name": "Заможное",
+            "url": "Zamozhne-Vinnicka"
+        },
+        {
+            "id": "40688",
+            "name": "Заозерное",
+            "url": "Zaozerne-Vinnicka"
+        },
+        {
+            "id": "40840",
+            "name": "Заречье",
+            "url": "Zarichchya-Vinnicka"
+        },
+        {
+            "id": "40819",
+            "name": "Заречное",
+            "url": "Zarichne-Vinnicka"
+        },
+        {
+            "id": "40892",
+            "name": "Зарудье",
+            "url": "Zaruddya-Vinnicka"
+        },
+        {
+            "id": "40887",
+            "name": "Зарудинцы",
+            "url": "Zarudyntsi-Vinnicka"
+        },
+        {
+            "id": "40810",
+            "name": "Зарванка",
+            "url": "Zarvanka-Vinnicka"
+        },
+        {
+            "id": "40811",
+            "name": "Зарванцы",
+            "url": "Zarvantsi-Vinnicka"
+        },
+        {
+            "id": "40978",
+            "name": "Затоки",
+            "url": "Zatoky-Vinnicka"
+        },
+        {
+            "id": "40962",
+            "name": "Затишное",
+            "url": "Zatyshne-Vinnicka"
+        },
+        {
+            "id": "40315",
+            "name": "Завадовка",
+            "url": "Zavadivka-Vinnicka"
+        },
+        {
+            "id": "40339",
+            "name": "Заветное",
+            "url": "Zavitne-Vinnicka"
+        },
+        {
+            "id": "41026",
+            "name": "Збараж",
+            "url": "Zbarazh-Vinnicka"
+        },
+        {
+            "id": "41029",
+            "name": "Збаржевка",
+            "url": "Zbarzhivka-Vinnicka"
+        },
+        {
+            "id": "41154",
+            "name": "Зелёное",
+            "url": "Zelene-Vinnicka"
+        },
+        {
+            "id": "41287",
+            "name": "Зеленянка",
+            "url": "Zelenyanka-Vinnicka"
+        },
+        {
+            "id": "41261",
+            "name": "Зеленый Должок",
+            "url": "Zelenyi Dovzhok-Vinnicka"
+        },
+        {
+            "id": "39875",
+            "name": "Жабелевка",
+            "url": "Zhabelivka-Vinnicka"
+        },
+        {
+            "id": "39883",
+            "name": "Жабокрич",
+            "url": "Zhabokrych-Vinnicka"
+        },
+        {
+            "id": "39884",
+            "name": "Жабокричка",
+            "url": "Zhabokrychka-Vinnicka"
+        },
+        {
+            "id": "39899",
+            "name": "Жаданы",
+            "url": "Zhadany-Vinnicka"
+        },
+        {
+            "id": "39914",
+            "name": "Жахновка",
+            "url": "Zhakhnivka-Vinnicka"
+        },
+        {
+            "id": "39921",
+            "name": "Ждановка",
+            "url": "Zhdanivka-Vinnicka"
+        },
+        {
+            "id": "39973",
+            "name": "Жерденовка",
+            "url": "Zherdenivka-Vinnicka"
+        },
+        {
+            "id": "39977",
+            "name": "Жеребиловка",
+            "url": "Zherebylivka-Vinnicka"
+        },
+        {
+            "id": "39931",
+            "name": "Жежелев",
+            "url": "Zhezheliv-Vinnicka"
+        },
+        {
+            "id": "39945",
+            "name": "Желобы",
+            "url": "Zholoby-Vinnicka"
+        },
+        {
+            "id": "40142",
+            "name": "Жорнище",
+            "url": "Zhornyshche-Vinnicka"
+        },
+        {
+            "id": "40050",
+            "name": "Жовтневое",
+            "url": "Zhovtneve-Vinnicka"
+        },
+        {
+            "id": "40169",
+            "name": "Жуковцы",
+            "url": "Zhukivtsi-Vinnicka"
+        },
+        {
+            "id": "40181",
+            "name": "Журава",
+            "url": "Zhurava-Vinnicka"
+        },
+        {
+            "id": "40213",
+            "name": "Журавное",
+            "url": "Zhuravne-Vinnicka"
+        },
+        {
+            "id": "40220",
+            "name": "Журбинцы",
+            "url": "Zhurbyntsi-Vinnicka"
+        },
+        {
+            "id": "39918",
+            "name": "Жван",
+            "url": "Zhvan-Vinnicka"
+        },
+        {
+            "id": "40024",
+            "name": "Житники",
+            "url": "Zhytnyky-Vinnicka"
+        },
+        {
+            "id": "39992",
+            "name": "Животовка",
+            "url": "Zhyvotivka-Vinnicka"
+        },
+        {
+            "id": "41372",
+            "name": "Знаменовка",
+            "url": "Znamenivka-Vinnicka"
+        },
+        {
+            "id": "41415",
+            "name": "Золотогорка",
+            "url": "Zolotohirka-Vinnicka"
+        },
+        {
+            "id": "41463",
+            "name": "Зоряное",
+            "url": "Zoryane-Vinnicka"
+        },
+        {
+            "id": "41457",
+            "name": "Зоринцы",
+            "url": "Zoryntsi-Vinnicka"
+        },
+        {
+            "id": "41386",
+            "name": "Зозов",
+            "url": "Zoziv-Vinnicka"
+        },
+        {
+            "id": "41388",
+            "name": "Зозовка",
+            "url": "Zozivka-Vinnicka"
+        },
+        {
+            "id": "41393",
+            "name": "Зозулинцы",
+            "url": "Zozulyntsi-Vinnicka"
+        },
+        {
+            "id": "41051",
+            "name": "Зведеновка",
+            "url": "Zvedenivka-Vinnicka"
+        },
+        {
+            "id": "41527",
+            "name": "Зяньковцы",
+            "url": "Zyankivtsi-Vinnicka"
+        },
+        {
+            "id": "41530",
+            "name": "Зятковцы",
+            "url": "Zyatkivtsi-Vinnicka"
+        }
+    ]
+}
