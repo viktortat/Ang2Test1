@@ -32,6 +32,7 @@ var schedule = '{  \
         }   \
      ]}';
 
+
 function createError(status, message) {
     var err = new Error(message);
     err.status = status;
@@ -51,20 +52,12 @@ app.get('/user/:id?', function(req, res){
     res.send('user ' + req.params.id);
 });
 
-app.get('/', function (req, res) {
-    res.send('Hello World!');
-});
-
-app.get('/user/:id?', function(req, res){
-    res.send('user ' + req.params.id);
-});
-
 app.get('/user/:id/:operation?', function(req, res){
     res.send('user ' + req.params.id+' op-'+req.params.operation);
 });
 
-app.post('/vozv', function(req, res) {
-    res.send(req.body);
+app.post('/bumerang', function(req, res) {
+    res.send('' + req.body);
 });
 
 app.get('/week/:id?', function(req, res) {
@@ -87,7 +80,6 @@ app.get('/err', function(req, res) {
 });
 
 app.use(express.static(__dirname + 'public'));
-
 
 
 app.get('/getJson', function(req, res) {
@@ -131,28 +123,27 @@ app.get('/getJson4', function (req, res) {
 
 app.get('/jsonFiles/:fileid?', function (req, res) {
     //var usersFilePath = path.join(__dirname, 'users.min.json');
-    fs.readFile( __dirname + "/json/" + req.params.fileid, 'utf8', function (err, data) {
+    fs.readFile( __dirname + "/TestFiles/json/" + req.params.fileid, 'utf8', function (err, data) {
         //console.log( data );
         res.end( data );
     });
 })
 
-
-app.get('/about',function(req,res){
-    res.sendFile(__dirname + '/about.html');
+app.get('/site/:page?',function(req,res){
+    res.sendFile(__dirname + '/TestFiles/template/'+req.params.page+'.html');
 });
 
 ///Возврат файла
 app.get('/zip', function(req, res) {
-    res.download(__dirname +'/json/gulp-project-master.zip', 'report.zip');
+    res.download(__dirname +'/TestFiles/json/gulp-project-master.zip', 'report.zip');
 });
 
 // /files/* is accessed via req.params[0]
 // but here we name it :file
 app.get('/files/:file(*)', function(req, res, next){
     var file = req.params.file;
-    var path = __dirname + '/files/' + file;
-
+    var path = __dirname + '/TestFiles/' + file;
+    console.log(path);
     res.download(path, function(err){
         if (!err) return; // file sent
         if (err && err.status !== 404) return next(err); // non-404 error
