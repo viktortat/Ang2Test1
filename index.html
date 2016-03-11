@@ -21,14 +21,23 @@
             'rxjs': 'node_modules/rxjs'
             }
         });
-        System.import('built/boot');
+        System.import('built/app/boot');
     </script>
 </head>
 
 <body>
 <div class="container" id="content">
     <main-app><h1>Загрузка!</h1></main-app>
-    <a href="https://medium.com/@menezes.carlos/angular-2-setting-up-your-working-environment-52b985d1d341#.xa4k6warv" class="btn btn-default btn-xs active" role="button">Ссылка на пример</a>
+    <div>
+    <a href="https://medium.com/@menezes.carlos/angular-2-setting-up-your-working-environment-52b985d1d341#.xa4k6warv"
+       class="btn btn-default btn-xs active" role="button">Ссылка на пример</a>
+    <a href="http://localhost:3000" class="btn btn-default btn-xs active" role="button">Ссылка на сервак</a></div>
+    <div><p>
+        <a href="http://localhost:3005" class="btn btn-default btn-xs active" role="button">Ссылка на сервак с
+            WEB-Api</a>
+    </p></div>
+
+
 </div>
 
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>

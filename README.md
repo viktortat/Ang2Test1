@@ -1,9 +1,10 @@
-# Angular 2 - First Component
+# Angular 2
 
-Example of creating a component
+Example of creating
 
 # Getting Started
 
 1. `npm i`
+2. `bower i`
+3. `npm run app`
 
-2. `npm run app`

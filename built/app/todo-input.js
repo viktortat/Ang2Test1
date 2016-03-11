@@ -9,13 +9,14 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
+var core_1 = require('angular2/core');
 var TodoInput = (function () {
     function TodoInput() {
     }
     TodoInput = __decorate([
-        Comment({
+        core_1.Component({
             selector: 'todo-input',
-            template: "<div>TO-DO \u0432\u0445\u043E\u0434</div>"
+            template: "<div>\u0418\u0437 TO-DO \u0434\u0435\u043A\u043B\u0430\u0440\u0430\u0446\u0438\u0438</div>"
         }), 
         __metadata('design:paramtypes', [])
     ], TodoInput);

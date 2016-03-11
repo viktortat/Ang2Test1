@@ -10,13 +10,16 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 var core_1 = require('angular2/core');
+var todo_input_1 = require('./todo-input');
 var AppComponent = (function () {
     function AppComponent() {
     }
     AppComponent = __decorate([
         core_1.Component({
             selector: 'main-app',
-            template: '<h1>Привет! Это Ваш первый Component!</h1>'
+            directives: [todo_input_1.TodoInput],
+            template: '<h1>Привет! Это Component</h1> ' +
+                '<todo-input>ToDO</todo-input>'
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);

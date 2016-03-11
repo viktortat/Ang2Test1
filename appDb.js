@@ -39,7 +39,8 @@ function createError(status, message) {
 }
 
 app.get('/', function (req, res) {
-    res.send('Привет мир!!!!');
+//    res.send('Привет мир!!!!<br/>' +        '<a href="http://localhost:3000" class="btn btn-default btn-xs active" role="button">Ссылка на сервак</a>');
+    res.sendFile(__dirname +'/indexDB.html','index.html');
 });
 
 app.get('/privet', function (req, res) {
@@ -161,7 +162,7 @@ app.get('/files/:file(*)', function(req, res, next){
     });
 });
 
-app.listen(3000, function () {
-    console.log('Example app listening on port 3000!');
+app.listen(3005, function () {
+    console.log('Example app listening on port 3005!');
 });
 

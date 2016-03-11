@@ -1,7 +1,8 @@
 import {Component} from 'angular2/core';
 
-@Comment({
+@Component({
     selector: 'todo-input',
-    template: `<div>TO-DO вход</div>`
+    template: `<div>Из TO-DO декларации</div>`
     })
+
 export class TodoInput{}

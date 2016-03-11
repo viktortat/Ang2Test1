@@ -3,7 +3,9 @@ import {TodoInput} from './todo-input';
 
 @Component({
     selector: 'main-app',
-    template: '<h1>Привет! Это Ваш первый Component!</h1>'
+    directives: [TodoInput],
+    template: '<h1>Привет! Это Component</h1> ' +
+    '<todo-input>ToDO</todo-input>'
 })
 export class AppComponent {
     constructor() { }
