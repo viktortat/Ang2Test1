@@ -13,13 +13,17 @@ var core_1 = require('angular2/core');
 var todo_input_1 = require('./todo-input');
 var AppComponent = (function () {
     function AppComponent() {
+        this.menuItems = [
+            { caption: 'Главная', link: ['#Home'] },
+            { caption: 'Контакты', link: ['#Contact'] },
+            { caption: 'О нас', link: ['#About'] }
+        ];
     }
     AppComponent = __decorate([
         core_1.Component({
             selector: 'main-app',
             directives: [todo_input_1.TodoInput],
-            template: '<h1>Привет! Это Component</h1> ' +
-                '<todo-input>ToDO</todo-input>'
+            templateUrl: 'app/tml/appComp.html'
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);

@@ -16,7 +16,7 @@ var TodoInput = (function () {
     TodoInput = __decorate([
         core_1.Component({
             selector: 'todo-input',
-            template: "<div>\u0418\u0437 TO-DO \u0434\u0435\u043A\u043B\u0430\u0440\u0430\u0446\u0438\u0438</div>"
+            templateUrl: 'app/tml/todoInput.html'
         }), 
         __metadata('design:paramtypes', [])
     ], TodoInput);

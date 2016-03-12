@@ -4,9 +4,14 @@ import {TodoInput} from './todo-input';
 @Component({
     selector: 'main-app',
     directives: [TodoInput],
-    template: '<h1>Привет! Это Component</h1> ' +
-    '<todo-input>ToDO</todo-input>'
+    templateUrl: 'app/tml/appComp.html'
+    //styleUrls: ['app/appComp.css']
 })
 export class AppComponent {
-    constructor() { }
+    public menuItems = [
+        { caption: 'Главная', link: ['#Home'] },
+        { caption: 'Контакты', link: ['#Contact'] },
+        { caption: 'О нас', link: ['#About'] }
+    ];
+    constructor() {}
 }
