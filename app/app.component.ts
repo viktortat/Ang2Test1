@@ -13,5 +13,4 @@ export class AppComponent {
         { caption: 'Контакты', link: ['#Contact'] },
         { caption: 'О нас', link: ['#About'] }
     ];
-    constructor() {}
 }

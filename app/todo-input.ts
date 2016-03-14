@@ -4,5 +4,6 @@ import {Component} from 'angular2/core';
     selector: 'todo-input',
     templateUrl: 'app/tml/todoInput.html'
     })
-
-export class TodoInput{}
+export class TodoInput {
+    title = 'Test';
+}

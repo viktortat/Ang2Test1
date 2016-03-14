@@ -12,6 +12,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var core_1 = require('angular2/core');
 var TodoInput = (function () {
     function TodoInput() {
+        this.title = 'Test';
     }
     TodoInput = __decorate([
         core_1.Component({
