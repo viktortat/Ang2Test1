@@ -23,7 +23,8 @@ var AppComponent = (function () {
         core_1.Component({
             selector: 'main-app',
             directives: [todo_input_1.TodoInput],
-            templateUrl: 'app/tml/appComp.html'
+            templateUrl: 'app/tml/appComp.html',
+            styleUrls: ['app/appComp.css']
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);

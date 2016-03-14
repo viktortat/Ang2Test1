@@ -6,3 +6,6 @@ npm install gulp
 npm install --save-dev gulp
 
 npm install --save-dev gulp-imagemin imagemin-pngquant gulp-concat-css gulp-minify-css gulp-sourcemaps gulp-autoprefixer opn gulp-livereload gulp-changed rimraf gulp-uglify gulp-notify gulp-rename gulp-connect
+
+
+npm install --dev gulp-sourcemaps

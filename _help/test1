@@ -10,3 +10,9 @@ bower install
 npm install --save-dev babel-cli
 
 npm run app
+
+
+npm install --save-dev gulp-sourcemaps
+
+
+npm install --save-dev superstatic
