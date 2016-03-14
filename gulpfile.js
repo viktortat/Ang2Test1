@@ -4,7 +4,11 @@ var gulp = require('gulp');
 var sourcemaps = require('gulp-sourcemaps');
 var tsc = require('gulp-typescript');
 
+<<<<<<< HEAD
 var tslint = require('gulp-tslint');
+=======
+//    tslint = require('gulp-tslint');
+>>>>>>> origin/master
 
 var tsProject = tsc.createProject('tsconfig.json');
 var config = require('./gulp.config')();
@@ -12,7 +16,11 @@ var config = require('./gulp.config')();
 var browserSync = require('browser-sync');
 var superstatic = require('superstatic');
 
+<<<<<<< HEAD
 
+=======
+/*
+>>>>>>> origin/master
 gulp.task('ts-lint', function() {
     return gulp.src(config.allTs)
         .pipe(tslint())
@@ -20,7 +28,11 @@ gulp.task('ts-lint', function() {
             emitError: false
         }));
 })
+<<<<<<< HEAD
 
+=======
+*/
+>>>>>>> origin/master
 
 gulp.task('compile-ts', function() {
     var sourceTsFiles = [
@@ -37,12 +49,21 @@ gulp.task('compile-ts', function() {
         .pipe(gulp.dest(config.tsOutputPath));
 });
 
+<<<<<<< HEAD
 gulp.task('serve', ['compile-ts'], function() {
 
     gulp.watch([config.allTs], [ 'compile-ts']);
 
     browserSync({
         port: 3006,
+=======
+gulp.task('serve', ['ts-lint', 'compile-ts'], function() {
+
+    gulp.watch([config.allTs], ['ts-lint', 'compile-ts']);
+
+    browserSync({
+        port: 3000,
+>>>>>>> origin/master
         files: ['index.html', '**/*.js'],
         injectChanges: true,
         logFileChanges: false,
