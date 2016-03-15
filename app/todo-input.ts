@@ -6,4 +6,5 @@ import {Component} from 'angular2/core';
     })
 export class TodoInput {
     title = 'Test';
+    title2 = 'Test2';
 }

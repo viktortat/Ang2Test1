@@ -12,6 +12,7 @@ var core_1 = require('angular2/core');
 var TodoInput = (function () {
     function TodoInput() {
         this.title = 'Test';
+        this.title2 = 'Test2';
     }
     TodoInput = __decorate([
         core_1.Component({

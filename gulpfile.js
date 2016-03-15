@@ -1,15 +1,28 @@
 //https://github.com/viktortat/ng2_play
+var gulp = require('gulp'),
+    sourcemaps = require('gulp-sourcemaps'),
+    tsc = require('gulp-typescript'),
+    tslint = require('gulp-tslint'),
+    fs = require("fs");
 
-var gulp = require('gulp');
-var sourcemaps = require('gulp-sourcemaps');
-var tsc = require('gulp-typescript');
-var tslint = require('gulp-tslint');
-
+//eval("var project = " + fs.readFileSync("./project.json"));
 var tsProject = tsc.createProject('tsconfig.json');
 var config = require('./gulp.config')();
 
 var browserSync = require('browser-sync');
 var superstatic = require('superstatic');
+
+/*
+var paths = {
+    bower: "./bower_lib/",
+    nodemod: "./node_modules/",
+    lib: "./" + project.webroot + "/built/"
+};
+
+gulp.task("clean", function (cb) {
+    rimraf(paths.lib, cb);
+});
+*/
 
 gulp.task('ts-lint', function() {
     return gulp.src(config.allTs)
