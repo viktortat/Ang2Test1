@@ -1,0 +1,71 @@
+{
+  "logo": null,
+  "id": 2,
+  "internalCode": "4829900004019",
+  "name": "ГК Всесвит-Фудз",
+  "nameLoc": [
+    {
+      "lang": "en",
+      "value": "Vsesvit-Foods"
+    },
+    {
+      "lang": "ru",
+      "value": "ГК Всесвит-Фудз"
+    },
+    {
+      "lang": "uk",
+      "value": "ГК Всесвіт-Фудз"
+    }
+  ],
+  "geoName": null,
+  "geoId": 0,
+  "parentId": 0,
+  "parentName": null,
+  "description": "Группа компаний \"Всесвит\" основана в 1994 году и является одним из крупных дистрибьюторов продуктов питания в Украине, надежным украинским оператором в сфере импорта и дистрибуции.",
+  "descrLoc": [
+    {
+      "lang": "en",
+      "value": "The group of companies \"Vsesvit\" is founded in 1994. It is one of the largest foodstuffs distributor in Ukraine, also it is the reliable Ukrainian operator in the field of import and distribution."
+    },
+    {
+      "lang": "ru",
+      "value": "Группа компаний \"Всесвит\" основана в 1994 году и является одним из крупных дистрибьюторов продуктов питания в Украине, надежным украинским оператором в сфере импорта и дистрибуции."
+    },
+    {
+      "lang": "uk",
+      "value": "Група компаній \"Всесвіт\" заснована в 1994 році і є одним з великих дистриб'юторів продуктів харчування в Україні, надійним українським оператором у сфері імпорту і дистрибуції."
+    }
+  ],
+  "type": 1,
+  "address": "Украина, 02660 г. Киев, ул. Пуховская, 1a",
+  "logoUrl": null,
+  "contactPhone": "+38 (044) 206 63 40, +38 (044) 206 63 45, +38 (044) 206 63 41",
+  "webSite": "http://vsesvit-group.com.ua",
+  "contactEmail": "vsesvit@vsesvit-group.com.ua",
+  "gln": "4829900004019",
+  "jurAdress": "02663, г. Киев, ул. Пуховская, 1а",
+  "intName": "Vsesvit-Foods",
+  "jurName": "Группа Компаний \"Всесвит-Фудз\"",
+  "jurNameLoc": [
+    {
+      "lang": "en",
+      "value": "Group of Companies \"Vsesvit-Foods\""
+    },
+    {
+      "lang": "ru",
+      "value": "Группа Компаний \"Всесвит-Фудз\""
+    },
+    {
+      "lang": "uk",
+      "value": "Группа Компаній \"Всесвіт-Фудз\""
+    }
+  ],
+  "intAdress": "1a Puhіvska, Kyiv, 02660 Ukraine",
+  "intDescription": "The group of companies \"Vsesvit\" is founded in 1994. It is one of the largest foodstuffs distributor in Ukraine, also it is the reliable Ukrainian operator in the field of import and distribution.",
+  "okpoCode": "34453618",
+  "intJurName": "Group of Companies \"Vsesvit-Foods\"",
+  "intJurAdress": null,
+  "factAddressId": null,
+  "jurAddressId": null,
+  "categoryCatalogId": null
+}
