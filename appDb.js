@@ -235,3 +235,87 @@ app.get('/geo/:operation?', function (req, res) {
 
 
 });
+
+app.get('/token', function(req, res) {
+    var request = require('request');
+    var req = request.defaults();
+
+    var userName = 'galtr@torgbiz.net';
+    var password = '9zdRdG6v';
+
+    req.post({
+            uri : "http://demo-torgbiz-sync-api.azurewebsites.net/Token",
+            headers: {
+                'Content-Type' : 'application/x-www-form-urlencoded; charset=utf-8',
+                'Host' : 'demo-torgbiz-sync-api.azurewebsites.net'
+            },
+            body: 'userName=galtr@torgbiz.net&password=9zdRdG6v&grant_type=password&culture='
+        }, function(error, response, body) {
+            if (!error) {
+                /*
+                 console.log("Response Code: " + response.statusCode);
+                 console.log("Headers:");
+                 for(var item in response.headers) {
+                 console.log(item + ": " + response.headers[item]);
+                 }
+                 console.log("Body: "+ body);
+                 */
+
+                console.log(body);
+
+
+            } else {
+                console.log("Got error: " + error.message);
+            }
+        }
+    );
+
+    res.send('Все???');
+});
+
+app.get('/getSQL', function (req, res) {
+    var Connection = require('tedious').Connection;
+    var rows = [];
+
+    var config = {
+        userName:   'xxx',
+        password:   'xxx',
+        server:     'xxx',
+        options: {encrypt: true, database: 'TbnProd'}
+    };
+
+    var connection = new Connection(config);
+    var Request = require('tedious').Request;
+
+    connection.on('connect', function(err) {
+        if(err){
+            console.log(err);
+            res.send('Ошибка!!! '+err);
+        }else
+        {
+            //var SqlQuery = 'select top 100 * from Company';
+            var SqlQuery = 'select top 100 * from Product';
+
+            var request = new Request(SqlQuery,
+            function(err, rowCount) {
+                if (err) {
+                    console.log(err);
+                    res.send('Ошибка!'+err);
+                } else {
+                    console.log('Выборка данных!');
+                    res.setHeader('Content-Type', 'application/json');
+                    res.send(rows);
+                }
+            });
+
+            request.on('row', function(columns) {
+                var row = {};
+                columns.forEach(function(column) {
+                    row[column.metadata.colName] = column.value;
+                });
+                rows.push(row);
+            });
+            connection.execSql(request);
+        }
+    });
+});
