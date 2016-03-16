@@ -13,6 +13,7 @@ npm install --dev gulp-sourcemaps
 
 // Работа с базами данных
 npm install mysql tedious
+npm install node-adodb
 
 // Работа с дебагом через Chrome
 npm install -g node-inspector

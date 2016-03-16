@@ -240,8 +240,8 @@ app.get('/token', function(req, res) {
     var request = require('request');
     var req = request.defaults();
 
-    var userName = 'galtr@torgbiz.net';
-    var password = '9zdRdG6v';
+    var userName = '*';
+    var password = '*';
 
     req.post({
             uri : "http://demo-torgbiz-sync-api.azurewebsites.net/Token",
@@ -249,7 +249,7 @@ app.get('/token', function(req, res) {
                 'Content-Type' : 'application/x-www-form-urlencoded; charset=utf-8',
                 'Host' : 'demo-torgbiz-sync-api.azurewebsites.net'
             },
-            body: 'userName=galtr@torgbiz.net&password=9zdRdG6v&grant_type=password&culture='
+            body: 'userName='+userName+'&password='+password+'&grant_type=password&culture='
         }, function(error, response, body) {
             if (!error) {
                 /*
@@ -263,17 +263,18 @@ app.get('/token', function(req, res) {
 
                 console.log(body);
 
+                res.setHeader('Content-Type', 'application/json');
+                res.send(body);
 
             } else {
-                console.log("Got error: " + error.message);
+                console.log("Error: " + error.message);
+                res.send("Error: " + error.message);
             }
         }
     );
-
-    res.send('Все???');
 });
 
-app.get('/getSQL', function (req, res) {
+app.get('/getFromSQL', function (req, res) {
     var Connection = require('tedious').Connection;
     var rows = [];
 
@@ -303,6 +304,7 @@ app.get('/getSQL', function (req, res) {
                     res.send('Ошибка!'+err);
                 } else {
                     console.log('Выборка данных!');
+
                     res.setHeader('Content-Type', 'application/json');
                     res.send(rows);
                 }
@@ -318,4 +320,28 @@ app.get('/getSQL', function (req, res) {
             connection.execSql(request);
         }
     });
+});
+
+app.get('/getFromMdb/:table?', function (req, res) {
+    var ADODB = require('node-adodb'),
+        connection = ADODB.open('Provider=Microsoft.Jet.OLEDB.4.0;Data Source=./server/Northwind.MDB;');
+    ADODB.debug = true;
+
+    var SqlQuery ='Select * from Products';
+
+    //'Select * from Categories'
+    if (typeof req.params.table!=='undefined') {
+        SqlQuery = 'Select * from '+req.params.table
+    };
+
+    connection
+        .query(SqlQuery)
+        .on('done', function (data){
+            res.setHeader('Content-Type', 'application/json');
+            res.send(JSON.stringify(data, null, '  '));
+        })
+        .on('fail', function (data){
+            console.log('Ошибка! '+ data);
+            res.send('Ошибка! '+ data);
+        });
 });
