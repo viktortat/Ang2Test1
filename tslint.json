@@ -10,7 +10,8 @@
     "max-line-length": [true, 140],
     "no-arg": true,
     "no-bitwise": true,
-    "no-console": [true,
+    "no-console": [
+      true,
       "debug",
       "info",
       "time",
@@ -34,7 +35,11 @@
       "check-else",
       "check-whitespace"
     ],
-    "quotemark": [true, "single"],
+    "quotemark": [
+      true,
+      "double",
+      "single"
+    ],
     "radix": true,
     "semicolon": true,
     "triple-equals": [true, "allow-null-check"],

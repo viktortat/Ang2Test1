@@ -12,6 +12,7 @@ interface Hero {
     templateUrl: 'app/tml/appComp.html',
     styleUrls: ['app/appComp.css']
 })
+
 export class AppComponent {
     heroes = HEROES;
     selectedHero: Hero;
