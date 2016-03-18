@@ -1,16 +1,33 @@
 //https://github.com/viktortat/ng2_play
+//npm i --save-dev gulp gulp-sourcemaps gulp-typescript gulp-tslint browser-sync superstatic del fs
+
 var gulp = require('gulp'),
     sourcemaps = require('gulp-sourcemaps'),
     tsc = require('gulp-typescript'),
     tslint = require('gulp-tslint'),
+    browserSync = require('browser-sync'),
+    superstatic = require('superstatic'),
+    del = require('del'),
     fs = require("fs");
+
+const reload = browserSync.reload;
 
 //eval("var project = " + fs.readFileSync("./project.json"));
 var tsProject = tsc.createProject('tsconfig.json');
 var config = require('./gulp.config')();
 
-var browserSync = require('browser-sync');
-var superstatic = require('superstatic');
+
+const paths = {
+    dist: 'built',
+    distFiles: 'built/**/*',
+    srcFiles: 'app/**/*',
+    srcTsFiles: 'app/**/*.ts',
+}
+
+// clean the contents of the distribution directory
+gulp.task('clean', function () {
+    return del(paths.distFiles);
+});
 
 /*
 var paths = {
@@ -23,6 +40,28 @@ gulp.task("clean", function (cb) {
     rimraf(paths.lib, cb);
 });
 */
+
+// copy dependencies
+gulp.task('copy:libs-js', ['clean'], function() {
+    return gulp.src([
+            'bower_lib/bootstrap/dist/js/bootstrap.min.js',
+            'bower_lib/jquery/dist/jquery.min.js',
+            'node_modules/angular2/bundles/angular2-polyfills.js',
+            'node_modules/systemjs/dist/system.src.js',
+            'node_modules/rxjs/bundles/Rx.js',
+            'node_modules/angular2/bundles/angular2.dev.js'
+        ])
+        .pipe(gulp.dest('built/lib'))
+});
+gulp.task('copy:libs',['copy:libs-js'], function() {
+    return gulp.src([
+            'bower_lib/bootstrap/dist/css/bootstrap.min.css',
+            'bower_lib/bootstrap/dist/css/bootstrap-theme.min.css',
+            'bower_lib/normalize-css/normalize.css'
+        ])
+        .pipe(gulp.dest('built/libCss'))
+});
+
 
 gulp.task('ts-lint', function() {
     return gulp.src(config.allTs)
