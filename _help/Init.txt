@@ -8,6 +8,7 @@ npm install --save-dev gulp
 
 npm install --save-dev superstatic
 
+
 npm install --save-dev gulp-imagemin imagemin-pngquant gulp-concat-css gulp-minify-css gulp-sourcemaps gulp-autoprefixer opn gulp-livereload gulp-changed rimraf gulp-uglify gulp-notify gulp-rename gulp-connect
 npm install --dev gulp-sourcemaps
 
@@ -18,3 +19,8 @@ npm install node-adodb
 // Работа с дебагом через Chrome
 npm install -g node-inspector
 node --debug appDb
+
+npm install typings --global
+
+
+npm i --save-dev gulp-sourcemaps gulp-typescript gulp-tslint browser-sync superstatic del fs

@@ -16,3 +16,6 @@ npm install --save-dev gulp-sourcemaps
 
 
 npm install --save-dev superstatic
+
+npm i -D typescript typings lite-server
+

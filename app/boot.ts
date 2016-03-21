@@ -7,3 +7,5 @@ enableProdMode();
 bootstrap(AppComponent2)
     .then(success => console.log('Bootstrap (загрузка выполнена) successfully!'))
     .catch(err => console.log(err));
+
+

@@ -4,8 +4,10 @@
         "sourceMap": true,
         "experimentalDecorators": true,
         "emitDecoratorMetadata": true,
-        "module": "commonjs",
+        "module": "system",
         "noImplicitAny": false,
+        "moduleResolution": "node",
+        "removeComments": false,
         "outDir": "built",
         "rootDir": "."
     },
@@ -22,3 +24,6 @@
         "typings/main.d.ts"
     ]
 }
+
+
+
