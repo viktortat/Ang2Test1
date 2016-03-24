@@ -25,8 +25,8 @@ System.register(['angular2/core', './todo-input'], function(exports_1, context_1
                 function AppComponent() {
                     this.heroes = HEROES;
                     this.menuItems = [
-                        { caption: 'Главная', link: ['#Home'] },
-                        { caption: 'Контакты', link: ['#Contact'] },
+                        { caption: 'Главная222', link: ['#Home'] },
+                        { caption: 'Контакты333', link: ['#Contact'] },
                         { caption: 'О нас', link: ['#About'] }
                     ];
                 }
@@ -60,5 +60,4 @@ System.register(['angular2/core', './todo-input'], function(exports_1, context_1
         }
     }
 });
-
 //# sourceMappingURL=app.component.js.map

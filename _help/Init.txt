@@ -21,6 +21,7 @@ npm install -g node-inspector
 node --debug appDb
 
 npm install typings --global
+npm i -S superstatic tslint
 
 
 npm i --save-dev gulp-sourcemaps gulp-typescript gulp-tslint browser-sync superstatic del fs

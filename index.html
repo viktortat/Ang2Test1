@@ -1,62 +1,65 @@
 <html>
-
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <head>
+    <title>Angular 2 QuickStart</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">    
     <title>Главная страница</title>
 
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
 
-
     <!-- 1. Load libraries -->
     <!-- IE required polyfills, in this exact order -->
     <script src="node_modules/es6-shim/es6-shim.min.js"></script>
     <script src="node_modules/systemjs/dist/system-polyfills.js"></script>
     <script src="node_modules/angular2/es6/dev/src/testing/shims_for_IE.js"></script>
+
     <script src="node_modules/angular2/bundles/angular2-polyfills.js"></script>
     <script src="node_modules/systemjs/dist/system.src.js"></script>
     <script src="node_modules/rxjs/bundles/Rx.js"></script>
     <script src="node_modules/angular2/bundles/angular2.dev.js"></script>
+
+    <script src="node_modules/typescript/lib/typescript.js"></script>
+    <script src="node_modules/angular2/bundles/router.dev.js"></script>
+
     <!-- 2. Configure SystemJS -->
     <script>
-        System.config({
-            packages: {
-                app: {
-                    format: 'register',
-                    defaultExtension: 'js'
-                }
-            }
-        });
-        System.import('app/boot')
-                .then(null, console.error.bind(console));
+      System.config({
+        transpiler: 'typescript',
+        packages: {        
+          app: {
+            format: 'register',
+            defaultExtension: 'js'
+          }
+        }
+      });
+      System.import('./app/boot')
+            .then(null, console.error.bind(console));
     </script>
-</head>
-
-<body>
-<div class="container" >
+  </head>
+  <!-- 3. Display the application -->
+  <body>
+  <div class="container" >
 
     <main-app><div class="well">Идет загрузка c сервера!</div></main-app>
 
     <ul class="nav nav-pills">
-        <li role="presentation" class="active"><a target="_blank" href="http://localhost:3005">Ссылка на сервак с WEB-Api</a></li>
-        <li role="presentation"><a target="_blank" href="https://medium.com/@menezes.carlos/angular-2-setting-up-your-working-environment-52b985d1d341#.xa4k6warv">Ссылка на пример</a></li>
+      <li role="presentation" class="active"><a target="_blank" href="http://localhost:3005">Ссылка на сервак с WEB-Api</a></li>
+      <li role="presentation"><a target="_blank" href="https://medium.com/@menezes.carlos/angular-2-setting-up-your-working-environment-52b985d1d341#.xa4k6warv">Ссылка на пример</a></li>
 
-        <li role="presentation"><a target="_blank" href="https://egghead.io/lessons/angular-2-say-hello-world-to-angular-2?series=angular-2-fundamentals">egghead.io - Angular2-fundamentals</a></li>
-        <li role="presentation"><a target="_blank" href="https://app.pluralsight.com/library/courses/angular-2-first-look/table-of-contents">Angular2 firstlook</a></li>
-        <li role="presentation"><a target="_blank" href="http://a2-first-look.azurewebsites.net">Примеры Papa FirstLook</a></li>
+      <li role="presentation"><a target="_blank" href="https://egghead.io/lessons/angular-2-say-hello-world-to-angular-2?series=angular-2-fundamentals">egghead.io - Angular2-fundamentals</a></li>
+      <li role="presentation"><a target="_blank" href="https://app.pluralsight.com/library/courses/angular-2-first-look/table-of-contents">Angular2 firstlook</a></li>
+      <li role="presentation"><a target="_blank" href="http://a2-first-look.azurewebsites.net">Примеры Papa FirstLook</a></li>
 
 
     </ul>
 
-</div>
+  </div>
 
 
 
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-<script src="//netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-</body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+  </body>
 </html>

@@ -1,0 +1,6 @@
+http://plnkr.co/edit/?p=preview
+http://raibledesigns.com/rd/entry/getting_started_with_angular_2
+https://github.com/tjoskar/angular2-labb?utm_source=Twitter&utm_medium=social-owned&linkId=22359148
+https://github.com/auth0/angular2-authentication-sample
+http://plnkr.co/edit/?p=preview
+https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/

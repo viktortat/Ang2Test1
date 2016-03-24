@@ -16,10 +16,9 @@ System.register(['angular2/platform/browser', './app.component2', 'angular2/core
         execute: function() {
             core_1.enableProdMode();
             browser_1.bootstrap(app_component2_1.AppComponent2)
-                .then(function (success) { return console.log('Bootstrap (загрузка выполнена) successfully!'); })
+                .then(function (success) { return console.log('Bootstrap successfully (успешная загрузка) !'); })
                 .catch(function (err) { return console.log(err); });
         }
     }
 });
-
 //# sourceMappingURL=boot.js.map

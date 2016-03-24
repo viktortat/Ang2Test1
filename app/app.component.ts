@@ -1,6 +1,9 @@
 import {Component} from 'angular2/core';
 import {TodoInput} from './todo-input';
 
+// let styles = require('./home.css');
+// let template = require('./app/tml/appComp.html');
+
 interface Hero {
     id:number;
     name:string;

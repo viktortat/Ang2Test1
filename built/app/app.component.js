@@ -60,5 +60,4 @@ System.register(['angular2/core', './todo-input'], function(exports_1, context_1
         }
     }
 });
-
 //# sourceMappingURL=app.component.js.map
