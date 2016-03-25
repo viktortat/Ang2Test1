@@ -2,5 +2,4 @@ npm install -g typescript
 npm install -g typings
 
 
-
 npm install -i zone.js es6-shim gulp angular2
