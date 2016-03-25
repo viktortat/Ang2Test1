@@ -1,8 +1,8 @@
 import {Component} from 'angular2/core';
-import {TodoInput} from './todo-input';
+import {TodoInput} from './../todoInput/todo-input';
 
 // let styles = require('./home.css');
-// let template = require('./app/tml/appComp.html');
+//let template = require('./app/AppComponent/app.component.html');
 
 interface Hero {
     id:number;
@@ -12,8 +12,8 @@ interface Hero {
 @Component({
     selector: 'main-app',
     directives: [TodoInput],
-    templateUrl: 'app/tml/appComp.html',
-    styleUrls: ['app/appComp.css']
+    templateUrl: './app/AppComponent/app.component.html'
+    //styleUrls: ['../app.component.css']
 })
 
 export class AppComponent {

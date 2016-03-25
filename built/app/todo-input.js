@@ -26,7 +26,7 @@ System.register(['angular2/core'], function(exports_1, context_1) {
                 TodoInput = __decorate([
                     core_1.Component({
                         selector: 'todo-input',
-                        templateUrl: 'app/tml/todoInput.html'
+                        templateUrl: '../../app/todoInput/todoInput.html'
                     }), 
                     __metadata('design:paramtypes', [])
                 ], TodoInput);

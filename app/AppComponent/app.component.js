@@ -1,4 +1,4 @@
-System.register(['angular2/core', './todo-input'], function(exports_1, context_1) {
+System.register(['angular2/core', './../todoInput/todo-input'], function(exports_1, context_1) {
     "use strict";
     var __moduleName = context_1 && context_1.id;
     var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -37,8 +37,7 @@ System.register(['angular2/core', './todo-input'], function(exports_1, context_1
                     core_1.Component({
                         selector: 'main-app',
                         directives: [todo_input_1.TodoInput],
-                        templateUrl: 'app/tml/appComp.html',
-                        styleUrls: ['app/appComp.css']
+                        templateUrl: './app/AppComponent/app.component.html'
                     }), 
                     __metadata('design:paramtypes', [])
                 ], AppComponent);

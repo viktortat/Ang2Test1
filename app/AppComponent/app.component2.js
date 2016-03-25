@@ -1,4 +1,4 @@
-System.register(['angular2/core', "angular2/router", "./hero.service", "./dashboard.componen", "./heroes.component"], function(exports_1, context_1) {
+System.register(['angular2/core', "angular2/router", "../dashboard/dashboard.componen", "../Core/hero.service", "../HeroesComponent/heroes.component"], function(exports_1, context_1) {
     "use strict";
     var __moduleName = context_1 && context_1.id;
     var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -10,7 +10,7 @@ System.register(['angular2/core', "angular2/router", "./hero.service", "./dashbo
     var __metadata = (this && this.__metadata) || function (k, v) {
         if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
     };
-    var core_1, router_1, hero_service_1, dashboard_componen_1, heroes_component_1;
+    var core_1, router_1, dashboard_componen_1, hero_service_1, heroes_component_1;
     var AppComponent2;
     return {
         setters:[
@@ -20,11 +20,11 @@ System.register(['angular2/core', "angular2/router", "./hero.service", "./dashbo
             function (router_1_1) {
                 router_1 = router_1_1;
             },
-            function (hero_service_1_1) {
-                hero_service_1 = hero_service_1_1;
-            },
             function (dashboard_componen_1_1) {
                 dashboard_componen_1 = dashboard_componen_1_1;
+            },
+            function (hero_service_1_1) {
+                hero_service_1 = hero_service_1_1;
             },
             function (heroes_component_1_1) {
                 heroes_component_1 = heroes_component_1_1;
@@ -42,7 +42,7 @@ System.register(['angular2/core', "angular2/router", "./hero.service", "./dashbo
                 AppComponent2 = __decorate([
                     core_1.Component({
                         selector: 'main-app',
-                        template: "\n    <h4>{{title}}</h4>\n    \n    <nav>\n      <a [routerLink]=\"['Dashboard']\">Dashboard</a>\n      <a [routerLink]=\"['Heroes']\">Heroes</a>\n    </nav>\n    <div>\n        <div>\u041F\u0440\u0438\u043C\u0435\u04402!</div>\n        \n        <input class=\"form-control\" type=\"text\" #phone placeholder=\"\u0412\u0432\u043E\u0434 \u0434\u0430\u043D\u043D\u044B\u0445\">\n        <h4>{{strMessage}}</h4>\n\t    <button (click)=\"onClickMe(phone.value)\">\u041D\u0430\u0436\u043C\u0438!</button>\n\t</div>\n\t\n\t\n    ",
+                        template: "\n    <h4>{{title}}</h4>\n    \n    <div>\n        <div>\u041F\u0440\u0438\u043C\u0435\u04402!</div>\n        \n        <input class=\"form-control\" type=\"text\" #phone placeholder=\"\u0412\u0432\u043E\u0434 \u0434\u0430\u043D\u043D\u044B\u0445\">\n        <h4>{{strMessage}}</h4>\n\t    <button (click)=\"onClickMe(phone.value)\">\u041D\u0430\u0436\u043C\u0438!</button>\n\t</div>\n\t<hr>\n    <nav>\n      <a [routerLink]=\"['Dashboard']\">Dashboard</a>\n      <a [routerLink]=\"['Heroes']\">Heroes</a>\n    </nav>\n\t\n\t <router-outlet></router-outlet>\n\t \n    <hr>\n    \n    <div [ngClass]=\"['bold-text', 'green']\">array of classes</div>\n    <div [ngClass]=\"'italic-text blue'\">string of classes</div>\n    <div [ngClass]=\"{'small-text': true, 'red': true}\">object of classes</div>\n    <div [ngStyle]=\"{'color': color, 'font-size': size, 'font-weight': 'bold'}\">style using ngStyle</div>\n    <div [style.color]=\"'orange'\">style using property syntax, this text is orange</div>\n    \n    <input [(ngModel)]=\"color\" />\n    <button (click)=\"size = size + 1\">+</button>\n    <button (click)=\"size = size - 1\">-</button>\n    \n    ",
                         directives: [router_1.ROUTER_DIRECTIVES],
                         providers: [hero_service_1.HeroService]
                     }),

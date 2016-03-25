@@ -1,4 +1,4 @@
-System.register(['angular2/core', 'angular2/router', './hero.service'], function(exports_1, context_1) {
+System.register(['angular2/core', 'angular2/router'], function(exports_1, context_1) {
     "use strict";
     var __moduleName = context_1 && context_1.id;
     var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -10,7 +10,7 @@ System.register(['angular2/core', 'angular2/router', './hero.service'], function
     var __metadata = (this && this.__metadata) || function (k, v) {
         if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
     };
-    var core_1, router_1, hero_service_1;
+    var core_1, router_1;
     var HeroesComponent;
     return {
         setters:[
@@ -19,9 +19,6 @@ System.register(['angular2/core', 'angular2/router', './hero.service'], function
             },
             function (router_1_1) {
                 router_1 = router_1_1;
-            },
-            function (hero_service_1_1) {
-                hero_service_1 = hero_service_1_1;
             }],
         execute: function() {
             HeroesComponent = (function () {
@@ -43,9 +40,9 @@ System.register(['angular2/core', 'angular2/router', './hero.service'], function
                 HeroesComponent = __decorate([
                     core_1.Component({
                         selector: 'my-heroes',
-                        templateUrl: 'app/heroes.component.html'
+                        templateUrl: 'HeroesComponent/heroes.component.html'
                     }), 
-                    __metadata('design:paramtypes', [hero_service_1.HeroService, router_1.Router])
+                    __metadata('design:paramtypes', [Object, router_1.Router])
                 ], HeroesComponent);
                 return HeroesComponent;
             }());

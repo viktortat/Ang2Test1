@@ -37,8 +37,8 @@ System.register(['angular2/core', './todo-input'], function(exports_1, context_1
                     core_1.Component({
                         selector: 'main-app',
                         directives: [todo_input_1.TodoInput],
-                        templateUrl: 'app/tml/appComp.html',
-                        styleUrls: ['app/appComp.css']
+                        templateUrl: '../../app/AppComponent/app.component.html',
+                        styleUrls: ['../../app/AppComponent/app.component.css']
                     }), 
                     __metadata('design:paramtypes', [])
                 ], AppComponent);

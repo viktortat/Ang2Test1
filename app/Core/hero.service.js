@@ -1,4 +1,4 @@
-System.register(['angular2/core'], function(exports_1, context_1) {
+System.register(['angular2/core', './../Api/mock-heroes'], function(exports_1, context_1) {
     "use strict";
     var __moduleName = context_1 && context_1.id;
     var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -10,30 +10,34 @@ System.register(['angular2/core'], function(exports_1, context_1) {
     var __metadata = (this && this.__metadata) || function (k, v) {
         if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
     };
-    var core_1;
-    var TodoInput;
+    var core_1, mock_heroes_1;
+    var HeroService;
     return {
         setters:[
             function (core_1_1) {
                 core_1 = core_1_1;
+            },
+            function (mock_heroes_1_1) {
+                mock_heroes_1 = mock_heroes_1_1;
             }],
         execute: function() {
-            TodoInput = (function () {
-                function TodoInput() {
-                    this.title = 'Test';
-                    this.title2 = 'Test2';
+            HeroService = (function () {
+                function HeroService() {
                 }
-                TodoInput = __decorate([
-                    core_1.Component({
-                        selector: 'todo-input',
-                        templateUrl: 'app/tml/todoInput.html'
-                    }), 
+                HeroService.prototype.getHeroes = function () {
+                    return Promise.resolve(mock_heroes_1.HEROES);
+                };
+                HeroService.prototype.getHero = function (id) {
+                    return Promise.resolve(mock_heroes_1.HEROES).then(function (heroes) { return heroes.filter(function (hero) { return hero.id === id; })[0]; });
+                };
+                HeroService = __decorate([
+                    core_1.Injectable(), 
                     __metadata('design:paramtypes', [])
-                ], TodoInput);
-                return TodoInput;
+                ], HeroService);
+                return HeroService;
             }());
-            exports_1("TodoInput", TodoInput);
+            exports_1("HeroService", HeroService);
         }
     }
 });
-//# sourceMappingURL=todo-input.js.map
+//# sourceMappingURL=hero.service.js.map

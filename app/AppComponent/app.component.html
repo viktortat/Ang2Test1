@@ -1,0 +1,40 @@
+<h1>Это AppComponent!</h1>
+
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#">Заголовок</a>
+        </div>
+        <ul class="nav navbar-nav">
+            <li *ngFor="#item of menuItems"><a [href]="item.link">{{item.caption}}</a></li>
+        </ul>
+    </div>
+</nav>
+
+
+
+
+<div class="well">
+    <todo-input>ToDO</todo-input>
+
+
+    <h1>{{title}}</h1>
+    <h2>My Heroes</h2>
+    <ul class="heroes">
+        <li *ngFor="#hero of heroes"
+            [class.selected]="hero === selectedHero"
+            (click)="onSelect(hero)">
+            <span class="badge">{{hero.id}}</span> {{hero.name}}
+        </li>
+    </ul>
+    <div *ngIf="selectedHero">
+        <h2>{{selectedHero.name}} details!</h2>
+        <div><label>id: </label>{{selectedHero.id}}</div>
+        <div>
+            <label>name: </label>
+            <input [(ngModel)]="selectedHero.name" placeholder="name"/>
+        </div>
+    </div>
+</div>
+
+
